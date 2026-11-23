@@ -1,0 +1,7 @@
+*.zip
+.DS_Store
+.netlify/
+__pycache__/
+_site/
+update/
+israel-tech-jobs/

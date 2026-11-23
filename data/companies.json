@@ -1,0 +1,5189 @@
+[
+ {
+  "name": "1Password",
+  "careers": "https://jobs.ashbyhq.com/1password",
+  "ats": {
+   "platform": "ashby",
+   "slug": "1password"
+  },
+  "size": "small"
+ },
+ {
+  "name": "365scores",
+  "careers": "https://www.comeet.com/jobs/365scores/B3.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "365scores",
+   "uid": "B3.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "44 ventures",
+  "careers": "https://www.comeet.com/jobs/44ventures/18.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "44ventures",
+   "uid": "18.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "8fig",
+  "careers": "https://www.comeet.com/jobs/8fig/08.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "8fig",
+   "uid": "08.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "A Security",
+  "careers": "https://www.comeet.com/jobs/a_security/EA.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "a_security",
+   "uid": "EA.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "A.S HR Services",
+  "careers": "https://www.comeet.com/jobs/as_hrservices/79.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "as_hrservices",
+   "uid": "79.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Above Security",
+  "careers": "https://www.comeet.com/jobs/abovesecurity/FA.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "abovesecurity",
+   "uid": "FA.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "abra",
+  "careers": "https://www.comeet.com/jobs/abra_rnd/15.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "abra_rnd",
+   "uid": "15.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Abra Information Technologies Ltd",
+  "careers": "https://www.comeet.com/jobs/abra/12.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "abra",
+   "uid": "12.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "abra Web & Mobile",
+  "careers": "https://www.comeet.com/jobs/abra-web-mobile/D3.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "abra-web-mobile",
+   "uid": "D3.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "accessiBe",
+  "careers": "https://job-boards.greenhouse.io/accessibe",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "accessibe"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ACS Motion Control",
+  "careers": "https://www.comeet.com/jobs/acs/14.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "acs",
+   "uid": "14.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Adaptive6",
+  "careers": "https://www.comeet.com/jobs/adaptive6/AA.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "adaptive6",
+   "uid": "AA.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Aeronautics",
+  "careers": "https://www.comeet.com/jobs/aeronautics/72.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "aeronautics",
+   "uid": "72.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Agora",
+  "careers": "https://www.comeet.com/jobs/agora/08.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "agora",
+   "uid": "08.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AI21",
+  "careers": "https://www.comeet.com/jobs/ai21/E6.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ai21",
+   "uid": "E6.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AIOS (YC W20/S21)",
+  "careers": "https://jobs.ashbyhq.com/aios",
+  "ats": {
+   "platform": "ashby",
+   "slug": "aios"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Airis Labs",
+  "careers": "https://www.comeet.com/jobs/airis_labs/69.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "airis_labs",
+   "uid": "69.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Airobotics",
+  "careers": "https://www.comeet.com/jobs/airobotics/AA.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "airobotics",
+   "uid": "AA.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "airSlate",
+  "careers": "https://jobs.lever.co/airslate",
+  "ats": {
+   "platform": "lever",
+   "slug": "airslate"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Airwallex",
+  "careers": "https://jobs.ashbyhq.com/airwallex",
+  "ats": {
+   "platform": "ashby",
+   "slug": "airwallex"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AITAN",
+  "careers": "https://www.comeet.com/jobs/aitan/FA.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "aitan",
+   "uid": "FA.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Aitech",
+  "careers": "https://www.comeet.com/jobs/aitechsystems/88.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "aitechsystems",
+   "uid": "88.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AKA Food",
+  "careers": "https://www.comeet.com/jobs/aka_food/79.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "aka_food",
+   "uid": "79.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Akeyless",
+  "careers": "https://www.comeet.com/jobs/akeyless/27.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "akeyless",
+   "uid": "27.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Aleph",
+  "careers": "https://jobs.lever.co/aleph",
+  "ats": {
+   "platform": "lever",
+   "slug": "aleph"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AlgoSec",
+  "careers": "https://www.comeet.com/jobs/algosec/71.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "algosec",
+   "uid": "71.006"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Alice",
+  "careers": "https://www.comeet.com/jobs/activefence/D5.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "activefence",
+   "uid": "D5.005"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Aligned",
+  "careers": "https://job-boards.greenhouse.io/aligned",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "aligned"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AllCloud",
+  "careers": "https://www.comeet.com/jobs/allcloud/71.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "allcloud",
+   "uid": "71.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Allied Universal Electronic Monitoring",
+  "careers": "https://www.comeet.com/jobs/allied-universal-em/C2.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "allied-universal-em",
+   "uid": "C2.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Allot",
+  "careers": "https://www.comeet.com/jobs/allot/C4.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "allot",
+   "uid": "C4.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Altair Semiconductor",
+  "careers": "https://www.comeet.com/jobs/altair-semi/88.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "altair-semi",
+   "uid": "88.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Anchor Fintech",
+  "careers": "https://www.comeet.com/jobs/anchorfintech/87.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "anchorfintech",
+   "uid": "87.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "anecdotes",
+  "careers": "https://www.comeet.com/jobs/anecdotes/F9.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "anecdotes",
+   "uid": "F9.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Anyword",
+  "careers": "https://www.comeet.com/jobs/anyword/30.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "anyword",
+   "uid": "30.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Apiiro",
+  "careers": "https://job-boards.greenhouse.io/apiiro",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "apiiro"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Appdome",
+  "careers": "https://www.comeet.com/jobs/appdome/E6.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "appdome",
+   "uid": "E6.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Applied Materials",
+  "careers": "https://amat.wd1.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "amat.wd1.myworkdayjobs.com",
+   "tenant": "amat",
+   "site": "External"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Applift",
+  "careers": "https://www.comeet.com/jobs/applift/39.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "applift",
+   "uid": "39.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AppsFlyer",
+  "careers": "https://job-boards.greenhouse.io/appsflyer",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "appsflyer"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Appsforce",
+  "careers": "https://www.comeet.com/jobs/appsforce/09.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "appsforce",
+   "uid": "09.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "april",
+  "careers": "https://jobs.ashbyhq.com/april",
+  "ats": {
+   "platform": "ashby",
+   "slug": "april"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Aqua Security",
+  "careers": "https://www.comeet.com/jobs/aquasec/91.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "aquasec",
+   "uid": "91.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Aquant",
+  "careers": "https://jobs.ashbyhq.com/aquant",
+  "ats": {
+   "platform": "ashby",
+   "slug": "aquant"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Arago",
+  "careers": "https://jobs.ashbyhq.com/arago",
+  "ats": {
+   "platform": "ashby",
+   "slug": "arago"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Arito",
+  "careers": "https://www.comeet.com/jobs/arito/F9.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "arito",
+   "uid": "F9.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Armis",
+  "careers": "https://jobs.smartrecruiters.com/Armis",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Armis"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Arpeely",
+  "careers": "https://www.comeet.com/jobs/arpeely/57.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "arpeely",
+   "uid": "57.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Artemis",
+  "careers": "https://jobs.ashbyhq.com/artemis",
+  "ats": {
+   "platform": "ashby",
+   "slug": "artemis"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Artlist",
+  "careers": "https://www.comeet.com/jobs/artlist/85.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "artlist",
+   "uid": "85.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ASM",
+  "careers": "https://job-boards.greenhouse.io/asm",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "asm"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Astera Labs",
+  "careers": "https://job-boards.greenhouse.io/asteralabs",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "asteralabs"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AT&T Israel",
+  "careers": "https://www.comeet.com/jobs/joinattil/38.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "joinattil",
+   "uid": "38.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "At-Bay",
+  "careers": "https://job-boards.greenhouse.io/atbayjobs",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "atbayjobs"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AudioCodes",
+  "careers": "https://www.comeet.com/jobs/audiocodes/85.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "audiocodes",
+   "uid": "85.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Augury",
+  "careers": "https://job-boards.greenhouse.io/augury",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "augury"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Autobrains Technologies",
+  "careers": "https://www.comeet.com/jobs/autobrains/57.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "autobrains",
+   "uid": "57.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "AutoDS",
+  "careers": "https://job-boards.greenhouse.io/autods",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "autods"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Automat-it",
+  "careers": "https://www.comeet.com/jobs/automatit/26.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "automatit",
+   "uid": "26.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Axonius",
+  "careers": "https://job-boards.greenhouse.io/axonius",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "axonius"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Backslash Security",
+  "careers": "https://www.comeet.com/jobs/backslash/98.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "backslash",
+   "uid": "98.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bagira",
+  "careers": "https://www.comeet.com/jobs/bagirasystems/47.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bagirasystems",
+   "uid": "47.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Be The Bank",
+  "careers": "https://www.comeet.com/jobs/btbisrael/78.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "btbisrael",
+   "uid": "78.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Beach Bum",
+  "careers": "https://jobs.ashbyhq.com/beach-bum",
+  "ats": {
+   "platform": "ashby",
+   "slug": "beach-bum"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bet Shemesh Engines",
+  "careers": "https://www.comeet.com/jobs/betshemeshengines/1A.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "betshemeshengines",
+   "uid": "1A.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Better",
+  "careers": "https://www.comeet.com/jobs/allbetter/F8.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "allbetter",
+   "uid": "F8.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BeyondTrust",
+  "careers": "https://job-boards.greenhouse.io/beyondtrust",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "beyondtrust"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bigabid",
+  "careers": "https://www.comeet.com/jobs/bigabid/A4.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bigabid",
+   "uid": "A4.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BigID",
+  "careers": "https://job-boards.greenhouse.io/bigid",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "bigid"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BioCatch",
+  "careers": "https://www.comeet.com/jobs/biocatch/03.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "biocatch",
+   "uid": "03.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BIRD Aerosystems",
+  "careers": "https://www.comeet.com/jobs/birdaero/97.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "birdaero",
+   "uid": "97.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BIScience",
+  "careers": "https://www.comeet.com/jobs/biscience/0A.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "biscience",
+   "uid": "0A.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bizzabo",
+  "careers": "https://www.comeet.com/jobs/bizzabo/A5.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bizzabo",
+   "uid": "A5.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Black Duck Software, Inc.",
+  "careers": "https://job-boards.greenhouse.io/blackduck",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "blackduck"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BlinkOps",
+  "careers": "https://www.comeet.com/jobs/blinkops/C7.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "blinkops",
+   "uid": "C7.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Blockaid",
+  "careers": "https://www.comeet.com/jobs/blockaid/69.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "blockaid",
+   "uid": "69.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bluewhite",
+  "careers": "https://www.comeet.com/jobs/bluewhite/D5.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bluewhite",
+   "uid": "D5.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BOA Ideas",
+  "careers": "https://www.comeet.com/jobs/boaideas/EA.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "boaideas",
+   "uid": "EA.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bounce AI",
+  "careers": "https://www.comeet.com/jobs/bounce/E9.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bounce",
+   "uid": "E9.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BrainPOP",
+  "careers": "https://job-boards.greenhouse.io/brainpop",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "brainpop"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bridgewise",
+  "careers": "https://www.comeet.com/jobs/bridgewise/F9.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bridgewise",
+   "uid": "F9.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bright Data",
+  "careers": "https://www.comeet.com/jobs/brightdata/88.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "brightdata",
+   "uid": "88.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Broadcom",
+  "careers": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career",
+  "ats": {
+   "platform": "workday",
+   "host": "broadcom.wd1.myworkdayjobs.com",
+   "tenant": "broadcom",
+   "site": "External_Career"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Buildots",
+  "careers": "https://www.comeet.com/jobs/buildots/36.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "buildots",
+   "uid": "36.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Bulls Media",
+  "careers": "https://www.comeet.com/jobs/bulls_media/F9.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bulls_media",
+   "uid": "F9.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BUYME",
+  "careers": "https://www.comeet.com/jobs/buyme/B2.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "buyme",
+   "uid": "B2.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Caesarstone",
+  "careers": "https://www.comeet.com/jobs/caesarstone/25.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "caesarstone",
+   "uid": "25.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Camtek",
+  "careers": "https://www.comeet.com/jobs/camtek/F4.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "camtek",
+   "uid": "F4.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Camunda",
+  "careers": "https://jobs.ashbyhq.com/camunda",
+  "ats": {
+   "platform": "ashby",
+   "slug": "camunda"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cardo Systems",
+  "careers": "https://www.comeet.com/jobs/cardosystems/F2.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cardosystems",
+   "uid": "F2.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cato Networks",
+  "careers": "https://job-boards.greenhouse.io/catonetworks",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "catonetworks"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Cellebrite",
+  "careers": "https://www.comeet.com/jobs/cellebrite/C3.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cellebrite",
+   "uid": "C3.00F"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Chainalysis",
+  "careers": "https://jobs.ashbyhq.com/chainalysis-careers",
+  "ats": {
+   "platform": "ashby",
+   "slug": "chainalysis-careers"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Chalk",
+  "careers": "https://jobs.ashbyhq.com/chalk",
+  "ats": {
+   "platform": "ashby",
+   "slug": "chalk"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Chargeflow",
+  "careers": "https://www.comeet.com/jobs/chargeflow/29.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "chargeflow",
+   "uid": "29.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Checkmarx",
+  "careers": "https://www.comeet.com/jobs/checkmarx/C0.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "checkmarx",
+   "uid": "C0.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "CHEQ",
+  "careers": "https://www.comeet.com/jobs/cheq/65.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cheq",
+   "uid": "65.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Clariness",
+  "careers": "https://job-boards.greenhouse.io/clariness",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "clariness"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Claroty",
+  "careers": "https://www.comeet.com/jobs/claroty/F2.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "claroty",
+   "uid": "F2.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Classiq",
+  "careers": "https://www.comeet.com/jobs/classiq/F7.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "classiq",
+   "uid": "F7.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Clinch",
+  "careers": "https://www.comeet.com/jobs/clinch/42.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "clinch",
+   "uid": "42.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cloudinary",
+  "careers": "https://jobs.lever.co/cloudinary",
+  "ats": {
+   "platform": "lever",
+   "slug": "cloudinary"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Clover Security",
+  "careers": "https://www.comeet.com/jobs/clover_security/7A.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "clover_security",
+   "uid": "7A.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "CodeValue",
+  "careers": "https://www.comeet.com/jobs/codevalue/81.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "codevalue",
+   "uid": "81.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cognyte",
+  "careers": "https://www.comeet.com/jobs/cognyte/F2.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cognyte",
+   "uid": "F2.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Colmex",
+  "careers": "https://www.comeet.com/jobs/cglms/69.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cglms",
+   "uid": "69.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Comet",
+  "careers": "https://job-boards.greenhouse.io/comet",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "comet"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Commbox",
+  "careers": "https://www.comeet.com/jobs/commbox/0A.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "commbox",
+   "uid": "0A.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "CommIT",
+  "careers": "https://www.comeet.com/jobs/comm-it/76.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "comm-it",
+   "uid": "76.008"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Compugen",
+  "careers": "https://www.comeet.com/jobs/cgen/D9.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cgen",
+   "uid": "D9.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ControlUp",
+  "careers": "https://jobs.lever.co/controlup",
+  "ats": {
+   "platform": "lever",
+   "slug": "controlup"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Coralogix",
+  "careers": "https://www.comeet.com/jobs/coralogix/06.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "coralogix",
+   "uid": "06.004"
+  },
+  "size": "large"
+ },
+ {
+  "name": "CrazyLabs",
+  "careers": "https://www.comeet.com/jobs/crazylabs/32.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "crazylabs",
+   "uid": "32.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Credible",
+  "careers": "https://job-boards.greenhouse.io/credible",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "credible"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cribl",
+  "careers": "https://job-boards.greenhouse.io/cribl",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "cribl"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cross River",
+  "careers": "https://www.comeet.com/jobs/crossriver/C7.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "crossriver",
+   "uid": "C7.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Crusoe",
+  "careers": "https://jobs.ashbyhq.com/crusoe",
+  "ats": {
+   "platform": "ashby",
+   "slug": "crusoe"
+  },
+  "size": "small"
+ },
+ {
+  "name": "CTERA",
+  "careers": "https://www.comeet.com/jobs/ctera/A0.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ctera",
+   "uid": "A0.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cyberillium",
+  "careers": "https://www.comeet.com/jobs/cyberillium/58.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cyberillium",
+   "uid": "58.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cycode",
+  "careers": "https://www.comeet.com/jobs/cycode/A8.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cycode",
+   "uid": "A8.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cye",
+  "careers": "https://jobs.lever.co/CYE",
+  "ats": {
+   "platform": "lever",
+   "slug": "CYE"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cyera",
+  "careers": "https://www.comeet.com/jobs/cyera/17.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cyera",
+   "uid": "17.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cymulate",
+  "careers": "https://job-boards.greenhouse.io/cymulate",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "cymulate"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cynet",
+  "careers": "https://www.comeet.com/jobs/cynet/33.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cynet",
+   "uid": "33.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Cyolo",
+  "careers": "https://www.comeet.com/jobs/cyolo/F5.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cyolo",
+   "uid": "F5.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "CytoReason",
+  "careers": "https://www.comeet.com/jobs/cytoreason/16.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cytoreason",
+   "uid": "16.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "D-Fend Solutions",
+  "careers": "https://jobs.lever.co/d-fendsolutions",
+  "ats": {
+   "platform": "lever",
+   "slug": "d-fendsolutions"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Daisy",
+  "careers": "https://www.comeet.com/jobs/daisy/67.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "daisy",
+   "uid": "67.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Darrow",
+  "careers": "https://www.comeet.com/jobs/darrow-ai/D8.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "darrow-ai",
+   "uid": "D8.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Databricks",
+  "careers": "https://job-boards.greenhouse.io/databricks",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "databricks"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Datadog",
+  "careers": "https://job-boards.greenhouse.io/datadog",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "datadog"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DealHub",
+  "careers": "https://www.comeet.com/jobs/dealhub/86.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "dealhub",
+   "uid": "86.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Deloitte",
+  "careers": "https://www.comeet.com/jobs/deloitte/F7.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "deloitte",
+   "uid": "F7.00B"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Delta Galil Industries",
+  "careers": "https://www.comeet.com/jobs/deltagalil/78.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "deltagalil",
+   "uid": "78.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Demo Company",
+  "careers": "https://www.comeet.com/jobs/yourcompany/80.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "yourcompany",
+   "uid": "80.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Directeam",
+  "careers": "https://www.comeet.com/jobs/directeam/29.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "directeam",
+   "uid": "29.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Discount Bank",
+  "careers": "https://www.comeet.com/jobs/dbank/F8.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "dbank",
+   "uid": "F8.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DoiT",
+  "careers": "https://job-boards.greenhouse.io/doitintl",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "doitintl"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Dot Compliance",
+  "careers": "https://www.comeet.com/jobs/dotcompliance/89.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "dotcompliance",
+   "uid": "89.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Draftt",
+  "careers": "https://www.comeet.com/jobs/draftt/3A.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "draftt",
+   "uid": "3A.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Dream",
+  "careers": "https://www.comeet.com/jobs/dreamgroup/99.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "dreamgroup",
+   "uid": "99.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Driivz",
+  "careers": "https://www.comeet.com/jobs/driivz/C4.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "driivz",
+   "uid": "C4.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DRIVENETS",
+  "careers": "https://www.comeet.com/jobs/drivenets/72.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "drivenets",
+   "uid": "72.006"
+  },
+  "size": "large"
+ },
+ {
+  "name": "DRS RADA TECHNOLOGIES",
+  "careers": "https://www.comeet.com/jobs/rada/73.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "rada",
+   "uid": "73.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DRW",
+  "careers": "https://job-boards.greenhouse.io/drweng",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "drweng"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DuckDuckGo",
+  "careers": "https://jobs.ashbyhq.com/duck-duck-go",
+  "ats": {
+   "platform": "ashby",
+   "slug": "duck-duck-go"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Duda",
+  "careers": "https://job-boards.greenhouse.io/duda",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "duda"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Dustphotonics",
+  "careers": "https://www.comeet.com/jobs/dustphotonics/05.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "dustphotonics",
+   "uid": "05.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DUVE",
+  "careers": "https://www.comeet.com/jobs/duve/58.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "duve",
+   "uid": "58.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Earnix",
+  "careers": "https://www.comeet.com/jobs/earnix/93.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "earnix",
+   "uid": "93.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Easy",
+  "careers": "https://www.comeet.com/jobs/easy/B5.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "easy",
+   "uid": "B5.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "EasySend",
+  "careers": "https://www.comeet.com/jobs/easysend/D5.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "easysend",
+   "uid": "D5.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Econergy Tech",
+  "careers": "https://www.comeet.com/jobs/econergytech/88.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "econergytech",
+   "uid": "88.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Eitan Medical",
+  "careers": "https://www.comeet.com/jobs/eitanmedical/C6.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "eitanmedical",
+   "uid": "C6.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Elastic",
+  "careers": "https://job-boards.greenhouse.io/elastic",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "elastic"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Elementor",
+  "careers": "https://www.comeet.com/jobs/elementor/A3.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "elementor",
+   "uid": "A3.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Eleos Health",
+  "careers": "https://job-boards.greenhouse.io/eleoshealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "eleoshealth"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Elsight",
+  "careers": "https://www.comeet.com/jobs/elsight/B9.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "elsight",
+   "uid": "B9.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Enercon Technologies Group",
+  "careers": "https://www.comeet.com/jobs/enercon/A4.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "enercon",
+   "uid": "A4.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Enlight",
+  "careers": "https://www.comeet.com/jobs/enlightenergy/99.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "enlightenergy",
+   "uid": "99.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "eScribers",
+  "careers": "https://job-boards.greenhouse.io/escribers",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "escribers"
+  },
+  "size": "small"
+ },
+ {
+  "name": "esh",
+  "careers": "https://www.comeet.com/jobs/esh/87.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "esh",
+   "uid": "87.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "EX.CO",
+  "careers": "https://www.comeet.com/jobs/exco/F0.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "exco",
+   "uid": "F0.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Exodigo",
+  "careers": "https://www.comeet.com/jobs/exodigo/89.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "exodigo",
+   "uid": "89.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Factify",
+  "careers": "https://www.comeet.com/jobs/factify/A9.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "factify",
+   "uid": "A9.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Faropoint",
+  "careers": "https://job-boards.greenhouse.io/faropoint",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "faropoint"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Faye",
+  "careers": "https://www.comeet.com/jobs/withfaye/87.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "withfaye",
+   "uid": "87.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fetcherr",
+  "careers": "https://www.comeet.com/jobs/fetcherr/68.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "fetcherr",
+   "uid": "68.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "FeverUp",
+  "careers": "https://job-boards.greenhouse.io/feverup",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "feverup"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fig Security",
+  "careers": "https://www.comeet.com/jobs/figsecurity/0B.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "figsecurity",
+   "uid": "0B.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Figma",
+  "careers": "https://job-boards.greenhouse.io/figma",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "figma"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Final",
+  "careers": "https://www.comeet.com/jobs/final/C0.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "final",
+   "uid": "C0.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Finout",
+  "careers": "https://jobs.ashbyhq.com/finout",
+  "ats": {
+   "platform": "ashby",
+   "slug": "finout"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Finubit",
+  "careers": "https://www.comeet.com/jobs/finubit/A9.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "finubit",
+   "uid": "A9.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fireblocks",
+  "careers": "https://job-boards.greenhouse.io/fireblocks",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "fireblocks"
+  },
+  "size": "small"
+ },
+ {
+  "name": "First Connect Insurance",
+  "careers": "https://job-boards.greenhouse.io/firstconnectinsurance",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "firstconnectinsurance"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Five Sigma",
+  "careers": "https://www.comeet.com/jobs/fivesigma/07.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "fivesigma",
+   "uid": "07.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fiverr",
+  "careers": "https://www.comeet.com/jobs/fiverr/60.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "fiverr",
+   "uid": "60.002"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Flexor Technology",
+  "careers": "https://www.comeet.com/jobs/flexor/F9.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "flexor",
+   "uid": "F9.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Flo-Optics",
+  "careers": "https://www.comeet.com/jobs/flo_optics/EA.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "flo_optics",
+   "uid": "EA.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fluent Trade Technologies",
+  "careers": "https://www.comeet.com/jobs/fluenttech/E5.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "fluenttech",
+   "uid": "E5.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Foresight Automotive",
+  "careers": "https://www.comeet.com/jobs/foresightauto/13.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "foresightauto",
+   "uid": "13.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ForSight Robotics",
+  "careers": "https://www.comeet.com/jobs/forsightrobotics/E9.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "forsightrobotics",
+   "uid": "E9.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Forter",
+  "careers": "https://job-boards.greenhouse.io/forter",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "forter"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Frame Security",
+  "careers": "https://www.comeet.com/jobs/framesecurity/FA.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "framesecurity",
+   "uid": "FA.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Freightos",
+  "careers": "https://www.comeet.com/jobs/freightos/F0.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "freightos",
+   "uid": "F0.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Friends",
+  "careers": "https://www.comeet.com/jobs/friends/81.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "friends",
+   "uid": "81.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "FrontStory",
+  "careers": "https://www.comeet.com/jobs/frontstory/04.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "frontstory",
+   "uid": "04.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fullpath",
+  "careers": "https://www.comeet.com/jobs/autoleadstar/54.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "autoleadstar",
+   "uid": "54.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fundamental",
+  "careers": "https://jobs.ashbyhq.com/fundamental",
+  "ats": {
+   "platform": "ashby",
+   "slug": "fundamental"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fundwell",
+  "careers": "https://jobs.ashbyhq.com/fundwell",
+  "ats": {
+   "platform": "ashby",
+   "slug": "fundwell"
+  },
+  "size": "small"
+ },
+ {
+  "name": "G2 Risk Solutions",
+  "careers": "https://www.comeet.com/jobs/everc/C9.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "everc",
+   "uid": "C9.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Genpact",
+  "careers": "https://www.comeet.com/jobs/genpact/B9.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "genpact",
+   "uid": "B9.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "GenScript/ProBio",
+  "careers": "https://job-boards.greenhouse.io/genscript",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "genscript"
+  },
+  "size": "small"
+ },
+ {
+  "name": "GeoEdge",
+  "careers": "https://www.comeet.com/jobs/geoedge.com/82.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "geoedge.com",
+   "uid": "82.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Gett",
+  "careers": "https://www.comeet.com/jobs/gett/A0.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "gett",
+   "uid": "A0.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Gilat",
+  "careers": "https://www.comeet.com/jobs/gilat/39.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "gilat",
+   "uid": "39.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Gini Apps",
+  "careers": "https://www.comeet.com/jobs/gini-apps/66.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "gini-apps",
+   "uid": "66.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "GitLab",
+  "careers": "https://job-boards.greenhouse.io/gitlab",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "gitlab"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Gloat",
+  "careers": "https://www.comeet.com/jobs/gloat/E5.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "gloat",
+   "uid": "E5.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Global-e",
+  "careers": "https://www.comeet.com/jobs/global-e/62.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "global-e",
+   "uid": "62.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Glow",
+  "careers": "https://jobs.ashbyhq.com/glow",
+  "ats": {
+   "platform": "ashby",
+   "slug": "glow"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Gong",
+  "careers": "https://job-boards.greenhouse.io/gongio",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "gongio"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Grafana Labs",
+  "careers": "https://job-boards.greenhouse.io/grafanalabs",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "grafanalabs"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Grain",
+  "careers": "https://www.comeet.com/jobs/grain/4A.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "grain",
+   "uid": "4A.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "groundcover",
+  "careers": "https://www.comeet.com/jobs/groundcover/88.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "groundcover",
+   "uid": "88.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Grove Ventures",
+  "careers": "https://www.comeet.com/jobs/groveventures/5A.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "groveventures",
+   "uid": "5A.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "GrowthSpace",
+  "careers": "https://www.comeet.com/jobs/growthspace/D7.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "growthspace",
+   "uid": "D7.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Guardio",
+  "careers": "https://www.comeet.com/jobs/guardio/57.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "guardio",
+   "uid": "57.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Guardz",
+  "careers": "https://job-boards.greenhouse.io/guardz",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "guardz"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Guesty",
+  "careers": "https://www.comeet.com/jobs/guesty/10.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "guesty",
+   "uid": "10.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Guideline",
+  "careers": "https://www.comeet.com/jobs/guideline/89.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "guideline",
+   "uid": "89.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Helfy",
+  "careers": "https://www.comeet.com/jobs/helfy/3A.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "helfy",
+   "uid": "3A.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Hello Heart",
+  "careers": "https://job-boards.greenhouse.io/helloheart",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "helloheart"
+  },
+  "size": "small"
+ },
+ {
+  "name": "HoneyBook",
+  "careers": "https://jobs.ashbyhq.com/honeybook",
+  "ats": {
+   "platform": "ashby",
+   "slug": "honeybook"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Honeycomb Insurance",
+  "careers": "https://job-boards.greenhouse.io/honeycombinsurance",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "honeycombinsurance"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Houzz",
+  "careers": "https://jobs.lever.co/houzz",
+  "ats": {
+   "platform": "lever",
+   "slug": "houzz"
+  },
+  "size": "small"
+ },
+ {
+  "name": "HR Team",
+  "careers": "https://www.comeet.com/jobs/recruitingteam/F3.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "recruitingteam",
+   "uid": "F3.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "HUMAN",
+  "careers": "https://jobs.ashbyhq.com/human",
+  "ats": {
+   "platform": "ashby",
+   "slug": "human"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Hypercore Inc.",
+  "careers": "https://jobs.ashbyhq.com/hypercore",
+  "ats": {
+   "platform": "ashby",
+   "slug": "hypercore"
+  },
+  "size": "small"
+ },
+ {
+  "name": "HyperGuest",
+  "careers": "https://www.comeet.com/jobs/hyperguest/09.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "hyperguest",
+   "uid": "09.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Hypernative",
+  "careers": "https://www.comeet.com/jobs/hypernative/8A.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "hypernative",
+   "uid": "8A.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Hyro",
+  "careers": "https://www.comeet.com/jobs/hyro/B9.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "hyro",
+   "uid": "B9.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "IDT",
+  "careers": "https://jobs.lever.co/idt",
+  "ats": {
+   "platform": "lever",
+   "slug": "idt"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ilyon",
+  "careers": "https://www.comeet.com/jobs/ilyon/42.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ilyon",
+   "uid": "42.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Imagen",
+  "careers": "https://www.comeet.com/jobs/imagen-ai/78.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "imagen-ai",
+   "uid": "78.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Imagene AI",
+  "careers": "https://www.comeet.com/jobs/imagene-ai/D7.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "imagene-ai",
+   "uid": "D7.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Imagry",
+  "careers": "https://www.comeet.com/jobs/imagry/B7.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "imagry",
+   "uid": "B7.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Immunai",
+  "careers": "https://www.comeet.com/jobs/immunai/37.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "immunai",
+   "uid": "37.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "imper.ai",
+  "careers": "https://jobs.ashbyhq.com/imper",
+  "ats": {
+   "platform": "ashby",
+   "slug": "imper"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Incredibuild",
+  "careers": "https://www.comeet.com/jobs/incredibuild/66.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "incredibuild",
+   "uid": "66.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "INFINIDAT",
+  "careers": "https://www.comeet.com/jobs/infinidat/D6.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "infinidat",
+   "uid": "D6.003"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Infinity",
+  "careers": "https://www.comeet.com/jobs/infinity/56.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "infinity",
+   "uid": "56.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "inManage",
+  "careers": "https://www.comeet.com/jobs/inmanage/B7.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "inmanage",
+   "uid": "B7.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "instacart",
+  "careers": "https://job-boards.greenhouse.io/instacart",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "instacart"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Integrity Labs",
+  "careers": "https://www.comeet.com/jobs/integritylabs/43.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "integritylabs",
+   "uid": "43.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Intel",
+  "careers": "https://intel.wd1.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "intel.wd1.myworkdayjobs.com",
+   "tenant": "intel",
+   "site": "External"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Investing",
+  "careers": "https://www.comeet.com/jobs/investing/42.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "investing",
+   "uid": "42.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Invisible Agency",
+  "careers": "https://job-boards.greenhouse.io/agency",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "agency"
+  },
+  "size": "small"
+ },
+ {
+  "name": "IONIX",
+  "careers": "https://www.comeet.com/jobs/ionix/08.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ionix",
+   "uid": "08.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "IRONSCALES",
+  "careers": "https://www.comeet.com/jobs/ironscales/1A.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ironscales",
+   "uid": "1A.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "irregular",
+  "careers": "https://jobs.ashbyhq.com/irregular",
+  "ats": {
+   "platform": "ashby",
+   "slug": "irregular"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ISI",
+  "careers": "https://www.comeet.com/jobs/isi/86.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "isi",
+   "uid": "86.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Island",
+  "careers": "https://www.comeet.com/jobs/island/09.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "island",
+   "uid": "09.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Israel Tech Guard",
+  "careers": "https://www.comeet.com/jobs/israeltechguard/29.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "israeltechguard",
+   "uid": "29.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ivix",
+  "careers": "https://www.comeet.com/jobs/ivix/09.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ivix",
+   "uid": "09.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "jamf",
+  "careers": "https://job-boards.greenhouse.io/jamf",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "jamf"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Jazz",
+  "careers": "https://www.comeet.com/jobs/jazz/6A.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jazz",
+   "uid": "6A.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "JDC",
+  "careers": "https://www.comeet.com/jobs/jdc/F3.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jdc",
+   "uid": "F3.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Jether Energy Research",
+  "careers": "https://www.comeet.com/jobs/jether-energy/87.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jether-energy",
+   "uid": "87.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "JFrog",
+  "careers": "https://job-boards.greenhouse.io/jfrog",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "jfrog"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Jobgether",
+  "careers": "https://jobs.lever.co/jobgether",
+  "ats": {
+   "platform": "lever",
+   "slug": "jobgether"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Justt",
+  "careers": "https://www.comeet.com/jobs/acrocharge/36.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "acrocharge",
+   "uid": "36.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "JVP",
+  "careers": "https://www.comeet.com/jobs/jvp/35.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jvp",
+   "uid": "35.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "K Health",
+  "careers": "https://job-boards.greenhouse.io/khealthcareers",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "khealthcareers"
+  },
+  "size": "small"
+ },
+ {
+  "name": "K2view",
+  "careers": "https://www.comeet.com/jobs/k2view/D5.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "k2view",
+   "uid": "D5.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Kaltura",
+  "careers": "https://www.comeet.com/jobs/kaltura/E2.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kaltura",
+   "uid": "E2.00D"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Kayhut",
+  "careers": "https://www.comeet.com/jobs/kayhut/F0.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kayhut",
+   "uid": "F0.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Kela Technologies",
+  "careers": "https://www.comeet.com/jobs/kelasys/2A.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kelasys",
+   "uid": "2A.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Kendago",
+  "careers": "https://www.comeet.com/jobs/kendago/49.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kendago",
+   "uid": "49.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Keshet media group",
+  "careers": "https://www.comeet.com/jobs/keshet/26.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "keshet",
+   "uid": "26.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "KLA",
+  "careers": "https://kla.wd1.myworkdayjobs.com/en-US/Search",
+  "ats": {
+   "platform": "workday",
+   "host": "kla.wd1.myworkdayjobs.com",
+   "tenant": "kla",
+   "site": "Search"
+  },
+  "size": "large"
+ },
+ {
+  "name": "KMS Lighthouse",
+  "careers": "https://www.comeet.com/jobs/kmslh/97.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kmslh",
+   "uid": "97.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Komodor",
+  "careers": "https://www.comeet.com/jobs/komodor/96.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "komodor",
+   "uid": "96.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "KPMG",
+  "careers": "https://www.comeet.com/jobs/somekhchaikin/F3.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "somekhchaikin",
+   "uid": "F3.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Kueez",
+  "careers": "https://www.comeet.com/jobs/kueez/09.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "kueez",
+   "uid": "09.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lab42",
+  "careers": "https://www.comeet.com/jobs/lab42/58.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lab42",
+   "uid": "58.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Landa Corporation",
+  "careers": "https://www.comeet.com/jobs/landacorp/A4.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "landacorp",
+   "uid": "A4.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ledge",
+  "careers": "https://jobs.ashbyhq.com/ledge",
+  "ats": {
+   "platform": "ashby",
+   "slug": "ledge"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Legit Security",
+  "careers": "https://www.comeet.com/jobs/legitsecurity.com/37.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "legitsecurity.com",
+   "uid": "37.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lema AI",
+  "careers": "https://www.comeet.com/jobs/lemalabs/EA.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lemalabs",
+   "uid": "EA.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lemonade",
+  "careers": "https://jobs.ashbyhq.com/lemonade",
+  "ats": {
+   "platform": "ashby",
+   "slug": "lemonade"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Lendbuzz",
+  "careers": "https://jobs.lever.co/lendbuzz",
+  "ats": {
+   "platform": "lever",
+   "slug": "lendbuzz"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lever Implementation Training Environment",
+  "careers": "https://jobs.lever.co/leverdemo-8",
+  "ats": {
+   "platform": "lever",
+   "slug": "leverdemo-8"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Leverate",
+  "careers": "https://www.comeet.com/jobs/leverate/02.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "leverate",
+   "uid": "02.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "LILT (Production)",
+  "careers": "https://jobs.ashbyhq.com/lilt-production",
+  "ats": {
+   "platform": "ashby",
+   "slug": "lilt-production"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lime Digital",
+  "careers": "https://www.comeet.com/jobs/limedigital/0A.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "limedigital",
+   "uid": "0A.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Linx Security",
+  "careers": "https://www.comeet.com/jobs/linxsecurity/99.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "linxsecurity",
+   "uid": "99.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "LiveU",
+  "careers": "https://www.comeet.com/jobs/liveu/90.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "liveu",
+   "uid": "90.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Logz.io",
+  "careers": "https://jobs.lever.co/logz",
+  "ats": {
+   "platform": "lever",
+   "slug": "logz"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lumen",
+  "careers": "https://www.comeet.com/jobs/lumen/1A.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lumen",
+   "uid": "1A.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lumenis",
+  "careers": "https://www.comeet.com/jobs/lumenis/A1.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lumenis",
+   "uid": "A1.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lumus",
+  "careers": "https://www.comeet.com/jobs/lumus/62.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lumus",
+   "uid": "62.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Lusha",
+  "careers": "https://www.comeet.com/jobs/lusha/73.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lusha",
+   "uid": "73.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Madlan",
+  "careers": "https://www.comeet.com/jobs/localize/33.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "localize",
+   "uid": "33.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Magal Solutions",
+  "careers": "https://www.comeet.com/jobs/magalsolutions/7A.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "magalsolutions",
+   "uid": "7A.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Majestic Labs",
+  "careers": "https://www.comeet.com/jobs/majesticlabs/AA.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "majesticlabs",
+   "uid": "AA.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mami",
+  "careers": "https://www.comeet.com/jobs/mami/BA.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mami",
+   "uid": "BA.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Marvell",
+  "careers": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers",
+  "ats": {
+   "platform": "workday",
+   "host": "marvell.wd1.myworkdayjobs.com",
+   "tenant": "marvell",
+   "site": "MarvellCareers"
+  },
+  "size": "large"
+ },
+ {
+  "name": "MAX Security Solutions",
+  "careers": "https://www.comeet.com/jobs/max_security/2B.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "max_security",
+   "uid": "2B.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Maytronics",
+  "careers": "https://www.comeet.com/jobs/maytronics/E3.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "maytronics",
+   "uid": "E3.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "MAËLYS",
+  "careers": "https://www.comeet.com/jobs/maelyscosmetics/68.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "maelyscosmetics",
+   "uid": "68.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "MDClone",
+  "careers": "https://www.comeet.com/jobs/mdclone/66.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mdclone",
+   "uid": "66.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Medison Pharma",
+  "careers": "https://www.comeet.com/jobs/medison/67.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "medison",
+   "uid": "67.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "MedOne",
+  "careers": "https://www.comeet.com/jobs/medone/58.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "medone",
+   "uid": "58.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mego Afek",
+  "careers": "https://www.comeet.com/jobs/megoafek/7A.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "megoafek",
+   "uid": "7A.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Menlo Security",
+  "careers": "https://jobs.ashbyhq.com/menlosecurity",
+  "ats": {
+   "platform": "ashby",
+   "slug": "menlosecurity"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mentee Robotics",
+  "careers": "https://www.comeet.com/jobs/mentee_robotics/6A.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mentee_robotics",
+   "uid": "6A.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Metropolis",
+  "careers": "https://job-boards.greenhouse.io/metropolis",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "metropolis"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mind Security Inc.",
+  "careers": "https://www.comeet.com/jobs/mindsecurity/4A.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mindsecurity",
+   "uid": "4A.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mindspace",
+  "careers": "https://www.comeet.com/jobs/mindspace/71.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mindspace",
+   "uid": "71.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mine",
+  "careers": "https://www.comeet.com/jobs/saymine/39.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "saymine",
+   "uid": "39.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Minimus",
+  "careers": "https://www.comeet.com/jobs/minimus/19.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "minimus",
+   "uid": "19.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Minute",
+  "careers": "https://www.comeet.com/jobs/minute/45.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "minute",
+   "uid": "45.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mitiga",
+  "careers": "https://www.comeet.com/jobs/mitiga/26.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mitiga",
+   "uid": "26.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mixtiles",
+  "careers": "https://job-boards.greenhouse.io/mixtiles",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "mixtiles"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mize",
+  "careers": "https://www.comeet.com/jobs/mize/88.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mize",
+   "uid": "88.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Modellama",
+  "careers": "https://www.comeet.com/jobs/modellama/26.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "modellama",
+   "uid": "26.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "mongodb",
+  "careers": "https://job-boards.greenhouse.io/mongodb",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "mongodb"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Moon Active",
+  "careers": "https://jobs.ashbyhq.com/moonactive",
+  "ats": {
+   "platform": "ashby",
+   "slug": "moonactive"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Moonshot",
+  "careers": "https://www.comeet.com/jobs/moonshot/87.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "moonshot",
+   "uid": "87.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "morning",
+  "careers": "https://www.comeet.com/jobs/morning/67.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "morning",
+   "uid": "67.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Morphisec",
+  "careers": "https://www.comeet.com/jobs/morphisec/65.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "morphisec",
+   "uid": "65.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Motorola Solutions",
+  "careers": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "motorolasolutions.wd5.myworkdayjobs.com",
+   "tenant": "motorolasolutions",
+   "site": "Careers"
+  },
+  "size": "large"
+ },
+ {
+  "name": "mPrest",
+  "careers": "https://www.comeet.com/jobs/mprest/38.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "mprest",
+   "uid": "38.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "MSD Animal Health Technology Labs",
+  "careers": "https://www.comeet.com/jobs/msd-ah-technologylabs/A3.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "msd-ah-technologylabs",
+   "uid": "A3.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "myheritage",
+  "careers": "https://job-boards.greenhouse.io/myheritage",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "myheritage"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mythic",
+  "careers": "https://jobs.lever.co/mythic-ai.com",
+  "ats": {
+   "platform": "lever",
+   "slug": "mythic-ai.com"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nagomi Security",
+  "careers": "https://www.comeet.com/jobs/venasecurity/89.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "venasecurity",
+   "uid": "89.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nanit",
+  "careers": "https://job-boards.greenhouse.io/nanit",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "nanit"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nanox",
+  "careers": "https://www.comeet.com/jobs/nanox/43.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nanox",
+   "uid": "43.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Native",
+  "careers": "https://www.comeet.com/jobs/native/5A.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "native",
+   "uid": "5A.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Natural Intelligence",
+  "careers": "https://www.comeet.com/jobs/naturalint/71.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "naturalint",
+   "uid": "71.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Navina",
+  "careers": "https://www.comeet.com/jobs/navina/E6.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "navina",
+   "uid": "E6.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nayax",
+  "careers": "https://www.comeet.com/jobs/nayax/13.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nayax",
+   "uid": "13.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nebius",
+  "careers": "https://job-boards.greenhouse.io/nebius",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "nebius"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Netafim",
+  "careers": "https://www.comeet.com/jobs/netafim/B7.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "netafim",
+   "uid": "B7.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Newcore",
+  "careers": "https://www.comeet.com/jobs/newcore/4B.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "newcore",
+   "uid": "4B.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Next Insurance",
+  "careers": "https://job-boards.greenhouse.io/nextinsurance66",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "nextinsurance66"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NextSilicon",
+  "careers": "https://www.comeet.com/jobs/nextsilicon/18.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nextsilicon",
+   "uid": "18.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NextTA",
+  "careers": "https://www.comeet.com/jobs/nextta/5A.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nextta",
+   "uid": "5A.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nexxen",
+  "careers": "https://jobs.ashbyhq.com/nexxen",
+  "ats": {
+   "platform": "ashby",
+   "slug": "nexxen"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NICE",
+  "careers": "https://job-boards.greenhouse.io/nice",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "nice"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Nift",
+  "careers": "https://job-boards.greenhouse.io/nift",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "nift"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NimbleWay",
+  "careers": "https://www.comeet.com/jobs/nimbleway/09.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nimbleway",
+   "uid": "09.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Noma Security",
+  "careers": "https://www.comeet.com/jobs/noma_security/3A.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "noma_security",
+   "uid": "3A.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nominal",
+  "careers": "https://www.comeet.com/jobs/nominal/E8.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nominal",
+   "uid": "E8.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Notch",
+  "careers": "https://www.comeet.com/jobs/notch/CA.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "notch",
+   "uid": "CA.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NoTraffic",
+  "careers": "https://www.comeet.com/jobs/notraffic/1A.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "notraffic",
+   "uid": "1A.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nova Ltd.",
+  "careers": "https://www.comeet.com/jobs/nova/A5.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nova",
+   "uid": "A5.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "nSure.ai",
+  "careers": "https://www.comeet.com/jobs/nsure/A7.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nsure",
+   "uid": "A7.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Nuvoton",
+  "careers": "https://www.comeet.com/jobs/nuvoton/51.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nuvoton",
+   "uid": "51.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "NVIDIA",
+  "careers": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite",
+  "ats": {
+   "platform": "workday",
+   "host": "nvidia.wd5.myworkdayjobs.com",
+   "tenant": "nvidia",
+   "site": "NVIDIAExternalCareerSite"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Nym Health",
+  "careers": "https://www.comeet.com/jobs/nymhealth/46.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nymhealth",
+   "uid": "46.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Oak",
+  "careers": "https://jobs.ashbyhq.com/oak",
+  "ats": {
+   "platform": "ashby",
+   "slug": "oak"
+  },
+  "size": "small"
+ },
+ {
+  "name": "obligo",
+  "careers": "https://job-boards.greenhouse.io/obligo",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "obligo"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ofer Jobs",
+  "careers": "https://www.comeet.com/jobs/groo/56.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "groo",
+   "uid": "56.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Okoora",
+  "careers": "https://www.comeet.com/jobs/ofakim/85.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ofakim",
+   "uid": "85.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "okta",
+  "careers": "https://job-boards.greenhouse.io/okta",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "okta"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Oktopost",
+  "careers": "https://jobs.lever.co/oktopost",
+  "ats": {
+   "platform": "lever",
+   "slug": "oktopost"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Oligo Security",
+  "careers": "https://www.comeet.com/jobs/oligosecurity/5A.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "oligosecurity",
+   "uid": "5A.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Omnea",
+  "careers": "https://jobs.ashbyhq.com/omnea",
+  "ats": {
+   "platform": "ashby",
+   "slug": "omnea"
+  },
+  "size": "small"
+ },
+ {
+  "name": "onebeat",
+  "careers": "https://www.comeet.com/jobs/onebeat/0A.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "onebeat",
+   "uid": "0A.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "OneStep",
+  "careers": "https://www.comeet.com/jobs/onestep/79.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "onestep",
+   "uid": "79.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Onyx Security",
+  "careers": "https://www.comeet.com/jobs/onyxsecurity/BA.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "onyxsecurity",
+   "uid": "BA.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Optibus",
+  "careers": "https://www.comeet.com/jobs/optibus/D1.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "optibus",
+   "uid": "D1.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Optimove",
+  "careers": "https://job-boards.greenhouse.io/optimove",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "optimove"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Orbit Communication Systems",
+  "careers": "https://www.comeet.com/jobs/orbit_communication_systems/2B.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "orbit_communication_systems",
+   "uid": "2B.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Orca Security",
+  "careers": "https://job-boards.greenhouse.io/orcasecurity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "orcasecurity"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Orchid Security",
+  "careers": "https://www.comeet.com/jobs/orchid_security/4A.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "orchid_security",
+   "uid": "4A.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Oriient",
+  "careers": "https://www.comeet.com/jobs/oriient/EA.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "oriient",
+   "uid": "EA.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Orpak",
+  "careers": "https://www.comeet.com/jobs/invenco/65.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "invenco",
+   "uid": "65.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "OurCrowd",
+  "careers": "https://www.comeet.com/jobs/ourcrowd/D3.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ourcrowd",
+   "uid": "D3.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "OurRitual",
+  "careers": "https://jobs.ashbyhq.com/ourritual",
+  "ats": {
+   "platform": "ashby",
+   "slug": "ourritual"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Overwolf",
+  "careers": "https://www.comeet.com/jobs/overwolf/B1.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "overwolf",
+   "uid": "B1.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "OX Security",
+  "careers": "https://www.comeet.com/jobs/ox_security/F8.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ox_security",
+   "uid": "F8.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "pagayais",
+  "careers": "https://job-boards.greenhouse.io/pagayais",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pagayais"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Pango",
+  "careers": "https://www.comeet.com/jobs/pango/59.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "pango",
+   "uid": "59.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Panorays",
+  "careers": "https://www.comeet.com/jobs/panorays/97.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "panorays",
+   "uid": "97.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "PAPAYA",
+  "careers": "https://www.comeet.com/jobs/papayagaming/46.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "papayagaming",
+   "uid": "46.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Papaya Global",
+  "careers": "https://www.comeet.com/jobs/papayaglobal/16.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "papayaglobal",
+   "uid": "16.005"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Paragon",
+  "careers": "https://www.comeet.com/jobs/paragon/76.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "paragon",
+   "uid": "76.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Parallel Wireless",
+  "careers": "https://jobs.lever.co/parallelwireless",
+  "ats": {
+   "platform": "lever",
+   "slug": "parallelwireless"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Passportcard",
+  "careers": "https://www.comeet.com/jobs/passportcard/92.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "passportcard",
+   "uid": "92.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Paxos",
+  "careers": "https://jobs.ashbyhq.com/paxos",
+  "ats": {
+   "platform": "ashby",
+   "slug": "paxos"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Payoneer",
+  "careers": "https://job-boards.greenhouse.io/payoneer",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "payoneer"
+  },
+  "size": "large"
+ },
+ {
+  "name": "PayPal",
+  "careers": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs",
+  "ats": {
+   "platform": "workday",
+   "host": "paypal.wd1.myworkdayjobs.com",
+   "tenant": "paypal",
+   "site": "jobs"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Pazu",
+  "careers": "https://www.comeet.com/jobs/pazu/67.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "pazu",
+   "uid": "67.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Pendo",
+  "careers": "https://job-boards.greenhouse.io/pendo",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pendo"
+  },
+  "size": "small"
+ },
+ {
+  "name": "penlink",
+  "careers": "https://www.comeet.com/jobs/cobwebs/E5.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "cobwebs",
+   "uid": "E5.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Pentera",
+  "careers": "https://www.comeet.com/jobs/pentera/C5.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "pentera",
+   "uid": "C5.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Personetics",
+  "careers": "https://www.comeet.com/jobs/personetics/83.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "personetics",
+   "uid": "83.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "PI-Cardia",
+  "careers": "https://www.comeet.com/jobs/pi-cardia/A5.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "pi-cardia",
+   "uid": "A5.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ping Identity",
+  "careers": "https://job-boards.greenhouse.io/pingidentity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pingidentity"
+  },
+  "size": "small"
+ },
+ {
+  "name": "PlainID",
+  "careers": "https://www.comeet.com/jobs/plainid/C4.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "plainid",
+   "uid": "C4.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "PointFive",
+  "careers": "https://jobs.ashbyhq.com/pointfive",
+  "ats": {
+   "platform": "ashby",
+   "slug": "pointfive"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Pontera",
+  "careers": "https://job-boards.greenhouse.io/pontera",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "pontera"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Port",
+  "careers": "https://www.comeet.com/jobs/port/59.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "port",
+   "uid": "59.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Prisma Photonics",
+  "careers": "https://www.comeet.com/jobs/prismaphotonics/18.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "prismaphotonics",
+   "uid": "18.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Protai",
+  "careers": "https://www.comeet.com/jobs/protai/98.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "protai",
+   "uid": "98.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "proteanTecs",
+  "careers": "https://www.comeet.com/jobs/proteantecs/D5.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "proteantecs",
+   "uid": "D5.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Qedma",
+  "careers": "https://www.comeet.com/jobs/qedma/7A.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "qedma",
+   "uid": "7A.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Qodo",
+  "careers": "https://www.comeet.com/jobs/qodo/B8.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "qodo",
+   "uid": "B8.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Quality Score",
+  "careers": "https://www.comeet.com/jobs/qualityscore/94.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "qualityscore",
+   "uid": "94.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "QuantHealth",
+  "careers": "https://job-boards.greenhouse.io/quanthealth",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "quanthealth"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Quantum Machines",
+  "careers": "https://www.comeet.com/jobs/quantummachines/D6.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "quantummachines",
+   "uid": "D6.000"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Quicklizard",
+  "careers": "https://www.comeet.com/jobs/quicklizard/C9.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "quicklizard",
+   "uid": "C9.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "RADCOM",
+  "careers": "https://www.comeet.com/jobs/radcom/1A.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "radcom",
+   "uid": "1A.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rapyd",
+  "careers": "https://www.comeet.com/jobs/rapyd/73.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "rapyd",
+   "uid": "73.00E"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Razor Labs",
+  "careers": "https://www.comeet.com/jobs/razorlabs/A5.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "razorlabs",
+   "uid": "A5.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Realplay",
+  "careers": "https://www.comeet.com/jobs/realplay/9A.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "realplay",
+   "uid": "9A.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Reco",
+  "careers": "https://www.comeet.com/jobs/reco/3A.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "reco",
+   "uid": "3A.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Redis",
+  "careers": "https://jobs.ashbyhq.com/redis",
+  "ats": {
+   "platform": "ashby",
+   "slug": "redis"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Reflectiz",
+  "careers": "https://www.comeet.com/jobs/reflectiz/CA.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "reflectiz",
+   "uid": "CA.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Regulus",
+  "careers": "https://www.comeet.com/jobs/regulus/9A.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "regulus",
+   "uid": "9A.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Remedio",
+  "careers": "https://www.comeet.com/jobs/remedio/CA.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "remedio",
+   "uid": "CA.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Riskified",
+  "careers": "https://job-boards.greenhouse.io/riskified",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "riskified"
+  },
+  "size": "large"
+ },
+ {
+  "name": "riverside.fm",
+  "careers": "https://www.comeet.com/jobs/riverside-fm/66.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "riverside-fm",
+   "uid": "66.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rocoto",
+  "careers": "https://www.comeet.com/jobs/amimon/50.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "amimon",
+   "uid": "50.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rounds",
+  "careers": "https://www.comeet.com/jobs/rounds/59.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "rounds",
+   "uid": "59.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rubrik Job Board",
+  "careers": "https://job-boards.greenhouse.io/rubrik",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "rubrik"
+  },
+  "size": "small"
+ },
+ {
+  "name": "RWS TrainAI",
+  "careers": "https://jobs.lever.co/rws",
+  "ats": {
+   "platform": "lever",
+   "slug": "rws"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rylo",
+  "careers": "https://www.comeet.com/jobs/nagish/D8.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "nagish",
+   "uid": "D8.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "safebreach",
+  "careers": "https://job-boards.greenhouse.io/safebreach",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "safebreach"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Salesforce",
+  "careers": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site",
+  "ats": {
+   "platform": "workday",
+   "host": "salesforce.wd12.myworkdayjobs.com",
+   "tenant": "salesforce",
+   "site": "External_Career_Site"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Salt Security",
+  "careers": "https://job-boards.greenhouse.io/saltsecurity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "saltsecurity"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Samsung Research and Development Center Israel",
+  "careers": "https://www.comeet.com/jobs/samsung/D4.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "samsung",
+   "uid": "D4.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sayari",
+  "careers": "https://job-boards.greenhouse.io/sayari",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "sayari"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ScaleOps",
+  "careers": "https://www.comeet.com/jobs/scaleops/99.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "scaleops",
+   "uid": "99.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Scopely",
+  "careers": "https://job-boards.greenhouse.io/scopely",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "scopely"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ScyllaDB",
+  "careers": "https://www.comeet.com/jobs/scylladb/E4.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "scylladb",
+   "uid": "E4.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sedric.ai",
+  "careers": "https://www.comeet.com/jobs/sedric/0A.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sedric",
+   "uid": "0A.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Seeking Alpha",
+  "careers": "https://www.comeet.com/jobs/seekingalpha/46.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "seekingalpha",
+   "uid": "46.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Seemplicity Security",
+  "careers": "https://www.comeet.com/jobs/seemplicity/67.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "seemplicity",
+   "uid": "67.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Semperis",
+  "careers": "https://jobs.ashbyhq.com/semperis",
+  "ats": {
+   "platform": "ashby",
+   "slug": "semperis"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SENAI",
+  "careers": "https://www.comeet.com/jobs/senai/CA.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "senai",
+   "uid": "CA.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sensi.AI",
+  "careers": "https://www.comeet.com/jobs/sensi/E7.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sensi",
+   "uid": "E7.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SentinelOne",
+  "careers": "https://job-boards.greenhouse.io/sentinellabs",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "sentinellabs"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Sentra",
+  "careers": "https://www.comeet.com/jobs/sentra/87.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sentra",
+   "uid": "87.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sett",
+  "careers": "https://www.comeet.com/jobs/sett/4A.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sett",
+   "uid": "4A.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Shapes",
+  "careers": "https://jobs.ashbyhq.com/shapes",
+  "ats": {
+   "platform": "ashby",
+   "slug": "shapes"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Shield",
+  "careers": "https://www.comeet.com/jobs/shieldfc/A5.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "shieldfc",
+   "uid": "A5.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Shortical",
+  "careers": "https://www.comeet.com/jobs/shortical/3B.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "shortical",
+   "uid": "3B.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Shva",
+  "careers": "https://www.comeet.com/jobs/shva/1B.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "shva",
+   "uid": "1B.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Silverfort",
+  "careers": "https://www.comeet.com/jobs/silverfort/54.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "silverfort",
+   "uid": "54.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Similarweb",
+  "careers": "https://job-boards.greenhouse.io/similarweb",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "similarweb"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Singular",
+  "careers": "https://jobs.ashbyhq.com/singular",
+  "ats": {
+   "platform": "ashby",
+   "slug": "singular"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Skai",
+  "careers": "https://www.comeet.com/jobs/skai/22.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "skai",
+   "uid": "22.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Skapion",
+  "careers": "https://www.comeet.com/jobs/skapion/2B.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "skapion",
+   "uid": "2B.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Smart-shooter",
+  "careers": "https://www.comeet.com/jobs/smart-shooter/0B.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "smart-shooter",
+   "uid": "0B.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Snappy",
+  "careers": "https://jobs.ashbyhq.com/snappy",
+  "ats": {
+   "platform": "ashby",
+   "slug": "snappy"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Snowflake",
+  "careers": "https://jobs.ashbyhq.com/snowflake",
+  "ats": {
+   "platform": "ashby",
+   "slug": "snowflake"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SodaStream",
+  "careers": "https://www.comeet.com/jobs/sodastream/40.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sodastream",
+   "uid": "40.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Soho House & Co.",
+  "careers": "https://job-boards.greenhouse.io/sohohouseco",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "sohohouseco"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SolarEdge",
+  "careers": "https://www.comeet.com/jobs/solaredge/71.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "solaredge",
+   "uid": "71.00A"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Solidus Labs",
+  "careers": "https://www.comeet.com/jobs/soliduslabs/E6.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "soliduslabs",
+   "uid": "E6.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Spacial AI",
+  "careers": "https://jobs.ashbyhq.com/spacial",
+  "ats": {
+   "platform": "ashby",
+   "slug": "spacial"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Spines",
+  "careers": "https://www.comeet.com/jobs/spines/2B.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "spines",
+   "uid": "2B.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Stampli",
+  "careers": "https://www.comeet.com/jobs/stampli/F6.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "stampli",
+   "uid": "F6.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Start.io",
+  "careers": "https://www.comeet.com/jobs/start.io/B2.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "start.io",
+   "uid": "B2.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Stigg",
+  "careers": "https://jobs.ashbyhq.com/stigg",
+  "ats": {
+   "platform": "ashby",
+   "slug": "stigg"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Stream Security",
+  "careers": "https://www.comeet.com/jobs/streamsecurity/39.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "streamsecurity",
+   "uid": "39.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sunbit",
+  "careers": "https://www.comeet.com/jobs/sunbit/37.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sunbit",
+   "uid": "37.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sunflower",
+  "careers": "https://www.comeet.com/jobs/sunflower/AA.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sunflower",
+   "uid": "AA.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Supercom",
+  "careers": "https://www.comeet.com/jobs/supercom/46.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "supercom",
+   "uid": "46.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SuperPlay",
+  "careers": "https://www.comeet.com/jobs/superplay/28.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "superplay",
+   "uid": "28.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Surecomp",
+  "careers": "https://www.comeet.com/jobs/surecomp/24.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "surecomp",
+   "uid": "24.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sweep",
+  "careers": "https://jobs.ashbyhq.com/sweep",
+  "ats": {
+   "platform": "ashby",
+   "slug": "sweep"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Sygnia",
+  "careers": "https://www.comeet.com/jobs/sygnia/78.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sygnia",
+   "uid": "78.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SysAid Technologies",
+  "careers": "https://www.comeet.com/jobs/sysaid/43.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "sysaid",
+   "uid": "43.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Taboola",
+  "careers": "https://job-boards.greenhouse.io/taboola",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "taboola"
+  },
+  "size": "large"
+ },
+ {
+  "name": "TailorMed",
+  "careers": "https://www.comeet.com/jobs/tailormed/E5.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "tailormed",
+   "uid": "E5.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Talent.co",
+  "careers": "https://www.comeet.com/jobs/talentco/36.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "talentco",
+   "uid": "36.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Team8",
+  "careers": "https://www.comeet.com/jobs/team8/61.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "team8",
+   "uid": "61.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Tenengroup Ltd.",
+  "careers": "https://www.comeet.com/jobs/tenengroup/93.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "tenengroup",
+   "uid": "93.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Terra Security",
+  "careers": "https://www.comeet.com/jobs/terrasecurity/1B.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "terrasecurity",
+   "uid": "1B.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Terrific",
+  "careers": "https://jobs.lever.co/terrific-innovation",
+  "ats": {
+   "platform": "lever",
+   "slug": "terrific-innovation"
+  },
+  "size": "small"
+ },
+ {
+  "name": "The Jewish Agency for Israel",
+  "careers": "https://www.comeet.com/jobs/jafi/C8.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jafi",
+   "uid": "C8.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Thetaray",
+  "careers": "https://www.comeet.com/jobs/thetaray/72.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "thetaray",
+   "uid": "72.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Tikal",
+  "careers": "https://www.comeet.com/jobs/tikalk/68.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "tikalk",
+   "uid": "68.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Toka",
+  "careers": "https://www.comeet.com/jobs/toka/46.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "toka",
+   "uid": "46.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Tonkean",
+  "careers": "https://jobs.lever.co/tonkean",
+  "ats": {
+   "platform": "lever",
+   "slug": "tonkean"
+  },
+  "size": "small"
+ },
+ {
+  "name": "TopGum",
+  "careers": "https://www.comeet.com/jobs/topgummiceuticals/E9.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "topgummiceuticals",
+   "uid": "E9.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Torq",
+  "careers": "https://job-boards.greenhouse.io/torq",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "torq"
+  },
+  "size": "small"
+ },
+ {
+  "name": "TowardJobs",
+  "careers": "https://jobs.lever.co/usasurveyjob",
+  "ats": {
+   "platform": "lever",
+   "slug": "usasurveyjob"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Transmit Security",
+  "careers": "https://job-boards.greenhouse.io/transmitsecurity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "transmitsecurity"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Travel Booster",
+  "careers": "https://www.comeet.com/jobs/travelbooster/37.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "travelbooster",
+   "uid": "37.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Travelier",
+  "careers": "https://www.comeet.com/jobs/bookaway/64.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bookaway",
+   "uid": "64.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "TriEdge Investments",
+  "careers": "https://jobs.ashbyhq.com/triedge-investments",
+  "ats": {
+   "platform": "ashby",
+   "slug": "triedge-investments"
+  },
+  "size": "small"
+ },
+ {
+  "name": "TriEye",
+  "careers": "https://www.comeet.com/jobs/trieye/A6.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "trieye",
+   "uid": "A6.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Trigo",
+  "careers": "https://www.comeet.com/jobs/trigo/A6.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "trigo",
+   "uid": "A6.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Trivago",
+  "careers": "https://www.comeet.com/jobs/holisto/76.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "holisto",
+   "uid": "76.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Trullion",
+  "careers": "https://www.comeet.com/jobs/trullion/07.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "trullion",
+   "uid": "07.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Truvid",
+  "careers": "https://www.comeet.com/jobs/truvid/4A.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "truvid",
+   "uid": "4A.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "TSMG",
+  "careers": "https://jobs.lever.co/tsmg",
+  "ats": {
+   "platform": "lever",
+   "slug": "tsmg"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Tufin",
+  "careers": "https://www.comeet.com/jobs/tufin/A1.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "tufin",
+   "uid": "A1.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "U.P.PRO",
+  "careers": "https://www.comeet.com/jobs/uppro/18.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "uppro",
+   "uid": "18.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Ultra",
+  "careers": "https://www.comeet.com/jobs/ultra/E3.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "ultra",
+   "uid": "E3.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Unit",
+  "careers": "https://jobs.ashbyhq.com/unit",
+  "ats": {
+   "platform": "ashby",
+   "slug": "unit"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Upstream Security",
+  "careers": "https://www.comeet.com/jobs/upstream/E4.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "upstream",
+   "uid": "E4.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Upwind Security",
+  "careers": "https://www.comeet.com/jobs/upwind/49.004",
+  "ats": {
+   "platform": "comeet",
+   "slug": "upwind",
+   "uid": "49.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Utila",
+  "careers": "https://www.comeet.com/jobs/utila/D9.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "utila",
+   "uid": "D9.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "UVeye",
+  "careers": "https://www.comeet.com/jobs/uveye/92.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "uveye",
+   "uid": "92.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Variant",
+  "careers": "https://www.comeet.com/jobs/variant/3B.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "variant",
+   "uid": "3B.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "VAST Data",
+  "careers": "https://www.comeet.com/jobs/vastdata/43.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vastdata",
+   "uid": "43.001"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Vectorious Medical Technologies Ltd",
+  "careers": "https://www.comeet.com/jobs/vectoriousmedtech/68.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vectoriousmedtech",
+   "uid": "68.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Vega",
+  "careers": "https://www.comeet.com/jobs/vega/C9.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vega",
+   "uid": "C9.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Venice",
+  "careers": "https://www.comeet.com/jobs/venice/CA.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "venice",
+   "uid": "CA.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Vetric",
+  "careers": "https://www.comeet.com/jobs/vetric/A9.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vetric",
+   "uid": "A9.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Vi",
+  "careers": "https://www.comeet.com/jobs/vi/B1.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vi",
+   "uid": "B1.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Via",
+  "careers": "https://job-boards.greenhouse.io/via",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "via"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Viber",
+  "careers": "https://www.comeet.com/jobs/viber/04.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "viber",
+   "uid": "04.002"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Vishay Precision Group",
+  "careers": "https://www.comeet.com/jobs/vpgsensors/C8.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "vpgsensors",
+   "uid": "C8.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Voodoo",
+  "careers": "https://jobs.ashbyhq.com/voodoo",
+  "ats": {
+   "platform": "ashby",
+   "slug": "voodoo"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Voyantis",
+  "careers": "https://www.comeet.com/jobs/voyantis/86.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "voyantis",
+   "uid": "86.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "WalkMe",
+  "careers": "https://jobs.lever.co/walkme",
+  "ats": {
+   "platform": "lever",
+   "slug": "walkme"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Way Security",
+  "careers": "https://www.comeet.com/jobs/waysecurity/2B.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "waysecurity",
+   "uid": "2B.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "We Ankor",
+  "careers": "https://www.comeet.com/jobs/weankor/C6.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "weankor",
+   "uid": "C6.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Webbing",
+  "careers": "https://www.comeet.com/jobs/webbing/46.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "webbing",
+   "uid": "46.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Webselenese",
+  "careers": "https://www.comeet.com/jobs/webselenese/84.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "webselenese",
+   "uid": "84.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Webz.io",
+  "careers": "https://www.comeet.com/jobs/webz/D9.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "webz",
+   "uid": "D9.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Welo Global",
+  "careers": "https://jobs.lever.co/weloglobal",
+  "ats": {
+   "platform": "lever",
+   "slug": "weloglobal"
+  },
+  "size": "small"
+ },
+ {
+  "name": "WeSki",
+  "careers": "https://www.comeet.com/jobs/weski/F8.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "weski",
+   "uid": "F8.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Wiliot",
+  "careers": "https://www.comeet.com/jobs/wiliot/F6.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "wiliot",
+   "uid": "F6.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Wing Assistant",
+  "careers": "https://jobs.lever.co/getwingapp",
+  "ats": {
+   "platform": "lever",
+   "slug": "getwingapp"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Wix",
+  "careers": "https://jobs.smartrecruiters.com/Wix2",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Wix2"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Wiz",
+  "careers": "https://job-boards.greenhouse.io/wizinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "wizinc"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Workiz",
+  "careers": "https://www.comeet.com/jobs/workiz/F6.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "workiz",
+   "uid": "F6.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "WSC Sports",
+  "careers": "https://www.comeet.com/jobs/wsc-sports/93.007",
+  "ats": {
+   "platform": "comeet",
+   "slug": "wsc-sports",
+   "uid": "93.007"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Xsight Labs",
+  "careers": "https://www.comeet.com/jobs/xsightlabs/46.00C",
+  "ats": {
+   "platform": "comeet",
+   "slug": "xsightlabs",
+   "uid": "46.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "XTEND",
+  "careers": "https://www.comeet.com/jobs/xtend/85.00A",
+  "ats": {
+   "platform": "comeet",
+   "slug": "xtend",
+   "uid": "85.00A"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Yotpo",
+  "careers": "https://job-boards.greenhouse.io/yotpo",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "yotpo"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Youappi",
+  "careers": "https://www.comeet.com/jobs/youappi/C9.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "youappi",
+   "uid": "C9.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Z1 Tech",
+  "careers": "https://jobs.lever.co/z1tech",
+  "ats": {
+   "platform": "lever",
+   "slug": "z1tech"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zencity",
+  "careers": "https://www.comeet.com/jobs/zencity/56.00B",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zencity",
+   "uid": "56.00B"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zenity",
+  "careers": "https://www.comeet.com/jobs/zenity/19.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zenity",
+   "uid": "19.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zero Networks",
+  "careers": "https://www.comeet.com/jobs/zeronetworks/39.00F",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zeronetworks",
+   "uid": "39.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ZeroPort",
+  "careers": "https://www.comeet.com/jobs/zeroport/7A.00E",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zeroport",
+   "uid": "7A.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zesty",
+  "careers": "https://www.comeet.com/jobs/zesty/06.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zesty",
+   "uid": "06.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ZIM",
+  "careers": "https://www.comeet.com/jobs/zim/72.008",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zim",
+   "uid": "72.008"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zip",
+  "careers": "https://jobs.ashbyhq.com/zip",
+  "ats": {
+   "platform": "ashby",
+   "slug": "zip"
+  },
+  "size": "small"
+ },
+ {
+  "name": "ZyG",
+  "careers": "https://www.comeet.com/jobs/zyg/DA.006",
+  "ats": {
+   "platform": "comeet",
+   "slug": "zyg",
+   "uid": "DA.006"
+  },
+  "size": "small"
+ }
+]

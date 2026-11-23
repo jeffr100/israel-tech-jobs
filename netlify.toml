@@ -1,0 +1,22 @@
+# Netlify settings. The site is plain files: nothing to build.
+[build]
+  publish = "."
+  command = ""
+
+# Job data changes every run, so browsers should re-check it rather than cache it for long.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Keep crawler code and raw data off the public site.
+[[redirects]]
+  from = "/crawler/*"
+  to = "/404"
+  status = 404
+  force = true
+[[redirects]]
+  from = "/data/jobs.json"
+  to = "/404"
+  status = 404
+  force = true

@@ -1,0 +1,104 @@
+name: Job crawl
+on:
+  schedule:
+    - cron: "47 11 * * *"     # every day 11:47 UTC (6:47 am Eastern; 1:47 pm Israel): daily emails; weekly on Mondays, monthly on the 1st
+  workflow_dispatch:
+    inputs:
+      crawl:
+        description: "Crawl the job boards (untick to only re-publish the current data)"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: { group: pages, cancel-in-progress: false }
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
+      # Optional: Indeed / LinkedIn / Google Jobs feed and the "not on LinkedIn/Indeed" check
+      JOBSEARCH_PROVIDER: ${{ secrets.JOBSEARCH_PROVIDER }}
+      JOBSEARCH_API_KEY: ${{ secrets.JOBSEARCH_API_KEY }}
+      JOBSEARCH_SCOPE: ${{ vars.JOBSEARCH_SCOPE || secrets.JOBSEARCH_SCOPE }}
+      JOBSPY_SITES: ${{ vars.JOBSPY_SITES || secrets.JOBSPY_SITES }}
+      JOBSPY_PROXIES: ${{ secrets.JOBSPY_PROXIES }}
+      JOBSPY_MAX_COMPANIES: ${{ vars.JOBSPY_MAX_COMPANIES || secrets.JOBSPY_MAX_COMPANIES }}
+      JOBSEARCH_COUNTRY: ${{ secrets.JOBSEARCH_COUNTRY || 'il' }}
+      # Optional: newsletter / blog destinations
+      BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+      BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
+      BREVO_SENDER_NAME: ${{ vars.BREVO_SENDER_NAME }}
+      BREVO_LIST_DAILY: ${{ vars.BREVO_LIST_DAILY }}
+      BREVO_LIST_WEEKLY: ${{ vars.BREVO_LIST_WEEKLY }}
+      BREVO_LIST_MONTHLY: ${{ vars.BREVO_LIST_MONTHLY }}
+      BREVO_SEND: ${{ vars.BREVO_SEND }}
+      BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+      BUTTONDOWN_SEND: ${{ secrets.BUTTONDOWN_SEND }}
+      WP_URL: ${{ secrets.WP_URL }}
+      WP_USER: ${{ secrets.WP_USER }}
+      WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+      WP_STATUS: ${{ secrets.WP_STATUS }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - name: Install JobSpy (only used when JOBSEARCH_PROVIDER is jobspy)
+        if: ${{ inputs.crawl != false && (env.JOBSEARCH_PROVIDER == 'jobspy') }}
+        run: pip install python-jobspy
+      - name: Crawl job boards (Israel computer-science jobs)
+        if: ${{ inputs.crawl != false }}
+        run: python3 crawler/crawl.py
+      - name: Write digest and publish to newsletter / WordPress (if configured)
+        if: ${{ inputs.crawl != false }}
+        run: python3 crawler/publish.py
+      - name: Commit updated data
+        if: ${{ inputs.crawl != false }}
+        run: |
+          git config user.name "jobs-crawler"
+          git config user.email "jobs-crawler@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Job crawl $(date -u +%Y-%m-%d)"
+          git push
+      # Only the public files go on the website (not the crawler or the raw job file).
+      - name: Build the public site folder
+        run: |
+          rm -rf _site && mkdir -p _site/data
+          for f in index.html site.config.js ads.txt; do if [ -f "$f" ]; then cp "$f" _site/; fi; done
+          cp data/site.json data/feed.xml _site/data/
+          touch _site/.nojekyll
+      - if: ${{ vars.HOSTING != 'netlify' }}
+        uses: actions/configure-pages@v5
+      - if: ${{ vars.HOSTING != 'netlify' }}
+        uses: actions/upload-pages-artifact@v4
+        with: { path: "_site" }
+      # ---- Netlify (set the repository variable HOSTING=netlify to use this instead of GitHub Pages) ----
+      # Each Netlify production deploy costs credits, so by default the site is deployed once a week
+      # (Mondays) and whenever you run the workflow by hand. Set NETLIFY_DEPLOY=daily to deploy every day.
+      - name: Deploy to Netlify
+        if: ${{ vars.HOSTING == 'netlify' }}
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY: ${{ vars.NETLIFY_DEPLOY }}
+        run: |
+          if [ "$NETLIFY_DEPLOY" != "daily" ] && [ "${{ github.event_name }}" = "schedule" ] && [ "$(date -u +%u)" != "1" ]; then
+            echo "Not a deploy day (set NETLIFY_DEPLOY=daily to deploy every day)."; exit 0
+          fi
+          if [ -f netlify.toml ]; then cp netlify.toml _site/; fi
+          npx -y netlify-cli@latest deploy --prod --dir _site --site "$NETLIFY_SITE_ID" --auth "$NETLIFY_AUTH_TOKEN" --message "Job crawl $(date -u +%Y-%m-%d)"
+
+  # Publishing to GitHub Pages is its own job, so if it ever fails it can be re-run
+  # ("Re-run failed jobs") in seconds without crawling again.
+  deploy:
+    needs: crawl
+    if: ${{ vars.HOSTING != 'netlify' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

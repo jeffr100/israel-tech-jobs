@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tech Jobs in Israel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* VOICE: a working tool for engineers — plain, quick, no props.
+   IDEA: a classified-ads page for software, data, security and chip jobs.
+   PICTURE: the live job list at the top, one mint slab on the headline count.
+   COLOUR and TYPE: white / ink #0f1419, slate, one mint accent #3ee0b5; Manrope throughout.
+   LAYOUT: title + key figures, filter bar, results list; companies & weekly changes below. */
+:root{color-scheme:light dark;--bg:light-dark(#ffffff,#0f1419);--ink:light-dark(#0f1419,#eef1f4);--mut:light-dark(#5b6672,#9aa6b2);--line:light-dark(#e3e7ec,#26303a);--soft:light-dark(#f4f6f8,#161d24);--y:#3ee0b5;--acc:light-dark(#0a6c8c,#7fd4f0)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Manrope,system-ui,-apple-system,Segoe UI,sans-serif;overflow-x:clip}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.band{padding:clamp(22px,3.5vw,48px) max(5vw,16px)}
+.wrap{max-width:1240px;margin:0 auto}
+h1{font-size:clamp(30px,4.4vw,46px);line-height:1.05;margin:0 0 10px;text-wrap:balance;font-weight:800;letter-spacing:-.01em}
+h2{font-size:24px;line-height:1.15;margin:0 0 14px;font-weight:800}
+.lede{color:var(--mut);max-width:70ch;margin:0}
+.kpis{display:flex;flex-wrap:wrap;gap:12px 34px;margin-top:22px;align-items:flex-end}
+.kpi b{display:block;font-size:clamp(26px,3.4vw,38px);line-height:1;font-weight:800;font-variant-numeric:tabular-nums}
+.kpi span{display:block;font-size:13px;color:var(--mut)}
+.kpi.hi b{background:var(--y);color:#0f1419;padding:4px 10px;border-radius:4px;display:inline-block}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:12px max(5vw,16px)}
+.bar .wrap{display:grid;grid-template-columns:minmax(0,2fr) repeat(3,minmax(0,1fr)) minmax(0,.9fr) auto;gap:10px;align-items:center}
+input,select,button{font:inherit;font-size:16px;color:var(--ink);background:var(--soft);border:1px solid var(--line);border-radius:8px;min-height:44px;padding:0 12px;width:100%}
+button{cursor:pointer;width:auto;font-weight:600}
+input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.chip{min-height:36px;padding:0 12px;border-radius:999px;font-size:14px;font-weight:600;background:var(--bg)}
+.tog .lab{font-size:13px;color:var(--mut);align-self:center;margin-left:4px}.tog .lab~.lab{margin-left:14px}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .c{font-weight:500;opacity:.7;margin-left:4px;font-variant-numeric:tabular-nums}
+.meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--mut);font-size:14px;margin:6px 0 10px}
+table{width:100%;border-collapse:collapse}
+th{text-align:left;font-size:13px;color:var(--mut);font-weight:600;border-bottom:1px solid var(--line);padding:8px 10px 8px 0}
+td{border-bottom:1px solid var(--line);padding:10px 10px 10px 0;vertical-align:top;font-size:15px}
+td.t a{font-weight:700;color:var(--ink)}td.t a:hover{color:var(--acc)}
+td.d{white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums;color:var(--mut);font-size:14px}
+.new{display:inline-block;background:var(--y);color:#0f1419;font-size:12px;font-weight:800;padding:0 6px;border-radius:3px;margin-left:6px;vertical-align:1px}
+.src{font-size:12px;color:var(--mut)}
+.more{display:block;margin:16px auto 0}
+.empty{padding:40px 0;color:var(--mut);text-align:center}
+.cols{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:40px}
+.co{columns:2 260px;column-gap:28px;font-size:14px}
+.co div{break-inside:avoid;padding:5px 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:10px}
+.co .n{font-variant-numeric:tabular-nums;color:var(--mut);white-space:nowrap}
+.co button{all:unset;cursor:pointer;color:var(--ink);font-weight:600}.co button:hover{color:var(--acc)}
+.ch li{margin-bottom:8px}.ch{padding-left:18px;font-size:14px}
+details{margin-top:12px;font-size:14px;color:var(--mut)}
+.foot{font-size:13px;color:var(--mut);border-top:1px solid var(--line)}
+@media(max-width:900px){.bar{position:static}.bar .wrap{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}.bar .wrap>:first-child{grid-column:1/-1}.cols{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:600px){table{font-size:13px}.stack thead{display:none}.stack tr{display:grid;padding-block:10px;border-bottom:1px solid var(--line)}.stack td{display:flow-root;border:0;padding:3px 0;padding-inline-start:6.5em;text-align:start}.stack td::before{content:attr(data-l);float:inline-start;width:6em;margin-inline-start:-6.5em;color:var(--mut);font-size:12px}.stack td:empty{display:none}td.d{text-align:start}}
+@media(prefers-reduced-motion:no-preference){tbody tr{animation:f .25s ease both}@keyframes f{from{opacity:0}}}
+</style>
+<script>new MutationObserver(()=>{for(const c of document.querySelectorAll('.stack td:not([data-l])')){let i=0,p=c;while(p=p.previousElementSibling)i+=p.colSpan;c.dataset.l=c.closest('table').rows[0].cells[i]?.textContent||''}}).observe(document,{childList:true,subtree:true})</script>
+</head>
+<body>
+<header class="band"><div class="wrap">
+  <h1>Computer-science jobs in Israel</h1>
+  <p class="lede">Software, data &amp; AI, security, DevOps, chip design and other tech openings in Israel, read straight from company career boards and checked every week. New jobs are marked, and jobs we could not find on LinkedIn, Indeed or Glassdoor can be shown on their own.</p>
+  <div class="kpis" id="k"></div>
+</div></header>
+
+<div class="bar"><div class="wrap">
+  <input id="q" type="search" placeholder="Search title, company, skill or city" aria-label="Search jobs">
+  <select id="reg" aria-label="Area"><option value="">All of Israel</option></select>
+  <select id="lvl" aria-label="Level"><option value="">All levels</option></select>
+  <select id="dt" aria-label="Posted"><option value="">Any time</option><option value="new">New this week</option><option value="30">Posted in last 30 days</option></select>
+  <select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="co">Company A–Z</option><option value="title">Title A–Z</option></select>
+  <button id="reset" type="button">Clear</button>
+  <div class="chips" id="cats" style="grid-column:1/-1" aria-label="Job type"></div>
+  <div class="chips tog" style="grid-column:1/-1">
+    <span class="lab">Company size</span>
+    <button class="chip" type="button" aria-pressed="true" data-t="large">Large (1,000+ staff)</button>
+    <button class="chip" type="button" aria-pressed="true" data-t="small">Startups and mid-size</button>
+    <span class="lab">Found on</span>
+    <button class="chip" type="button" aria-pressed="true" data-t="board">Company job boards</button>
+    <button class="chip" type="button" aria-pressed="true" data-t="aggregator">Indeed, LinkedIn and Google Jobs</button>
+    <span class="lab">Show</span>
+    <button class="chip" type="button" aria-pressed="false" id="onlyhere">Only jobs not on LinkedIn or Indeed</button>
+  </div>
+</div></div>
+
+<main class="band" style="padding-top:14px"><div class="wrap">
+  <div class="meta"><span id="count"></span><span id="gen"></span></div>
+  <table class="stack"><thead><tr><th>Job</th><th>Company</th><th>Location</th><th style="text-align:right">First seen</th></tr></thead><tbody id="rows"></tbody></table>
+  <div id="empty" class="empty" hidden>No jobs match these filters.</div>
+  <button id="more" class="more" type="button" hidden>Show more</button>
+</div></main>
+
+<section class="band" style="background:var(--soft)"><div class="wrap cols">
+  <div>
+    <h2>Companies</h2>
+    <input id="cq" type="search" placeholder="Find a company" aria-label="Find a company" style="margin-bottom:10px">
+    <div class="meta" style="margin-top:0"><span id="ccount"></span>
+      <label><input type="checkbox" id="onlyjobs" checked style="width:auto;min-height:0;vertical-align:-2px"> With listed jobs only</label></div>
+    <div class="co" id="cos"></div>
+  </div>
+  <div>
+    <h2>Weekly changes</h2>
+    <ul class="ch" id="changes"></ul>
+    <details><summary>How this works</summary>
+      <p>Each company is matched to its public job board (Comeet, Greenhouse, Lever, Ashby, SmartRecruiters or Workday), and a crawler reads those boards every week. Only jobs located in Israel are kept, and only technical roles: software, data and AI, algorithms, security, DevOps and cloud, QA, embedded, chip design, IT and technical product jobs. Sales, marketing, finance, HR and operations roles are left out. Job types and levels are worked out from the job title, so a few may be misfiled. "Large" means about 1,000 or more employees; sizes are estimates. "First seen" is the first check that found the job, not the employer's posting date.</p>
+    </details>
+  </div>
+</div></section>
+<footer class="band foot"><div class="wrap" id="foot"></div></footer>
+
+<script>
+{
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
+const CATS=["Backend & software engineering","Frontend & full stack","Mobile","Data & AI","Algorithms & research","Security","DevOps, cloud & SRE","QA & testing","Embedded & firmware","Chip design & hardware","IT & systems","Technical product","Other"];
+const LVLS=["Student / intern","Junior","Mid-level / unspecified","Senior","Lead / manager"];
+let ALL=[],COS=[],shown=200,onlyHere=false;const cats=new Set();
+const state={q:'',reg:'',lvl:'',dt:'',sort:'new'};
+const tog={large:true,small:true,board:true,aggregator:true};
+const ago=d=>{const t=new Date();t.setDate(t.getDate()-d);return t.toISOString().slice(0,10)};
+function load(d){
+  const meta=Object.fromEntries((d.meta||[]).map(c=>[c.name,c]));
+  for(const [name,c] of Object.entries(d.companies)){
+    const m=meta[name]||{};
+    for(const j of c.jobs){ALL.push({...j,co:name,size:m.size||'small',from:j.source==='aggregator'?'aggregator':'board',category:j.category||'Other',hay:(j.title+' '+name+' '+j.location+' '+(j.department||'')+' '+(j.category||'')).toLowerCase()})}
+  }
+  COS=(d.meta||[]).map(m=>({...m,n:(d.companies[m.name]?.jobs||[]).length}));
+  const count=k=>{const c={};for(const j of ALL)c[j[k]]=(c[j[k]]||0)+1;return c};
+  const rc=count('region'),lc=count('level'),cc=count('category');
+  $('reg').innerHTML='<option value="">All of Israel</option>'+Object.keys(rc).sort((a,b)=>rc[b]-rc[a]).map(s=>`<option value="${esc(s)}">${esc(s)} (${rc[s].toLocaleString()})</option>`).join('');
+  $('lvl').innerHTML='<option value="">All levels</option>'+LVLS.filter(l=>lc[l]).map(s=>`<option value="${esc(s)}">${esc(s)} (${lc[s].toLocaleString()})</option>`).join('');
+  $('cats').innerHTML='<span class="lab" style="font-size:13px;color:var(--mut);align-self:center;margin-left:4px">Job type</span>'+CATS.filter(c=>cc[c]).map(c=>`<button class="chip" type="button" aria-pressed="false" data-c="${esc(c)}">${esc(c)}<span class="c">${cc[c].toLocaleString()}</span></button>`).join('');
+  window.__cov=ALL.some(j=>j.coverage&&j.coverage.linkedin!=null);
+  // Show the job-site switches only when there is something behind them.
+  if(!window.__cov){$('onlyhere').style.display='none';$('onlyhere').previousElementSibling.style.display='none'}
+  if(!ALL.some(j=>j.from==='aggregator')){const b=document.querySelector('[data-t="aggregator"]');b.style.display='none';b.previousElementSibling.style.display='none';b.previousElementSibling.previousElementSibling.style.display='none'}
+  const latest=ALL.reduce((a,j)=>j.first_seen>a?j.first_seen:a,'');
+  const fresh=ALL.filter(j=>j.first_seen===latest && latest!==d.first_run).length;
+  const agg=ALL.filter(j=>j.from==='aggregator').length;
+  $('k').innerHTML=`<div class="kpi hi"><b>${ALL.length.toLocaleString()}</b><span>open tech jobs in Israel</span></div>
+   <div class="kpi"><b>${COS.filter(c=>c.n).length.toLocaleString()}</b><span>companies hiring</span></div>
+   <div class="kpi"><b>${(cc['Backend & software engineering']||0)+(cc['Frontend & full stack']||0)+(cc['Mobile']||0)}</b><span>software engineering</span></div>
+   <div class="kpi"><b>${(cc['Data & AI']||0).toLocaleString()}</b><span>data and AI</span></div>
+   ${latest!==d.first_run?`<div class="kpi"><b>${fresh.toLocaleString()}</b><span>new in the latest check</span></div>`:`<div class="kpi"><b>${COS.length.toLocaleString()}</b><span>company boards tracked</span></div>`}`;
+  $('gen').textContent='Last checked '+d.generated+(agg?'':' · Indeed, LinkedIn and Google Jobs feed is off');
+  window.__latest=latest;
+  const ch=d.changes||[];
+  $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${c.added} new, ${c.removed} removed</li>`).join(''):'<li>The first weekly comparison will appear after the next crawl.</li>';
+  $('foot').innerHTML=`Job data from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a licensed job-search API':''}. Company list built in part from the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages.`;
+  renderCos();render();
+}
+function filt(){
+  const q=state.q.toLowerCase().trim(), since=state.dt==='30'?ago(30):'';
+  let r=ALL.filter(j=>tog[j.size]&&tog[j.from]&&(!cats.size||cats.has(j.category))&&(!q||q.split(/\s+/).every(t=>j.hay.includes(t)))&&(!state.reg||j.region===state.reg)&&(!state.lvl||j.level===state.lvl)&&(state.dt!=='new'||j.first_seen===window.__latest)&&(!since||(j.posted||j.first_seen)>=since)&&(!onlyHere||(j.coverage&&(j.coverage.linkedin!=null||j.coverage.indeed!=null)&&!j.coverage.linkedin&&!j.coverage.indeed&&!j.coverage.glassdoor)));
+  const s=state.sort;
+  r.sort(s==='co'?(a,b)=>a.co.localeCompare(b.co)||a.title.localeCompare(b.title):s==='title'?(a,b)=>a.title.localeCompare(b.title):(a,b)=>(b.first_seen+(b.posted||'')).localeCompare(a.first_seen+(a.posted||''))||a.co.localeCompare(b.co));
+  return r}
+function render(){
+  const r=filt();
+  $('count').textContent=`${r.length.toLocaleString()} job${r.length===1?'':'s'}`;
+  $('rows').innerHTML=r.slice(0,shown).map(j=>`<tr><td class="t"><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>${j.first_seen===window.__latest&&window.__latest!==window.__first?'<span class="new">New</span>':''}<div class="src">${esc(j.category)} · ${esc(j.level)}</div></td><td>${esc(j.co)}<div class="src">${j.size==='large'?'Large company':'Startup / mid-size'}${j.from==='aggregator'?' · via '+esc(j.via||'job search'):''}${j.coverage?(j.coverage.linkedin||j.coverage.indeed||j.coverage.glassdoor||j.coverage.google?' · also on '+['linkedin','indeed','glassdoor','google'].filter(k=>j.coverage[k]).map(k=>({linkedin:'LinkedIn',indeed:'Indeed',glassdoor:'Glassdoor',google:'Google Jobs'})[k]).join(', '):' · <b>not on '+['linkedin','indeed','google'].filter(k=>j.coverage[k]===false).map(k=>({linkedin:'LinkedIn',indeed:'Indeed',google:'Google Jobs'})[k]).join(', ')+'</b>'+(j.coverage.linkedin==null?' (LinkedIn not checked)':'')):''}</div></td><td>${esc(j.location)}</td><td class="d">${esc(j.first_seen)}</td></tr>`).join('');
+  $('empty').hidden=r.length>0; $('more').hidden=r.length<=shown;
+  $('more').textContent=`Show more (${(r.length-shown).toLocaleString()} left)`;
+}
+function renderCos(){
+  const q=$('cq').value.toLowerCase().trim(), only=$('onlyjobs').checked;
+  const r=COS.filter(c=>tog[c.size||'small']&&(!q||c.name.toLowerCase().includes(q))&&(!only||c.n)).sort((a,b)=>a.name.localeCompare(b.name));
+  $('ccount').textContent=`${r.length.toLocaleString()} of ${COS.length.toLocaleString()}`;
+  $('cos').innerHTML=r.map(c=>`<div><span>${c.n?`<button type="button" data-co="${esc(c.name)}">${esc(c.name)}</button>`:esc(c.name)}${c.size==='large'?' <span class="src">Large</span>':''}</span><span class="n">${c.n?`${c.n} jobs · `:''}${c.careers?`<a href="${esc(c.careers)}" target="_blank" rel="noopener">careers ↗</a>`:`<a href="https://www.google.com/search?q=${encodeURIComponent(c.name+' careers Israel')}" target="_blank" rel="noopener">find careers ↗</a>`}</span></div>`).join('');
+}
+$('cats').addEventListener('click',e=>{const b=e.target.closest('[data-c]');if(!b)return;const c=b.dataset.c;cats.has(c)?cats.delete(c):cats.add(c);b.setAttribute('aria-pressed',cats.has(c));shown=200;render()});
+$('onlyhere').addEventListener('click',()=>{onlyHere=!onlyHere;$('onlyhere').setAttribute('aria-pressed',onlyHere);shown=200;render()});
+document.querySelector('.tog').addEventListener('click',e=>{const b=e.target.closest('[data-t]');if(!b)return;const k=b.dataset.t;tog[k]=!tog[k];b.setAttribute('aria-pressed',tog[k]);shown=200;render();renderCos()});
+$('cos').addEventListener('click',e=>{const b=e.target.closest('[data-co]');if(!b)return;$('q').value=state.q=b.dataset.co;shown=200;render();$('q').scrollIntoView({behavior:'smooth',block:'start'})});
+$('cq').addEventListener('input',renderCos);$('onlyjobs').addEventListener('change',renderCos);
+let t;$('q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>{state.q=e.target.value;shown=200;render()},120)});
+for(const k of ['reg','lvl','dt','sort'])$(k).addEventListener('change',e=>{state[k]=e.target.value;shown=200;render()});
+$('more').addEventListener('click',()=>{shown+=300;render()});
+$('reset').addEventListener('click',()=>{onlyHere=false;$('onlyhere').setAttribute('aria-pressed','false');Object.assign(state,{q:'',reg:'',lvl:'',dt:'',sort:'new'});for(const k of ['q','reg','lvl','dt'])$(k).value='';$('sort').value='new';cats.clear();for(const x of $('cats').querySelectorAll('[data-c]'))x.setAttribute('aria-pressed','false');for(const k in tog)tog[k]=true;for(const x of document.querySelectorAll('.tog [data-t]'))x.setAttribute('aria-pressed','true');shown=200;render();renderCos()});
+fetch('data/site.json').then(r=>r.json()).then(d=>{window.__first=d.first_run;load(d)}).catch(()=>{$('count').textContent='Could not load the job data (data/site.json).'});
+}
+</script>
+</body>
+</html>

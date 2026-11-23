@@ -1,1 +1,796 @@
-[]
+[
+{
+"date": "2026-11-23",
+"added": 79,
+"removed": 78,
+"added_jobs": [
+{
+"company": "44 ventures",
+"title": "Junior Developer – Automation & AI",
+"url": "https://www.comeet.com/jobs/44ventures/18.001/junior-developer-automation-ai/27.576"
+},
+{
+"company": "abra",
+"title": "DevOps Engineer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/devops-engineer/89.574"
+},
+{
+"company": "abra",
+"title": "RT embedded SW/ FW verification engineer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/rt-embedded-sw-fw-verification-engineer/69.57D"
+},
+{
+"company": "abra",
+"title": "Senior SOC Analyst",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-soc-analyst/49.57E"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנחה/ת  אבטחת מידע",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/13.A4C"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "רפרנט/ית מערכות מידע",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/74.33E"
+},
+{
+"company": "Akeyless",
+"title": "Backend Engineer",
+"url": "https://www.comeet.com/jobs/akeyless/27.006/backend-engineer/38.158"
+},
+{
+"company": "AppsFlyer",
+"title": "Product Partnerships Lead- 2930",
+"url": "https://careers.appsflyer.com/jobs/position/8883285002?gh_jid=8883285002"
+},
+{
+"company": "AppsFlyer",
+"title": "Product Partnerships Manager",
+"url": "https://careers.appsflyer.com/jobs/position/8509670002?gh_jid=8509670002"
+},
+{
+"company": "Astera Labs",
+"title": "Expert IC Package Design Lead",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4664075005"
+},
+{
+"company": "Astera Labs",
+"title": "Principal Emulation Engineer",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715784005"
+},
+{
+"company": "Augury",
+"title": "Hardware Validation & Automation Student",
+"url": "https://www.augury.com/careers/8929757002?gh_jid=8929757002"
+},
+{
+"company": "Bagira",
+"title": "DevOps Lead (Modiin)",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/devops-lead-modiin/1D.468"
+},
+{
+"company": "Bagira",
+"title": "DevOps Lead (Tel Aviv)",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/devops-lead-tel-aviv/89.573"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנהל/ת מערכות – תשתיות     AI",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/ai/99.575"
+},
+{
+"company": "BeyondTrust",
+"title": "Junior Software Development Engineer - Fix Term Contract",
+"url": "https://job-boards.greenhouse.io/beyondtrust/jobs/8279053"
+},
+{
+"company": "BigID",
+"title": "Associate Software Engineer",
+"url": "https://bigid.com/company/careers/job-details/8958308002?gh_jid=8958308002"
+},
+{
+"company": "BUYME",
+"title": "Senior Full Stack Developer",
+"url": "https://www.comeet.com/jobs/buyme/B2.008/senior-full-stack-developer/17.71F"
+},
+{
+"company": "BUYME",
+"title": "Senior Native Mobile Developer (Android & iOS)",
+"url": "https://www.comeet.com/jobs/buyme/B2.008/senior-native-mobile-developer-android-ios/05.477"
+},
+{
+"company": "Camtek",
+"title": "Product Engineer",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/product-engineer/49.57A"
+},
+{
+"company": "Camtek",
+"title": "Project Manager",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/project-manager/59.571"
+},
+{
+"company": "Camtek",
+"title": "Validation Engineer",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/validation-engineer/49.57D"
+},
+{
+"company": "Cardo Systems",
+"title": "Embedded Software Engineer",
+"url": "https://www.comeet.com/jobs/cardosystems/F2.003/embedded-software-engineer/F8.57B"
+},
+{
+"company": "Cato Networks",
+"title": "Software Engineering Team Lead",
+"url": "https://www.catonetworks.com/careers/careers-post/5041486101?gh_jid=5041486101"
+},
+{
+"company": "Cato Networks",
+"title": "SW Engineer - Enterprise Browser team",
+"url": "https://www.catonetworks.com/careers/careers-post/4648864101?gh_jid=4648864101"
+},
+{
+"company": "Claroty",
+"title": "Software Architect",
+"url": "https://www.comeet.com/jobs/claroty/F2.004/software-architect/3D.473"
+},
+{
+"company": "CodeValue",
+"title": "QA Engineer",
+"url": "https://www.comeet.com/jobs/codevalue/81.009/qa-engineer/0D.30D"
+},
+{
+"company": "CodeValue",
+"title": "Senior  .Net Developer",
+"url": "https://www.comeet.com/jobs/codevalue/81.009/senior-net-developer/F2.20F"
+},
+{
+"company": "Cyera",
+"title": "Senior AI Researcher",
+"url": "https://www.comeet.com/jobs/cyera/17.008/senior-ai-researcher/2B.D67"
+},
+{
+"company": "Cyera",
+"title": "Senior Software Engineer -  Identity",
+"url": "https://www.comeet.com/jobs/cyera/17.008/senior-software-engineer-identity/CF.274"
+},
+{
+"company": "Dream",
+"title": "Senior Applied Scientist-  Agentic AI & NLP",
+"url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-applied-scientist-agentic-ai-nlp/76.47A"
+},
+{
+"company": "DRIVENETS",
+"title": "AI Platform Software Engineer",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/ai-platform-software-engineer/AA.B6C"
+},
+{
+"company": "DRIVENETS",
+"title": "Data Center Director",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/data-center-director/40.F61"
+},
+{
+"company": "DRIVENETS",
+"title": "Product Manager, Network Domain",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/product-manager-network-domain/90.57A"
+},
+{
+"company": "DRIVENETS",
+"title": "Senior Backend Developer /Tech Lead",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/senior-backend-developer-tech-lead/81.369"
+},
+{
+"company": "DRIVENETS",
+"title": "System Architect",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/system-architect/CA.B64"
+},
+{
+"company": "DUVE",
+"title": "Senior Backend Engineer - (Platform)",
+"url": "https://www.comeet.com/jobs/duve/58.00D/senior-backend-engineer-platform/C4.275"
+},
+{
+"company": "Earnix",
+"title": "Full-Stack Developer  - Maternity Leave Replacement (8 months)",
+"url": "https://www.comeet.com/jobs/earnix/93.00B/full-stack-developer-maternity-leave-replacement-8-months/E5.470"
+},
+{
+"company": "Earnix",
+"title": "Junior Automation and Frontend  Developer - Maternity Leave Replacement (6 months)",
+"url": "https://www.comeet.com/jobs/earnix/93.00B/junior-automation-and-frontend-developer-maternity-leave-replacement-6-months/B7.372"
+},
+{
+"company": "Eleos Health",
+"title": "Senior Chrome Extension Engineer",
+"url": "https://job-boards.eu.greenhouse.io/eleoshealth/jobs/4743582101"
+},
+{
+"company": "FeverUp",
+"title": "Market Strategy and Partnerships Manager - Israel",
+"url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4570666101"
+},
+{
+"company": "FeverUp",
+"title": "Senior Market Strategy and Partnerships Manager",
+"url": "https://job-boards.eu.greenhouse.io/feverup/jobs/4713996101"
+},
+{
+"company": "Final",
+"title": "Senior C++  Software Engineer",
+"url": "https://www.comeet.com/jobs/final/C0.009/senior-c-software-engineer/9F.26E"
+},
+{
+"company": "Helfy",
+"title": "Mobile User Acquisition Manager",
+"url": "https://www.comeet.com/jobs/helfy/3A.008/mobile-user-acquisition-manager/89.57C"
+},
+{
+"company": "INFINIDAT",
+"title": "Software  Engineering Team Lead - NAS Group",
+"url": "https://www.comeet.com/jobs/infinidat/D6.003/software-engineering-team-lead-nas-group/4C.D6C"
+},
+{
+"company": "instacart",
+"title": "Data Operations Manager",
+"url": "https://instacart.careers/job/?gh_jid=8240723"
+},
+{
+"company": "JDC",
+"title": "Director, Strategic Partnerships & Resource Development – JDC-Ashalim",
+"url": "https://www.comeet.com/jobs/jdc/F3.004/director-strategic-partnerships-resource-development-jdc-ashalim/E6.57D"
+},
+{
+"company": "Jobgether",
+"title": "Architect – Customer Demos & Key Accounts – English, German, Korean",
+"url": "https://jobs.lever.co/jobgether/5ab7ebd4-75e4-442f-b604-b1006150ab32"
+},
+{
+"company": "Jobgether",
+"title": "Data Analyst, Identification Accuracy",
+"url": "https://jobs.lever.co/jobgether/cb3cf05b-3bf7-49c5-b4d8-6c7fa6c8e105"
+},
+{
+"company": "KPMG",
+"title": "Cyber Security Engineer",
+"url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/cyber-security-engineer/E8.571"
+},
+{
+"company": "Majestic Labs",
+"title": "Product Manager - AI Infrastructure  (Server HW) - US",
+"url": "https://www.comeet.com/jobs/majesticlabs/AA.004/product-manager-ai-infrastructure-server-hw-us/D4.F62-7F.505"
+},
+{
+"company": "Marvell",
+"title": "Director, Physical Design",
+"url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Petah-Tikva/Director--Physical-Design_2605418"
+},
+{
+"company": "Marvell",
+"title": "AI research intern",
+"url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Petah-Tikva/AI-research-intern_2605267"
+},
+{
+"company": "MDClone",
+"title": "Senior System Administrator (IT, Cloud & Security)",
+"url": "https://www.comeet.com/jobs/mdclone/66.004/senior-system-administrator-it-cloud-security/AE.473"
+},
+{
+"company": "Mego Afek",
+"title": "SW Design Engineer",
+"url": "https://www.comeet.com/jobs/megoafek/7A.003/sw-design-engineer/39.576"
+},
+{
+"company": "Motorola Solutions",
+"title": "Mobile App Developer",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Tel-Aviv-Israel-ZIL87/Mobile-App-Developer_R70832"
+},
+{
+"company": "Navina",
+"title": "Senior Software Engineer, AI",
+"url": "https://www.comeet.com/jobs/navina/E6.00C/senior-software-engineer-ai/89.572"
+},
+{
+"company": "Nebius",
+"title": "Senior Program Manager",
+"url": "https://careers.nebius.com/?gh_jid=5000674101"
+},
+{
+"company": "NICE",
+"title": "Software Engineer",
+"url": "https://boards.eu.greenhouse.io/nice/jobs/5040105101?gh_jid=5040105101"
+},
+{
+"company": "Nova Ltd.",
+"title": "RMA Integration Engineer",
+"url": "https://www.comeet.com/jobs/nova/A5.007/rma-integration-engineer/99.B6E"
+},
+{
+"company": "NVIDIA",
+"title": "Director, Software Technical Program Management",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--Software-Technical-Program-Management_JR2029252"
+},
+{
+"company": "NVIDIA",
+"title": "Software Architect, GPU Networking",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Software-Architect--GPU-Networking_JR2030556"
+},
+{
+"company": "NVIDIA",
+"title": "Release Manager",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Release-Manager_JR2018931"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Software Engineer Tech Lead, Network System Validation",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer-Tech-Lead--Network-System-Validation_JR2025581"
+},
+{
+"company": "Parallel Wireless",
+"title": "Sr. CI DevOps Engineer",
+"url": "https://jobs.lever.co/parallelwireless/18793812-eb0b-498d-871b-b71a7c9ca3bf"
+},
+{
+"company": "Passportcard",
+"title": "Solutions Architect",
+"url": "https://www.comeet.com/jobs/passportcard/92.00A/solutions-architect/DE.27D"
+},
+{
+"company": "Pentera",
+"title": "Senior Software Engineer -  Platform",
+"url": "https://www.comeet.com/jobs/pentera/C5.00D/senior-software-engineer-platform/BB.47E"
+},
+{
+"company": "proteanTecs",
+"title": "SoC/IP Architect",
+"url": "https://www.comeet.com/jobs/proteantecs/D5.00E/soc-ip-architect/39.57F"
+},
+{
+"company": "Semperis",
+"title": "Director, Security Operation",
+"url": "https://jobs.ashbyhq.com/semperis/3491def1-f0a7-4e51-83e1-8501602738e2"
+},
+{
+"company": "Sentra",
+"title": "Senior Full Stack Engineer",
+"url": "https://www.comeet.com/jobs/sentra/87.00B/senior-full-stack-engineer/D3.965"
+},
+{
+"company": "Similarweb",
+"title": "Data Team Lead",
+"url": "https://job-boards.greenhouse.io/similarweb/jobs/8365427"
+},
+{
+"company": "Smart-shooter",
+"title": "System Engineer",
+"url": "https://www.comeet.com/jobs/smart-shooter/0B.00A/system-engineer/79.576"
+},
+{
+"company": "SolarEdge",
+"title": "Senior Backend Engineer",
+"url": "https://www.comeet.com/jobs/solaredge/71.00A/senior-backend-engineer/D8.578"
+},
+{
+"company": "SuperPlay",
+"title": "Graphic Designer - (Temporary for 9 months)",
+"url": "https://www.comeet.com/jobs/superplay/28.003/graphic-designer-temporary-for-9-months/5C.47F"
+},
+{
+"company": "Team8",
+"title": "Stealth Cyber Startup-Founding Engineer — Core Team",
+"url": "https://www.comeet.com/jobs/team8/61.003/stealth-cyber-startup-founding-engineer-core-team/19.571"
+},
+{
+"company": "Team8",
+"title": "Team8  -Security & IT Manager",
+"url": "https://www.comeet.com/jobs/team8/61.003/team8-security-it-manager/B6.375"
+},
+{
+"company": "VAST Data",
+"title": "QA Automation Team Lead",
+"url": "https://www.comeet.com/jobs/vastdata/43.001/qa-automation-team-lead/B5.F24"
+},
+{
+"company": "WalkMe",
+"title": "Digital Adoption Solutions Engineer",
+"url": "https://jobs.lever.co/walkme/d05889af-f0d2-4b61-8581-b88d0954f538"
+},
+{
+"company": "Xsight Labs",
+"title": "Senior VLSI  Designer",
+"url": "https://www.comeet.com/jobs/xsightlabs/46.00C/senior-vlsi-designer/2D.85B"
+}
+],
+"removed_jobs": [
+{
+"company": "abra",
+"title": "Information Systems Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007#Information%20Systems%20Implementer%20%7C%20Center"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנחה/ת אבטחת מידע",
+"url": "https://www.comeet.com/jobs/abra/12.003#%D7%9E%D7%A0%D7%97%D7%94/%D7%AA%20%D7%90%D7%91%D7%98%D7%97%D7%AA%20%D7%9E%D7%99%D7%93%D7%A2%20%7C%20Bnei%20Brak"
+},
+{
+"company": "Alice",
+"title": "Fraud Threat Analyst",
+"url": "https://www.comeet.com/jobs/activefence/D5.005#Fraud%20Threat%20Analyst%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Alice",
+"title": "Fraud Threat Team Lead",
+"url": "https://www.comeet.com/jobs/activefence/D5.005#Fraud%20Threat%20Team%20Lead%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Alice",
+"title": "Technical Fraud Threat Analyst",
+"url": "https://www.comeet.com/jobs/activefence/D5.005#Technical%20Fraud%20Threat%20Analyst%20%7C%20Ramat%20Gan"
+},
+{
+"company": "april",
+"title": "Hands-on AI & Data Engineering Manager",
+"url": "https://jobs.ashbyhq.com/april/774e05c1-9cdd-44a2-af7a-9fde2bbfd47c"
+},
+{
+"company": "Arago",
+"title": "Senior Analog IC Design Engineer",
+"url": "https://jobs.ashbyhq.com/arago/25cfdecb-8269-489f-90a6-d7b18cc5cf8c"
+},
+{
+"company": "Arago",
+"title": "Physical Design Engineer",
+"url": "https://jobs.ashbyhq.com/arago/566f03cc-c967-4282-8638-1cc509687323"
+},
+{
+"company": "Arago",
+"title": "Digital Verification Engineer",
+"url": "https://jobs.ashbyhq.com/arago/0022a2f4-b0bd-42fb-b83a-fc69515ae168"
+},
+{
+"company": "Arago",
+"title": "SW Team Lead",
+"url": "https://jobs.ashbyhq.com/arago/54a9e13a-e399-4ebb-a4cc-c19bfb5a0616"
+},
+{
+"company": "Arago",
+"title": "Mixed-signal Verification Engineer",
+"url": "https://jobs.ashbyhq.com/arago/0c2b7715-f475-4fce-b7d7-e71dadc23525"
+},
+{
+"company": "Arago",
+"title": "Mixed-signal IC Design Engineer",
+"url": "https://jobs.ashbyhq.com/arago/09363b53-2808-4d7e-a7de-6b48eb615f05"
+},
+{
+"company": "AudioCodes",
+"title": "Cloud & Integration Engineer",
+"url": "https://www.comeet.com/jobs/audiocodes/85.004#Cloud%20%26%20Integration%20Engineer%20%7C%20Or%20Yehuda"
+},
+{
+"company": "AudioCodes",
+"title": "Senior Business Analyst",
+"url": "https://www.comeet.com/jobs/audiocodes/85.004#Senior%20Business%20Analyst%20%7C%20Or%20Yehuda"
+},
+{
+"company": "Bagira",
+"title": "DevOps Lead",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006#DevOps%20Lead%20%7C%20Modiin"
+},
+{
+"company": "Blockaid",
+"title": "Full-Stack Engineer",
+"url": "https://www.comeet.com/jobs/blockaid/69.00B#Full-Stack%20Engineer%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "Buildots",
+"title": "GTM AI Engineer",
+"url": "https://www.comeet.com/jobs/buildots/36.004#GTM%20AI%20Engineer%20%7C%20Tel-Aviv"
+},
+{
+"company": "BUYME",
+"title": "Senior Full Stack Developer",
+"url": "https://www.comeet.com/jobs/buyme/B2.008#Senior%20Full%20Stack%20Developer%20%7C%20Ramat%20Gan"
+},
+{
+"company": "BUYME",
+"title": "Senior Native Mobile Developer (Android & iOS)",
+"url": "https://www.comeet.com/jobs/buyme/B2.008#Senior%20Native%20Mobile%20Developer%20%28Android%20%26%20iOS%29%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Cato Networks",
+"title": "AI Security - AI Platform Team Lead",
+"url": "https://www.catonetworks.com/careers/careers-post/4874416101?gh_jid=4874416101"
+},
+{
+"company": "Chainalysis",
+"title": "Senior Software Engineer, Aggregation & Search",
+"url": "https://jobs.ashbyhq.com/chainalysis-careers/7fa2cc83-7fe1-4340-b6f7-43ef3fe1b87d"
+},
+{
+"company": "Claroty",
+"title": "Backend Platform Engineer",
+"url": "https://www.comeet.com/jobs/claroty/F2.004#Backend%20Platform%20Engineer%20%7C%20Tel%20Aviv"
+},
+{
+"company": "Claroty",
+"title": "LLM Engineer",
+"url": "https://www.comeet.com/jobs/claroty/F2.004#LLM%20Engineer%20%7C%20Tel%20Aviv"
+},
+{
+"company": "CodeValue",
+"title": "Senior .Net Developer",
+"url": "https://www.comeet.com/jobs/codevalue/81.009#Senior%20.Net%20Developer%20%7C%20Herzliya"
+},
+{
+"company": "Cyera",
+"title": "AI Researcher",
+"url": "https://www.comeet.com/jobs/cyera/17.008#AI%20Researcher%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "Cyera",
+"title": "Senior Software Engineer - Identity",
+"url": "https://www.comeet.com/jobs/cyera/17.008#Senior%20Software%20Engineer%20-%20Identity%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Multilayer Systems QA Team Lead",
+"url": "https://jobs.lever.co/d-fendsolutions/1a0d48a7-b755-440d-8825-40758fd8e4f7"
+},
+{
+"company": "Discount Bank",
+"title": "Data Scientist למחלקת כרטיסי אשראי ואמצעי תשלום",
+"url": "https://www.comeet.com/jobs/dbank/F8.004#Data%20Scientist%20%D7%9C%D7%9E%D7%97%D7%9C%D7%A7%D7%AA%20%D7%9B%D7%A8%D7%98%D7%99%D7%A1%D7%99%20%D7%90%D7%A9%D7%A8%D7%90%D7%99%20%D7%95%D7%90%D7%9E%D7%A6%D7%A2%D7%99%20%D7%AA%D7%A9%D7%9C%D7%95%D7%9D%20%7C%20Rishon%20LeTsiyon"
+},
+{
+"company": "Dot Compliance",
+"title": "Software Engineer",
+"url": "https://www.comeet.com/jobs/dotcompliance/89.00D#Software%20Engineer%20%7C%20Rehovot"
+},
+{
+"company": "Dream",
+"title": "Senior Applied Scientist- Agentic AI & NLP",
+"url": "https://www.comeet.com/jobs/dreamgroup/99.002#Senior%20Applied%20Scientist-%20Agentic%20AI%20%26%20NLP%20%7C%20Tel%20Aviv-Jaffa"
+},
+{
+"company": "DRIVENETS",
+"title": "AI Platform Software Engineer",
+"url": "https://www.comeet.com/jobs/drivenets/72.006#AI%20Platform%20Software%20Engineer%20%7C%20Tel%20Aviv"
+},
+{
+"company": "DRIVENETS",
+"title": "Product Manager, Network Domain",
+"url": "https://www.comeet.com/jobs/drivenets/72.006#Product%20Manager%2C%20Network%20Domain%20%7C%20Tel%20Aviv"
+},
+{
+"company": "DRIVENETS",
+"title": "Senior Backend Developer /Tech Lead",
+"url": "https://www.comeet.com/jobs/drivenets/72.006#Senior%20Backend%20Developer%20/Tech%20Lead%20%7C%20Tel%20Aviv"
+},
+{
+"company": "DRIVENETS",
+"title": "System Architect",
+"url": "https://www.comeet.com/jobs/drivenets/72.006#System%20Architect%20%7C%20Tel%20Aviv"
+},
+{
+"company": "DuckDuckGo",
+"title": "Senior Backend Engineer",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/53022b02-da3d-4fda-8273-c897d27ed50d"
+},
+{
+"company": "DuckDuckGo",
+"title": "Senior Privacy Engineer",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/80797cf4-64b2-4e94-9d87-6f2ecc45c862"
+},
+{
+"company": "DuckDuckGo",
+"title": "Senior Web Compatibility Engineer",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/d02d7598-141b-4a84-bdf6-46677da89b08"
+},
+{
+"company": "DuckDuckGo",
+"title": "Senior C++ Engineer",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/af93b075-d60a-4686-abeb-5949206d2f53"
+},
+{
+"company": "DUVE",
+"title": "Senior Backend Engineer - (Platform)",
+"url": "https://www.comeet.com/jobs/duve/58.00D#Senior%20Backend%20Engineer%20-%20%28Platform%29%20%7C%20Ramat%20Gan%20Office"
+},
+{
+"company": "Earnix",
+"title": "Automation Engineer",
+"url": "https://www.comeet.com/jobs/earnix/93.00B#Automation%20Engineer%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Earnix",
+"title": "Full-Stack Developer - Maternity Leave Replacement (8 months)",
+"url": "https://www.comeet.com/jobs/earnix/93.00B#Full-Stack%20Developer%20-%20Maternity%20Leave%20Replacement%20%288%20months%29%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Earnix",
+"title": "Junior Automation and Frontend Developer - Maternity Leave Replacement (6 months)",
+"url": "https://www.comeet.com/jobs/earnix/93.00B#Junior%20Automation%20and%20Frontend%20Developer%20-%20Maternity%20Leave%20Replacement%20%286%20months%29%20%7C%20Ramat%20Gan"
+},
+{
+"company": "Eitan Medical",
+"title": "Process Engineer",
+"url": "https://www.comeet.com/jobs/eitanmedical/C6.00F#Process%20Engineer%20%7C%20Netanya"
+},
+{
+"company": "Final",
+"title": "Senior C++ Software Engineer",
+"url": "https://www.comeet.com/jobs/final/C0.009#Senior%20C%2B%2B%20Software%20Engineer%20%7C%20Ramat%20Hasharon"
+},
+{
+"company": "Fundamental",
+"title": "DevOps Team Lead",
+"url": "https://jobs.ashbyhq.com/fundamental/c54d7bd8-3138-4e86-bdb8-6326dc84bd1a"
+},
+{
+"company": "Fundamental",
+"title": "Applied AI Engineer",
+"url": "https://jobs.ashbyhq.com/fundamental/9ce70592-8637-461f-b47c-6a1b47561461"
+},
+{
+"company": "Fundamental",
+"title": "MLOps Engineer",
+"url": "https://jobs.ashbyhq.com/fundamental/f66822a3-fd9f-438b-8532-e996e3932e3c"
+},
+{
+"company": "Fundamental",
+"title": "Data Scientist - Extensions",
+"url": "https://jobs.ashbyhq.com/fundamental/11f7810f-926f-4f9a-b59f-2a7542169cde"
+},
+{
+"company": "Fundamental",
+"title": "Backend Engineer - Extensions",
+"url": "https://jobs.ashbyhq.com/fundamental/1a11359c-22ed-4323-9e40-d14b0e1e7c7b"
+},
+{
+"company": "Fundamental",
+"title": "MLOps Team Lead",
+"url": "https://jobs.ashbyhq.com/fundamental/48f0baea-855c-49a1-b442-5869cd125398"
+},
+{
+"company": "Fundamental",
+"title": "Evaluations Team Lead",
+"url": "https://jobs.ashbyhq.com/fundamental/f0e27c50-261a-42cb-9fe7-b3b2e9d6a2ce"
+},
+{
+"company": "Fundamental",
+"title": "ML Researcher (remote)",
+"url": "https://jobs.ashbyhq.com/fundamental/b42fadd0-d460-4e9b-9185-90eebc2706d2"
+},
+{
+"company": "Gong",
+"title": "Head of AI Security",
+"url": "https://job-boards.greenhouse.io/gongio/jobs/4672107006"
+},
+{
+"company": "Guardio",
+"title": "Frontend Tech Lead",
+"url": "https://www.comeet.com/jobs/guardio/57.000#Frontend%20Tech%20Lead%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "INFINIDAT",
+"title": "Software Engineering Team Lead - NAS Group",
+"url": "https://www.comeet.com/jobs/infinidat/D6.003#Software%20Engineering%20Team%20Lead%20-%20NAS%20Group%20%7C%20Herzliya"
+},
+{
+"company": "KLA",
+"title": "R&D Software Engineer",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Migdal-Haemek-Israel/R-D-Software-Engineer_2639780-1"
+},
+{
+"company": "Madlan",
+"title": "Software Engineer - R&D Operations",
+"url": "https://www.comeet.com/jobs/localize/33.00F#Software%20Engineer%20-%20R%26D%20Operations%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "Majestic Labs",
+"title": "Product Manager - AI Infrastructure (Server HW) - US",
+"url": "https://www.comeet.com/jobs/majesticlabs/AA.004#Product%20Manager%20-%20AI%20Infrastructure%20%28Server%20HW%29%20-%20US%20%7C%20Raanana"
+},
+{
+"company": "MDClone",
+"title": "Senior System Administrator (IT, Cloud & Security)",
+"url": "https://www.comeet.com/jobs/mdclone/66.004#Senior%20System%20Administrator%20%28IT%2C%20Cloud%20%26%20Security%29%20%7C%20Be%27er%20Sheva"
+},
+{
+"company": "Mindspace",
+"title": "Salesforce & GenAI Developer",
+"url": "https://www.comeet.com/jobs/mindspace/71.00B#Salesforce%20%26%20GenAI%20Developer%20%7C%20Tel%20Aviv"
+},
+{
+"company": "Nebius",
+"title": "Senior Data Engineer",
+"url": "https://job-boards.greenhouse.io/nebius/jobs/4982904101"
+},
+{
+"company": "NVIDIA",
+"title": "Hardware Validation Engineer",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Hardware-Validation-Engineer_JR2027271"
+},
+{
+"company": "obligo",
+"title": "Head of Security, IT & AI Governance",
+"url": "https://job-boards.greenhouse.io/obligo/jobs/6222254004"
+},
+{
+"company": "Passportcard",
+"title": "Solutions Architect",
+"url": "https://www.comeet.com/jobs/passportcard/92.00A#Solutions%20Architect%20%7C%20Netanya%2C%20Labs"
+},
+{
+"company": "Payoneer",
+"title": "Director, Corporate Strategy",
+"url": "https://www.payoneer.com/careers/position/8236582/?gh_jid=8236582"
+},
+{
+"company": "Pentera",
+"title": "Senior Software Engineer - Platform",
+"url": "https://www.comeet.com/jobs/pentera/C5.00D#Senior%20Software%20Engineer%20-%20Platform%20%7C%20Tel%20Aviv"
+},
+{
+"company": "Similarweb",
+"title": "DevOps Engineer",
+"url": "https://job-boards.greenhouse.io/similarweb/jobs/7938197"
+},
+{
+"company": "SolarEdge",
+"title": "Power Engineering Tech Lead",
+"url": "https://www.comeet.com/jobs/solaredge/71.00A#Power%20Engineering%20Tech%20Lead%20%7C%20Modi%27in"
+},
+{
+"company": "SolarEdge",
+"title": "Senior Backend Developer",
+"url": "https://www.comeet.com/jobs/solaredge/71.00A#Senior%20Backend%20Developer%20%7C%20Herzliya"
+},
+{
+"company": "Taboola",
+"title": "Senior Site Reliability Engineer (SRE)",
+"url": "https://www.taboola.com/careers/job/8070135?gh_jid=8070135"
+},
+{
+"company": "Taboola",
+"title": "Site Reliability Engineer, Traffic Infrastructure",
+"url": "https://www.taboola.com/careers/job/8200807?gh_jid=8200807"
+},
+{
+"company": "Team8",
+"title": "Team8 -Security & IT Manager",
+"url": "https://www.comeet.com/jobs/team8/61.003#Team8%20-Security%20%26%20IT%20Manager%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "Upstream Security",
+"title": "Senior Data Scientist",
+"url": "https://www.comeet.com/jobs/upstream/E4.003#Senior%20Data%20Scientist%20%7C%20Herzliya"
+},
+{
+"company": "Upwind Security",
+"title": "Software Engineer Intern",
+"url": "https://www.comeet.com/jobs/upwind/49.004#Software%20Engineer%20Intern%20%7C%20Ramat%20Gan"
+},
+{
+"company": "VAST Data",
+"title": "Infrastructure Team Leader",
+"url": "https://www.comeet.com/jobs/vastdata/43.001#Infrastructure%20Team%20Leader%20%7C%20Tel%20Aviv-Yafo"
+},
+{
+"company": "VAST Data",
+"title": "Infrastructure Team Leader",
+"url": "https://www.comeet.com/jobs/vastdata/43.001#Infrastructure%20Team%20Leader%20%7C%20Haifa"
+},
+{
+"company": "Wiz",
+"title": "CTO Data Analyst",
+"url": "https://www.wiz.io/careers/job/4720879006/:title?gh_jid=4720879006"
+},
+{
+"company": "Xsight Labs",
+"title": "Senior VLSI Designer",
+"url": "https://www.comeet.com/jobs/xsightlabs/46.00C#Senior%20VLSI%20Designer%20%7C%20Giv%27atayim"
+}
+]
+}
+]

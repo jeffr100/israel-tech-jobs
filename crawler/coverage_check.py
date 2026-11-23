@@ -185,10 +185,10 @@ def run(data_dir, only_new=True):
             if only_new and "coverage" in j and j["coverage"].get("method") == "job":
                 continue   # already confirmed by an individual search
             _mark(j, found, today, "company")
-    json.dump(jobs, open(path, "w"), indent=0, ensure_ascii=False)
+    json.dump(crawl.nan_safe(jobs), open(path, "w"), indent=0, ensure_ascii=False)
     print(f"coverage: checked {checked} companies")
     per_job(jobs, today)
-    json.dump(jobs, open(path, "w"), indent=0, ensure_ascii=False)
+    json.dump(crawl.nan_safe(jobs), open(path, "w"), indent=0, ensure_ascii=False)
 
 
 def per_job(jobs, today):

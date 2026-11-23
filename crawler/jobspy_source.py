@@ -21,6 +21,14 @@ import time
 
 COUNTRY = {"il": ("Israel", "israel"), "us": ("United States", "usa")}
 _count = 0
+
+
+def _v(x):
+    """A clean string from a pandas cell: missing values come back as NaN, which is truthy."""
+    if x is None or (isinstance(x, float) and x != x):
+        return ""
+    return str(x)
+
 LAST_SEARCHED = set()   # sites that actually answered during the most recent search
 _FAILED = set()
 BLOCKED = {}            # site -> number of searches it refused this run
@@ -83,9 +91,10 @@ def listings(company, country="il"):
     for r in df.to_dict("records"):
         loc = r.get("location")
         if isinstance(loc, dict):
+            loc = {k: _v(v) for k, v in loc.items()}
             loc = ", ".join(str(v) for v in (loc.get("city"), loc.get("state"), loc.get("country")) if v)
-        out.append({"title": r.get("title") or "", "location": str(loc or ""), "company": r.get("company") or "",
-                    "url": r.get("job_url_direct") or r.get("job_url") or "", "site": str(r.get("site") or "")})
+        out.append({"title": _v(r.get("title")), "location": _v(loc), "company": _v(r.get("company")),
+                    "url": _v(r.get("job_url_direct")) or _v(r.get("job_url")), "site": _v(r.get("site"))})
     return out
 
 
@@ -104,7 +113,8 @@ def listings_for_job(company, title, country="il"):
     for r in _search(**kw).to_dict("records"):
         loc = r.get("location")
         if isinstance(loc, dict):
+            loc = {k: _v(v) for k, v in loc.items()}
             loc = ", ".join(str(v) for v in (loc.get("city"), loc.get("state"), loc.get("country")) if v)
-        out.append({"title": r.get("title") or "", "location": str(loc or ""), "company": r.get("company") or "",
-                    "url": r.get("job_url_direct") or r.get("job_url") or "", "site": str(r.get("site") or "")})
+        out.append({"title": _v(r.get("title")), "location": _v(loc), "company": _v(r.get("company")),
+                    "url": _v(r.get("job_url_direct")) or _v(r.get("job_url")), "site": _v(r.get("site"))})
     return out

@@ -1,7 +1,11 @@
 name: Job crawl
 on:
+  # Every day at 6:00 am Israel time. GitHub's timer runs on UTC, and 6:00 in Israel is 04:00 UTC
+  # in winter but 03:00 UTC in summer, so both are scheduled and the "when" job below lets only the
+  # one at or after 6:00 Israel time go ahead (once a day). Weekly emails on Mondays, monthly on the 1st.
   schedule:
-    - cron: "47 11 * * *"     # every day 11:47 UTC (6:47 am Eastern; 1:47 pm Israel): daily emails; weekly on Mondays, monthly on the 1st
+    - cron: "0 3 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch:
     inputs:
       crawl:
@@ -14,10 +18,38 @@ permissions:
   id-token: write
 concurrency: { group: pages, cancel-in-progress: false }
 jobs:
+  # Decides whether a scheduled run should crawl: only at or after 6:00 Israel time, and only if
+  # today's crawl hasn't happened yet. Runs started by hand always go ahead.
+  when:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+    steps:
+      - uses: actions/checkout@v5
+        with: { sparse-checkout: data/site.json, sparse-checkout-cone-mode: false }
+      - id: check
+        env: { TZ: Asia/Jerusalem }
+        run: |
+          today=$(date +%Y-%m-%d); hour=$(date +%-H)
+          last=$(python3 -c "import json;print(json.load(open('data/site.json')).get('generated',''))" 2>/dev/null || true)
+          go=true
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            if [ "$hour" -lt 6 ]; then go=false; echo "It's $(date +%H:%M) in Israel: waiting for the 6:00 run."; fi
+            if [ "$last" = "$today" ]; then go=false; echo "Already crawled today ($today)."; fi
+          fi
+          echo "go=$go" >> "$GITHUB_OUTPUT"
+
   crawl:
+    needs: when
+    if: ${{ needs.when.outputs.go == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    # Each attempt uploads the site under its own name, so re-running a run never leaves
+    # two "github-pages" uploads for the publish step to choose between.
+    outputs:
+      pages_artifact: github-pages-${{ github.run_attempt }}
     env:
+      TZ: Asia/Jerusalem          # dates on the site and in the emails follow Israel's calendar
       SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}/', github.repository_owner, github.event.repository.name) }}
       # Optional: Indeed / LinkedIn / Google Jobs feed and the "not on LinkedIn/Indeed" check
       JOBSEARCH_PROVIDER: ${{ secrets.JOBSEARCH_PROVIDER }}
@@ -73,7 +105,7 @@ jobs:
         uses: actions/configure-pages@v5
       - if: ${{ vars.HOSTING != 'netlify' }}
         uses: actions/upload-pages-artifact@v4
-        with: { path: "_site" }
+        with: { path: "_site", name: "github-pages-${{ github.run_attempt }}" }
       # ---- Netlify (set the repository variable HOSTING=netlify to use this instead of GitHub Pages) ----
       # Each Netlify production deploy costs credits, so by default the site is deployed once a week
       # (Mondays) and whenever you run the workflow by hand. Set NETLIFY_DEPLOY=daily to deploy every day.
@@ -102,3 +134,4 @@ jobs:
     steps:
       - id: deploy
         uses: actions/deploy-pages@v4
+        with: { artifact_name: "${{ needs.crawl.outputs.pages_artifact }}" }

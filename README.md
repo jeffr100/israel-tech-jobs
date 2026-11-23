@@ -50,7 +50,7 @@ gh repo create israel-tech-jobs --public --source=. --push
 gh api -X POST "repos/{owner}/{repo}/pages" -f build_type=workflow
 gh workflow run "Job crawl"
 ```
-The site appears at `https://<you>.github.io/israel-tech-jobs/` and is updated every day at 6:47 am Eastern (1:47 pm in Israel).
+The site appears at `https://<you>.github.io/israel-tech-jobs/` and is updated every day at 6:00 am Israel time, all year round (the workflow allows for daylight saving time). GitHub sometimes starts scheduled runs a little late.
 
 To re-publish the site without crawling again, for example after changing `index.html`, run `gh workflow run "Job crawl" -f crawl=false`. It takes about a minute. If only the "deploy" step of a run fails, open the run on GitHub and choose **Re-run failed jobs**: only the publishing step runs again.
 

@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "0 3 * * *"
     - cron: "0 4 * * *"
+  # Pushing a change to the page or its settings republishes the site straight away (no crawl).
+  push:
+    branches: [main]
+    paths: [index.html, site.config.js, ads.txt]
   workflow_dispatch:
     inputs:
       crawl:
@@ -78,16 +82,16 @@ jobs:
       - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - name: Install JobSpy (only used when JOBSEARCH_PROVIDER is jobspy)
-        if: ${{ inputs.crawl != false && (env.JOBSEARCH_PROVIDER == 'jobspy') }}
+        if: ${{ github.event_name != 'push' && inputs.crawl != false && (env.JOBSEARCH_PROVIDER == 'jobspy') }}
         run: pip install python-jobspy
       - name: Crawl job boards (Israel computer-science jobs)
-        if: ${{ inputs.crawl != false }}
+        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
         run: python3 crawler/crawl.py
       - name: Write digest and publish to newsletter / WordPress (if configured)
-        if: ${{ inputs.crawl != false }}
+        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
         run: python3 crawler/publish.py
       - name: Commit updated data
-        if: ${{ inputs.crawl != false }}
+        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
         run: |
           git config user.name "jobs-crawler"
           git config user.email "jobs-crawler@users.noreply.github.com"

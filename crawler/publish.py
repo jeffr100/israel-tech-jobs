@@ -17,6 +17,7 @@ Optional destinations (set the environment variables / GitHub secrets to switch 
                                            -> creates a campaign per frequency (draft unless BREVO_SEND=1)
                BREVO_SENDER_NAME (optional, default "Tech Jobs in Israel")
   Buttondown   BUTTONDOWN_API_KEY          -> creates an email per frequency (draft unless BUTTONDOWN_SEND=1)
+  Job alerts   BREVO_ALERT_LIST (+ the Brevo settings above) -> personal alerts, see crawler/alerts.py
   WordPress    WP_URL, WP_USER, WP_APP_PASSWORD
                                            -> posts the weekly digest (draft unless WP_STATUS=publish)
   Any newsletter that does RSS-to-email can also send data/feed.xml.
@@ -184,6 +185,16 @@ def main():
             send_buttondown(title, md, f)
         if f == "weekly" and os.environ.get("WP_URL") and os.environ.get("WP_APP_PASSWORD"):
             send_wordpress(title, body_html)
+
+    # Personal alerts: each subscriber gets only the new jobs matching the filters they saved on the site.
+    if os.environ.get("BREVO_ALERT_LIST"):
+        import alerts
+        meta = {m["name"]: m for m in json.load(open(os.path.join(DATA, "site.json"))).get("meta", [])}
+        try:
+            alerts.send_alerts({f: PERIOD[f][0] for f in freqs}, collect, only_here, alerts.parse, alerts.matches,
+                               alerts.describe, meta, site, os.environ.get("BREVO_SENDER_NAME") or "Tech Jobs in Israel", "IL_ALERT")
+        except Exception as e:   # alerts must never stop the digests or the site update
+            print(f"alerts: failed: {e}")
 
 
 if __name__ == "__main__":

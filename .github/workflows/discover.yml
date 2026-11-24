@@ -1,0 +1,32 @@
+name: Find more companies
+# Run by hand (Actions > Find more companies > Run workflow). Tries every company in
+# crawler/candidates.txt that isn't tracked yet on the common job boards, adds the ones with jobs
+# in Israel to data/companies.json, and writes data/discover-report.json listing the rest.
+# The next daily crawl picks the new companies up.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only report, don't add companies"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency: { group: pages, cancel-in-progress: false }
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.12" }
+      - name: Look for companies' job boards
+        run: python3 crawler/discover.py ${{ inputs.dry_run && '--dry-run' || '' }}
+      - name: Commit the updated company list
+        run: |
+          git config user.name "jobs-crawler"
+          git config user.email "jobs-crawler@users.noreply.github.com"
+          git add data/companies.json data/discover-report.json
+          git diff --cached --quiet || git commit -m "Add companies found by the company finder"
+          git pull --rebase && git push

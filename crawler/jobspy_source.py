@@ -11,7 +11,8 @@ Settings (environment variables):
   JOBSPY_SITES       = indeed,linkedin (default; glassdoor and google also work)
   JOBSPY_RESULTS     = 40              listings to read per company per site
   JOBSPY_DELAY       = 4               seconds to wait between companies
-  JOBSPY_PROXIES     = user:pass@host:port,host2:port   optional, comma-separated
+  JOBSPY_PROXIES     = user:pass@host:port,host2:port   optional, comma-separated. Only LinkedIn searches
+                       use them (JOBSPY_PROXY_SITES=linkedin), since paid proxies are billed per GB
   JOBSPY_MAX_COMPANIES = 75            companies to look up per run (per pass) (0 = no limit); the rest are
                                        picked up on later runs, which keeps LinkedIn from blocking
 """
@@ -54,9 +55,25 @@ def _search(**kw):
     if _watch not in lg.handlers:
         lg.addHandler(_watch)
     _FAILED.clear()
-    df = scrape_jobs(**kw)
-    LAST_SEARCHED = {s for s in kw["site_name"] if s not in _FAILED}
+    # Paid proxies are billed by the gigabyte, so only the sites that need them (LinkedIn by default,
+    # JOBSPY_PROXY_SITES to change) go through them; the others are searched directly.
+    via = {x.strip() for x in (os.environ.get("JOBSPY_PROXY_SITES") or "linkedin").split(",") if x.strip()}
+    sites = list(kw["site_name"])
+    if kw.get("proxies") and set(sites) - via and set(sites) & via:
+        import pandas as pd
+        direct = dict(kw, site_name=[x for x in sites if x not in via], proxies=None)
+        proxied = dict(kw, site_name=[x for x in sites if x in via])
+        frames = [f for f in (scrape_jobs(**direct), scrape_jobs(**proxied)) if f is not None and len(f)]
+        df = pd.concat(frames, ignore_index=True) if frames else _empty()
+    else:
+        df = scrape_jobs(**kw)
+    LAST_SEARCHED = {x for x in sites if x not in _FAILED}
     return df
+
+
+def _empty():
+    import pandas as pd
+    return pd.DataFrame(columns=["site", "title", "company", "location", "job_url", "job_url_direct"])
 
 
 def available():

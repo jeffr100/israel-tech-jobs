@@ -1,0 +1,293 @@
+# Companies to look for. One per line:   Name [| large] [| slug guess, slug guess...]
+# "large" marks roughly 1,000+ employees. The finder tries each name (and the guesses) on Greenhouse,
+# Lever, Ashby and SmartRecruiters, and adds the company if its board has at least one job in Israel.
+# Workday sites can't be guessed, so they're listed as:   Name | large | workday host/site
+# ---- multinationals with Israeli R&D
+Medtronic | large | workday medtronic.wd1.myworkdayjobs.com/MedtronicCareers
+Philips | large | workday philips.wd3.myworkdayjobs.com/jobs-and-careers
+GE HealthCare | large | workday gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite
+Amdocs | large | workday amdocs.wd3.myworkdayjobs.com/Amdocs
+Akamai | large | workday akamai.wd1.myworkdayjobs.com/akamai_careers
+Red Hat | large | workday redhat.wd5.myworkdayjobs.com/jobs
+Autodesk | large | workday autodesk.wd1.myworkdayjobs.com/Ext
+eBay | large | workday ebay.wd5.myworkdayjobs.com/apply
+HP | large | workday hp.wd5.myworkdayjobs.com/ExternalCareerSite
+Dell Technologies | large | workday dell.wd1.myworkdayjobs.com/External
+Cadence | large | workday cadence.wd1.myworkdayjobs.com/External_Careers
+Analog Devices | large | workday analogdevices.wd1.myworkdayjobs.com/External
+NXP | large | workday nxp.wd3.myworkdayjobs.com/careers
+Mastercard | large | workday mastercard.wd1.myworkdayjobs.com/CorporateCareers
+Qualcomm | large | workday qualcomm.wd5.myworkdayjobs.com/External
+Johnson & Johnson (Biosense Webster) | large | workday jj.wd5.myworkdayjobs.com/JJ
+Teva | large | workday tevapharm.wd3.myworkdayjobs.com/TevaCareers
+Western Digital | large | workday wd.wd1.myworkdayjobs.com/WD_Careers
+Sandisk | large | workday sandisk.wd1.myworkdayjobs.com/SanDisk
+Thermo Fisher Scientific | large | workday thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers
+Micron | large | workday micron.wd1.myworkdayjobs.com/External
+Verint | large | workday verint.wd1.myworkdayjobs.com/verintcareers
+Siemens Healthineers | large | workday siemenshealthineers.wd3.myworkdayjobs.com/SHS
+Synopsys | large | workday synopsys.wd1.myworkdayjobs.com/careers
+Zimmer Biomet | large | workday zimmerbiomet.wd1.myworkdayjobs.com/Careers
+Cisco | large | workday cisco.wd5.myworkdayjobs.com/Cisco_Careers
+Visa | large
+Booking.com | large
+Intuit | large
+Nielsen | large | nielseniq
+NielsenIQ | large
+Zscaler | large
+Verifone | large
+Navan | large | tripactions
+Pure Storage | large | purestorage
+Ness Technologies | large | NessTechnologies
+Mobileye | large
+Check Point | large | checkpoint
+CyberArk | large
+Imperva | large
+Varonis | large
+Radware | large
+Sapiens | large
+Ceragon | large | ceragonnetworks
+Playtika | large
+Plarium | large
+Outbrain | large
+Taboola | large
+Payoneer | large
+Nayax | large
+NICE | large
+Cognyte | large
+Elbit Systems | large | elbitsystems
+Stratasys | large
+Tower Semiconductor | large | towersemi
+Cellebrite | large
+monday.com | large | monday.com
+Fiverr | large
+Gong | large
+Similarweb | large
+JFrog | large
+SentinelOne | large
+eToro | large
+Plus500 | large
+Global-e | large
+# ---- cyber
+Axonius
+Pentera
+XM Cyber | | xmcyber
+Cymulate
+Silverfort
+Noname Security | | nonamesecurity
+Cyera
+Island
+Dazz
+Zafran
+Talon Cyber Security | | talon
+Veriti
+Hunters
+Cybereason
+Perimeter 81 | | perimeter81
+Coro | | corocybersecurity
+Checkmarx
+Sentra
+Oligo Security | | oligo
+Apiiro
+Legit Security | | legitsecurity
+OX Security | | oxsecurity
+Torq
+Salt Security | | saltsecurity
+Votiro
+Intezer
+Cyberint
+KELA | | kela
+ActiveFence
+Reco | | reco
+Grip Security | | gripsecurity
+Valence Security | | valencesecurity
+Descope
+Frontegg
+Permit.io | | permitio
+Memcyco
+Seal Security | | sealsecurity
+Upwind
+Dream Security | | dream
+Zero Networks | | zeronetworks
+SafeBreach
+Cynet
+Morphisec
+Deep Instinct | | deepinstinct
+Cylus
+Regulus
+Waterfall Security | | waterfall
+OTORIO
+Sygnia
+Ironscales
+Perception Point | | perceptionpoint
+Cyolo
+Aim Security | | aimsecurity
+Prompt Security | | promptsecurity
+Noma Security | | noma
+Pillar Security | | pillar
+Lasso Security | | lasso
+Clutch Security | | clutch
+Token Security | | token
+Astrix Security | | astrix
+Mitiga
+Cycode
+Jit | | jit
+Hud | | hud
+Sweet Security | | sweetsecurity
+Linx Security | | linx
+Native | | native
+Orchid Security | | orchidsecurity
+Opus Security | | opus
+Vulcan Cyber | | vulcan
+Spera | | spera
+# ---- fintech / insurtech
+Rapyd
+Tipalti
+Melio | | meliopayments
+Papaya Global | | papayaglobal
+Pagaya
+Lemonade
+Hippo | | hippoinsurance
+Next Insurance | | nextinsurance
+Bluevine
+Fundbox
+Mesh Payments | | mesh
+Earnix
+Personetics
+ThetaRay
+BioCatch
+Obligo
+Justt
+Sunbit
+Capitolis
+Vesttoo
+Unit | | unit
+Fireblocks
+StarkWare
+Chainalysis
+Bits of Gold | | bitsofgold
+Pepper
+Riskified
+Forter
+Hourly | | hourly
+Ramp
+Brex
+Mercury
+# ---- AI, data and dev tools
+AI21 Labs | | ai21
+Hailo | | hailo-ai,hailoai
+NeuReality
+Tabnine
+Lightricks
+Bria | | bria
+D-ID | | did
+Hour One | | hourone
+Decart | | decart
+Lightrun
+Coralogix
+Logz.io | | logzio
+Komodor
+Firefly | | fireflyai
+Zesty | | zesty
+env0
+Port | | getport,port
+Spot by NetApp | | spot
+Explorium
+Datarails
+Sisense
+Yotpo
+Optimove
+Bizzabo
+HoneyBook
+Riverside | | riversidefm
+Lusha
+Gloat
+HiBob | | hibob
+Via
+Gett
+Moon Active | | moonactive
+Wix
+Kaltura
+Redis
+Vast Data | | vastdata
+Nextsilicon
+Speedata
+Pliops
+DriveNets
+Infinidat
+Lightbits | | lightbitslabs
+Silk | | silktech
+Weka | | wekaio
+Quantum Machines | | quantummachines
+Classiq
+Qedma
+Quantum Source | | quantumsource
+Run:ai | | runai
+Deci | | deci
+Placer.ai | | placerlabs
+Bringg
+Optibus
+Tactile Mobility | | tactilemobility
+Foretellix
+Cognata
+REE Automotive | | reeautomotive
+StoreDot
+Innoviz | | innoviz
+Arbe | | arberobotics
+Valens | | valenssemiconductor
+Autotalks
+Vayyar | | vayyarimaging
+Ceva | | cevadsp
+proteanTecs | | proteantecs
+Weebit Nano | | weebitnano
+Teramount
+Retym
+Alpha Tau | | alphatau
+# ---- medtech, health and life-science tech
+Aidoc
+Viz.ai | | viz.ai
+Nanox | | nanox
+Sight Diagnostics | | sightdx
+Theator
+TytoCare | | tytocare
+Healthy.io | | healthyio
+K Health | | khealth
+Diagnostic Robotics | | diagnosticrobotics
+Ibex Medical Analytics | | ibex
+MDClone
+Novocure | | novocure
+Insightec | | insightec
+InMode
+Itamar Medical | | itamar
+BrainsWay
+Eitan Medical | | eitanmedical
+Pluri | | pluri
+Compugen
+Evogene
+CytoReason
+Immunai
+Biolojic Design | | biolojic
+Enlivex
+BiomX
+Kamada
+# ---- defense, aerospace, robotics and agtech
+Rafael | large
+Israel Aerospace Industries | large | iai
+Smart Shooter | | smartshooter
+Xtend | | xtend
+Percepto
+Airobotics
+Flytrex
+Tevel
+Taranis
+Prospera
+CropX
+Netafim | large
+Eviation
+Spacecom
+NSLComm | | nslcomm
+Ramon.Space | | ramonspace
+Gilat | large | gilatsatellitenetworks
+AudioCodes | large
+Allot | large
+Silicom

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Weekly crawler for computer-science jobs in Israel (software, data & AI, security, DevOps, chips and more).
+"""Daily crawler for computer science and high-tech jobs in Israel (software, data & AI, security, chips,
+hardware, engineering, medtech and more).
 
 Standard library only (Python 3.8+), so it runs on macOS's system python3,
 on GitHub Actions, or anywhere else without installing packages.
@@ -14,7 +15,7 @@ Outputs: data/jobs.json        (current jobs + first-seen dates, read by index.h
 Supported job boards (public JSON endpoints, no login, no scraping of HTML):
   greenhouse, lever, ashby, smartrecruiters, workday, comeet
 Only jobs located in Israel are kept (IL_ONLY=0 keeps every country), and only
-computer-science jobs (CS_ONLY=0 keeps every job); see cs.py for the categories.
+technology jobs (CS_ONLY=0 keeps every job); see cs.py for the categories.
 Companies with any other board keep a "careers" link and are listed without jobs.
 
 Optional: jobs posted on Indeed, LinkedIn and Google Jobs, through a licensed
@@ -149,8 +150,14 @@ def lever(ats):
 
 def ashby(ats):
     d = http_json(f"https://api.ashbyhq.com/posting-api/job-board/{ats['slug']}")
-    return [job(j.get("title"), j.get("location"), j.get("department") or j.get("team"),
-                j.get("jobUrl"), j.get("publishedAt")) for j in d.get("jobs", [])]
+    out = []
+    for j in d.get("jobs", []):
+        loc = j.get("location") or ""
+        if IL_ONLY and not is_il(loc):   # Israel may be one of the job's other locations
+            loc = next((x.get("location") for x in (j.get("secondaryLocations") or [])
+                        if is_il((x or {}).get("location", ""))), loc)
+        out.append(job(j.get("title"), loc, j.get("department") or j.get("team"), j.get("jobUrl"), j.get("publishedAt")))
+    return out
 
 
 def smartrecruiters(ats):
@@ -377,7 +384,7 @@ ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
 
 
 def keep(jobs):
-    """Keep Israeli computer-science jobs and label each with category, level and region."""
+    """Keep Israeli technology jobs and label each with category, level and region."""
     out = []
     for j in jobs:
         if IL_ONLY and not is_il(j["location"]):

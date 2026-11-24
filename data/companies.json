@@ -3008,6 +3008,15 @@
   "size": "small"
  },
  {
+  "name": "monday.com",
+  "careers": "https://jobs.ashbyhq.com/monday.com",
+  "ats": {
+   "platform": "ashby",
+   "slug": "monday.com"
+  },
+  "size": "large"
+ },
+ {
   "name": "mongodb",
   "careers": "https://job-boards.greenhouse.io/mongodb",
   "ats": {
@@ -3154,6 +3163,15 @@
   "size": "small"
  },
  {
+  "name": "Navan",
+  "careers": "https://job-boards.greenhouse.io/tripactions",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tripactions"
+  },
+  "size": "large"
+ },
+ {
   "name": "Navina",
   "careers": "https://www.comeet.com/jobs/navina/E6.00C",
   "ats": {
@@ -3181,6 +3199,15 @@
    "slug": "nebius"
   },
   "size": "small"
+ },
+ {
+  "name": "Ness Technologies",
+  "careers": "https://jobs.smartrecruiters.com/NessTechnologies",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "NessTechnologies"
+  },
+  "size": "large"
  },
  {
   "name": "Netafim",
@@ -3246,6 +3273,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "nice"
+  },
+  "size": "large"
+ },
+ {
+  "name": "NielsenIQ",
+  "careers": "https://jobs.smartrecruiters.com/NielsenIQ",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "NielsenIQ"
   },
   "size": "large"
  },
@@ -3743,6 +3779,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "pingidentity"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Placer.ai",
+  "careers": "https://job-boards.greenhouse.io/placerlabs",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "placerlabs"
   },
   "size": "small"
  },
@@ -4857,6 +4902,15 @@
   "size": "small"
  },
  {
+  "name": "Verifone",
+  "careers": "https://job-boards.greenhouse.io/verifone",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "verifone"
+  },
+  "size": "large"
+ },
+ {
   "name": "Vetric",
   "careers": "https://www.comeet.com/jobs/vetric/A9.009",
   "ats": {
@@ -4902,6 +4956,15 @@
    "platform": "comeet",
    "slug": "vpgsensors",
    "uid": "C8.009"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Viz.ai",
+  "careers": "https://jobs.ashbyhq.com/viz.ai",
+  "ats": {
+   "platform": "ashby",
+   "slug": "viz.ai"
   },
   "size": "small"
  },
@@ -5175,6 +5238,15 @@
    "slug": "zip"
   },
   "size": "small"
+ },
+ {
+  "name": "Zscaler",
+  "careers": "https://job-boards.greenhouse.io/zscaler",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "zscaler"
+  },
+  "size": "large"
  },
  {
   "name": "ZyG",

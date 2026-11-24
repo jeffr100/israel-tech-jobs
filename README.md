@@ -1,4 +1,4 @@
-# Computer-science jobs in Israel: website, crawler and newsletter
+# Computer science and high-tech jobs in Israel: website, crawler and newsletter
 
 A searchable board of tech openings in Israel: software, data and AI, security, DevOps, QA, embedded, chip design, IT and technical product roles. The jobs come straight from each company's own career board, and the site can flag the ones that are **not** on LinkedIn, Indeed or Glassdoor.
 
@@ -129,3 +129,38 @@ Limits to know:
 ## Running it on a Mac
 
 Run `bash mac/install_weekly_job.sh`. It schedules the crawler for every Monday morning with launchd. To run it straight away, use `bash mac/run_weekly.sh`.
+
+## Personal job alerts
+
+Visitors can set filters and click **Email me these jobs**. Their filters (the text after `#` in the
+page address) are saved on their Brevo contact, and each crawl emails them only the new jobs that
+match, daily, weekly or monthly. Every alert email has a "Stop this alert" link.
+
+Setup (once):
+1. In Brevo, two text contact attributes: `IL_ALERT` and `IL_ALERT_FREQ`; a list for alert sign-ups.
+2. A Brevo sign-up form that puts contacts in that list and has the email field plus the two attributes.
+   Copy its address (Share > HTML) into `site.config.js` > `newsletter.alerts.form`.
+3. Repository variable `BREVO_ALERT_LIST` = that list's ID (currently 13). `BREVO_SEND=1` sends for real.
+
+Alert emails are sent one per person through Brevo's transactional email, which shares the free plan's
+300-a-day limit with the digests; `ALERT_MAX` (default 200) caps alert emails per run.
+
+## Checking LinkedIn reliably (paid proxy, a few dollars a month)
+
+LinkedIn refuses searches from GitHub's servers, so without help jobs show "LinkedIn not checked".
+Routing only the LinkedIn searches through a rotating residential proxy fixes this; Indeed and Google
+are still searched directly, which keeps the proxy traffic small.
+
+1. Buy a rotating residential proxy plan billed per GB (for example Webshare, about $3.50 for 1 GB).
+2. Copy its connection string, `username:password@host:port`.
+3. Repository secret `JOBSPY_PROXIES` = that string; variable `JOBSPY_SITES` = `indeed,linkedin`
+   (and secret `JOBSEARCH_PROVIDER` = `jobspy` if it isn't set).
+
+Optional: `JOBSPY_PROXY_SITES` lists the sites sent through the proxy (default `linkedin`).
+
+## Finding more companies
+
+`crawler/candidates.txt` lists companies to look for. Run **Actions > Find more companies > Run workflow**:
+it tries each new name on Greenhouse, Lever, Ashby and SmartRecruiters (and the Workday sites listed),
+adds the ones with jobs in Israel to `data/companies.json`, and lists the rest in
+`data/discover-report.json`. Add names to the file any time and run it again.

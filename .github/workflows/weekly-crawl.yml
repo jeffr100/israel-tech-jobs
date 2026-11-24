@@ -3,9 +3,13 @@ on:
   # Every day at 6:00 am Israel time. GitHub's timer runs on UTC, and 6:00 in Israel is 04:00 UTC
   # in winter but 03:00 UTC in summer, so both are scheduled and the "when" job below lets only the
   # one at or after 6:00 Israel time go ahead (once a day). Weekly emails on Mondays, monthly on the 1st.
+  # GitHub often starts scheduled runs late (sometimes hours) and occasionally skips one, mostly at :00,
+  # so the times are off the hour and there are two backups; the check below crawls only once a day.
   schedule:
-    - cron: "0 3 * * *"
-    - cron: "0 4 * * *"
+    - cron: "7 3 * * *"      # 6:07 Israel summer time
+    - cron: "7 4 * * *"      # 6:07 Israel winter time
+    - cron: "37 7 * * *"     # backup
+    - cron: "37 12 * * *"    # backup
   # Pushing a change to the page or its settings republishes the site straight away (no crawl).
   push:
     branches: [main]
@@ -71,6 +75,9 @@ jobs:
       BREVO_LIST_WEEKLY: ${{ vars.BREVO_LIST_WEEKLY }}
       BREVO_LIST_MONTHLY: ${{ vars.BREVO_LIST_MONTHLY }}
       BREVO_SEND: ${{ vars.BREVO_SEND }}
+      BREVO_ALERT_LIST: ${{ vars.BREVO_ALERT_LIST }}
+      ALERT_ATTR: ${{ vars.ALERT_ATTR }}
+      ALERT_MAX: ${{ vars.ALERT_MAX }}
       BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
       BUTTONDOWN_SEND: ${{ secrets.BUTTONDOWN_SEND }}
       WP_URL: ${{ secrets.WP_URL }}
@@ -82,16 +89,16 @@ jobs:
       - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
       - name: Install JobSpy (only used when JOBSEARCH_PROVIDER is jobspy)
-        if: ${{ github.event_name != 'push' && inputs.crawl != false && (env.JOBSEARCH_PROVIDER == 'jobspy') }}
+        if: ${{ (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl)) && env.JOBSEARCH_PROVIDER == 'jobspy' }}
         run: pip install python-jobspy
-      - name: Crawl job boards (Israel computer-science jobs)
-        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
+      - name: Crawl job boards (Israel tech jobs)
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
         run: python3 crawler/crawl.py
       - name: Write digest and publish to newsletter / WordPress (if configured)
-        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
         run: python3 crawler/publish.py
       - name: Commit updated data
-        if: ${{ github.event_name != 'push' && inputs.crawl != false }}
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
         run: |
           git config user.name "jobs-crawler"
           git config user.email "jobs-crawler@users.noreply.github.com"
@@ -99,6 +106,15 @@ jobs:
           git diff --cached --quiet || git commit -m "Job crawl $(date -u +%Y-%m-%d)"
           git push
       # Only the public files go on the website (not the crawler or the raw job file).
+      - name: Check today's crawl finished
+        if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
+        run: |
+          got=$(python3 -c "import json;print(json.load(open('data/site.json')).get('generated',''))")
+          if [ "$got" != "$(date +%Y-%m-%d)" ]; then
+            echo "::error::The site data is dated $got, not today. The crawl did not finish; see the steps above."
+            exit 1
+          fi
+          echo "Site data is from today ($got)."
       - name: Build the public site folder
         run: |
           rm -rf _site && mkdir -p _site/data

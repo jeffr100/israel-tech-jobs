@@ -3762,15 +3762,6 @@
   "size": "large"
  },
  {
-  "name": "NielsenIQ",
-  "careers": "https://jobs.smartrecruiters.com/NielsenIQ",
-  "ats": {
-   "platform": "smartrecruiters",
-   "slug": "NielsenIQ"
-  },
-  "size": "large"
- },
- {
   "name": "Nift",
   "careers": "https://job-boards.greenhouse.io/nift",
   "ats": {

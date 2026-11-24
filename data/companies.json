@@ -19,6 +19,15 @@
   "size": "small"
  },
  {
+  "name": "3Dsellers",
+  "careers": "https://jobs.smartrecruiters.com/3Dsellers",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "3Dsellers"
+  },
+  "size": "small"
+ },
+ {
   "name": "44 ventures",
   "careers": "https://www.comeet.com/jobs/44ventures/18.001",
   "ats": {
@@ -59,6 +68,17 @@
   "size": "small"
  },
  {
+  "name": "Abbott",
+  "careers": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers",
+  "ats": {
+   "platform": "workday",
+   "host": "abbott.wd5.myworkdayjobs.com",
+   "tenant": "abbott",
+   "site": "abbottcareers"
+  },
+  "size": "large"
+ },
+ {
   "name": "Above Security",
   "careers": "https://www.comeet.com/jobs/abovesecurity/FA.00D",
   "ats": {
@@ -95,6 +115,17 @@
    "platform": "comeet",
    "slug": "abra-web-mobile",
    "uid": "D3.004"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Accenture",
+  "careers": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers",
+  "ats": {
+   "platform": "workday",
+   "host": "accenture.wd103.myworkdayjobs.com",
+   "tenant": "accenture",
+   "site": "AccentureCareers"
   },
   "size": "small"
  },
@@ -313,6 +344,15 @@
   "size": "small"
  },
  {
+  "name": "Alta",
+  "careers": "https://job-boards.greenhouse.io/alta",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "alta"
+  },
+  "size": "small"
+ },
+ {
   "name": "Altair Semiconductor",
   "careers": "https://www.comeet.com/jobs/altair-semi/88.003",
   "ats": {
@@ -515,6 +555,17 @@
   "size": "small"
  },
  {
+  "name": "AstraZeneca",
+  "careers": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "astrazeneca.wd3.myworkdayjobs.com",
+   "tenant": "astrazeneca",
+   "site": "Careers"
+  },
+  "size": "large"
+ },
+ {
   "name": "AT&T Israel",
   "careers": "https://www.comeet.com/jobs/joinattil/38.00A",
   "ats": {
@@ -589,6 +640,15 @@
    "platform": "comeet",
    "slug": "automatit",
    "uid": "26.003"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Avery Dennison",
+  "careers": "https://jobs.smartrecruiters.com/AveryDennison",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "AveryDennison"
   },
   "size": "small"
  },
@@ -758,6 +818,16 @@
   "size": "small"
  },
  {
+  "name": "BlueGreen Water Technologies",
+  "careers": "https://www.comeet.com/jobs/bgtechs/E6.00D",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bgtechs",
+   "uid": "E6.00D"
+  },
+  "size": "small"
+ },
+ {
   "name": "Bluevine",
   "careers": "https://job-boards.greenhouse.io/bluevineisrael",
   "ats": {
@@ -787,6 +857,16 @@
   "size": "small"
  },
  {
+  "name": "Bond Sports",
+  "careers": "https://www.comeet.com/jobs/bondsports/F7.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "bondsports",
+   "uid": "F7.009"
+  },
+  "size": "small"
+ },
+ {
   "name": "Bounce AI",
   "careers": "https://www.comeet.com/jobs/bounce/E9.00C",
   "ats": {
@@ -802,6 +882,16 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "brainpop"
+  },
+  "size": "small"
+ },
+ {
+  "name": "BrandShield",
+  "careers": "https://www.comeet.com/jobs/brandshield/13.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "brandshield",
+   "uid": "13.002"
   },
   "size": "small"
  },
@@ -866,6 +956,15 @@
   "size": "small"
  },
  {
+  "name": "Bulwarx",
+  "careers": "https://jobs.smartrecruiters.com/Bulwarx",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Bulwarx"
+  },
+  "size": "small"
+ },
+ {
   "name": "BUYME",
   "careers": "https://www.comeet.com/jobs/buyme/B2.008",
   "ats": {
@@ -916,6 +1015,15 @@
   "size": "small"
  },
  {
+  "name": "Canditech",
+  "careers": "https://jobs.smartrecruiters.com/Canditech",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Canditech"
+  },
+  "size": "small"
+ },
+ {
   "name": "Cardo Systems",
   "careers": "https://www.comeet.com/jobs/cardosystems/F2.003",
   "ats": {
@@ -945,6 +1053,16 @@
   "size": "large"
  },
  {
+  "name": "Ceragon Networks",
+  "careers": "https://www.comeet.com/jobs/Ceragon/D3.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "Ceragon",
+   "uid": "D3.003"
+  },
+  "size": "small"
+ },
+ {
   "name": "Chainalysis",
   "careers": "https://jobs.ashbyhq.com/chainalysis-careers",
   "ats": {
@@ -959,6 +1077,15 @@
   "ats": {
    "platform": "ashby",
    "slug": "chalk"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Chamelio",
+  "careers": "https://jobs.ashbyhq.com/chamelio",
+  "ats": {
+   "platform": "ashby",
+   "slug": "chamelio"
   },
   "size": "small"
  },
@@ -1082,6 +1209,15 @@
   "size": "small"
  },
  {
+  "name": "Coinbase Israel",
+  "careers": "https://job-boards.greenhouse.io/Coinbase",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "Coinbase"
+  },
+  "size": "small"
+ },
+ {
   "name": "Colmex",
   "careers": "https://www.comeet.com/jobs/cglms/69.003",
   "ats": {
@@ -1121,12 +1257,30 @@
   "size": "large"
  },
  {
+  "name": "Como",
+  "careers": "https://jobs.ashbyhq.com/como",
+  "ats": {
+   "platform": "ashby",
+   "slug": "como"
+  },
+  "size": "small"
+ },
+ {
   "name": "Compugen",
   "careers": "https://www.comeet.com/jobs/cgen/D9.00E",
   "ats": {
    "platform": "comeet",
    "slug": "cgen",
    "uid": "D9.00E"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Connecteam",
+  "careers": "https://job-boards.greenhouse.io/connecteam",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "connecteam"
   },
   "size": "small"
  },
@@ -1184,6 +1338,17 @@
    "platform": "comeet",
    "slug": "crossriver",
    "uid": "C7.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Crowdstrike Israel R D",
+  "careers": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers",
+  "ats": {
+   "platform": "workday",
+   "host": "crowdstrike.wd5.myworkdayjobs.com",
+   "tenant": "crowdstrike",
+   "site": "crowdstrikecareers"
   },
   "size": "small"
  },
@@ -1304,6 +1469,17 @@
   "size": "small"
  },
  {
+  "name": "Danaher",
+  "careers": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs",
+  "ats": {
+   "platform": "workday",
+   "host": "danaher.wd1.myworkdayjobs.com",
+   "tenant": "danaher",
+   "site": "DanaherJobs"
+  },
+  "size": "large"
+ },
+ {
   "name": "Darrow",
   "careers": "https://www.comeet.com/jobs/darrow-ai/D8.000",
   "ats": {
@@ -1337,6 +1513,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "datarails"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DavidShield",
+  "careers": "https://jobs.smartrecruiters.com/DavidShield",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "DavidShield"
   },
   "size": "small"
  },
@@ -1416,6 +1601,17 @@
    "platform": "comeet",
    "slug": "dotcompliance",
    "uid": "89.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "DoubleVerify",
+  "careers": "https://doubleverify.wd5.myworkdayjobs.com/en-US/DV_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "doubleverify.wd5.myworkdayjobs.com",
+   "tenant": "doubleverify",
+   "site": "DV_Careers"
   },
   "size": "small"
  },
@@ -1576,6 +1772,15 @@
   "size": "small"
  },
  {
+  "name": "Electreon",
+  "careers": "https://job-boards.greenhouse.io/electreon",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "electreon"
+  },
+  "size": "small"
+ },
+ {
   "name": "Elementor",
   "careers": "https://www.comeet.com/jobs/elementor/A3.00F",
   "ats": {
@@ -1601,6 +1806,15 @@
    "platform": "comeet",
    "slug": "elsight",
    "uid": "B9.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Empathy",
+  "careers": "https://jobs.ashbyhq.com/empathy",
+  "ats": {
+   "platform": "ashby",
+   "slug": "empathy"
   },
   "size": "small"
  },
@@ -1664,12 +1878,32 @@
   "size": "small"
  },
  {
+  "name": "F5 Networks",
+  "careers": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs",
+  "ats": {
+   "platform": "workday",
+   "host": "ffive.wd5.myworkdayjobs.com",
+   "tenant": "ffive",
+   "site": "f5jobs"
+  },
+  "size": "small"
+ },
+ {
   "name": "Factify",
   "careers": "https://www.comeet.com/jobs/factify/A9.00F",
   "ats": {
    "platform": "comeet",
    "slug": "factify",
    "uid": "A9.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Fairtility",
+  "careers": "https://jobs.smartrecruiters.com/Fairtility",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Fairtility"
   },
   "size": "small"
  },
@@ -1778,6 +2012,15 @@
   "size": "small"
  },
  {
+  "name": "FirstPoint Mobile Guard",
+  "careers": "https://jobs.smartrecruiters.com/FirstPointMobileGuard",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "FirstPointMobileGuard"
+  },
+  "size": "small"
+ },
+ {
   "name": "Five Sigma",
   "careers": "https://www.comeet.com/jobs/fivesigma/07.008",
   "ats": {
@@ -1794,6 +2037,17 @@
    "platform": "comeet",
    "slug": "fiverr",
    "uid": "60.002"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Flex",
+  "careers": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "flextronics.wd1.myworkdayjobs.com",
+   "tenant": "flextronics",
+   "site": "Careers"
   },
   "size": "large"
  },
@@ -1942,6 +2196,17 @@
    "host": "gehc.wd5.myworkdayjobs.com",
    "tenant": "gehc",
    "site": "GEHC_ExternalSite"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Genesys",
+  "careers": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys",
+  "ats": {
+   "platform": "workday",
+   "host": "genesys.wd1.myworkdayjobs.com",
+   "tenant": "genesys",
+   "site": "Genesys"
   },
   "size": "large"
  },
@@ -2126,6 +2391,15 @@
    "platform": "comeet",
    "slug": "guesty",
    "uid": "10.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Guidde",
+  "careers": "https://job-boards.greenhouse.io/guidde",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "guidde"
   },
   "size": "small"
  },
@@ -2333,6 +2607,15 @@
   "size": "small"
  },
  {
+  "name": "INCRMNTAL",
+  "careers": "https://jobs.ashbyhq.com/incrmntal",
+  "ats": {
+   "platform": "ashby",
+   "slug": "incrmntal"
+  },
+  "size": "small"
+ },
+ {
   "name": "INFINIDAT",
   "careers": "https://www.comeet.com/jobs/infinidat/D6.003",
   "ats": {
@@ -2527,6 +2810,25 @@
    "slug": "jfrog"
   },
   "size": "large"
+ },
+ {
+  "name": "Jifiti",
+  "careers": "https://www.comeet.com/jobs/jifiti/47.005",
+  "ats": {
+   "platform": "comeet",
+   "slug": "jifiti",
+   "uid": "47.005"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Jiga",
+  "careers": "https://jobs.ashbyhq.com/jiga",
+  "ats": {
+   "platform": "ashby",
+   "slug": "jiga"
+  },
+  "size": "small"
  },
  {
   "name": "Jobgether",
@@ -2823,6 +3125,25 @@
   "size": "small"
  },
  {
+  "name": "Loora",
+  "careers": "https://jobs.ashbyhq.com/loora",
+  "ats": {
+   "platform": "ashby",
+   "slug": "loora"
+  },
+  "size": "small"
+ },
+ {
+  "name": "LSports",
+  "careers": "https://www.comeet.com/jobs/lsports/26.002",
+  "ats": {
+   "platform": "comeet",
+   "slug": "lsports",
+   "uid": "26.002"
+  },
+  "size": "small"
+ },
+ {
   "name": "Lumen",
   "careers": "https://www.comeet.com/jobs/lumen/1A.00E",
   "ats": {
@@ -3006,6 +3327,15 @@
   "size": "small"
  },
  {
+  "name": "Mend.io",
+  "careers": "https://jobs.ashbyhq.com/mend-io",
+  "ats": {
+   "platform": "ashby",
+   "slug": "mend-io"
+  },
+  "size": "small"
+ },
+ {
   "name": "Menlo Security",
   "careers": "https://jobs.ashbyhq.com/menlosecurity",
   "ats": {
@@ -3023,6 +3353,17 @@
    "uid": "6A.002"
   },
   "size": "small"
+ },
+ {
+  "name": "Merck & Co. (MSD)",
+  "careers": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs",
+  "ats": {
+   "platform": "workday",
+   "host": "msd.wd5.myworkdayjobs.com",
+   "tenant": "msd",
+   "site": "SearchJobs"
+  },
+  "size": "large"
  },
  {
   "name": "Metropolis",
@@ -3120,6 +3461,15 @@
    "platform": "comeet",
    "slug": "mize",
    "uid": "88.000"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Mobbo",
+  "careers": "https://jobs.smartrecruiters.com/Mobbo",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Mobbo"
   },
   "size": "small"
  },
@@ -3412,15 +3762,6 @@
   "size": "large"
  },
  {
-  "name": "NielsenIQ",
-  "careers": "https://jobs.smartrecruiters.com/NielsenIQ",
-  "ats": {
-   "platform": "smartrecruiters",
-   "slug": "NielsenIQ"
-  },
-  "size": "large"
- },
- {
   "name": "Nift",
   "careers": "https://job-boards.greenhouse.io/nift",
   "ats": {
@@ -3488,6 +3829,17 @@
    "uid": "A5.007"
   },
   "size": "small"
+ },
+ {
+  "name": "Novartis",
+  "careers": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "novartis.wd3.myworkdayjobs.com",
+   "tenant": "novartis",
+   "site": "Novartis_Careers"
+  },
+  "size": "large"
  },
  {
   "name": "nSure.ai",
@@ -3665,6 +4017,16 @@
   "size": "small"
  },
  {
+  "name": "Orca AI",
+  "careers": "https://www.comeet.com/jobs/Orca-AI/86.003",
+  "ats": {
+   "platform": "comeet",
+   "slug": "Orca-AI",
+   "uid": "86.003"
+  },
+  "size": "small"
+ },
+ {
   "name": "Orca Security",
   "careers": "https://job-boards.greenhouse.io/orcasecurity",
   "ats": {
@@ -3699,6 +4061,16 @@
   "ats": {
    "platform": "comeet",
    "slug": "invenco",
+   "uid": "65.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Orpak Systems",
+  "careers": "https://www.comeet.com/jobs/Orpak/65.001",
+  "ats": {
+   "platform": "comeet",
+   "slug": "Orpak",
    "uid": "65.001"
   },
   "size": "small"
@@ -3752,6 +4124,17 @@
   "size": "small"
  },
  {
+  "name": "Palo Alto Networks",
+  "careers": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers",
+  "ats": {
+   "platform": "workday",
+   "host": "paloaltonetworks.wd5.myworkdayjobs.com",
+   "tenant": "paloaltonetworks",
+   "site": "panwexternalcareers"
+  },
+  "size": "large"
+ },
+ {
   "name": "Pango",
   "careers": "https://www.comeet.com/jobs/pango/59.002",
   "ats": {
@@ -3788,6 +4171,17 @@
    "platform": "comeet",
    "slug": "papayaglobal",
    "uid": "16.005"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Paradox",
+  "careers": "https://workday.wd5.myworkdayjobs.com/en-US/Workday",
+  "ats": {
+   "platform": "workday",
+   "host": "workday.wd5.myworkdayjobs.com",
+   "tenant": "workday",
+   "site": "Workday"
   },
   "size": "large"
  },
@@ -4016,6 +4410,15 @@
   "size": "small"
  },
  {
+  "name": "Qmarkets",
+  "careers": "https://jobs.smartrecruiters.com/Qmarkets",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Qmarkets"
+  },
+  "size": "small"
+ },
+ {
   "name": "Qodo",
   "careers": "https://www.comeet.com/jobs/qodo/B8.00B",
   "ats": {
@@ -4083,6 +4486,15 @@
    "uid": "73.00E"
   },
   "size": "large"
+ },
+ {
+  "name": "Rapydo",
+  "careers": "https://jobs.smartrecruiters.com/Rapydo",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Rapydo"
+  },
+  "size": "small"
  },
  {
   "name": "Razor Labs",
@@ -4165,6 +4577,25 @@
   "size": "small"
  },
  {
+  "name": "Resident Home",
+  "careers": "https://job-boards.greenhouse.io/ashleydigital",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "ashleydigital"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Rise",
+  "careers": "https://www.comeet.com/jobs/risecodes/A9.000",
+  "ats": {
+   "platform": "comeet",
+   "slug": "risecodes",
+   "uid": "A9.000"
+  },
+  "size": "small"
+ },
+ {
   "name": "Riskified",
   "careers": "https://job-boards.greenhouse.io/riskified",
   "ats": {
@@ -4184,12 +4615,32 @@
   "size": "small"
  },
  {
+  "name": "Roche",
+  "careers": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext",
+  "ats": {
+   "platform": "workday",
+   "host": "roche.wd3.myworkdayjobs.com",
+   "tenant": "roche",
+   "site": "roche-ext"
+  },
+  "size": "large"
+ },
+ {
   "name": "Rocoto",
   "careers": "https://www.comeet.com/jobs/amimon/50.00C",
   "ats": {
    "platform": "comeet",
    "slug": "amimon",
    "uid": "50.00C"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Roundforest",
+  "careers": "https://jobs.smartrecruiters.com/Roundforest",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Roundforest"
   },
   "size": "small"
  },
@@ -4241,6 +4692,17 @@
   "size": "small"
  },
  {
+  "name": "SailPoint",
+  "careers": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint",
+  "ats": {
+   "platform": "workday",
+   "host": "sailpoint.wd1.myworkdayjobs.com",
+   "tenant": "sailpoint",
+   "site": "SailPoint"
+  },
+  "size": "large"
+ },
+ {
   "name": "Salesforce",
   "careers": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site",
   "ats": {
@@ -4290,6 +4752,17 @@
   "size": "small"
  },
  {
+  "name": "SciPlay",
+  "careers": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite",
+  "ats": {
+   "platform": "workday",
+   "host": "lnw.wd5.myworkdayjobs.com",
+   "tenant": "lnw",
+   "site": "SciPlayExternalCareersSite"
+  },
+  "size": "small"
+ },
+ {
   "name": "Scopely",
   "careers": "https://job-boards.greenhouse.io/scopely",
   "ats": {
@@ -4305,6 +4778,15 @@
    "platform": "comeet",
    "slug": "scylladb",
    "uid": "E4.006"
+  },
+  "size": "small"
+ },
+ {
+  "name": "SeatPick",
+  "careers": "https://jobs.ashbyhq.com/seatpick",
+  "ats": {
+   "platform": "ashby",
+   "slug": "seatpick"
   },
   "size": "small"
  },
@@ -4455,6 +4937,15 @@
   "size": "large"
  },
  {
+  "name": "Simply",
+  "careers": "https://jobs.ashbyhq.com/simply",
+  "ats": {
+   "platform": "ashby",
+   "slug": "simply"
+  },
+  "size": "small"
+ },
+ {
   "name": "Singular",
   "careers": "https://jobs.ashbyhq.com/singular",
   "ats": {
@@ -4489,6 +4980,15 @@
    "platform": "comeet",
    "slug": "skapion",
    "uid": "2B.00F"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Slauth.io",
+  "careers": "https://jobs.smartrecruiters.com/Slauthio",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Slauthio"
   },
   "size": "small"
  },
@@ -4575,6 +5075,15 @@
    "platform": "comeet",
    "slug": "spines",
    "uid": "2B.001"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Spotlock",
+  "careers": "https://jobs.smartrecruiters.com/Spotlock",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "Spotlock"
   },
   "size": "small"
  },
@@ -4706,6 +5215,15 @@
   "size": "small"
  },
  {
+  "name": "TA9",
+  "careers": "https://jobs.smartrecruiters.com/TA9",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "TA9"
+  },
+  "size": "small"
+ },
+ {
   "name": "Taboola",
   "careers": "https://job-boards.greenhouse.io/taboola",
   "ats": {
@@ -4743,6 +5261,15 @@
    "uid": "61.003"
   },
   "size": "small"
+ },
+ {
+  "name": "Tenable",
+  "careers": "https://job-boards.greenhouse.io/tenableinc",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tenableinc"
+  },
+  "size": "large"
  },
  {
   "name": "Tenengroup Ltd.",
@@ -4830,6 +5357,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "tokensecurity"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Tomorrow.io",
+  "careers": "https://job-boards.greenhouse.io/tomorrow",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tomorrow"
   },
   "size": "small"
  },
@@ -5192,6 +5728,25 @@
   "size": "large"
  },
  {
+  "name": "Wand AI",
+  "careers": "https://jobs.ashbyhq.com/wand-ai",
+  "ats": {
+   "platform": "ashby",
+   "slug": "wand-ai"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Waterfall Security Solutions",
+  "careers": "https://www.comeet.com/jobs/waterfall-security/C7.009",
+  "ats": {
+   "platform": "comeet",
+   "slug": "waterfall-security",
+   "uid": "C7.009"
+  },
+  "size": "small"
+ },
+ {
   "name": "Way Security",
   "careers": "https://www.comeet.com/jobs/waysecurity/2B.007",
   "ats": {
@@ -5298,6 +5853,15 @@
   "size": "large"
  },
  {
+  "name": "Wolt",
+  "careers": "https://job-boards.greenhouse.io/woltisrael",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "woltisrael"
+  },
+  "size": "large"
+ },
+ {
   "name": "Workiz",
   "careers": "https://www.comeet.com/jobs/workiz/F6.006",
   "ats": {
@@ -5306,6 +5870,15 @@
    "uid": "F6.006"
   },
   "size": "small"
+ },
+ {
+  "name": "WorldQuant",
+  "careers": "https://job-boards.greenhouse.io/worldquant",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "worldquant"
+  },
+  "size": "large"
  },
  {
   "name": "WSC Sports",
@@ -5362,6 +5935,15 @@
   "ats": {
    "platform": "lever",
    "slug": "z1tech"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Zafran Security",
+  "careers": "https://jobs.ashbyhq.com/zafran-security",
+  "ats": {
+   "platform": "ashby",
+   "slug": "zafran-security"
   },
   "size": "small"
  },
@@ -5433,6 +6015,17 @@
    "slug": "zip"
   },
   "size": "small"
+ },
+ {
+  "name": "ZOLL Medical",
+  "careers": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp",
+  "ats": {
+   "platform": "workday",
+   "host": "zoll.wd5.myworkdayjobs.com",
+   "tenant": "zoll",
+   "site": "ZOLLMedicalCorp"
+  },
+  "size": "large"
  },
  {
   "name": "Zscaler",

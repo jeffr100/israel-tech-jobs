@@ -278,10 +278,6 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
     <div>
       <h2>Recent changes</h2>
       <ul class="changes" id="changes"></ul>
-      <details><summary>How this works</summary>
-        <p>Each company is matched to its public job board (Comeet, Greenhouse, Lever, Ashby, SmartRecruiters or Workday), and a crawler reads those boards every morning at 6:00 Israel time. Only jobs located in Israel are kept, and only technology roles: software, data and AI, security, DevOps, QA, embedded, chip design, electronics and hardware, optics and systems engineering, mechanical and manufacturing engineering, medtech and life-science R&amp;D, technical sales and solutions engineering, design and UX, IT and technical product jobs. Sales, marketing, finance, HR and operations roles are left out. Job types and seniority are worked out from the job title, so a few may be misfiled. "Large" means about 1,000 or more employees. Dates are the employer's posting date when the job board gives one, otherwise the first day this site saw the job.</p>
-        <p>The "not on LinkedIn or Indeed" filter uses a separate check that searches those sites for each job. It turns on once that check has run (see the README).</p>
-      </details>
     </div>
   </section>
 </div>
@@ -379,8 +375,8 @@ function load(d){
   const withJobs=COS.filter(c=>c.n).length;
   $('stats').innerHTML=`<span><b>${fmt(withJobs)}</b> companies hiring</span><span><b>${fmt(COS.length)}</b> companies tracked</span>`+(fresh?`<span><b>${fmt(fresh)}</b> new since the last check</span>`:'')+`<span>Last checked <b>${esc(new Date(LATEST+'T12:00').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}))}</b></span>`;
   $('gen').textContent='';
-  const ch=d.changes||[];
-  $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new, ${fmt(c.removed)} removed</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
+  const ch=(d.changes||[]).filter(c=>c.added>0);
+  $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new ${c.added===1?'job':'jobs'}</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
   const agg=ALL.some(j=>j.from==='aggregator');
   $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the <a href="https://github.com/mluggy/techmap">Israeli Tech Map</a> (Open Database License), the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages. <a href="data/feed.xml">RSS feed of new jobs</a>.`;
   readHash();
@@ -395,6 +391,21 @@ function load(d){
 
 // A site recorded as null wasn't searched (for example LinkedIn refused the search), so it can't count as "not listed".
 function onlyHere(j){const c=j.coverage;if(!c||(c.linkedin==null&&c.indeed==null))return false;return !c.linkedin&&!c.indeed&&!c.glassdoor}
+// Within each day, take one job from each company in turn, so one big employer's batch doesn't fill the top.
+// Companies take turns in a fixed shuffled order (the same on every visit that day), not A-Z.
+function coHash(s,salt){let h=2166136261;for(const ch of salt+s){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return h>>>0}
+function mixCompanies(r){
+  const out=[];let i=0;
+  while(i<r.length){
+    const day=dateOf(r[i])+'|'+r[i].first_seen;let k=i;while(k<r.length&&dateOf(r[k])+'|'+r[k].first_seen===day)k++;
+    const seen={};
+    const g=r.slice(i,k).map(j=>({j,n:(seen[j.co]=(seen[j.co]||0)+1),h:coHash(j.co,day)}));
+    g.sort((a,b)=>a.n-b.n||a.h-b.h);
+    for(const x of g)out.push(x.j);
+    i=k;
+  }
+  return out;
+}
 function filt(){
   const q=S.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const r=ALL.filter(j=>S.tog[j.size]&&S.tog[j.from]
@@ -406,7 +417,7 @@ function filt(){
     &&(!S.onlyHere||!HAS_COV||onlyHere(j)));
   const s=S.sort;
   r.sort(s==='co'?(a,b)=>a.co.localeCompare(b.co)||a.title.localeCompare(b.title):s==='title'?(a,b)=>a.title.localeCompare(b.title):(a,b)=>dateOf(b).localeCompare(dateOf(a))||b.first_seen.localeCompare(a.first_seen)||a.co.localeCompare(b.co));
-  return r;
+  return s==='new'?mixCompanies(r):r;
 }
 function covTag(j){
   if(!j.coverage)return'';

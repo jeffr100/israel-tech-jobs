@@ -167,6 +167,7 @@ def run(data_dir, only_new=True):
     jobs = json.load(open(path))
     today = dt.date.today().isoformat()
     checked = 0
+    waiting, refused = [], []
     for name, c in jobs["companies"].items():
         # technology jobs only (the LinkedIn/Indeed check is shown on the tech site)
         own = [j for j in c["jobs"] if j.get("source") != "aggregator" and (j.get("category") or "group" not in j)]
@@ -179,7 +180,8 @@ def run(data_dir, only_new=True):
             print(f"coverage: {name}: {e}")
             continue
         if SEARCHED is not None and not SEARCHED:
-            print(f"coverage: {name}: every site refused the search; will retry next run")
+            import jobspy_source
+            (waiting if jobspy_source.LAST_REASON == "limit" else refused).append(name)
             continue
         checked += 1
         for j in own:
@@ -188,6 +190,13 @@ def run(data_dir, only_new=True):
             _mark(j, found, today, "company")
     json.dump(crawl.nan_safe(jobs), open(path, "w"), indent=0, ensure_ascii=False)
     print(f"coverage: checked {checked} companies")
+    if waiting:
+        print(f"coverage: {len(waiting)} companies wait for later runs (this run's allowance of "
+              f"{os.environ.get('JOBSPY_MAX_COMPANIES') or 75} company searches is used up)")
+    if refused:
+        print(f"coverage: LinkedIn/Indeed refused the search for {len(refused)} companies, which are retried "
+              f"next run: {', '.join(refused[:8])}{' ...' if len(refused) > 8 else ''}")
+    _report_blocks()
     per_job(jobs, today)
     json.dump(crawl.nan_safe(jobs), open(path, "w"), indent=0, ensure_ascii=False)
 
@@ -222,11 +231,24 @@ def per_job(jobs, today):
             continue
         if _mark(j, found, today, "job"):
             done += 1
+        elif (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy":
+            import jobspy_source
+            if jobspy_source.LAST_REASON == "blocked" and not set(jobspy_source.listings_sites()) - jobspy_source.stopped_sites():
+                print("coverage (per job): every site has blocked this server for now; stopping until the next run")
+                break
     print(f"coverage: searched {done} jobs individually ({max(len(todo) - done, 0)} left for later runs)")
-    if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() == "jobspy":
-        import jobspy_source
-        for site, n in sorted(jobspy_source.BLOCKED.items()):
-            print(f"coverage: {site} refused {n} searches this run (recorded as 'not checked', not as 'not listed')")
+    _report_blocks()
+
+
+def _report_blocks():
+    if (os.environ.get("JOBSEARCH_PROVIDER") or "").lower() != "jobspy":
+        return
+    import jobspy_source
+    for site, n in sorted(jobspy_source.BLOCKED.items()):
+        stop = " and was not asked again" if site in jobspy_source.stopped_sites() else ""
+        print(f"coverage: {site} refused {n} searches so far this run{stop} (recorded as 'not checked', not 'not listed')")
+    if jobspy_source.BLOCKED and not os.environ.get("JOBSPY_PROXIES"):
+        print("coverage: these sites block GitHub's servers; the JOBSPY_PROXIES secret (paid proxy) avoids that")
 
 
 if __name__ == "__main__":

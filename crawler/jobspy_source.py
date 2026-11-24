@@ -33,6 +33,14 @@ def _v(x):
 LAST_SEARCHED = set()   # sites that actually answered during the most recent search
 _FAILED = set()
 BLOCKED = {}            # site -> number of searches it refused this run
+_STREAK = {}            # site -> searches refused in a row
+GIVE_UP = int(os.environ.get("JOBSPY_GIVE_UP") or "3")   # stop asking a site after this many refusals in a row
+LAST_REASON = ""        # why the most recent search returned nothing: "", "limit" or "blocked"
+
+
+def stopped_sites():
+    """Sites that refused GIVE_UP searches in a row and aren't asked again this run."""
+    return {s for s, n in _STREAK.items() if GIVE_UP and n >= GIVE_UP}
 
 
 class _Watch(logging.Handler):
@@ -54,7 +62,14 @@ def _search(**kw):
     lg = logging.getLogger("jobspy")
     if _watch not in lg.handlers:
         lg.addHandler(_watch)
+    global LAST_REASON
     _FAILED.clear()
+    LAST_REASON = ""
+    # A site that keeps refusing has blocked this server for now; asking again only prolongs it.
+    kw = dict(kw, site_name=[x for x in kw["site_name"] if x not in stopped_sites()])
+    if not kw["site_name"]:
+        LAST_SEARCHED, LAST_REASON = set(), "blocked"
+        return _empty()
     # Paid proxies are billed by the gigabyte, so only the sites that need them (LinkedIn by default,
     # JOBSPY_PROXY_SITES to change) go through them; the others are searched directly.
     via = {x.strip() for x in (os.environ.get("JOBSPY_PROXY_SITES") or "linkedin").split(",") if x.strip()}
@@ -68,6 +83,10 @@ def _search(**kw):
     else:
         df = scrape_jobs(**kw)
     LAST_SEARCHED = {x for x in sites if x not in _FAILED}
+    for x in sites:
+        _STREAK[x] = _STREAK.get(x, 0) + 1 if x in _FAILED else 0
+    if not LAST_SEARCHED:
+        LAST_REASON = "blocked"
     return df
 
 
@@ -90,8 +109,11 @@ def listings(company, country="il"):
     from jobspy import scrape_jobs
     cap = int((os.environ.get("JOBSPY_MAX_COMPANIES") or "75") or 0)
     if cap and _count >= cap:
-        global LAST_SEARCHED
-        LAST_SEARCHED = set()
+        global LAST_SEARCHED, LAST_REASON
+        LAST_SEARCHED, LAST_REASON = set(), "limit"
+        return []
+    if not {x.strip() for x in (os.environ.get("JOBSPY_SITES") or "indeed,linkedin").split(",") if x.strip()} - stopped_sites():
+        LAST_SEARCHED, LAST_REASON = set(), "blocked"   # every site has blocked this server for now
         return []
     if _count:
         time.sleep(float((os.environ.get("JOBSPY_DELAY") or "4")))
@@ -115,12 +137,20 @@ def listings(company, country="il"):
     return out
 
 
-def listings_for_job(company, title, country="il"):
+def listings_sites():
+    return [s.strip() for s in (os.environ.get("JOBSPY_JOB_SITES") or ((os.environ.get("JOBSPY_SITES") or "indeed,linkedin") + ",google")).split(",") if s.strip()]
+
+
+def listings_for_job(company, title, country="us"):
     """Search for one job title at one company on Indeed, LinkedIn and Google Jobs."""
     from jobspy import scrape_jobs
+    global LAST_SEARCHED, LAST_REASON
+    if not set(listings_sites()) - stopped_sites():
+        LAST_SEARCHED, LAST_REASON = set(), "blocked"
+        return []
     time.sleep(float((os.environ.get("JOBSPY_DELAY") or "4")))
     where, indeed_country = COUNTRY.get(country, COUNTRY["us"])
-    sites = [s.strip() for s in (os.environ.get("JOBSPY_JOB_SITES") or ((os.environ.get("JOBSPY_SITES") or "indeed,linkedin") + ",google")).split(",") if s.strip()]
+    sites = listings_sites()
     proxies = [p.strip() for p in (os.environ.get("JOBSPY_PROXIES") or "").split(",") if p.strip()] or None
     kw = dict(site_name=sites, search_term=f'{title} "{company}"', location=where, country_indeed=indeed_country,
               results_wanted=10, proxies=proxies, verbose=0)

@@ -1,6 +1,65 @@
 [
 {
 "date": "2026-11-24",
+"added": 1,
+"removed": 9,
+"added_jobs": [
+{
+"company": "Cloudinary",
+"title": "Customer Success Manager, Enterprise Accounts",
+"url": "https://jobs.lever.co/cloudinary/a24bff9c-0b9e-4084-9be9-fc9de916b9b3"
+}
+],
+"removed_jobs": [
+{
+"company": "Jobgether",
+"title": "Assurance Climate Risk Consultant",
+"url": "https://jobs.lever.co/jobgether/7736eb99-99bd-44fc-bf68-991cbba33095"
+},
+{
+"company": "Jobgether",
+"title": "Customer Success Director",
+"url": "https://jobs.lever.co/jobgether/eb007150-36b8-4263-ac19-c573ae234c4c"
+},
+{
+"company": "Jobgether",
+"title": "Email & CRM Marketing Specialist",
+"url": "https://jobs.lever.co/jobgether/72745c24-9909-4416-9a06-5f3b4dfaf5fc"
+},
+{
+"company": "Jobgether",
+"title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
+"url": "https://jobs.lever.co/jobgether/8f1087f6-494b-428a-aa53-94fc7f8f3a56"
+},
+{
+"company": "Jobgether",
+"title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+"url": "https://jobs.lever.co/jobgether/f707140c-afa4-424e-b204-305b25ec6691"
+},
+{
+"company": "Jobgether",
+"title": "Machine Learning Engineer",
+"url": "https://jobs.lever.co/jobgether/4af6e483-b318-421d-a0f8-5a3cc3f8e5a0"
+},
+{
+"company": "Jobgether",
+"title": "NLP Engineer",
+"url": "https://jobs.lever.co/jobgether/5614c1b0-697c-4236-8f14-268c314e2508"
+},
+{
+"company": "Jobgether",
+"title": "Senior Financial Analyst",
+"url": "https://jobs.lever.co/jobgether/ad16d652-cfe9-4ae7-bb6c-c297f49b784d"
+},
+{
+"company": "Jobgether",
+"title": "Senior Performance Strategist",
+"url": "https://jobs.lever.co/jobgether/59f36411-7490-4ce6-a98f-3fb963e63885"
+}
+]
+},
+{
+"date": "2026-11-24",
 "added": 1678,
 "removed": 0,
 "added_jobs": [

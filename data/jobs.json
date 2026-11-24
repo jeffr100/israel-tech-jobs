@@ -1,6 +1,6 @@
 {
 "generated": "2026-11-24",
-"total_jobs": 4703,
+"total_jobs": 5075,
 "companies": {
 "365scores": {
 "checked": "2026-11-24",
@@ -37825,7 +37825,7 @@
 "title": "Software Engineer",
 "location": "Tel Aviv District, Israel",
 "department": "Engineering - SSE",
-"url": "https://www.catonetworks.com/careers/careers-post/5030360101?gh_jid=5030360101",
+"url": "https://www.catonetworks.com/careers/careers-post/5030362101?gh_jid=5030362101",
 "posted": "2026-11-10",
 "category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
@@ -37836,7 +37836,7 @@
 "title": "Software Engineer",
 "location": "Tel Aviv District, Israel",
 "department": "Engineering - SSE",
-"url": "https://www.catonetworks.com/careers/careers-post/5030362101?gh_jid=5030362101",
+"url": "https://www.catonetworks.com/careers/careers-post/5030360101?gh_jid=5030360101",
 "posted": "2026-11-10",
 "category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
@@ -38022,8 +38022,8 @@
 "title": "Senior Software Engineer in Test, Prompt",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "20100 Prompt Product and R&D",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8038687003",
-"posted": "2026-10-26",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8205414003",
+"posted": "2026-11-22",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -38033,8 +38033,8 @@
 "title": "Senior Software Engineer in Test, Prompt",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "20100 Prompt Product and R&D",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8205414003",
-"posted": "2026-11-22",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8038687003",
+"posted": "2026-10-26",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -40431,6 +40431,18 @@
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Customer Success Manager, Enterprise Accounts",
+"location": "Israel",
+"department": "Customer Success",
+"url": "https://jobs.lever.co/cloudinary/a24bff9c-0b9e-4084-9be9-fc9de916b9b3",
+"posted": "2026-11-24",
+"category": null,
+"group": "Customer service & support",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
 {
 "title": "Head of MIS",
 "location": "Israel",
@@ -49962,17 +49974,6 @@
 },
 {
 "title": "Physical Design Team Lead",
-"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "ASIC Engineering",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4747436005",
-"posted": "2026-10-25",
-"category": "Chip design & silicon",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Physical Design Team Lead",
 "location": "Haifa District, Israel",
 "department": "ASIC Engineering",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749773005",
@@ -49980,6 +49981,17 @@
 "category": "Chip design & silicon",
 "level": "Lead / manager",
 "region": "Haifa",
+"first_seen": "2026-11-23"
+},
+{
+"title": "Physical Design Team Lead",
+"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+"department": "ASIC Engineering",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4747436005",
+"posted": "2026-10-25",
+"category": "Chip design & silicon",
+"level": "Lead / manager",
+"region": "Tel Aviv",
 "first_seen": "2026-11-23"
 },
 {
@@ -50006,17 +50018,6 @@
 },
 {
 "title": "Principal DFT Engineer",
-"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "DFT",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703793005",
-"posted": "2026-06-08",
-"category": "Chip design & silicon",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Principal DFT Engineer",
 "location": "Haifa District, Israel",
 "department": "DFT",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749768005",
@@ -50027,12 +50028,34 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Principal DFT Engineer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+"department": "DFT",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703793005",
+"posted": "2026-06-08",
+"category": "Chip design & silicon",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
+},
+{
 "title": "Principal Emulation Engineer",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "ASIC Engineering",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715784005",
 "posted": "2026-07-16",
 "category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
+},
+{
+"title": "Principal Physical Design CAD Engineer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+"department": "ASIC Engineering",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749775005",
+"posted": "2026-11-01",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50049,14 +50072,14 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Principal Physical Design CAD Engineer",
-"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "ASIC Engineering",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749775005",
+"title": "Senior ASIC Design Engineer",
+"location": "Haifa District, Israel",
+"department": "Design Engineering",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749764005",
 "posted": "2026-11-01",
 "category": "Chip design & silicon",
 "level": "Senior",
-"region": "Tel Aviv",
+"region": "Haifa",
 "first_seen": "2026-11-23"
 },
 {
@@ -50068,17 +50091,6 @@
 "category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Senior ASIC Design Engineer",
-"location": "Haifa District, Israel",
-"department": "Design Engineering",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749764005",
-"posted": "2026-11-01",
-"category": "Chip design & silicon",
-"level": "Senior",
-"region": "Haifa",
 "first_seen": "2026-11-23"
 },
 {
@@ -50128,17 +50140,6 @@
 },
 {
 "title": "Senior/ Staff Physical Design Engineer",
-"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "DFT",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749771005",
-"posted": "2026-11-01",
-"category": "Chip design & silicon",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Senior/ Staff Physical Design Engineer",
 "location": "Haifa District, Israel",
 "department": "DFT",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649866005",
@@ -50149,12 +50150,34 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Senior/ Staff Physical Design Engineer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+"department": "DFT",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749771005",
+"posted": "2026-11-01",
+"category": "Chip design & silicon",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
+},
+{
 "title": "Senior System Validation Engineer",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "ASIC Engineering",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4734437005",
 "posted": "2026-09-16",
 "category": "QA & testing",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
+},
+{
+"title": "Staff DFT Engineer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+"department": "DFT",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703792005",
+"posted": "2026-06-08",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50171,12 +50194,12 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Staff DFT Engineer",
+"title": "Staff Physical Design Engineer - SoC EMIR Engineer",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "DFT",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703792005",
-"posted": "2026-06-08",
-"category": "Chip design & silicon",
+"department": "Physical Design",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703779005",
+"posted": "2026-06-07",
+"category": "Security",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50193,12 +50216,12 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Staff Physical Design Engineer - SoC EMIR Engineer",
+"title": "Staff / Principal ASIC Design Engineer",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "Physical Design",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703779005",
-"posted": "2026-06-07",
-"category": "Security",
+"department": "ASIC Engineering",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715773005",
+"posted": "2026-07-16",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50215,11 +50238,11 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Staff / Principal ASIC Design Engineer",
+"title": "Staff/ Principal Chip Top Physical Design  Engineer",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "ASIC Engineering",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715773005",
-"posted": "2026-07-16",
+"department": "Physical Design",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674527005",
+"posted": "2026-03-18",
 "category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -50234,17 +50257,6 @@
 "category": "Chip design & silicon",
 "level": "Senior",
 "region": "Haifa",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Staff/ Principal Chip Top Physical Design  Engineer",
-"location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-"department": "Physical Design",
-"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674527005",
-"posted": "2026-03-18",
-"category": "Chip design & silicon",
-"level": "Senior",
-"region": "Tel Aviv",
 "first_seen": "2026-11-23"
 },
 {
@@ -53170,18 +53182,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Assurance Climate Risk Consultant",
-"location": "Israel",
-"department": "Others",
-"url": "https://jobs.lever.co/jobgether/7736eb99-99bd-44fc-bf68-991cbba33095",
-"posted": "2026-11-19",
-"category": null,
-"group": "Other",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Business Development Manager – Gaming / iGaming Outsourcing",
 "location": "Israel",
 "department": "Business Development",
@@ -53218,17 +53218,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Customer Success Director",
-"location": "Israel",
-"department": "Support",
-"url": "https://jobs.lever.co/jobgether/eb007150-36b8-4263-ac19-c573ae234c4c",
-"posted": "2026-11-17",
-"category": "Backend & software engineering",
-"level": "Lead / manager",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-23"
-},
-{
 "title": "Data Analyst, Identification Accuracy",
 "location": "Israel",
 "department": "Analyst",
@@ -53250,41 +53239,6 @@
 "level": "Mid-level / unspecified",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-24"
-},
-{
-"title": "Email & CRM Marketing Specialist",
-"location": "Israel",
-"department": "Marketing",
-"url": "https://jobs.lever.co/jobgether/72745c24-9909-4416-9a06-5f3b4dfaf5fc",
-"posted": "2026-11-17",
-"category": null,
-"group": "Marketing & communications",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
-"title": "English to Belarusian Review Lead for UI, Marketing & Product Content",
-"location": "Israel",
-"department": "Marketing",
-"url": "https://jobs.lever.co/jobgether/8f1087f6-494b-428a-aa53-94fc7f8f3a56",
-"posted": "2026-11-19",
-"category": null,
-"group": "Marketing & communications",
-"level": "Lead / manager",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-"location": "Israel",
-"department": "IT",
-"url": "https://jobs.lever.co/jobgether/f707140c-afa4-424e-b204-305b25ec6691",
-"posted": "2026-11-17",
-"category": "Backend & software engineering",
-"level": "Junior",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Growth Marketing Specialist",
@@ -53323,33 +53277,11 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Machine Learning Engineer",
-"location": "Israel",
-"department": "IT",
-"url": "https://jobs.lever.co/jobgether/4af6e483-b318-421d-a0f8-5a3cc3f8e5a0",
-"posted": "2026-11-17",
-"category": "Data & AI",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-23"
-},
-{
 "title": "ML Engineer",
 "location": "Israel",
 "department": "IT",
 "url": "https://jobs.lever.co/jobgether/e5764da8-6201-4652-bbba-e4310fa3a6b1",
 "posted": "2026-11-18",
-"category": "Data & AI",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-23"
-},
-{
-"title": "NLP Engineer",
-"location": "Israel",
-"department": "IT",
-"url": "https://jobs.lever.co/jobgether/5614c1b0-697c-4236-8f14-268c314e2508",
-"posted": "2026-11-17",
 "category": "Data & AI",
 "level": "Mid-level / unspecified",
 "region": "Israel (other / unspecified)",
@@ -53446,30 +53378,6 @@
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
-},
-{
-"title": "Senior Financial Analyst",
-"location": "Israel",
-"department": "Finance",
-"url": "https://jobs.lever.co/jobgether/ad16d652-cfe9-4ae7-bb6c-c297f49b784d",
-"posted": "2026-11-19",
-"category": null,
-"group": "Finance & accounting",
-"level": "Senior",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Senior Performance Strategist",
-"location": "Israel",
-"department": "Marketing",
-"url": "https://jobs.lever.co/jobgether/59f36411-7490-4ce6-a98f-3fb963e63885",
-"posted": "2026-11-17",
-"category": null,
-"group": "Marketing & communications",
-"level": "Senior",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
 },
 {
 "title": "Senior Product Manager, Self-Serve",
@@ -54831,6 +54739,17 @@
 "searched": "",
 "jobs": [
 {
+"title": "Junior Software Engineer - ETR- Israel",
+"location": "Caesarea Israel",
+"department": "",
+"url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Junior-Software-Engineer---ETR--Israel_2031073",
+"posted": "2026-11-24",
+"category": "Backend & software engineering",
+"level": "Junior",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
 "title": "Senior Software Engineer",
 "location": "South Netanya, Israel",
 "department": "",
@@ -54839,17 +54758,6 @@
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Netanya",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Junior Software Engineer - ETR- Israel",
-"location": "Caesarea, Israel",
-"department": "",
-"url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Junior-Software-Engineer---ETR--Israel_2031073",
-"posted": "2026-11-24",
-"category": "Backend & software engineering",
-"level": "Junior",
-"region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-24"
 },
 {
@@ -55999,6 +55907,17 @@
 "searched": "",
 "jobs": [
 {
+"title": "NPD Quality Engineer",
+"location": "Yokneam, Haifa District, Israel",
+"department": "",
+"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Yokneam-Haifa-District-Israel/NPD-Quality-Engineer_R-111941",
+"posted": "2026-11-24",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
 "title": "VP Haifa Technology Incubator Electrophysiology",
 "location": "Yokneam, Haifa District, Israel",
 "department": "",
@@ -56020,17 +55939,6 @@
 "group": "Customer service & support",
 "level": "Mid-level / unspecified",
 "region": "Center (unspecified)",
-"first_seen": "2026-11-24"
-},
-{
-"title": "NPD Quality Engineer",
-"location": "Yokneam, Haifa District, Israel",
-"department": "",
-"url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Yokneam-Haifa-District-Israel/NPD-Quality-Engineer_R-111941",
-"posted": "2026-11-23",
-"category": "Mechanical & manufacturing",
-"level": "Mid-level / unspecified",
-"region": "Haifa",
 "first_seen": "2026-11-24"
 },
 {
@@ -57886,6 +57794,4821 @@
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"3Dsellers": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "eCommerce Demo Specialist",
+"location": "Tel Aviv, Tel Aviv, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/3Dsellers/743999913225121",
+"posted": "2023-06-15",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Abbott": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Electrical Engineer",
+"location": "Israel - Haifa",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Haifa/Electrical-Engineer_31054158",
+"posted": "",
+"category": "Electronics & hardware",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Software Systems Engineer",
+"location": "Israel - Haifa",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Haifa/Staff-Software-Systems-Engineer_31162274",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Systems Engineer",
+"location": "Israel - Haifa",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Haifa/Staff-Systems-Engineer_31162273",
+"posted": "",
+"category": "Optics, physics & systems",
+"level": "Senior",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Medical Representative",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Tel-Aviv/Medical-Representative_31164355",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Administrative assistant/ Receptionist - temporary",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Tel-Aviv/Administrative-assistant--Receptionist---temporary_31165251",
+"posted": "",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Pediatric Nutrition - Digital and CRM Lead",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Tel-Aviv/Pediatric-Nutrition---Digital-and-CRM-Lead_31165618",
+"posted": "2026-11-02",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Marketing Manager ANI",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/Israel---Tel-Aviv/Marketing-Manager-ANI_31165520",
+"posted": "2026-11-02",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Accenture": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [],
+"last_ok": "2026-11-24"
+},
+"Alta": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Account Executive",
+"location": "Tel Aviv, Israel",
+"department": "Sales",
+"url": "https://careers.altahq.com?gh_jid=4919386101",
+"posted": "2026-07-05",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Go To Market Strategist (CSM) IL",
+"location": "Tel Aviv,Israel",
+"department": "CS",
+"url": "https://careers.altahq.com?gh_jid=4923406101",
+"posted": "2026-07-09",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Marketing Manager",
+"location": "Tel Aviv, Israel",
+"department": "GTM",
+"url": "https://careers.altahq.com?gh_jid=5041643101",
+"posted": "2026-11-18",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "R&D Team Lead",
+"location": "Tel Aviv, Israel",
+"department": "Builders",
+"url": "https://careers.altahq.com?gh_jid=4919385101",
+"posted": "2026-07-05",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Full Stack Engineer",
+"location": "Tel Aviv, Israel",
+"department": "Builders",
+"url": "https://careers.altahq.com?gh_jid=4919381101",
+"posted": "2026-07-05",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"AstraZeneca": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "PM GI HCC",
+"location": "Israel - Kfar Saba",
+"department": "",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Israel---Kfar-Saba/PM-GI-HCC_R-250072-4",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "MSL",
+"location": "Israel - Kfar Saba",
+"department": "",
+"url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Israel---Kfar-Saba/MSL_R-257388",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Avery Dennison": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [],
+"last_ok": "2026-11-24"
+},
+"BlueGreen Water Technologies": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Junior Logistics & Supply Chain Coordinator-Part time 60%",
+"location": "Modi'in, Israel",
+"department": "COGS- Operations",
+"url": "https://www.comeet.com/jobs/bgtechs/E6.00D/junior-logistics-supply-chain-coordinator-part-time-60/D6.37E",
+"posted": "",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Junior",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Junior Logistics & Supply Chain Coordinator-Part time 60%",
+"location": "Modiin, Israel",
+"department": "COGS- Operations",
+"url": "https://www.comeet.com/jobs/bgtechs/E6.00D/junior-logistics-supply-chain-coordinator-part-time-60/D6.37E-68.209",
+"posted": "",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Junior",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מנהל/ת מכירות שטח אזורי – דרום ישראל",
+"location": "Israel South",
+"department": "Sales",
+"url": "https://www.comeet.com/jobs/bgtechs/E6.00D/job/82.C6D",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Bond Sports": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior AI Engineer",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Engineering",
+"url": "https://www.comeet.com/jobs/bondsports/F7.009/senior-ai-engineer/4D.37B",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Backend Engineer, Core Platform",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Engineering",
+"url": "https://www.comeet.com/jobs/bondsports/F7.009/senior-backend-engineer-core-platform/3D.37D",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"BrandShield": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Junior Customer Success manager",
+"location": "Herzliya, Israel",
+"department": "Enforcement",
+"url": "https://www.comeet.com/jobs/brandshield/13.002/junior-customer-success-manager/B2.12D",
+"posted": "",
+"category": null,
+"group": "Customer service & support",
+"level": "Junior",
+"region": "Herzliya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "נציג.ת תמיכת לקוחות",
+"location": "Herzliya, Israel",
+"department": "DTNT",
+"url": "https://www.comeet.com/jobs/brandshield/13.002/job/D9.D3E",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Herzliya",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Bulwarx": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "System Integration Technician",
+"location": "רעננה, IL",
+"department": "Professional Services",
+"url": "https://jobs.smartrecruiters.com/Bulwarx/74299085",
+"posted": "2013-11-10",
+"category": null,
+"group": "Manufacturing & production",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sales Manager",
+"location": "רעננה, IL",
+"department": "Sales",
+"url": "https://jobs.smartrecruiters.com/Bulwarx/74298813",
+"posted": "2013-11-10",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Systems Integration Expert",
+"location": "רעננה, IL",
+"department": "Professional Services",
+"url": "https://jobs.smartrecruiters.com/Bulwarx/74298809",
+"posted": "2013-11-10",
+"category": null,
+"group": "Other",
+"level": "Senior",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Canditech": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Backend Developer",
+"location": "Haifa, Haifa District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Canditech/743999917571253",
+"posted": "2023-07-09",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Backend Developer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Canditech/743999914165230",
+"posted": "2023-06-21",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "JavaScript Developer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Canditech/743999912717558",
+"posted": "2023-06-12",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Ceragon Networks": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Algorithm Engineer- Team Lead",
+"location": "Rosh Ha'ayin, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/algorithm-engineer-team-lead/70.F65",
+"posted": "",
+"category": "Algorithms & research",
+"level": "Lead / manager",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Controller",
+"location": "Rosh Ha'ayin, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/controller/91.37D",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Executive Assistant to the CRO",
+"location": "Rosh Ha'ayin, Israel",
+"department": "Admin",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/executive-assistant-to-the-cro/8C.270",
+"posted": "",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Letter of Credit  assistant- Part Time",
+"location": "Rosh Ha'ayin, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/letter-of-credit-assistant-part-time/3D.478",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Mechanical Design Engineer (R&D)",
+"location": "Rosh Ha'ayin, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/mechanical-design-engineer-r-d/59.668",
+"posted": "",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Engineering",
+"location": "Rosh Ha'ayin, Israel",
+"department": "Engineering",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/product-engineering/E5.073",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Regulatory and compliance Engineer",
+"location": "Rosh Ha'ayin, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/regulatory-and-compliance-engineer/13.378",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "System Administrator",
+"location": "Rosh Ha'ayin, Israel",
+"department": "IT",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/system-administrator/DE.478",
+"posted": "",
+"category": "IT & systems",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Chamelio": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Fullstack Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/20792f61-d947-4535-acb2-2f55814ce733",
+"posted": "2026-11-11",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Backend Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/b71809e1-4d9e-462e-b432-5d9c59adc8e8",
+"posted": "2026-11-03",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Customer Success Manager – LegalTech",
+"location": "Tel Aviv",
+"department": "G&A",
+"url": "https://jobs.ashbyhq.com/chamelio/7144f524-5857-4b55-93e2-fa77f491177f",
+"posted": "2026-11-03",
+"category": null,
+"group": "Customer service & support",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Marketing Manager",
+"location": "Tel Aviv",
+"department": "Marketing",
+"url": "https://jobs.ashbyhq.com/chamelio/8bfc7694-8d9c-4fe6-8cf0-14ec48e28665",
+"posted": "2026-10-13",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Integration & Implementation Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/4f66214c-7a46-4f79-a3f9-7ca66c0e2d2f",
+"posted": "2026-10-22",
+"category": "Technical sales & solutions",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Security Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/b77f93a2-6df4-426f-b35d-f26b2398c17d",
+"posted": "2026-11-01",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior DevSecOps Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/33a00ca8-5cff-4c29-b675-d9b725244ed2",
+"posted": "2026-11-15",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Security Operations Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/chamelio/bffcf439-e56b-4c4e-b35e-5508f3cf5a38",
+"posted": "2026-11-15",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Office Admin & Operations Manager (part time)",
+"location": "Tel Aviv",
+"department": "G&A",
+"url": "https://jobs.ashbyhq.com/chamelio/301a34e9-b79e-41ac-8f1f-d72381592196",
+"posted": "2026-11-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Coinbase Israel": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Staff Software Engineer",
+"location": "Remote - Israel",
+"department": "Engineering - Security",
+"url": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
+"posted": "2026-06-24",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Remote / hybrid",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Como": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI Engineer",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/como/d42d204f-4749-42e0-89e5-c308004d7077",
+"posted": "2026-10-12",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Full Stack Engineer (Frontend-focused)",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/como/8b452e00-8e03-4013-9a15-59c080bc9588",
+"posted": "2026-10-12",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "DevOps / Platform Engineer",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/como/6b785edd-7c39-4a42-a28c-a7000f4e1842",
+"posted": "2026-10-12",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Connecteam": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI Developer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5549978004?gh_jid=5549978004",
+"posted": "2025-05-27",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Brand & Marketing Design Team Lead",
+"location": "Tel Aviv District, Israel",
+"department": "Marketing",
+"url": "https://connecteam.com/careers/6100430004?gh_jid=6100430004",
+"posted": "2026-06-25",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "DevOps Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5630778004?gh_jid=5630778004",
+"posted": "2025-08-25",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "DevSecOps",
+"location": "Tel Aviv District, Israel",
+"department": "G&A",
+"url": "https://connecteam.com/careers/6255153004?gh_jid=6255153004",
+"posted": "2026-11-11",
+"category": "Security",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Full Stack Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/6227866004?gh_jid=6227866004",
+"posted": "2026-10-18",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Gen AI Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5997770004?gh_jid=5997770004",
+"posted": "2026-05-18",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Marketing Operations Manager",
+"location": "Tel Aviv District, Israel",
+"department": "Marketing",
+"url": "https://connecteam.com/careers/6227876004?gh_jid=6227876004",
+"posted": "2026-10-19",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Mobile Infrastructure Team Lead",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5970690004?gh_jid=5970690004",
+"posted": "2026-04-15",
+"category": "Mobile",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Onboarding Manager- Mid Market & Enterprise team",
+"location": "Tel Aviv District, Israel",
+"department": "Customer Success",
+"url": "https://connecteam.com/careers/6093423004?gh_jid=6093423004",
+"posted": "2026-06-21",
+"category": null,
+"group": "Customer service & support",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Group Lead",
+"location": "Tel Aviv District, Israel",
+"department": "Product",
+"url": "https://connecteam.com/careers/6231915004?gh_jid=6231915004",
+"posted": "2026-10-25",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Manager",
+"location": "Tel Aviv District, Israel",
+"department": "Product",
+"url": "https://connecteam.com/careers/5840326004?gh_jid=5840326004",
+"posted": "2026-03-30",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Search User Acquisition Manager",
+"location": "Tel Aviv District, Israel",
+"department": "Marketing",
+"url": "https://connecteam.com/careers/6210697004?gh_jid=6210697004",
+"posted": "2026-09-30",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Backend Platform Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/6209632004?gh_jid=6209632004",
+"posted": "2026-09-28",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Data Platform Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/6209551004?gh_jid=6209551004",
+"posted": "2026-09-28",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Frontend Infrastructure Engineer (Core Team)",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5780978004?gh_jid=5780978004",
+"posted": "2026-01-25",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Full Stack Engineer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/6092468004?gh_jid=6092468004",
+"posted": "2026-06-17",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Mobile Developer",
+"location": "Tel Aviv District, Israel",
+"department": "R&D",
+"url": "https://connecteam.com/careers/5970677004?gh_jid=5970677004",
+"posted": "2026-04-15",
+"category": "Mobile",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Website Product Manager",
+"location": "Tel Aviv District, Israel",
+"department": "Marketing",
+"url": "https://connecteam.com/careers/6227878004?gh_jid=6227878004",
+"posted": "2026-10-22",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Crowdstrike Israel R D": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Sr. Software Engineer - Application Analysis (Hybrid, ISR)",
+"location": "Israel - Tel Aviv (Museum)",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv-Museum/Sr-Software-Engineer---Application-Analysis--Hybrid--ISR-_R28713",
+"posted": "2026-11-23",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Engineer (Hybrid, ISR)",
+"location": "Israel - Tel Aviv (Museum)",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv-Museum/Principal-Engineer--Hybrid--ISR-_R30185",
+"posted": "2026-11-17",
+"category": null,
+"group": "Other",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. MacOS Sensor Engineer, Data Security (Hybrid, ISR)",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-MacOS-Sensor-Engineer--Data-Security--Hybrid--ISR-_R30424",
+"posted": "2026-11-11",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Software Engineer - Cloud, Identity Protection (Hybrid, ISR)",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Software-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29783",
+"posted": "2026-11-11",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Engineer - Cloud",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Engineer---Cloud_R29413-1",
+"posted": "2026-11-02",
+"category": null,
+"group": "Other",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Engineer - Sensor",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-Engineer---Sensor_R30747",
+"posted": "2026-11-02",
+"category": "Optics, physics & systems",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Software Engineer - Cloud, Identity Protection (Hybrid, ISR)",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Software-Detection-Engineer---Cloud--Identity-Protection--Hybrid--ISR-_R29391",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Manager, Workplaces Services",
+"location": "Israel - Tel Aviv",
+"department": "",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Manager--Workplaces-Services_R30048",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Danaher": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Office Manager/Senior Administrative Assistant",
+"location": "Rehovot, Israel",
+"department": "",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Rehovot-Israel/Office-Manager-Senior-Administrative-Assistant_R1318321",
+"posted": "2026-11-03",
+"category": null,
+"group": "Admin & office",
+"level": "Lead / manager",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Director, Global Cyber Detection & Response",
+"location": "ISR   Remote",
+"department": "",
+"url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/ISR---Remote/Senior-Director--Global-Cyber-Detection---Response_R1318906",
+"posted": "",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Remote / hybrid",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"DavidShield": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [],
+"last_ok": "2026-11-24"
+},
+"DoubleVerify": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Data Scientist — Computer Vision & NLP",
+"location": "Tel Aviv-Israel",
+"department": "",
+"url": "https://doubleverify.wd5.myworkdayjobs.com/en-US/DV_Careers/job/Tel-Aviv-Israel/Senior-Data-Scientist---Computer-Vision---NLP_JR00001121",
+"posted": "2026-11-01",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Software Engineer I",
+"location": "Tel Aviv-Israel",
+"department": "",
+"url": "https://doubleverify.wd5.myworkdayjobs.com/en-US/DV_Careers/job/Tel-Aviv-Israel/Sr-Software-Engineer-I_JR00000339",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Electreon": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Mechanical Design Engineer Leader",
+"location": "HQ Israel",
+"department": "R&D",
+"url": "https://electreon.com/about-us/careers/apply?gh_jid=4741941101",
+"posted": "2026-01-27",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Strategic Buyer",
+"location": "HQ Israel",
+"department": "Operation",
+"url": "https://electreon.com/about-us/careers/apply?gh_jid=4767269101",
+"posted": "2026-01-28",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Empathy": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Legal Counsel",
+"location": "Tel Aviv",
+"department": "Operations",
+"url": "https://jobs.ashbyhq.com/empathy/691359bd-c717-4baf-829f-ef263458e1e5",
+"posted": "2026-11-16",
+"category": null,
+"group": "Legal & compliance",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Analytics Engineer",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/empathy/10e56442-1be4-41e7-ac9b-0f8a42f54d10",
+"posted": "2026-11-16",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Manager",
+"location": "Tel Aviv",
+"department": "Product",
+"url": "https://jobs.ashbyhq.com/empathy/998d4dfd-1505-4884-935c-05238f4c4073",
+"posted": "2026-11-17",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Full Stack Developer",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/empathy/1f49a174-2ff0-4cad-b87c-2f226ebb8f76",
+"posted": "2026-11-16",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Full Stack Mobile Developer",
+"location": "Tel Aviv",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/empathy/62245caf-74d9-4ea9-a7ba-f521441ba3f2",
+"posted": "2026-11-23",
+"category": "Mobile",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"F5 Networks": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Business Development Rep (Hebrew Speaking)",
+"location": "Tel Aviv",
+"department": "",
+"url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Business-Development-Rep--Hebrew-Speaking-_RP1038721",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Fairtility": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Project Manager",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Fairtility/743999913809995",
+"posted": "2023-06-19",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior QA Automation",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Fairtility/743999913729733",
+"posted": "2023-06-19",
+"category": "QA & testing",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Data Engineering team leader",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Fairtility/743999913257703",
+"posted": "2023-06-15",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Data Engineering Team Leader",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Fairtility/743999882230763",
+"posted": "2023-01-31",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "QA Team Leader",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Fairtility/743999794762874",
+"posted": "2021-12-28",
+"category": "QA & testing",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"FirstPoint Mobile Guard": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Content Marketing Manager",
+"location": "Netanya, Center District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/FirstPointMobileGuard/743999796499560",
+"posted": "2022-01-05",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Flex": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Program Administrator",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Program-Administrator_WD232332",
+"posted": "2026-11-23",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Material Planning Analyst",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Material-Planning-Analyst_WD233457",
+"posted": "2026-11-22",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "FP&A",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/FP-A_WD231505",
+"posted": "2026-11-18",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "MATERIAL PLANNING ANALIST",
+"location": "Israel, Modiin",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Modiin/MATERIAL-PLANNING-ANALIST_WD234324",
+"posted": "2026-11-15",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Process Engineer",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Process-Engineer_WD233533",
+"posted": "2026-11-11",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Systems Engineer",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Systems-Engineer_WD217331-1",
+"posted": "2026-10-28",
+"category": "Optics, physics & systems",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Systems Engineer",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Systems-Engineer_WD229415",
+"posted": "",
+"category": "Optics, physics & systems",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Systems Engineer",
+"location": "Israel, Modiin",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Modiin/Systems-Engineer_WD230276",
+"posted": "",
+"category": "Optics, physics & systems",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Engineer",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Product-Engineer_WD229805",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Program Administrator",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Program-Administrator_WD226787",
+"posted": "",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Accountant",
+"location": "Israel, Migdal Ha-Emek",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Accountant_WD230107-1",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Quality Engineer",
+"location": "Israel, Modiin",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Modiin/Quality-Engineer_WD228816",
+"posted": "",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "IT Support Technician",
+"location": "Israel, Modiin",
+"department": "",
+"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Modiin/Systems-Analyst_WD224723",
+"posted": "",
+"category": "IT & systems",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Genesys": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Software Engineer",
+"location": "Tel Aviv, Israel",
+"department": "",
+"url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Tel-Aviv-Israel/Software-Engineer_JR113070-1",
+"posted": "2026-11-20",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Guidde": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI Engineer - Agentic Products",
+"location": "Tel Aviv, Israel",
+"department": "R&D",
+"url": "https://job-boards.eu.greenhouse.io/guidde/jobs/5025881101",
+"posted": "2026-11-03",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Global Partner Sales Manager",
+"location": "Tel Aviv, Israel",
+"department": "Partners",
+"url": "https://job-boards.eu.greenhouse.io/guidde/jobs/5006466101",
+"posted": "2026-10-14",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Software Engineer - AI-Native",
+"location": "Tel Aviv, Israel",
+"department": "R&D",
+"url": "https://job-boards.eu.greenhouse.io/guidde/jobs/5026771101",
+"posted": "2026-11-03",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "User Acquisition Manager",
+"location": "Tel Aviv, Israel",
+"department": "Marketing",
+"url": "https://job-boards.eu.greenhouse.io/guidde/jobs/4964089101",
+"posted": "2026-08-31",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"INCRMNTAL": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Software Engineer",
+"location": "IL | Ramat Gan",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/incrmntal/5516fcda-8084-45db-a4f4-902a502ab428",
+"posted": "2026-07-14",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager",
+"location": "IL | Ramat Gan",
+"department": "Product",
+"url": "https://jobs.ashbyhq.com/incrmntal/5ad9c6e6-a89f-4d46-af8c-da2b6977c2bb",
+"posted": "2026-07-14",
+"category": "Technical product",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Data Scientist",
+"location": "IL | Ramat Gan",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/incrmntal/adade9a1-b495-4d85-a56c-e26dbc2a2135",
+"posted": "2026-07-16",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Business Analyst",
+"location": "IL | Ramat Gan",
+"department": "Operations",
+"url": "https://jobs.ashbyhq.com/incrmntal/c509cfa6-f83e-4653-9a0b-66240ba654a6",
+"posted": "2026-07-23",
+"category": null,
+"group": "Transport & driving",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Jifiti": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Technical Delivery Project Manager",
+"location": "Modiin-Maccabim-Reut, Israel",
+"department": "Operations",
+"url": "https://www.comeet.com/jobs/jifiti/47.005/technical-delivery-project-manager/64.F6F",
+"posted": "",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Jiga": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Account Executive Defense - Israel",
+"location": "Israel (Remote)",
+"department": "Sales",
+"url": "https://jobs.ashbyhq.com/jiga/706cd16e-0181-415e-9f27-37e2fd19f385",
+"posted": "2026-08-27",
+"category": null,
+"group": "Sales & business development",
+"level": "Senior",
+"region": "Remote / hybrid",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Loora": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "User Acquisition Manager- Google Ads",
+"location": "Tel Aviv",
+"department": "Growth",
+"url": "https://jobs.ashbyhq.com/loora/584dba4c-139a-4943-bcf0-4757242d1b1e",
+"posted": "2026-10-17",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Marketing Lead- B2B",
+"location": "Tel Aviv",
+"department": "B2B",
+"url": "https://jobs.ashbyhq.com/loora/2b361f36-4c4d-4bc6-807a-313dd51f9c60",
+"posted": "2026-08-31",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Account Executive",
+"location": "Tel Aviv",
+"department": "B2B",
+"url": "https://jobs.ashbyhq.com/loora/bf50dead-8367-4db2-ae9f-73f9486ef4b2",
+"posted": "2026-09-04",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"LSports": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI Business Automation Engineer",
+"location": "Ashkelon, Israel",
+"department": "Operations",
+"url": "https://www.comeet.com/jobs/lsports/26.002/ai-business-automation-engineer/28.376",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Bookkeeper Specialist",
+"location": "Ashkelon, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/lsports/26.002/bookkeeper-specialist/C3.57C",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Browser Infrastructure Architect",
+"location": "Ashkelon, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/lsports/26.002/browser-infrastructure-architect/4C.471",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Business Development Director",
+"location": "Ashkelon, Israel",
+"department": "GTM",
+"url": "https://www.comeet.com/jobs/lsports/26.002/business-development-director/96.27C",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Chief Marketing Officer (CMO)",
+"location": "Ashkelon, Israel",
+"department": "Marketing",
+"url": "https://www.comeet.com/jobs/lsports/26.002/chief-marketing-officer-cmo/57.475",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Mid-level / unspecified",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Junior DevOps Engineer",
+"location": "Ashkelon, Israel",
+"department": "Bringits",
+"url": "https://www.comeet.com/jobs/lsports/26.002/junior-devops-engineer/9E.471",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Junior",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer – Web Rendering Engineer",
+"location": "Ashkelon, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/lsports/26.002/principal-software-engineer-web-rendering-engineer/4C.472",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Mend.io": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Account Executive, EMEA & APAC",
+"location": "Givatayim",
+"department": "GTM - Sales",
+"url": "https://jobs.ashbyhq.com/mend-io/f4a655af-c35f-4efc-90ee-fc30889b510f",
+"posted": "2026-07-28",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Head of Security",
+"location": "Givatayim",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/mend-io/6d0e7a32-5bd8-401a-ba5a-6b102688f8c4",
+"posted": "2026-11-04",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Digital Success Manager",
+"location": "Givatayim",
+"department": "GTM - Sales",
+"url": "https://jobs.ashbyhq.com/mend-io/0c6f2910-3b05-4308-8b91-4dc97f837623",
+"posted": "2026-10-15",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Account Manager & Customer Success Manager, International",
+"location": "Givatayim",
+"department": "CGS",
+"url": "https://jobs.ashbyhq.com/mend-io/fabd644a-0913-4b5c-bcf2-a994aa9831a8",
+"posted": "2026-11-10",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Merck & Co. (MSD)": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Brand & Customer Product Manager",
+"location": "ISR - Central District of Israel - Hod Hasharon",
+"department": "",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Brand---Customer-Product-Manager_R424425-1",
+"posted": "2026-11-24",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Medical Science Liaison Oncology",
+"location": "ISR - Central District of Israel - Hod Hasharon",
+"department": "",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Medical-Science-Liaison-Oncology_R423636-1",
+"posted": "2026-11-24",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Vaccines & Infectious Diseases Market Access Lead",
+"location": "ISR - Central District of Israel - Hod Hasharon",
+"department": "",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Vaccines---Infectious-Diseases-Market-Access-Lead_R428404",
+"posted": "2026-11-22",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "EHS Lead",
+"location": "ISR - North Central District - Netanya",
+"department": "",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---North-Central-District---Netanya/EHS-Lead_R415292-1",
+"posted": "2026-11-15",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Technical Project Manager",
+"location": "ISR - North Central District - Netanya",
+"department": "",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---North-Central-District---Netanya/Assoc-Dir---R-D-Program-Mgt_R405910-1",
+"posted": "2026-11-03",
+"category": "Technical product",
+"level": "Senior",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Mobbo": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Back-End Developer",
+"location": "Omer, South District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Mobbo/743999679071260",
+"posted": "2018-11-08",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Novartis": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Medical Scientific Liaison (MSL)",
+"location": "Israel",
+"department": "",
+"url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Medical-Scientific-Liaison--MSL-_REQ-10083355",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Associate Director, Enterprise IT Infrastructure Security",
+"location": "Israel",
+"department": "",
+"url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Associate-Director--Enterprise-IT-Infrastructure-Security_REQ-10092204",
+"posted": "2026-11-18",
+"category": "Security",
+"level": "Junior",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Orca AI": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Edge Software Engineer",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Defense",
+"url": "https://www.comeet.com/jobs/Orca-AI/86.003/edge-software-engineer/FA.479",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Tech Delivery Manager",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/Orca-AI/86.003/tech-delivery-manager/A6.47C",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Orpak Systems": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Planner",
+"location": "Yakum, Israel",
+"department": "Operations",
+"url": "https://www.comeet.com/jobs/Orpak/65.001/senior-planner/48.576",
+"posted": "",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Senior",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Palo Alto Networks": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Product Manager ( Idira, Privileged Access )",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Product-Manager---Idira--Privileged-Access--_JR-024846",
+"posted": "2026-11-24",
+"category": "Technical product",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Data Analyst",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Data-Analyst_JR-022304",
+"posted": "2026-11-24",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/ Principal Frontend Engineer (Cortex Platform)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Frontend-Engineer--Cortex-Platform-_JR-018806-1",
+"posted": "2026-11-23",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/Senior Engineer Software - Agentic Endpoint Security(Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Engineer-Software---Agentic-Endpoint-Security-Cortex-_JR-025132",
+"posted": "2026-11-23",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Software Engineer (Credential Provider)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Staff-Software-Engineer--Credential-Provider-_JR-022002",
+"posted": "2026-11-23",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Staff Engineer Software (Secrets Rotation Service - Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Staff-Engineer-Software--Secrets-Rotation-Service---Idira-_JR-024980",
+"posted": "2026-11-23",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/Principal Product Manager - Data Security (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Product-Manager_JR-021720",
+"posted": "2026-11-22",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Technical Product Engineer (Cortex Agentic Endpoint Security)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Technical-Product-Engineer--Cortex-Agentic-Endpoint-Security-_JR-024875-1",
+"posted": "2026-11-22",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Principal DevOps Engineer (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-DevOps-Engineer--Cortex-Cloud-_JR-020201",
+"posted": "2026-11-22",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Windows Detection Researcher (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Windows-Detection-Researcher--Cortex-_JR-024608-1",
+"posted": "2026-11-22",
+"category": "Algorithms & research",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff / Principal UX Designer- Cortex XDR",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Staff---Principal-UX-Designer--Cortex-XDR_JR-024347",
+"posted": "2026-11-17",
+"category": "Design & UX",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Principal / Principal Data Scientist – Cloud AI & ML (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal---Principal-Data-Scientist-Data-Scientist---Cloud-Team-AI-ML---Cortex-_JR-024404",
+"posted": "2026-11-17",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Principal Software Architect (Privileged Cloud Digital Vault - Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Principal-Architect-Engineer-Software--Privileged-Cloud-Digital-Vault---Idira-_JR-023791",
+"posted": "2026-11-17",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior AI Researcher - Agentic Endpoint Security (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-AI-Researcher---Agentic-Endpoint-Security--Cortex-_JR-024535",
+"posted": "2026-11-16",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer - Platform (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Software-Engineer---Platform--Cortex-_JR-024852",
+"posted": "2026-11-16",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr MSIAM SOC Engineer (Unit 42)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-MSIAM-SOC-Engineer--Unit-42-_JR-024865",
+"posted": "2026-11-16",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Manager, AI Software Engineering (CORA AI)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Manager--AI-Software-Engineering--CORA-AI-_JR-024758",
+"posted": "2026-11-16",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer - Identity Security (ITDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-StaSenior-Software-Engineer---Identity-Security--ITDR-ff-Engineer-Software_JR-024603",
+"posted": "2026-11-16",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "AI Engineer (Cortex Agenitx)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/AI-Engineer--Cortex-Agenitx-_JR-019817",
+"posted": "2026-11-15",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer – Cloud Migration Tooling (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Software-Engineer---Cloud-Migration-Tooling--Idira-_JR-024395",
+"posted": "2026-11-15",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer – Cloud & Distributed Systems (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer---SIA--Idira-_JR-023108",
+"posted": "2026-11-15",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Manager (Idira, Agent Identity Security)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Product-Manager--Idira--Agent-Identity-Security-_JR-024483-1",
+"posted": "2026-11-15",
+"category": "Security",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Product Manager ( Idira, Agent Identity Security )",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Product-Manager---Idira--Agent-Identity-Security--_JR-024329",
+"posted": "2026-11-15",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Product Manager (Idira, Secure IAM)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Product-Manager--Idira--Secure-IAM-_JR-024467",
+"posted": "2026-11-15",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Major Account Manager - Public Sector & Defense",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Major-Account-Manager---Public-Sector---Defense_JR-024553",
+"posted": "2026-11-12",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Major Account Manager Public Sector & Defense",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Major-Account-Manager_JR-018995",
+"posted": "2026-11-12",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff C++ Engineer (Endpoint Privilege Manager - Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Staff-C---Engineer--Endpoint-Privilege-Manager---Idira-_JR-024752-1",
+"posted": "2026-11-12",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Position Senior Staff C++ Win Internals Engineer (Endpoint Privilege Manager - Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Position-Senior-Staff-C---Win-Internals-Engineer--Endpoint-Privilege-Manager---Idira-_JR-024748",
+"posted": "2026-11-12",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Manager, ML & Data Engineering",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Manager--AI---Data-Solutions-Engineering_JR-023788",
+"posted": "2026-11-12",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer - Threat Detection & Response - Idira",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--ITDR-_JR-018209-1",
+"posted": "2026-11-12",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/ Senior Product Manager (Machines and Secrets- Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal--Senior-Product-Manager--Machines-and-Secrets--Idira-_JR-024734",
+"posted": "2026-11-12",
+"category": "Technical product",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Release Manager (Cortex Content)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Technical-Release-Manager--Cortex-Content-_JR-019642",
+"posted": "2026-11-12",
+"category": "DevOps, cloud & SRE",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Manager, Product Management- Idira Secure Cloud Access",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Manager--Product-Management--Idira-Secure-Cloud-Access_JR-021852",
+"posted": "2026-11-11",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Domain Consultant (Pre Sales) - Idira",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Domain-Consultant---Idira_JR-021678",
+"posted": "2026-11-11",
+"category": "Technical sales & solutions",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal  Backend  Engineer",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Technical-Program-Manager---AI-Transformation---Integrations--AgentiX---Cortex_JR-019922",
+"posted": "2026-11-11",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior DevOps Engineer (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-DevOps-Engineer--Cortex-_JR-023813",
+"posted": "2026-11-11",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Experienced Site Reliability Engineer (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Experienced-Site-Reliability-Engineer--Cortex-_JR-024401",
+"posted": "2026-11-10",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Principal Backend Engineer (CORTEX - Autonomous SOC)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Backend-Engineer--CORTEX---Autonomous-SOC-_JR-023369",
+"posted": "2026-11-10",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Internal Audit Manager (AI & Technology)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/IT-Internal-Audit-Manager_JR-021134",
+"posted": "2026-11-09",
+"category": null,
+"group": "Finance & accounting",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Manager Security Research -  Linux Low Level (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Manager-Security-Research----Linux-Low-Level--Cortex-_JR-023726-1",
+"posted": "2026-11-08",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff Security Researcher (Idira Labs)",
+"location": "Office   Israel   Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Staff-Security-Researcher--Idira-Labs-_JR-023903",
+"posted": "2026-11-05",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Staff Fullstack Software Engineer (Idira, Secrets Manager SAAS)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Staff-Software-Engineer--Idira--Secrets-Manager-SAAS-_JR-021197",
+"posted": "2026-11-04",
+"category": "Frontend & full stack",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/ Principal Security Researcher - MacOS (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior--Principal-Security-Researcher---MacOS--Cortex-_JR-024396",
+"posted": "2026-11-03",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager, Authentication (IDIRA)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Product-Manager--Authentication--IDIRA-_JR-023353",
+"posted": "2026-11-02",
+"category": "Technical product",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal DevOps Engineer (Prisma Browser)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-DevOps-Engineer_JR-022627",
+"posted": "2026-11-02",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/Senior Engineer Software - SaaS Data Security (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Engineer-Software---SaaS-Data-Security--Cortex-Cloud-_JR-023958",
+"posted": "2026-11-01",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal DevOps Engineer (DexEx Platform)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-DevOps-Engineer--DexEx-Platform-_JR-023892",
+"posted": "2026-10-29",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Director Software Engineering - Secure Cloud Access (Idira- B7))",
+"location": "Office - Israel - Be'er Sheva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Beer-Sheva/Director-Software-Engineering---Secure-Cloud-Access--Idira--B7--_JR-023899",
+"posted": "2026-10-29",
+"category": "Security",
+"level": "Lead / manager",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Engineer Software - Unified Asset Inventory(Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software---Unified-Asset-Inventory-Cortex-_JR-023380",
+"posted": "2026-10-28",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva)",
+"location": "Office - Israel - Be'er Sheva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Beer-Sheva/Senior-Staff-Software-Engineer--Secure-Agentic-AI---Be-er-Sheva-_JR-018092",
+"posted": "2026-10-27",
+"category": "Security",
+"level": "Senior",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff Software Engineer (Secrets Manager SAAS)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Staff-Engineer-Software_JR-021196",
+"posted": "2026-10-26",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager, Privileged Access Management (PAM) Self-Hosted (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Product-Manager--Privileged-Access-Management--PAM--Self-Hosted--Idira-_JR-023576",
+"posted": "2026-10-25",
+"category": "Technical product",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Staff Engineer Software (Cortex R&D Operation)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Staff-Engineer-Software--Cortex-R-D-Operation-_JR-023785",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager- Application Security (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Product-Manager--Application-Security--Cortex-Cloud-_JR-016993",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior DevOps Engineer  - Backend Infrastructure Team (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-DevOps-Engineer----Backend-Infrastructure-Team--Cortex-_JR-022256",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Software Backend Engineering Manager - AI (Cortex XSIAM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Software-Backend-Engineering-Manager---Agentix--Cortex-XSIAM-_JR-022009",
+"posted": "",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior DevOps Engineer - Data Platform (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-DevOps-Engineer---Data-Platform--Cortex-_JR-021408",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Principal Backend Engineer (Cortex XSIAM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Principal-Backend-Engineer--Cortex-XSIAM-_JR-019823",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior AI Engineer (Cortex XSOAR/XSIAM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-AI-Engineer--Cortex-XSOAR-XSIAM-_JR-016613",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/Senior Software Engineer (CIEM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Software-Engineer--CIEM-_JR-023790",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Product Engineer (Cortex-Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Technical-Product-Engineer--Cortex-Cloud-_JR-022238",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Product Engineer (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Technical-Product-Engineer--Cortex-_JR-022237",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/Senior Linux Security Researcher (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Linux-Security-Researcher--Cortex-_JR-023723-1",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/Principal Backend Engineer - Cortex Platform and Application",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Backend-Engineer---Cortex-Platform-and-Application_JR-023719",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Data Scientist -  Agent Team (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Data-Scientist----Agent-Team--Cortex-_JR-023267",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Lead, Cortex Communications",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Lead--Cortex-Communications_JR-022983",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer - Data Pipelines (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Software-Engineer---Data-Pipelines--Cortex-_JR-022570",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff DevOps Engineer",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Staff-DevOps-Engineer_JR-023586",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/Principal Backend  AI Engineer (Cortex XSIAM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Backend-Engineer_JR-015162-1",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal DevOps Engineer - AI Platforms",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-DevOps-Engineer---AI-Platforms_JR-018773",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Product Manager (Cortex Platform)",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Tel-Aviv-Yafo-Israel/Principal-Product-Manager--Cortex-Platform-_JR-018633-1",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Automation Engineer (Data Security)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal--Senior-Automation-Engineer--Data-Security-_JR-023147",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Product Manager- Agentic Browser (PB)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Product-Manager--Agentic-Browser--PB-_JR-023339",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Staff Software Engineer (Idira Data & AI Platform)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Staff-Software-Engineer--Idira-Data---AI-Platform-_JR-020385",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "C++ Developer - macOS Platform Engineer (Cortex XDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/C---Developer---macOS-Platform-Engineer--Cortex-XDR-_JR-021730",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer for SaaS (SIA for Databases)- Idira",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer-for-SaaS--SIA-for-Databases---Idira_JR-022741",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Backend Team Manager -AppSec (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Backend-Team-Manager--AppSec--Cortex-Cloud-_JR-023106",
+"posted": "",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager (Cortex XDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Product-Manager--Cortex-XDR-_JR-022236",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Linux Detection Researcher (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Linux-Detection-Researcher--Cortex-_JR-020727",
+"posted": "",
+"category": "Algorithms & research",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Engineer Software- Backend Infra (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software--Backend-Infra--Cortex-_JR-022400",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior / Principal Angular Frontend Engineer (Cortex Platform - AgentiX)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Angular-Frontend-Engineer--Cortex-Platform---AgentiX-_JR-022742",
+"posted": "",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Principal Software Architect (Idira- Secure Infrastructure Access)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Principal-Software-Architect_JR-022341-1",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal / Sr. Principal Security Research - Advanced Cyber Research (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal---Sr-Principal-Security-Research---Data-Security-Team--Cortex-_JR-020565",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Angular Frontend Engineer - Email Security (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Staff-Angular-Frontend-Engineer---Identity-Security--Cortex-_JR-021385-1",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Manager, Product Management (Cortex ,XSOAR/XSIAM)",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Tel-Aviv-Yafo-Israel/Sr-Manager--Product-Management--Cortex-XDR-_JR-018846-1",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Manager, SW Engineering- Authentication Team (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Manager--SW-Engineering--Authentication-Team--Idira-_JR-020030",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Staff Engineer Software- Identity SSO (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Staff-Engineer-Software--Identity-SSO--Idira-_JR-020211",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Engineer Software- Authentication Team (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Engineer-Software--Authentication-Team--Idira-_JR-020087",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer – Identity SSO (Idira)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer---Identity-SSO--Idira-_JR-020210-1",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Principal AI Researcher, AI Transformation",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Principal-AI-Researcher--AI-Transformation_JR-021261",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Software Engineering Manager, Idira Platform Services, Idira Platform Services",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Software-Engineering-Manager--Idira-Platform-Services--Idira-Platform-Services_JR-021900-1",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Windows Low-Level Dev (Cortex XDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Windows-Low-Level-Dev--Cortex-XDR-_JR-021785",
+"posted": "",
+"category": "Embedded & firmware",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Security Researcher (Cortex - AgentiX)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Security-Researcher--Cortex---AgentiX-_JR-021307",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal C++ Software Engineer (Prisma Browser)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-C---Software-Engineer--Prisma-Browser-_JR-022157",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Linux Internals Software Engineer (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Linux-Internals-Software-Engineer--Cortex-_JR-022156",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Staff Engineer Software (Credential Provider)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Staff-Engineer-Software--Credential-Provider-_JR-022003",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/Senior Security Researcher - Autonomous EDR- Windows (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Security-Researcher---Autonomous-EDR--Windows--Cortex-_JR-021791-1",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/ Principal Backend Engineer - Data & AI Security (Cortex Cloud)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior--Principal-Engineer-Software---Data-security-and-Identity--Cortex-Cloud-_JR-014640",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer Data Platform ( Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software_JR-020846",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior / Principal Security Research - Agent ML Team (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior---Principle-Security-Research---Agent-ML-Team--Cortex-_JR-017959",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Product Manager, Technology Alliances",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Product-Manager--Technology-Alliances_JR-018849",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer (Directory Services)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--Directory-Services-_JR-020077",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal/ Senior Backend Engineer - Data Classification",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Backend-Engineer---Data-Classification_JR-019543",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Software Engineer (Secure Agentic AI) - Petach Tikva \\ Be'er Sheva",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--Secure-Agentic-AI----Petach-Tikva---Be-er-Sheva_JR-018160",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Security Researcher - ITDR (Cortex XDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Security-Researcher---ITDR--Cortex-XDR-_JR-019263",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr. Product Manager (Cortex Platform)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Product-Manager--Cortex-Platform-_JR-019267-1",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior/Principal Security Researcher - Windows EDR (Cortex - XDR)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Security-Researcher---Windows-EDR--Cortex---XDR-_JR-019631",
+"posted": "",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal AI Software Engineer (CORA AI)",
+"location": "Office - Israel - Petach Tikva",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--CORA-AI-_JR-018899",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager (XSIAM SIEM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Product-Manager--XSIAM-SIEM-_JR-017007-1",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sr Product Manager - Cortex cloud ASPM",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Product-Manager---Cortex-cloud-ASPM_JR-014484",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Principal Engineer Software(Cortex XSOAR/XSIAM)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software-Cortex-XSOAR-XSIAM-_JR-014644",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Paradox": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Team Lead Software Engineering - HiredScore",
+"location": "Israel, Tel Aviv",
+"department": "",
+"url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Israel-Tel-Aviv/Manager--Software-Development-Engineering_JR-0102237",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "LLM Engineer - Paradox",
+"location": "Israel, Tel Aviv",
+"department": "",
+"url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Israel-Tel-Aviv/LLM-Engineer_JR-0107197",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Machine Learning Engineer - HiredScore",
+"location": "Israel, Tel Aviv",
+"department": "",
+"url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Israel-Tel-Aviv/Machine-Learning-Engineer---HiredScore_JR-0107799-1",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Project Manager - Hiredscore",
+"location": "Israel, Tel Aviv",
+"department": "",
+"url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Israel-Tel-Aviv/Technical-Project-Manager_JR-0094713",
+"posted": "",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Qmarkets": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Product UX/UI Expert",
+"location": "Rosh Haayin, Center District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Qmarkets/743999768643936",
+"posted": "2021-08-25",
+"category": "Design & UX",
+"level": "Senior",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Customer Success Manager",
+"location": "Rosh Haayin, Center District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Qmarkets/743999768633807",
+"posted": "2021-08-25",
+"category": null,
+"group": "Customer service & support",
+"level": "Lead / manager",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Rapydo": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Product Manager",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Rapydo/743999788701517",
+"posted": "2021-11-22",
+"category": "Technical product",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Solution Architect",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Rapydo/743999785218990",
+"posted": "2021-11-07",
+"category": "Technical sales & solutions",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Resident Home": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Backend Tech Lead",
+"location": "Tel Aviv",
+"department": "304 Engineering",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6242116004",
+"posted": "2026-11-18",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "DevOps Engineer",
+"location": "Tel Aviv",
+"department": "304 Engineering",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6250373004",
+"posted": "2026-11-18",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Fullstack Engineer",
+"location": "Tel Aviv",
+"department": "304 Engineering",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6184840004",
+"posted": "2026-09-16",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Fullstack Engineer",
+"location": "Tel Aviv",
+"department": "304 Engineering",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6212833004",
+"posted": "2026-10-12",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Product Designer",
+"location": "Tel Aviv",
+"department": "302 Product",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6174601004",
+"posted": "2026-09-09",
+"category": "Design & UX",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager",
+"location": "Tel Aviv",
+"department": "302 Product",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6217972004",
+"posted": "2026-10-21",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager",
+"location": "Tel Aviv",
+"department": "302 Product",
+"url": "https://job-boards.greenhouse.io/ashleydigital/jobs/6230988004",
+"posted": "2026-10-29",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Rise": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI Engineering",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/ai-engineering/56.575",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Backend Engineer",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/backend-engineer/70.370",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Business AI Solutions Engineer",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/business-ai-solutions-engineer/85.47B",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "IT Specialist",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "IT",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/it-specialist/2C.153",
+"posted": "",
+"category": "IT & systems",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Legal Counsel",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "Legal",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/legal-counsel/6D.375",
+"posted": "",
+"category": null,
+"group": "Legal & compliance",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Professional Services Engineer",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/professional-services-engineer/D0.475",
+"posted": "",
+"category": "Technical sales & solutions",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Account Manager, Search Partnerships",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "CSM",
+"url": "https://www.comeet.com/jobs/risecodes/A9.000/technical-account-manager-search-partnerships/04.572",
+"posted": "",
+"category": "Technical sales & solutions",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Roche": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Dia. Israel Personal Assistant & Office Administrator",
+"location": "Hod Hasharon",
+"department": "",
+"url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Hod-Hasharon/Dia-Israel-Personal-Assistant---Office-Administrator_202610-127686",
+"posted": "2026-10-28",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Roundforest": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Y",
+"location": "Tel Aviv-Yafo, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Roundforest/99763145",
+"posted": "2016-10-10",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"SailPoint": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Full Stack Engineer",
+"location": "Tel Aviv, Israel",
+"department": "",
+"url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Tel-Aviv-Israel/Senior-Software-Engineer_R014369",
+"posted": "2026-11-12",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"SciPlay": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Platform Engineer",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Senior-Platform-Engineer_R321811",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Head of Project Management",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Production-Director_R322814",
+"posted": "2026-11-03",
+"category": null,
+"group": "Management",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Head of Engineering",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Head-of-Engineering_R322863",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Data Science and AI builder",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Data-Science-and-AI-builder_R323041",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Ad Monetization Manager",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Ad-Monetization-Manager_R323165",
+"posted": "2026-11-09",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Art Direction Lead",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Art-Direction-Lead_R323230-1",
+"posted": "2026-11-16",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "configuration manager",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/configuration-manager_R323246",
+"posted": "2026-11-17",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"SeatPick": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Full Stack Team Lead",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/seatpick/bd46f74f-d6af-4d08-a666-0005a19e71c6",
+"posted": "2026-10-11",
+"category": "Frontend & full stack",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Simply": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Product Designer",
+"location": "Tel Aviv-Yafo",
+"department": "Design",
+"url": "https://jobs.ashbyhq.com/simply/c0af8ab2-141c-4679-a9ce-5f299020d543",
+"posted": "2026-10-04",
+"category": "Design & UX",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior AI Research Engineer",
+"location": "Tel Aviv-Yafo",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/simply/1100e602-4632-4019-91bf-3d0fbad8c762",
+"posted": "2026-09-29",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Growth Lead",
+"location": "Tel Aviv-Yafo",
+"department": "Growth",
+"url": "https://jobs.ashbyhq.com/simply/f29cd647-9a93-4379-ab59-cd295a3b5e2e",
+"posted": "2026-11-15",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Data Lead",
+"location": "Tel Aviv-Yafo",
+"department": "Data",
+"url": "https://jobs.ashbyhq.com/simply/13f5745e-80b4-49bb-bc82-852b6e1c580b",
+"posted": "2026-10-07",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Data Engineer",
+"location": "Tel Aviv-Yafo",
+"department": "Data",
+"url": "https://jobs.ashbyhq.com/simply/51bbd032-b7ec-4580-bf2f-80fdafd80a6e",
+"posted": "2026-10-28",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Developer",
+"location": "Tel Aviv-Yafo",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/simply/075a9ace-83ec-4e6b-9c82-090fcbccf0a6",
+"posted": "2026-11-04",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Slauth.io": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Engineer",
+"location": "Tel Aviv-Yafo, Tel Aviv District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Slauthio/743999915797128",
+"posted": "2023-06-29",
+"category": null,
+"group": "Other",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Spotlock": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Senior Full Stack Engineer",
+"location": "Modi'in-Maccabim-Re'ut, Center District, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/Spotlock/743999915792630",
+"posted": "2023-06-29",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"TA9": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Full Stack Software Engineer",
+"location": "Tel Aviv, IL",
+"department": "",
+"url": "https://jobs.smartrecruiters.com/TA9/743999687819875",
+"posted": "2019-05-07",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Tenable": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Product Engineering - Future Opportunities",
+"location": "Maryland HQ + Boston Office + California - Remote - Bay Area + Ireland - Office - Dublin + Israel - Office - Tel-Aviv",
+"department": "",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/4019356008",
+"posted": "2024-04-19",
+"category": null,
+"group": "Transport & driving",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Security Researcher - Cloud Security",
+"location": "Israel - Office - Tel Aviv",
+"department": "Research",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/5463193008",
+"posted": "2026-10-26",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer - Cloud Security",
+"location": "Israel - Office - Tel Aviv",
+"department": "Engineering",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/5152278008",
+"posted": "2026-04-03",
+"category": "Security",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Product Manager",
+"location": "Israel - Office - Tel Aviv",
+"department": "Product Management",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/5491896008",
+"posted": "2026-11-23",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Staff Software Engineer",
+"location": "Israel - Office - Tel Aviv",
+"department": "Engineering",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/5419158008",
+"posted": "2026-09-17",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Director, Architecture",
+"location": "Israel - Office - Tel Aviv",
+"department": "Engineering Architecture",
+"url": "https://job-boards.greenhouse.io/tenableinc/jobs/5473332008",
+"posted": "2026-11-05",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Tomorrow.io": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "AI First DevOps Engineer",
+"location": "21 Ha'Arba'a St., 20th floor, Tel Aviv",
+"department": "SaaS Applications",
+"url": "https://boards.greenhouse.io/tomorrow/jobs/7977906003?gh_jid=7977906003",
+"posted": "2026-08-26",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Wand AI": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Staff Software Engineer, AI (Org & Governance)",
+"location": "Israel Timezone",
+"department": "Engineering",
+"url": "https://jobs.ashbyhq.com/wand-ai/2082c495-b951-44e9-94ee-6120ddc7db68",
+"posted": "2026-07-08",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Waterfall Security Solutions": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Legal Counsel",
+"location": "Rosh Haayin, Israel",
+"department": "Legal",
+"url": "https://www.comeet.com/jobs/waterfall-security/C7.009/legal-counsel/8E.F6B",
+"posted": "",
+"category": null,
+"group": "Legal & compliance",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sales Account Manager – Europe",
+"location": "Rosh Haayin, Israel",
+"department": "Sales",
+"url": "https://www.comeet.com/jobs/waterfall-security/C7.009/sales-account-manager-europe/96.179",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sales Associate",
+"location": "Rosh Haayin, Israel",
+"department": "Sales",
+"url": "https://www.comeet.com/jobs/waterfall-security/C7.009/sales-associate/6E.55D",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Junior",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Sales Manager",
+"location": "Rosh Haayin, Israel",
+"department": "Sales",
+"url": "https://www.comeet.com/jobs/waterfall-security/C7.009/sales-manager/7B.D69",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Wolt": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Bookkeeper Manager",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Wolt Market Country Admin",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/8112554",
+"posted": "2026-08-09",
+"category": null,
+"group": "Finance & accounting",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(GA, Bialik,Ramat Gan) מלקטים ביאליק רמת גן",
+"location": "Ramat Gan, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7352575",
+"posted": "2025-10-28",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(GA, Hadera) מלקטים חדרה",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7621986",
+"posted": "2026-02-17",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(GA, Or Yehuda) מלקטים, אור יהודה",
+"location": "Or Yehuda, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7080050",
+"posted": "2025-07-17",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Ashdod) מחסנאים  -  אשדוד",
+"location": "Ashdod, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7072608",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Inventory Ashkelon - מחסנאים אשקלון",
+"location": "Tzahal Street 29, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7183162",
+"posted": "2025-08-22",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Bialik,Ramat Gan) מחסנאים ביאליק רמת גן",
+"location": "Ramat Gan, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7352450",
+"posted": "2025-10-30",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Holon, Wolfson) מחסנאים חולון",
+"location": "Holon, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7051070",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Rishon / Holon / Bat Yam",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Kfar Saba) מחסנאים - כפר סבא",
+"location": "Kfar Saba, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7076634",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Kiryat Ono) מחסנאים קרית אונו",
+"location": "Kiryat Ono, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7072826",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Netanya Poleg) מחסנאים נתניה פולג",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7050860",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Or Yehuda) מחסנאים - אור יהודה",
+"location": "Tel Aviv, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7101526",
+"posted": "2025-07-24",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Petach Tikva) מחסנאים פתח תקווה",
+"location": "Petah Tikva, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7073031",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Qiryat Bialik-Kiryon) מחסנאים קריון - קרית ביאליק",
+"location": "Kiryat Bialik, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7073493",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Rosh Haayin, Lev Ha'arets) מחסנאים  לב הארץ, ראש העין",
+"location": "Kfar Qasim, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7076640",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(Inventory, Top Dan, Tel Aviv) מחסנאים  טופ דן - תל אביב",
+"location": "Tel Aviv, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7073051",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "(WM Shift Supervisor, Kirion) אחראי/ת משמרת - קריון - קריית ביאליק",
+"location": "Kiryat Bialik, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451306",
+"posted": "2025-12-07",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Wolt Market- Store Manager - Center",
+"location": "Tel Aviv, Israel",
+"department": "Order Fulfillment Management",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693472",
+"posted": "2025-03-11",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת ביאליק רמת גן (Shift Supervisor, Bialik Ramat Gan)",
+"location": "Ramat Gan, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451356",
+"posted": "2025-12-07",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת הרצליה (Shift Supervisor, Herzliya)",
+"location": "Herzliya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7443229",
+"posted": "2026-02-17",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Herzliya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת חדרה (Shift Supervisor, Hadera)",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7721416",
+"posted": "2026-03-16",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת חולון וולפסון (Shift Supervisor, Holon Wolfson)",
+"location": "Holon, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7440183",
+"posted": "2025-12-03",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Rishon / Holon / Bat Yam",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת חיפה קריית אליעזר (Shift Supervisor, Haifa Kiryat Eliezer)",
+"location": "Haifa, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451361",
+"posted": "2025-12-07",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת טופ דן תל אביב (Shift Supervisor, Top Dan Tel Aviv)",
+"location": "Tel Aviv, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7443209",
+"posted": "2025-12-15",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת כפר סבא (Shift Supervisor, Kfar Saba)",
+"location": "Kfar Saba, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7442903",
+"posted": "2025-12-04",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת לב הארץ (Shift Supervisor, Lev Ha'arets)",
+"location": "Kfar Qasim, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451916",
+"posted": "2025-12-08",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת נתניה – סנטר (Shift Supervisor, Netanya – Center)",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7440208",
+"posted": "2025-12-03",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת נתניה – פולג (Shift Supervisor, Netanya – Poleg)",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7440222",
+"posted": "2025-12-03",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת פתח תקווה (Shift Supervisor, Petah Tikva)",
+"location": "Petah Tikva, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451905",
+"posted": "2025-12-08",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת קריית אונו (Shift Supervisor, Kiryat Ono)",
+"location": "Kiryat Ono, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7451944",
+"posted": "2025-12-08",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת רחובות (Shift Supervisor, Rehovot)",
+"location": "Rehovot, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7440536",
+"posted": "2025-12-04",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת רמלה נאות שמיר (Shift Supervisor, Ramla Neot Shamir)",
+"location": "Ramla, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7440542",
+"posted": "2025-12-03",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת רעננה (Shift Supervisor, Ra'anana)",
+"location": "Ra'anana, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7443221",
+"posted": "2026-02-19",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "אחראי/ת משמרת, תלפיות ירושלים (Shift Supervisor, Talpiot Jerusalem)",
+"location": "Jerusalem, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7474937",
+"posted": "2025-12-16",
+"category": null,
+"group": "Retail, food & hospitality",
+"level": "Mid-level / unspecified",
+"region": "Jerusalem",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מחסנאים ומלאי רמלה - נאות שמיר",
+"location": "Ramla, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7050484",
+"posted": "2025-07-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מחסנאים רחובות, Inventory Rehovot",
+"location": "Rehovot, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7130119",
+"posted": "2025-08-03",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים-וולט מרקט- אשדוד",
+"location": "Ashdod, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693642",
+"posted": "2025-03-12",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים-וולט מרקט- באר שבע",
+"location": "Be’er Sheva, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6739486",
+"posted": "2025-04-22",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים - וולט מרקט - יד אליהו תל אביב",
+"location": "Tel Aviv, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6694141",
+"posted": "2025-08-12",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים-וולט מרקט- ירושלים (תלפיות)",
+"location": "Jerusalem, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693345",
+"posted": "2025-08-10",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Jerusalem",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים - וולט מרקט - כפר סבא",
+"location": "Kfar Saba, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6739408",
+"posted": "2025-10-26",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים-וולט מרקט- נתניה (פולג)",
+"location": "Netanya, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693395",
+"posted": "2025-03-11",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים- וולט מרקט- פתח תקווה",
+"location": "Petah Tikva, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693884",
+"posted": "2025-03-10",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים- וולט מרקט- קריית אונו",
+"location": "Kiryat Ono, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6700779",
+"posted": "2025-04-21",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מלקטים - וולט מרקט - ראש העין",
+"location": "Kfar Qasim, Israel",
+"department": "Order Fulfillment",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693658",
+"posted": "2026-11-05",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-24"
+},
+{
+"title": "מנהלי חנויות לוולט מרקט- ירושלים",
+"location": "Jerusalem, Israel",
+"department": "Order Fulfillment Management",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/7250666",
+"posted": "2025-09-16",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Jerusalem",
+"first_seen": "2026-11-24"
+},
+{
+"title": "נציגי שירות בצ׳אט- חיפה",
+"location": "Haifa, Israel",
+"department": "Country Support",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6854753",
+"posted": "2025-05-13",
+"category": null,
+"group": "Transport & driving",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "נציגי שירות בצ׳אט - תל אביב",
+"location": "Tel Aviv, Israel",
+"department": "Country Support",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693375",
+"posted": "2025-03-11",
+"category": null,
+"group": "Transport & driving",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"WorldQuant": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Quantitative Developer",
+"location": "Ramat Gan",
+"department": "Technology Division",
+"url": "https://job-boards.greenhouse.io/worldquant/jobs/4649227006",
+"posted": "2026-03-09",
+"category": "Algorithms & research",
+"level": "Mid-level / unspecified",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Python Software Engineer",
+"location": "Ramat Gan",
+"department": "Technology Division",
+"url": "https://job-boards.greenhouse.io/worldquant/jobs/4693330006",
+"posted": "2026-07-08",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Specialist Portfolio Manager",
+"location": "Ramat Gan",
+"department": "Portfolio Management Division",
+"url": "https://job-boards.greenhouse.io/worldquant/jobs/4411997006",
+"posted": "2025-03-05",
+"category": null,
+"group": "Transport & driving",
+"level": "Lead / manager",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"Zafran Security": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Backend Developer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/656516a7-d4f7-4ff3-86b8-89461acc2dde",
+"posted": "2026-06-15",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Security Researcher",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/246ae954-d395-45ab-82c9-28b15d1fb6c4",
+"posted": "2026-08-20",
+"category": "Security",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Devops Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/6a5a3bf1-f4c6-465d-a11f-f4a045e45352",
+"posted": "2026-11-02",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Business Operations Manager",
+"location": "Tel Aviv",
+"department": "G&A",
+"url": "https://jobs.ashbyhq.com/zafran-security/7a18d063-b888-40cd-accb-a144017115f8",
+"posted": "2026-11-16",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Product Manager",
+"location": "Tel Aviv",
+"department": "Product",
+"url": "https://jobs.ashbyhq.com/zafran-security/bdafbbaa-5f4b-4918-bdb0-0bc31720f7ce",
+"posted": "2026-08-19",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Query Infra Team Lead",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/7cbbfdb7-be93-4c15-9948-7da17048bad8",
+"posted": "2026-08-23",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "DevOps Data Infra Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/31d1e657-3b35-430c-84ff-96906f96807c",
+"posted": "2026-09-14",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "AI Team Lead",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/ea6842b5-eae2-4835-8c51-dc3e59555bef",
+"posted": "2026-11-23",
+"category": "Data & AI",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Director of Product Partnerships",
+"location": "Tel Aviv",
+"department": "G&A",
+"url": "https://jobs.ashbyhq.com/zafran-security/c6d2f202-b511-4c8b-80cf-f7345cb25dd6",
+"posted": "2026-11-23",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer – Remediation Workflows",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/62b02f77-ef83-4bcb-b5ee-330a247085a5",
+"posted": "2026-09-28",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior Bookkeeper",
+"location": "Tel Aviv",
+"department": "Finance",
+"url": "https://jobs.ashbyhq.com/zafran-security/adfc36d6-d37f-4880-82a1-d074031a422f",
+"posted": "2026-10-21",
+"category": null,
+"group": "Finance & accounting",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Senior AI Engineer",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/ff55ae68-4982-4253-89a7-a2f7db407261",
+"posted": "2026-11-18",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Backend Engineer – Discover Team",
+"location": "Tel Aviv",
+"department": "R&D",
+"url": "https://jobs.ashbyhq.com/zafran-security/3182fd63-e7cc-433a-a53f-47b6b3e2a3b4",
+"posted": "2026-11-02",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Security Analyst – Customer Trust & GRC",
+"location": "Tel Aviv",
+"department": "G&A",
+"url": "https://jobs.ashbyhq.com/zafran-security/b0fd1371-361d-4c53-abbd-a7325b4b4b46",
+"posted": "2026-11-19",
+"category": "Security",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
+}
+],
+"last_ok": "2026-11-24"
+},
+"ZOLL Medical": {
+"checked": "2026-11-24",
+"error": null,
+"searched": "",
+"jobs": [
+{
+"title": "Production Employees",
+"location": "IL Caesarea Production",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea-Production/Production-Employees_R12299-2",
+"posted": "",
+"category": null,
+"group": "Manufacturing & production",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Junior Algorithm Engineer",
+"location": "IL Caesarea",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/Junior-Algorithm-Engineer_R19377",
+"posted": "",
+"category": "Algorithms & research",
+"level": "Junior",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Technical Product Security Manager",
+"location": "IL Herzeliya",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Herzeliya/Technical-Product-Security-Manager_R19679",
+"posted": "",
+"category": "Security",
+"level": "Lead / manager",
+"region": "Herzliya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Mechanical Engineering Student",
+"location": "IL Caesarea",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/Mechanical-Engineering-Student_R20601",
+"posted": "",
+"category": "Mechanical & manufacturing",
+"level": "Student / intern",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "ATE Engineering Team Leader",
+"location": "IL Caesarea",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/ATE-Engineering-Team-Leader_R20682",
+"posted": "2026-11-02",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Category Manager",
+"location": "IL Caesarea",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/Category-Manager_R20781",
+"posted": "2026-11-08",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-24"
+},
+{
+"title": "FrontEnd  SW Engineer",
+"location": "IL Herzeliya",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Herzeliya/FrontEnd--SW-Engineer_R20815",
+"posted": "2026-11-09",
+"category": "Frontend & full stack",
+"level": "Mid-level / unspecified",
+"region": "Herzliya",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Algorithm Engineer",
+"location": "IL Caesarea",
+"department": "",
+"url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Caesarea/Algorithm-Engineer_R20860",
+"posted": "2026-11-18",
+"category": "Algorithms & research",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-24"
 }
 ],

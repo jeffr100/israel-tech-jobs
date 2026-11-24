@@ -1,0 +1,2774 @@
+{
+ "added": [
+  {
+   "name": "Medtronic",
+   "board": {
+    "platform": "workday",
+    "host": "medtronic.wd1.myworkdayjobs.com",
+    "tenant": "medtronic",
+    "site": "MedtronicCareers"
+   },
+   "israel_jobs": 20
+  },
+  {
+   "name": "Philips",
+   "board": {
+    "platform": "workday",
+    "host": "philips.wd3.myworkdayjobs.com",
+    "tenant": "philips",
+    "site": "jobs-and-careers"
+   },
+   "israel_jobs": 8
+  },
+  {
+   "name": "GE HealthCare",
+   "board": {
+    "platform": "workday",
+    "host": "gehc.wd5.myworkdayjobs.com",
+    "tenant": "gehc",
+    "site": "GEHC_ExternalSite"
+   },
+   "israel_jobs": 20
+  },
+  {
+   "name": "Red Hat",
+   "board": {
+    "platform": "workday",
+    "host": "redhat.wd5.myworkdayjobs.com",
+    "tenant": "redhat",
+    "site": "jobs"
+   },
+   "israel_jobs": 3
+  },
+  {
+   "name": "Autodesk",
+   "board": {
+    "platform": "workday",
+    "host": "autodesk.wd1.myworkdayjobs.com",
+    "tenant": "autodesk",
+    "site": "Ext"
+   },
+   "israel_jobs": 1
+  },
+  {
+   "name": "HP",
+   "board": {
+    "platform": "workday",
+    "host": "hp.wd5.myworkdayjobs.com",
+    "tenant": "hp",
+    "site": "ExternalCareerSite"
+   },
+   "israel_jobs": 14
+  },
+  {
+   "name": "Cadence",
+   "board": {
+    "platform": "workday",
+    "host": "cadence.wd1.myworkdayjobs.com",
+    "tenant": "cadence",
+    "site": "External_Careers"
+   },
+   "israel_jobs": 3
+  },
+  {
+   "name": "Mastercard",
+   "board": {
+    "platform": "workday",
+    "host": "mastercard.wd1.myworkdayjobs.com",
+    "tenant": "mastercard",
+    "site": "CorporateCareers"
+   },
+   "israel_jobs": 2
+  },
+  {
+   "name": "Johnson & Johnson (Biosense Webster)",
+   "board": {
+    "platform": "workday",
+    "host": "jj.wd5.myworkdayjobs.com",
+    "tenant": "jj",
+    "site": "JJ"
+   },
+   "israel_jobs": 20
+  },
+  {
+   "name": "Thermo Fisher Scientific",
+   "board": {
+    "platform": "workday",
+    "host": "thermofisher.wd5.myworkdayjobs.com",
+    "tenant": "thermofisher",
+    "site": "ThermoFisherCareers"
+   },
+   "israel_jobs": 3
+  },
+  {
+   "name": "Micron",
+   "board": {
+    "platform": "workday",
+    "host": "micron.wd1.myworkdayjobs.com",
+    "tenant": "micron",
+    "site": "External"
+   },
+   "israel_jobs": 4
+  },
+  {
+   "name": "Cisco",
+   "board": {
+    "platform": "workday",
+    "host": "cisco.wd5.myworkdayjobs.com",
+    "tenant": "cisco",
+    "site": "Cisco_Careers"
+   },
+   "israel_jobs": 17
+  },
+  {
+   "name": "Nielsen",
+   "board": {
+    "platform": "smartrecruiters",
+    "slug": "nielseniq"
+   },
+   "israel_jobs": 3
+  },
+  {
+   "name": "Token Security",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "tokensecurity"
+   },
+   "israel_jobs": 1
+  },
+  {
+   "name": "Sweet Security",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "sweetsecurity"
+   },
+   "israel_jobs": 2
+  },
+  {
+   "name": "Bluevine",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "bluevineisrael"
+   },
+   "israel_jobs": 3
+  },
+  {
+   "name": "Datarails",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "datarails"
+   },
+   "israel_jobs": 4
+  },
+  {
+   "name": "Sisense",
+   "board": {
+    "platform": "ashby",
+    "slug": "sisense"
+   },
+   "israel_jobs": 1
+  },
+  {
+   "name": "Bringg",
+   "board": {
+    "platform": "greenhouse",
+    "slug": "bringg"
+   },
+   "israel_jobs": 1
+  }
+ ],
+ "no_israel_jobs": [
+  {
+   "name": "Amdocs",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Amdocs"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Akamai",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Akamai"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "eBay",
+   "boards": [
+    {
+     "board": {
+      "platform": "workday",
+      "host": "ebay.wd5.myworkdayjobs.com",
+      "tenant": "ebay",
+      "site": "apply"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "eBay"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Dell Technologies",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "DellTechnologies"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Analog Devices",
+   "boards": [
+    {
+     "board": {
+      "platform": "workday",
+      "host": "analogdevices.wd1.myworkdayjobs.com",
+      "tenant": "analogdevices",
+      "site": "External"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "AnalogDevices"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "NXP",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "NXP"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Qualcomm",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Qualcomm"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Teva",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Teva"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Western Digital",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "WesternDigital"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Sandisk",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Sandisk"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Verint",
+   "boards": [
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "verint"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Verint"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Siemens Healthineers",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "SiemensHealthineers"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Synopsys",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Synopsys"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Zimmer Biomet",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ZimmerBiomet"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Visa",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Visa"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Booking.com",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Bookingcom"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Intuit",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Intuit"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pure Storage",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "purestorage"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "purestorage"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "purestorage"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "PureStorage"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Mobileye",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Mobileye"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Check Point",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "checkpoint"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "CheckPoint"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "CyberArk",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "CyberArk"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Imperva",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Imperva"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Varonis",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Varonis"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Radware",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Radware"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Sapiens",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Sapiens"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Ceragon",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ceragonnetworks"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Ceragon"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Playtika",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Playtika"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Plarium",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Plarium"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Outbrain",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Outbrain"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Elbit Systems",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "elbitsystems"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ElbitSystems"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Stratasys",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Stratasys"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Tower Semiconductor",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "towersemi"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "TowerSemiconductor"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "eToro",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "eToro"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Plus500",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Plus500"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "XM Cyber",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "xmcyber"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "XMCyber"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Noname Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "nonamesecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "NonameSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Dazz",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Dazz"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Zafran",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Zafran"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Talon Cyber Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "talon"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "TalonCyberSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Veriti",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Veriti"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hunters",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Hunters"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Cybereason",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Cybereason"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Perimeter 81",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "perimeter81"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Perimeter81"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Coro",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "corocybersecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Coro"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Votiro",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Votiro"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Intezer",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Intezer"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Cyberint",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Cyberint"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "KELA",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "kela"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "KELA"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "ActiveFence",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ActiveFence"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Grip Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "gripsecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "GripSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Valence Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "valencesecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ValenceSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Descope",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "descope"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Descope"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Frontegg",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Frontegg"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Permit.io",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "permitio"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Permitio"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Memcyco",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Memcyco"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Seal Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "sealsecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "SealSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Upwind",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Upwind"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Dream Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "dream"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "DreamSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Deep Instinct",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "deepinstinct"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "DeepInstinct"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Cylus",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Cylus"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Waterfall Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "waterfall"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "WaterfallSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "OTORIO",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "OTORIO"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Perception Point",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "perceptionpoint"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "PerceptionPoint"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Aim Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "aimsecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "AimSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Prompt Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "promptsecurity"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "PromptSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pillar Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "lever",
+      "slug": "pillar"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "pillar"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "PillarSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Lasso Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "lasso"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "LassoSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Clutch Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "clutch"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "clutch"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ClutchSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Astrix Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "astrix"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "AstrixSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Jit",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "jit"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Jit"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hud",
+   "boards": [
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "hud"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hud"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Hud"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Opus Security",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "opus"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "OpusSecurity"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Vulcan Cyber",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "vulcan"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "VulcanCyber"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Spera",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "spera"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Spera"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Tipalti",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Tipalti"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Melio",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "melio"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "meliopayments"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Melio"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pagaya",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "pagaya"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Pagaya"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hippo",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hippoinsurance"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Hippo"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Fundbox",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Fundbox"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Mesh Payments",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "mesh"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "mesh"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "mesh"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "MeshPayments"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Capitolis",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "capitolis"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Capitolis"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Vesttoo",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Vesttoo"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "StarkWare",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "StarkWare"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Bits of Gold",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "bitsofgold"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "BitsofGold"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pepper",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "pepper"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Pepper"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hourly",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hourly"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Hourly"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Ramp",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "ramp"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "ramp"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Ramp"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Brex",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "brex"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Brex"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Mercury",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "mercury"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "ashby",
+      "slug": "mercury"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Mercury"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "AI21 Labs",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ai21"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "AI21Labs"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hailo",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hailo-ai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hailoai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Hailo"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "NeuReality",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "NeuReality"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Tabnine",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Tabnine"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Lightricks",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "lightricks"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Lightricks"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Bria",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "bria"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Bria"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "D-ID",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "did"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "DID"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Hour One",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hourone"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "HourOne"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Decart",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "decart"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Decart"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Lightrun",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "lightrun"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Lightrun"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Firefly",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "fireflyai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Firefly"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "env0",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "env0"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Spot by NetApp",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "spot"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "SpotbyNetApp"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Explorium",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Explorium"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Riverside",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "riversidefm"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Riverside"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "HiBob",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "hibob"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "HiBob"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Speedata",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Speedata"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pliops",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Pliops"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Lightbits",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "lightbitslabs"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Lightbits"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Silk",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "silktech"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Silk"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Weka",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "wekaio"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Weka"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Quantum Source",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "quantumsource"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "QuantumSource"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Run:ai",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "runai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Runai"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Deci",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "deci"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Deci"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Tactile Mobility",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "tactilemobility"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "TactileMobility"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Foretellix",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Foretellix"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Cognata",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Cognata"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "REE Automotive",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "reeautomotive"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "REEAutomotive"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "StoreDot",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "StoreDot"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Innoviz",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "innoviz"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Innoviz"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Arbe",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "arberobotics"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Arbe"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Valens",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "valenssemiconductor"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Valens"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Autotalks",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Autotalks"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Vayyar",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "vayyarimaging"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Vayyar"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Ceva",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "cevadsp"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Ceva"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Weebit Nano",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "weebitnano"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "WeebitNano"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Teramount",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Teramount"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Retym",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Retym"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Alpha Tau",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "alphatau"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "AlphaTau"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Aidoc",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Aidoc"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Sight Diagnostics",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "sightdx"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "SightDiagnostics"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Theator",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Theator"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "TytoCare",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "tytocare"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "TytoCare"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Healthy.io",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "healthyio"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Healthyio"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Diagnostic Robotics",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "diagnosticrobotics"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "DiagnosticRobotics"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Ibex Medical Analytics",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ibex"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "IbexMedicalAnalytics"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Novocure",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "novocure"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Novocure"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Insightec",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "insightec"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Insightec"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "InMode",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "InMode"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Itamar Medical",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "itamar"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ItamarMedical"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "BrainsWay",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "BrainsWay"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Pluri",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "pluri"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Pluri"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Evogene",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Evogene"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Biolojic Design",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "biolojic"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "BiolojicDesign"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Enlivex",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Enlivex"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "BiomX",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "BiomX"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Kamada",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Kamada"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Rafael",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Rafael"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Israel Aerospace Industries",
+   "boards": [
+    {
+     "board": {
+      "platform": "greenhouse",
+      "slug": "iai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "iai"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "IsraelAerospaceIndustries"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Percepto",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Percepto"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Flytrex",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Flytrex"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Tevel",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Tevel"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Taranis",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Taranis"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Prospera",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Prospera"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "CropX",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "CropX"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Eviation",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Eviation"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Spacecom",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Spacecom"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "NSLComm",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "nslcomm"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "NSLComm"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Ramon.Space",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "ramonspace"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "RamonSpace"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  },
+  {
+   "name": "Silicom",
+   "boards": [
+    {
+     "board": {
+      "platform": "smartrecruiters",
+      "slug": "Silicom"
+     },
+     "israel_jobs": 0
+    }
+   ]
+  }
+ ],
+ "no_board_found": []
+}

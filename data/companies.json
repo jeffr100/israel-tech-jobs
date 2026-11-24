@@ -563,6 +563,17 @@
   "size": "small"
  },
  {
+  "name": "Autodesk",
+  "careers": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext",
+  "ats": {
+   "platform": "workday",
+   "host": "autodesk.wd1.myworkdayjobs.com",
+   "tenant": "autodesk",
+   "site": "Ext"
+  },
+  "size": "large"
+ },
+ {
   "name": "AutoDS",
   "careers": "https://job-boards.greenhouse.io/autods",
   "ats": {
@@ -747,6 +758,15 @@
   "size": "small"
  },
  {
+  "name": "Bluevine",
+  "careers": "https://job-boards.greenhouse.io/bluevineisrael",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "bluevineisrael"
+  },
+  "size": "small"
+ },
+ {
   "name": "Bluewhite",
   "careers": "https://www.comeet.com/jobs/bluewhite/D5.00D",
   "ats": {
@@ -806,6 +826,15 @@
   "size": "small"
  },
  {
+  "name": "Bringg",
+  "careers": "https://job-boards.greenhouse.io/bringg",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "bringg"
+  },
+  "size": "small"
+ },
+ {
   "name": "Broadcom",
   "careers": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career",
   "ats": {
@@ -845,6 +874,17 @@
    "uid": "B2.008"
   },
   "size": "small"
+ },
+ {
+  "name": "Cadence",
+  "careers": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "cadence.wd1.myworkdayjobs.com",
+   "tenant": "cadence",
+   "site": "External_Careers"
+  },
+  "size": "large"
  },
  {
   "name": "Caesarstone",
@@ -951,6 +991,17 @@
    "uid": "65.005"
   },
   "size": "small"
+ },
+ {
+  "name": "Cisco",
+  "careers": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers",
+  "ats": {
+   "platform": "workday",
+   "host": "cisco.wd5.myworkdayjobs.com",
+   "tenant": "cisco",
+   "site": "Cisco_Careers"
+  },
+  "size": "large"
  },
  {
   "name": "Clariness",
@@ -1277,6 +1328,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "datadog"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Datarails",
+  "careers": "https://job-boards.greenhouse.io/datarails",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "datarails"
   },
   "size": "small"
  },
@@ -1875,6 +1935,17 @@
   "size": "small"
  },
  {
+  "name": "GE HealthCare",
+  "careers": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite",
+  "ats": {
+   "platform": "workday",
+   "host": "gehc.wd5.myworkdayjobs.com",
+   "tenant": "gehc",
+   "site": "GEHC_ExternalSite"
+  },
+  "size": "large"
+ },
+ {
   "name": "Genpact",
   "careers": "https://www.comeet.com/jobs/genpact/B9.008",
   "ats": {
@@ -2113,6 +2184,17 @@
    "slug": "houzz"
   },
   "size": "small"
+ },
+ {
+  "name": "HP",
+  "careers": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite",
+  "ats": {
+   "platform": "workday",
+   "host": "hp.wd5.myworkdayjobs.com",
+   "tenant": "hp",
+   "site": "ExternalCareerSite"
+  },
+  "size": "large"
  },
  {
   "name": "HR Team",
@@ -2454,6 +2536,17 @@
    "slug": "jobgether"
   },
   "size": "small"
+ },
+ {
+  "name": "Johnson & Johnson (Biosense Webster)",
+  "careers": "https://jj.wd5.myworkdayjobs.com/en-US/JJ",
+  "ats": {
+   "platform": "workday",
+   "host": "jj.wd5.myworkdayjobs.com",
+   "tenant": "jj",
+   "site": "JJ"
+  },
+  "size": "large"
  },
  {
   "name": "Justt",
@@ -2821,6 +2914,17 @@
   "size": "large"
  },
  {
+  "name": "Mastercard",
+  "careers": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers",
+  "ats": {
+   "platform": "workday",
+   "host": "mastercard.wd1.myworkdayjobs.com",
+   "tenant": "mastercard",
+   "site": "CorporateCareers"
+  },
+  "size": "large"
+ },
+ {
   "name": "MAX Security Solutions",
   "careers": "https://www.comeet.com/jobs/max_security/2B.004",
   "ats": {
@@ -2881,6 +2985,17 @@
   "size": "small"
  },
  {
+  "name": "Medtronic",
+  "careers": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers",
+  "ats": {
+   "platform": "workday",
+   "host": "medtronic.wd1.myworkdayjobs.com",
+   "tenant": "medtronic",
+   "site": "MedtronicCareers"
+  },
+  "size": "large"
+ },
+ {
   "name": "Mego Afek",
   "careers": "https://www.comeet.com/jobs/megoafek/7A.003",
   "ats": {
@@ -2917,6 +3032,17 @@
    "slug": "metropolis"
   },
   "size": "small"
+ },
+ {
+  "name": "Micron",
+  "careers": "https://micron.wd1.myworkdayjobs.com/en-US/External",
+  "ats": {
+   "platform": "workday",
+   "host": "micron.wd1.myworkdayjobs.com",
+   "tenant": "micron",
+   "site": "External"
+  },
+  "size": "large"
  },
  {
   "name": "Mind Security Inc.",
@@ -3273,6 +3399,15 @@
   "ats": {
    "platform": "greenhouse",
    "slug": "nice"
+  },
+  "size": "large"
+ },
+ {
+  "name": "Nielsen",
+  "careers": "https://jobs.smartrecruiters.com/nielseniq",
+  "ats": {
+   "platform": "smartrecruiters",
+   "slug": "nielseniq"
   },
   "size": "large"
  },
@@ -3764,6 +3899,17 @@
   "size": "small"
  },
  {
+  "name": "Philips",
+  "careers": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers",
+  "ats": {
+   "platform": "workday",
+   "host": "philips.wd3.myworkdayjobs.com",
+   "tenant": "philips",
+   "site": "jobs-and-careers"
+  },
+  "size": "large"
+ },
+ {
   "name": "PI-Cardia",
   "careers": "https://www.comeet.com/jobs/pi-cardia/A5.00B",
   "ats": {
@@ -3967,6 +4113,17 @@
    "uid": "3A.00D"
   },
   "size": "small"
+ },
+ {
+  "name": "Red Hat",
+  "careers": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs",
+  "ats": {
+   "platform": "workday",
+   "host": "redhat.wd5.myworkdayjobs.com",
+   "tenant": "redhat",
+   "site": "jobs"
+  },
+  "size": "large"
  },
  {
   "name": "Redis",
@@ -4307,6 +4464,15 @@
   "size": "small"
  },
  {
+  "name": "Sisense",
+  "careers": "https://jobs.ashbyhq.com/sisense",
+  "ats": {
+   "platform": "ashby",
+   "slug": "sisense"
+  },
+  "size": "small"
+ },
+ {
   "name": "Skai",
   "careers": "https://www.comeet.com/jobs/skai/22.00A",
   "ats": {
@@ -4511,6 +4677,15 @@
   "size": "small"
  },
  {
+  "name": "Sweet Security",
+  "careers": "https://job-boards.greenhouse.io/sweetsecurity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "sweetsecurity"
+  },
+  "size": "small"
+ },
+ {
   "name": "Sygnia",
   "careers": "https://www.comeet.com/jobs/sygnia/78.00A",
   "ats": {
@@ -4609,6 +4784,17 @@
   "size": "small"
  },
  {
+  "name": "Thermo Fisher Scientific",
+  "careers": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers",
+  "ats": {
+   "platform": "workday",
+   "host": "thermofisher.wd5.myworkdayjobs.com",
+   "tenant": "thermofisher",
+   "site": "ThermoFisherCareers"
+  },
+  "size": "large"
+ },
+ {
   "name": "Thetaray",
   "careers": "https://www.comeet.com/jobs/thetaray/72.00F",
   "ats": {
@@ -4635,6 +4821,15 @@
    "platform": "comeet",
    "slug": "toka",
    "uid": "46.00D"
+  },
+  "size": "small"
+ },
+ {
+  "name": "Token Security",
+  "careers": "https://job-boards.greenhouse.io/tokensecurity",
+  "ats": {
+   "platform": "greenhouse",
+   "slug": "tokensecurity"
   },
   "size": "small"
  },

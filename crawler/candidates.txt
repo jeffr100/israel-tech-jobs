@@ -291,3 +291,137 @@ Gilat | large | gilatsatellitenetworks
 AudioCodes | large
 Allot | large
 Silicom
+# ======== Non-tech employers (their technology jobs appear on the tech site; every job on "All jobs")
+# "site <domain>" = the finder reads the company's own home and careers pages for job-board links.
+# ---- banks, insurance, credit cards, investment houses
+Bank Leumi | large | site leumi.co.il
+Bank Hapoalim | large | site bankhapoalim.co.il
+Discount Bank | large | site discountbank.co.il
+Mizrahi-Tefahot Bank | large | site mizrahi-tefahot.co.il
+First International Bank | large | site fibi.co.il
+Bank of Jerusalem | | site bankjerusalem.co.il
+One Zero Digital Bank | | site onezerobank.com
+Bank of Israel | large | site boi.org.il
+Harel Insurance | large | site harel-group.co.il
+Migdal Insurance | large | site migdal.co.il
+Clal Insurance | large | site clalbit.co.il
+The Phoenix | large | site fnx.co.il
+Menora Mivtachim | large | site menoramivt.co.il
+Ayalon Insurance | large | site ayalon-ins.co.il
+Altshuler Shaham | large | site as-invest.co.il
+Meitav | large | site meitav.co.il
+More Investment House | | site more.co.il
+IBI Investment House | | site ibi.co.il
+Isracard | large | site isracard.co.il
+Max | large | site max.co.il
+Cal | large | site cal-online.co.il
+Tel Aviv Stock Exchange | | site tase.co.il
+# ---- retail, fashion and consumer
+Shufersal | large | site shufersal.co.il
+Rami Levy | large | site rami-levy.co.il
+Super-Pharm | large | site super-pharm.co.il
+Fox-Wizel | large | site fox.co.il
+Castro | large | site castro.com
+Delta Galil | large | site deltagalil.com
+IKEA Israel | large | site ikea.co.il
+ACE Hardware Israel | | site ace.co.il
+Home Center | | site homecenter.co.il
+Yochananof | large | site yochananof.co.il
+KSP | | site ksp.co.il
+Bug | | site bug.co.il
+Golf & Co | | site golfco.co.il
+Machsanei Hashmal | | site payngo.co.il
+# ---- food and beverages
+Strauss Group | large | site strauss-group.com
+Osem-Nestle | large | site osem.co.il
+Tnuva | large | site tnuva.co.il
+Central Bottling Company (Coca-Cola Israel) | large | site cbc.co.il
+Unilever Israel | large | site unilever.co.il
+SodaStream | large | site sodastream.com
+Tempo Beverages | large | site tempo.co.il
+Willi-Food | | site willi-food.co.il
+Sano | large | site sano.co.il
+# ---- pharma, medical and health care
+Taro Pharmaceutical | large | site taro.com
+Dexcel Pharma | large | site dexcel.com
+Kamada | | site kamada.com
+Perrigo | large | site perrigo.com
+Pfizer | large | workday pfizer.wd1.myworkdayjobs.com/PfizerCareers
+Novartis | large | workday novartis.wd3.myworkdayjobs.com/Novartis_Careers
+Sanofi | large | workday sanofi.wd3.myworkdayjobs.com/SanofiCareers
+AstraZeneca | large | workday astrazeneca.wd3.myworkdayjobs.com/Careers
+Merck & Co. (MSD) | large | workday msd.wd5.myworkdayjobs.com/SearchJobs
+GSK | large | workday gsk.wd5.myworkdayjobs.com/GSKCareers
+Roche | large | workday roche.wd3.myworkdayjobs.com/roche-ext
+Danaher | large | workday danaher.wd1.myworkdayjobs.com/DanaherJobs
+Agilent Technologies | large | workday agilent.wd5.myworkdayjobs.com/Agilent_Careers
+Illumina | large | workday illumina.wd1.myworkdayjobs.com/illumina-careers
+Abbott | large | workday abbott.wd5.myworkdayjobs.com/abbottcareers
+Clalit Health Services | large | site clalit.co.il
+Maccabi Healthcare Services | large | site maccabi4u.co.il
+Meuhedet | large | site meuhedet.co.il
+Leumit Health Services | large | site leumit.co.il
+Sheba Medical Center | large | site sheba.co.il
+Hadassah Medical Center | large | site hadassah.org.il
+Tel Aviv Sourasky Medical Center | large | site tasmc.org.il
+Rambam Health Care Campus | large | site rambam.org.il
+# ---- energy, industry and manufacturing
+ICL Group | large | site icl-group.com
+Bazan Group | large | site bazan.co.il
+Delek Group | large | site delek-group.com
+Paz | large | site paz.co.il
+Sonol | | site sonol.co.il
+Israel Electric Corporation | large | site iec.co.il
+Mekorot | large | site mekorot.co.il
+Ormat Technologies | large | site ormat.com
+Enlight Renewable Energy | | site enlightenergy.co.il
+Elco | large | site elco.co.il
+Electra | large | site electra.co.il
+Keter | large | site keter.com
+Avgol | | site avgol.com
+Plasan | | site plasan.com
+Haifa Group | large | site haifa-group.com
+ADAMA | large | site adama.com
+Phoenicia | | site phoenicia.co.il
+Tadiran Group | | site tadiran-group.co.il
+# ---- construction and real estate
+Shikun & Binui | large | site shikunbinui.co.il
+Ashtrom Group | large | site ashtrom.co.il
+Danya Cebus | large | site danya-cebus.co.il
+Azrieli Group | large | site azrieli.com
+Amot Investments | | site amot.co.il
+Africa Israel | | site africa-israel.com
+# ---- transport, logistics and telecom
+ZIM | large | site zim.com
+El Al | large | site elal.com
+Israel Railways | large | site rail.co.il
+Egged | large | site egged.co.il
+Israel Ports | | site israports.co.il
+Ashdod Port | large | site ashdodport.co.il
+Israel Post | large | site israelpost.co.il
+Bezeq | large | site bezeq.co.il
+Cellcom | large | site cellcom.co.il
+Partner Communications | large | site partner.co.il
+HOT | large | site hot.net.il
+Yes | large | site yes.co.il
+# ---- professional and IT services
+KPMG Israel | large | site kpmg.co.il
+Deloitte Israel | large | site deloitte.co.il
+PwC Israel | large | site pwc.co.il
+EY Israel | large | site ey.com/he_il
+Matrix | large | site matrix.co.il
+Malam Team | large | site malamteam.com
+One Technologies | large | site one1.co.il
+Hilan | large | site hilan.co.il
+Bynet | large | site bynet.co.il
+Taldor | large | site taldor.co.il
+Aman Group | large | site aman.co.il
+# ---- universities and research institutes
+Tel Aviv University | large | site tau.ac.il
+Hebrew University of Jerusalem | large | site huji.ac.il
+Technion | large | site technion.ac.il
+Weizmann Institute of Science | large | site weizmann.ac.il
+Ben-Gurion University | large | site bgu.ac.il
+Bar-Ilan University | large | site biu.ac.il
+University of Haifa | large | site haifa.ac.il
+Reichman University | | site runi.ac.il

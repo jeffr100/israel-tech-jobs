@@ -164,3 +164,22 @@ Optional: `JOBSPY_PROXY_SITES` lists the sites sent through the proxy (default `
 it tries each new name on Greenhouse, Lever, Ashby and SmartRecruiters (and the Workday sites listed),
 adds the ones with jobs in Israel to `data/companies.json`, and lists the rest in
 `data/discover-report.json`. Add names to the file any time and run it again.
+
+## All jobs in Israel (/all/)
+
+The crawler keeps every job located in Israel. Technology jobs (types in `crawler/cs.py`) are shown on
+the main page and are the only ones in the email digests, alerts and RSS feed. Every job, including
+sales, finance, healthcare, retail and other non-technology roles (types in `crawler/jobtypes.py`),
+is shown on the "All jobs in Israel" page at `/all/`.
+
+`all/index.html` is generated from `index.html` by `crawler/make_all_page.py` (the publish workflow
+runs it), so edit `index.html` only. The data files are `data/site.json` (technology jobs) and
+`data/site-all.json` (every job).
+
+### Company sources and data license
+
+`data/companies.json` combines companies found by the finder from `crawler/candidates.txt`, the
+[Israeli Tech Map](https://github.com/mluggy/techmap) (about 8,000 Israeli companies, Open Database
+License) and the LastRound AI ATS Company Directory (CC BY 4.0). Because it includes Tech Map data,
+the company list is shared under the Open Database License (ODbL) too: anyone may reuse it, with
+credit, under the same license. The site footer carries the credit.

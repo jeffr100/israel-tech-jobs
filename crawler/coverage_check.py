@@ -168,7 +168,8 @@ def run(data_dir, only_new=True):
     today = dt.date.today().isoformat()
     checked = 0
     for name, c in jobs["companies"].items():
-        own = [j for j in c["jobs"] if j.get("source") != "aggregator"]
+        # technology jobs only (the LinkedIn/Indeed check is shown on the tech site)
+        own = [j for j in c["jobs"] if j.get("source") != "aggregator" and (j.get("category") or "group" not in j)]
         if not own or (only_new and all("coverage" in j for j in own)):
             continue
         try:
@@ -205,7 +206,7 @@ def per_job(jobs, today):
     for name, c in jobs["companies"].items():
         for j in c["jobs"]:
             cov = j.get("coverage") or {}
-            if j.get("source") == "aggregator" or cov.get("method") == "job":
+            if j.get("source") == "aggregator" or cov.get("method") == "job" or (j.get("group") and not j.get("category")):
                 continue
             if cov and (cov.get("linkedin") or cov.get("indeed") or cov.get("glassdoor")):
                 continue   # already found elsewhere; nothing to confirm

@@ -28,8 +28,15 @@ _EXCLUDE = re.compile(r"(?<!technical )account (executive|manager)|sales (manage
 _WEAK_EXCLUDE_OK = re.compile(r"engineer|developer|software|data|security|devops|\bqa\b|algorithm|scientist|technician", re.I)
 
 
+# Never technology roles, even though the words overlap ("security guard", "civil engineer").
+_NEVER = re.compile(r"security guard|\bguard\b|מאבטח|שמירה|שומר|קב\"ט|physical security|loss prevention|civil engineer|מהנדס(ת)? אזרחי|"
+                    r"customer service(?! engineer)|שירות לקוחות|call center|store manager|cashier|nurse|driver|נהג", re.I)
+
+
 def category(title, department=""):
     t = title or ""
+    if _NEVER.search(t):
+        return None
     if _EXCLUDE.search(t) and not _WEAK_EXCLUDE_OK.search(t):
         return None
     for name, rx in _RX:

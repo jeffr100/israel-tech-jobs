@@ -45,7 +45,8 @@ def collect(since_days=None):
         keep = lambda j: j["first_seen"] == latest and latest != first
     out = {}
     for name, c in jobs["companies"].items():
-        sel = [j for j in c["jobs"] if keep(j)]
+        # technology jobs only: the digests and alerts belong to the tech site
+        sel = [j for j in c["jobs"] if keep(j) and (j.get("category") or "group" not in j)]
         if sel:
             out[name] = sel
     return latest, out

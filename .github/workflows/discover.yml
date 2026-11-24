@@ -2,6 +2,7 @@ name: Find more companies
 # Run by hand (Actions > Find more companies > Run workflow). Tries every company in
 # crawler/candidates.txt that isn't tracked yet on the common job boards, adds the ones with jobs
 # in Israel to data/companies.json, and writes data/discover-report.json listing the rest.
+# It also checks every company in the Israeli Tech Map (github.com/mluggy/techmap).
 # The next daily crawl picks the new companies up.
 on:
   workflow_dispatch:
@@ -10,23 +11,31 @@ on:
         description: "Only report, don't add companies"
         type: boolean
         default: false
+      limit:
+        description: "Check at most this many new companies (blank = all; a full run takes about an hour)"
+        type: string
+        default: ""
 permissions:
   contents: write
-concurrency: { group: pages, cancel-in-progress: false }
+concurrency: { group: discover, cancel-in-progress: false }   # its own group, so it never cancels a waiting crawl
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
         with: { python-version: "3.12" }
+      - name: Get the latest Israeli Tech Map (about 8,000 companies, Open Database License)
+        run: |
+          git clone -q --depth 1 https://github.com/mluggy/techmap.git /tmp/techmap
+          python3 crawler/import_techmap.py /tmp/techmap
       - name: Look for companies' job boards
-        run: python3 crawler/discover.py ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: python3 crawler/discover.py ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
       - name: Commit the updated company list
         run: |
           git config user.name "jobs-crawler"
           git config user.email "jobs-crawler@users.noreply.github.com"
           git add data/companies.json data/discover-report.json
           git diff --cached --quiet || git commit -m "Add companies found by the company finder"
-          git pull --rebase && git push
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done

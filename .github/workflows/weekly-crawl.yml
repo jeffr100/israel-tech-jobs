@@ -13,7 +13,7 @@ on:
   # Pushing a change to the page or its settings republishes the site straight away (no crawl).
   push:
     branches: [main]
-    paths: [index.html, site.config.js, ads.txt]
+    paths: [index.html, site.config.js, ads.txt, crawler/make_all_page.py]
   workflow_dispatch:
     inputs:
       crawl:
@@ -104,7 +104,8 @@ jobs:
           git config user.email "jobs-crawler@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Job crawl $(date -u +%Y-%m-%d)"
-          git push
+          # Someone may have pushed while the crawl ran (a code update, the company finder): catch up and retry.
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       # Only the public files go on the website (not the crawler or the raw job file).
       - name: Check today's crawl finished
         if: ${{ github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.crawl) }}
@@ -117,9 +118,13 @@ jobs:
           echo "Site data is from today ($got)."
       - name: Build the public site folder
         run: |
-          rm -rf _site && mkdir -p _site/data
+          # Rebuild both data files from jobs.json (tech jobs, and all jobs) and the "All jobs" page.
+          python3 -c "import sys; sys.path.insert(0, 'crawler'); import crawl; crawl.write_site()"
+          python3 crawler/make_all_page.py
+          rm -rf _site && mkdir -p _site/data _site/all
           for f in index.html site.config.js ads.txt; do if [ -f "$f" ]; then cp "$f" _site/; fi; done
-          cp data/site.json data/feed.xml _site/data/
+          cp all/index.html _site/all/
+          cp data/site.json data/site-all.json data/feed.xml _site/data/
           touch _site/.nojekyll
       - if: ${{ vars.HOSTING != 'netlify' }}
         uses: actions/configure-pages@v5

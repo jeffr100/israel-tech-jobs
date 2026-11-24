@@ -133,6 +133,12 @@ select{width:100%;height:40px;border:1.5px solid var(--line);background:var(--pa
 .wide h2{font:800 26px/1.1 var(--display);margin:0 0 8px;letter-spacing:-.015em}
 .wide p{margin:0;color:var(--mut)}
 
+/* link between the tech page and the all-jobs page */
+.hdr-r{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.nav{color:#fff;text-decoration:none;font-weight:600;font-size:14px;padding:8px 14px;border-radius:999px;border:1.5px solid rgba(255,255,255,.45)}
+.nav:hover{border-color:#fff}
+.nav:focus-visible{outline:2px solid #fff;outline-offset:2px}
+
 /* job alerts */
 .alertbtn{height:36px;padding:0 14px;border-radius:999px;border:1.5px solid var(--eos);background:var(--card);color:var(--eos);font-weight:600;cursor:pointer}
 .alertbtn:hover{background:var(--eos);color:#fff}
@@ -183,7 +189,7 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
   <div class="wrap">
     <div class="top">
       <a class="brand" href="./"><i aria-hidden="true"></i>Tech Jobs in Israel</a>
-      <a class="sub" href="#subscribe">Get email updates</a>
+      <span class="hdr-r"><a class="nav" href="all/" id="otherpage">All jobs in Israel</a><a class="sub" href="#subscribe">Get email updates</a></span>
     </div>
     <h1 id="headline">Computer science and high-tech jobs in Israel</h1>
     <p class="lede">Software, data and AI, security, chips and electronics, engineering, medtech and other technology openings in Israel, read straight from company career pages and checked every morning — including jobs that never make it to LinkedIn or Indeed.</p>
@@ -300,6 +306,8 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
 <script>
 {
 const C=window.SITE_CONFIG||{};
+// The same page serves the tech site and the "All jobs in Israel" page (all/index.html sets window.PAGE).
+const PAGE=Object.assign({all:false,data:'data/site.json'},window.PAGE||{});
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'})[c]);
 const fmt=n=>n.toLocaleString('en-US');
@@ -317,7 +325,10 @@ const LORDER=LEVELS.map(l=>l.k);
 const LIGHT=new Set(['Student / intern','Junior','Mid-level / unspecified']);
 
 /* ---------- job types (set by the crawler) ---------- */
-const FIELDS=["Backend & software engineering","Frontend & full stack","Mobile","Data & AI","Algorithms & research","Security","DevOps, cloud & SRE","QA & testing","Embedded & firmware","Chip design & silicon","IT & systems","Technical product","Electronics & hardware","Optics, physics & systems","Mechanical & manufacturing","Medtech & life sciences","Technical sales & solutions","Design & UX","Other"].map(n=>({n}));
+const TECH_TYPES=["Backend & software engineering","Frontend & full stack","Mobile","Data & AI","Algorithms & research","Security","DevOps, cloud & SRE","QA & testing","Embedded & firmware","Chip design & silicon","IT & systems","Technical product","Electronics & hardware","Optics, physics & systems","Mechanical & manufacturing","Medtech & life sciences","Technical sales & solutions","Design & UX"];
+// Non-technology job types (crawler/jobtypes.py), shown only on the "All jobs in Israel" page.
+const GENERAL_TYPES=["Healthcare & medical","Sales & business development","Marketing & communications","Finance & accounting","HR & recruiting","Customer service & support","Legal & compliance","Operations, logistics & supply chain","Manufacturing & production","Retail, food & hospitality","Construction & real estate","Transport & driving","Security & safety","Education & training","Admin & office","Management"];
+const FIELDS=(PAGE.all?TECH_TYPES.concat(GENERAL_TYPES):TECH_TYPES).concat(["Other"]).map(n=>({n}));
 
 // Older data may still use a retired label; anything unknown counts as "Other".
 const RENAMED={'Chip design & hardware':'Chip design & silicon'};
@@ -342,8 +353,8 @@ function load(d){
     for(const j of c.jobs){
       const lv=LV[j.level]?j.level:'Mid-level / unspecified';
       ALL.push({...j,co:name,size:m.size||'small',from:j.source==='aggregator'?'aggregator':'board',reg:j.region?[j.region]:[],lv,
-        fld:[fieldIndex(j.category)],
-        hay:(j.title+' '+name+' '+j.location+' '+(j.department||'')+' '+(j.category||'')+' '+(j.region||'')).toLowerCase()});
+        fld:[fieldIndex(j.category||j.group)],
+        hay:(j.title+' '+name+' '+j.location+' '+(j.department||'')+' '+(j.category||j.group||'')+' '+(j.region||'')).toLowerCase()});
     }
   }
   COS=(d.meta||[]).map(m=>({...m,n:(d.companies[m.name]?.jobs||[]).length}));
@@ -371,7 +382,7 @@ function load(d){
   const ch=d.changes||[];
   $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new, ${fmt(c.removed)} removed</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
   const agg=ALL.some(j=>j.from==='aggregator');
-  $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages. <a href="data/feed.xml">RSS feed of new jobs</a>.`;
+  $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the <a href="https://github.com/mluggy/techmap">Israeli Tech Map</a> (Open Database License), the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages. <a href="data/feed.xml">RSS feed of new jobs</a>.`;
   readHash();
   // Show the job-site switches only when there is something behind them.
   const liChecked=ALL.some(j=>j.coverage&&j.coverage.linkedin!=null);   // LinkedIn was actually searched
@@ -467,7 +478,7 @@ $('cq').addEventListener('input',renderCos);$('onlyjobs').addEventListener('chan
 $('ftoggle').addEventListener('click',()=>{const b=$('fbox'),open=b.dataset.open!=='true';b.dataset.open=open;$('ftoggle').setAttribute('aria-expanded',open);$('ftoggle').textContent=open?'Hide filters':'Filters'});
 
 /* ---------- email sign-up ---------- */
-const NL=C.newsletter||{};
+const NL=PAGE.all?{}:(C.newsletter||{});   // email digests and alerts cover the tech jobs only
 function signupTarget(freq){
   if(NL.provider==='brevo'){const u=(NL.brevoForms||{})[freq];return u?{url:u,fields:{EMAIL:null,email_address_check:'',locale:'en'}}:null}
   if(NL.provider==='custom')return NL.action?{url:NL.action,fields:{[NL.emailField||'email']:null,[NL.frequencyField||'tag']:freq}}:null;
@@ -549,7 +560,7 @@ function ads(){
   }
 }
 
-fetch('data/site.json').then(r=>r.text()).then(t=>JSON.parse(t.replace(/:\s*(-?Infinity|NaN)\b/g,':""'))).then(load).catch(()=>{
+fetch(PAGE.data).then(r=>r.text()).then(t=>JSON.parse(t.replace(/:\s*(-?Infinity|NaN)\b/g,':""'))).then(load).catch(()=>{
   $('count').textContent=location.protocol==='file:'?'Start the local server to load jobs':'Could not load the job data';
   $('empty').hidden=false;$('empty').textContent=location.protocol==='file:'?'This page needs a small local web server to read its data. Double-click start_site.command (Mac) or start_site.bat (Windows), or run "python3 -m http.server 8000" in this folder, then open http://localhost:8000.':'data/site.json is missing or unreadable. Run python3 crawler/crawl.py to create it.';
 });

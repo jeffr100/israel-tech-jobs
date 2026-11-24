@@ -14,8 +14,8 @@ Outputs: data/jobs.json        (current jobs + first-seen dates, read by index.h
 
 Supported job boards (public JSON endpoints, no login, no scraping of HTML):
   greenhouse, lever, ashby, smartrecruiters, workday, comeet
-Only jobs located in Israel are kept (IL_ONLY=0 keeps every country), and only
-technology jobs (CS_ONLY=0 keeps every job); see cs.py for the categories.
+Only jobs located in Israel are kept (IL_ONLY=0 keeps every country). Each is labelled as a technology type (cs.py) or a general type (jobtypes.py); the tech
+site shows only the technology jobs, the "All jobs in Israel" page shows everything.
 Companies with any other board keep a "careers" link and are listed without jobs.
 
 Optional: jobs posted on Indeed, LinkedIn and Google Jobs, through a licensed
@@ -44,9 +44,10 @@ from concurrent.futures import ThreadPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from illoc import is_il, region  # noqa: E402
 import cs  # noqa: E402
+import jobtypes  # noqa: E402
 
 IL_ONLY = (os.environ.get("IL_ONLY") or "1") != "0"   # set IL_ONLY=0 to keep jobs in every country
-CS_ONLY = (os.environ.get("CS_ONLY") or "1") != "0"   # set CS_ONLY=0 to keep non-tech jobs too
+CS_ONLY = (os.environ.get("CS_ONLY") or "0") == "1"   # CS_ONLY=1 drops non-technology jobs entirely
 US_ONLY = False
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -384,7 +385,10 @@ ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
 
 
 def keep(jobs):
-    """Keep Israeli technology jobs and label each with category, level and region."""
+    """Keep Israeli jobs and label each with its type, level and region.
+
+    Technology jobs get a "category" (cs.py) and appear on the tech site; every other job gets a
+    general "group" (jobtypes.py) and appears only on the "All jobs in Israel" page."""
     out = []
     for j in jobs:
         if IL_ONLY and not is_il(j["location"]):
@@ -392,7 +396,9 @@ def keep(jobs):
         cat = cs.category(j["title"], j.get("department", ""))
         if CS_ONLY and not cat:
             continue
-        j["category"] = cat or "Other"
+        j["category"] = cat
+        if not cat:
+            j["group"] = jobtypes.general(j["title"], j.get("department", ""))
         j["level"] = cs.level(j["title"])
         j["region"] = region(j["location"])
         out.append(j)
@@ -427,7 +433,7 @@ def crawl_company(c):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="crawl only companies whose name contains this text")
-    ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--workers", type=int, default=16)
     a = ap.parse_args()
 
     companies = json.load(open(os.path.join(DATA, "companies.json")))
@@ -507,6 +513,11 @@ def main():
     print(f"\n{total} jobs total; {len(added)} new, {len(removed)} removed since last run.")
 
 
+def is_tech(j):
+    """A technology job (shown on the tech site). Jobs saved before non-tech jobs were kept all count."""
+    return bool(j.get("category")) or "group" not in j
+
+
 def write_site(companies=None):
     """Bundle everything index.html needs into data/site.json."""
     if companies is None:
@@ -519,11 +530,15 @@ def write_site(companies=None):
              "ats": (c.get("ats") or {}).get("platform", ""),
              "partial_total": c.get("partial_total") if c.get("partial_total") and len(jobs["companies"].get(c["name"], {}).get("jobs", [])) < c.get("partial_total", 0) else None}
             for c in companies]
-    slim = {n: {"jobs": c["jobs"]} for n, c in jobs["companies"].items()}
-    json.dump(nan_safe({"generated": jobs["generated"], "first_run": first, "meta": meta, "companies": slim,
-               "changes": [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]}),
-              open(os.path.join(DATA, "site.json"), "w"), separators=(",", ":"), ensure_ascii=False)
-    write_feed(jobs)
+    hist = [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]
+    # site.json: technology jobs only (the tech site, digests and alerts); site-all.json: every job.
+    tech = {n: {"jobs": [j for j in c["jobs"] if is_tech(j)]} for n, c in jobs["companies"].items()}
+    every = {n: {"jobs": c["jobs"]} for n, c in jobs["companies"].items()}
+    for fname, comp in (("site.json", tech), ("site-all.json", every)):
+        json.dump(nan_safe({"generated": jobs["generated"], "first_run": first, "meta": meta, "companies": comp,
+                            "changes": hist}),
+                  open(os.path.join(DATA, fname), "w"), separators=(",", ":"), ensure_ascii=False)
+    write_feed({"generated": jobs["generated"], "companies": tech})
 
 
 def write_feed(jobs, site_url=None, limit=500):

@@ -1,4 +1,4 @@
-# 437 new tech jobs in Israel today
+# 436 new tech jobs in Israel today
 
 ## A Security
 - [Technical Account Manager](https://www.comeet.com/jobs/a_security/EA.007/technical-account-manager/7D.F6E) — Tel Aviv-Yafo, Israel
@@ -60,7 +60,6 @@
 - [Physical Design Engineer](https://jobs.ashbyhq.com/arago/566f03cc-c967-4282-8638-1cc509687323) — Tel Aviv Office
 - [Senior Analog IC Design Engineer](https://jobs.ashbyhq.com/arago/25cfdecb-8269-489f-90a6-d7b18cc5cf8c) — Tel Aviv Office
 - [Senior Hardware Design Engineer](https://jobs.ashbyhq.com/arago/2de1d368-9a03-40bf-9442-bde084b577b1) — Tel Aviv Office
-- [Software Engineer — Drivers & Virtualization](https://jobs.ashbyhq.com/arago/601bc42e-0f86-4a92-aac6-a22758900ab0) — Tel Aviv Office
 - [SW Team Lead](https://jobs.ashbyhq.com/arago/54a9e13a-e399-4ebb-a4cc-c19bfb5a0616) — Tel Aviv Office
 
 ## Artlist

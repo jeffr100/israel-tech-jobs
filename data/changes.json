@@ -1,6 +1,2514 @@
 [
 {
 "date": "2026-11-24",
+"added": 1678,
+"removed": 0,
+"added_jobs": [
+{
+"company": "365scores",
+"title": "Growth Product Builder – Performance Marketing",
+"url": "https://www.comeet.com/jobs/365scores/B3.006/growth-product-builder-performance-marketing/0B.D6C"
+},
+{
+"company": "365scores",
+"title": "Marketing Tracking & Data Solutions Specialist- Entain",
+"url": "https://www.comeet.com/jobs/365scores/B3.006/marketing-tracking-data-solutions-specialist-entain/03.E6E"
+},
+{
+"company": "365scores",
+"title": "User Acquisition Manager",
+"url": "https://www.comeet.com/jobs/365scores/B3.006/user-acquisition-manager/B3.D67"
+},
+{
+"company": "44 ventures",
+"title": "Programmatic Account Manager",
+"url": "https://www.comeet.com/jobs/44ventures/18.001/programmatic-account-manager/2E.656"
+},
+{
+"company": "44 ventures",
+"title": "Programmatic Account Manager Freelance",
+"url": "https://www.comeet.com/jobs/44ventures/18.001/programmatic-account-manager-freelance/B4.57A"
+},
+{
+"company": "44 ventures",
+"title": "Programmatic Ad Ops",
+"url": "https://www.comeet.com/jobs/44ventures/18.001/programmatic-ad-ops/69.E52"
+},
+{
+"company": "44 ventures",
+"title": "Senior Programmatic Account Manager (Freelance)",
+"url": "https://www.comeet.com/jobs/44ventures/18.001/senior-programmatic-account-manager-freelance/6D.655"
+},
+{
+"company": "A.S HR Services",
+"title": "מנהל/ת חשבונות",
+"url": "https://www.comeet.com/jobs/as_hrservices/79.004/job/0E.447"
+},
+{
+"company": "A.S HR Services",
+"title": "מנהל/ת מכירות שטח מנוסה לתחום הריהוט הארגוני",
+"url": "https://www.comeet.com/jobs/as_hrservices/79.004/job/4D.86B"
+},
+{
+"company": "abra",
+"title": "Advanced Composites & Manufacturing Technologies Expert",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/advanced-composites-manufacturing-technologies-expert/6E.471"
+},
+{
+"company": "abra",
+"title": "Airborne Hydraulic Systems Design & Integration Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/airborne-hydraulic-systems-design-integration-specialist/BE.47A"
+},
+{
+"company": "abra",
+"title": "AWS reselling SDR",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/aws-reselling-sdr/68.37B"
+},
+{
+"company": "abra",
+"title": "Controller",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/controller/60.578"
+},
+{
+"company": "abra",
+"title": "CRM Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/crm-implementer/3A.47E"
+},
+{
+"company": "abra",
+"title": "CRM Project Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/crm-project-manager/83.27C"
+},
+{
+"company": "abra",
+"title": "Digital Channels Implementation Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/digital-channels-implementation-specialist/15.57E"
+},
+{
+"company": "abra",
+"title": "Digital Project Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/digital-project-manager/6C.37A"
+},
+{
+"company": "abra",
+"title": "Dynamics 365 CRM Deployment Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/dynamics-365-crm-deployment-specialist/DB.473"
+},
+{
+"company": "abra",
+"title": "Electromechanical Quality Controller",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/electromechanical-quality-controller/20.965"
+},
+{
+"company": "abra",
+"title": "ERP Logistics Consultant",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/erp-logistics-consultant/81.477"
+},
+{
+"company": "abra",
+"title": "ILS Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/ils-manager/9B.471"
+},
+{
+"company": "abra",
+"title": "Infrastructure Coordination Coordinator",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/infrastructure-coordination-coordinator/B2.47B"
+},
+{
+"company": "abra",
+"title": "Junior Marketing Coordinator- Cloud",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/junior-marketing-coordinator-cloud/7D.470"
+},
+{
+"company": "abra",
+"title": "Organization & Methods Specialist (O&M)",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/organization-methods-specialist-o-m/F4.570"
+},
+{
+"company": "abra",
+"title": "PC Technician",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/pc-technician/AE.075"
+},
+{
+"company": "abra",
+"title": "PC Technitian - Kiryat Shmona",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/pc-technitian-kiryat-shmona/00.B6F"
+},
+{
+"company": "abra",
+"title": "Sales Account Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sales-account-manager/16.37C"
+},
+{
+"company": "abra",
+"title": "Salesforce Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/salesforce-implementer/56.075"
+},
+{
+"company": "abra",
+"title": "Salesforce Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/salesforce-implementer/AD.07C"
+},
+{
+"company": "abra",
+"title": "Salesforce Project Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/salesforce-project-manager/2E.B6D"
+},
+{
+"company": "abra",
+"title": "SAP FI Consultant",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-fi-consultant/70.37A"
+},
+{
+"company": "abra",
+"title": "SAP FI Trainer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-fi-trainer/65.47D"
+},
+{
+"company": "abra",
+"title": "SAP HR Consultant",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-hr-consultant/09.574"
+},
+{
+"company": "abra",
+"title": "SAP PM Consultant",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-pm-consultant/6C.D6A"
+},
+{
+"company": "abra",
+"title": "SAP SD Consultant",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-sd-consultant/75.471"
+},
+{
+"company": "abra",
+"title": "SAP SD Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-sd-implementer/1F.477"
+},
+{
+"company": "abra",
+"title": "SAP SD Implementer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sap-sd-implementer/99.571"
+},
+{
+"company": "abra",
+"title": "SDR",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/sdr/59.47C"
+},
+{
+"company": "abra",
+"title": "Senior Outsourcing Sales Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-outsourcing-sales-specialist/21.36B"
+},
+{
+"company": "abra",
+"title": "Senior PPC Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-ppc-manager/29.376"
+},
+{
+"company": "abra",
+"title": "Senior Project Manager",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-project-manager/F3.575"
+},
+{
+"company": "abra",
+"title": "Senior Sales Development Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-sales-development-specialist/C7.573"
+},
+{
+"company": "abra",
+"title": "Senior Supersonic Aerodynamics & Inlet/ Nozzle Design Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-supersonic-aerodynamics-inlet-nozzle-design-specialist/9E.476"
+},
+{
+"company": "abra",
+"title": "Statutory Planning Engineer",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/statutory-planning-engineer/EA.47D"
+},
+{
+"company": "abra",
+"title": "Tier 2 Application Support",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/tier-2-application-support/3D.47E"
+},
+{
+"company": "abra",
+"title": "Web & Application Infrastructure Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/web-application-infrastructure-specialist/27.577"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "CITRIX EXPERT",
+"url": "https://www.comeet.com/jobs/abra/12.003/citrix-expert/5D.254"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/AC.B26"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/3F.73A"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/FD.C3A"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/1A.24A"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/8D.34F"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/E8.F4A"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/pmo/33.154"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "Senior PMO",
+"url": "https://www.comeet.com/jobs/abra/12.003/senior-pmo/F5.342"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "איש/ת מכירות מאנדיי מתחיל/ה",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/C4.848"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "בקר/ית תקציב",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/6E.14F"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מהנדס/ת בקרה אזרחית",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/CB.E48"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מהנדס/ת בקרת תצורה",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/C3.05B"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מהנדס/ת שילובים",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/11.15C"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מהנדס/ת תקשורת",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/BE.15C"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מהנדס\\ת לתחום המכרזים",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/AC.820"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנהל/ת ידע ובקרה",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/93.04D"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנהל/ת פרויקט",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/05.F4B"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנהל/ת פרויקטים",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/95.F49"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנהל/ת פרויקטים",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/94.25F"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנהל/ת תצורה",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/BE.15F"
+},
+{
+"company": "Abra Information Technologies Ltd",
+"title": "מנתח/ת ומנהל/ת מערכת",
+"url": "https://www.comeet.com/jobs/abra/12.003/job/31.04A"
+},
+{
+"company": "accessiBe",
+"title": "Brand & Marketing Designer - Maternity Leave Replacement",
+"url": "https://job-boards.eu.greenhouse.io/accessibe/jobs/5036382101"
+},
+{
+"company": "ACS Motion Control",
+"title": "Deputy Production Manager",
+"url": "https://www.comeet.com/jobs/acs/14.000/deputy-production-manager/32.373"
+},
+{
+"company": "ACS Motion Control",
+"title": "Sales Administrator",
+"url": "https://www.comeet.com/jobs/acs/14.000/sales-administrator/B9.B6A"
+},
+{
+"company": "ACS Motion Control",
+"title": "אורז/ת במחלקת משלוחים",
+"url": "https://www.comeet.com/jobs/acs/14.000/job/6B.A6E"
+},
+{
+"company": "ACS Motion Control",
+"title": "עובד/ת יצור",
+"url": "https://www.comeet.com/jobs/acs/14.000/job/A2.C6D"
+},
+{
+"company": "Aeronautics",
+"title": "אינטגרציה מטוסים",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/39.154"
+},
+{
+"company": "Aeronautics",
+"title": "טכנאי/ת כטב\"מ- קו טיסה",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/85.D47"
+},
+{
+"company": "Aeronautics",
+"title": "טכנאי/ת מנועים",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/22.14E"
+},
+{
+"company": "Aeronautics",
+"title": "כלכלנ/ית תקציב ובקרה / FP&A",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/fp-a/A7.374"
+},
+{
+"company": "Aeronautics",
+"title": "מבנאי/ת חומרים מרוכבים",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/56.13B"
+},
+{
+"company": "Aeronautics",
+"title": "מדריכ/ת סימולטור",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/93.D62"
+},
+{
+"company": "Aeronautics",
+"title": "מהנדס/ת מערכת",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/4E.F62"
+},
+{
+"company": "Aeronautics",
+"title": "מהנדס/ת מערכת לפיתוח מערכות רחפנים",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/15.D58"
+},
+{
+"company": "Aeronautics",
+"title": "מחסנאי/ת ממוחשב",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/8D.A5F"
+},
+{
+"company": "Aeronautics",
+"title": "מנהל/ת תכנית",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/19.862"
+},
+{
+"company": "Aeronautics",
+"title": "מפעיל/ה כטב\"מ",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/FE.236"
+},
+{
+"company": "Aeronautics",
+"title": "סטודנט/ית בקרה תקציבית",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/29.769"
+},
+{
+"company": "Aeronautics",
+"title": "סטודנט/ית ליחידת הביטחון",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/6D.477"
+},
+{
+"company": "Aeronautics",
+"title": "עורכ/ת דין",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/4F.274"
+},
+{
+"company": "Aeronautics",
+"title": "קדם/ת רצפת ייצור ותיקונים",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/E2.37E"
+},
+{
+"company": "Aeronautics",
+"title": "קדמ/ת רכש",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/4E.F5E"
+},
+{
+"company": "Aeronautics",
+"title": "קניין/ית רכש אסטרטגי",
+"url": "https://www.comeet.com/jobs/aeronautics/72.002/job/A4.E4E"
+},
+{
+"company": "Agora",
+"title": "Communications & Content Lead",
+"url": "https://www.comeet.com/jobs/agora/08.007/communications-content-lead/F8.37D"
+},
+{
+"company": "Agora",
+"title": "Growth Lead",
+"url": "https://www.comeet.com/jobs/agora/08.007/growth-lead/D2.471"
+},
+{
+"company": "Agora",
+"title": "Sales Development Representative - Tel Aviv",
+"url": "https://www.comeet.com/jobs/agora/08.007/sales-development-representative-tel-aviv/96.07C"
+},
+{
+"company": "AI21",
+"title": "Senior Marketing Designer",
+"url": "https://www.comeet.com/jobs/ai21/E6.001/senior-marketing-designer/95.47C"
+},
+{
+"company": "AIOS (YC W20/S21)",
+"title": "Product Growth Lead (Referrals & Viral Loops) at AIOS — Remote, $200k-$400k/yr + 0.15%-0.50%",
+"url": "https://jobs.ashbyhq.com/aios/e0971cdd-b061-4530-ae6e-d45d58714529"
+},
+{
+"company": "AIOS (YC W20/S21)",
+"title": "Head of Funnel Conversion (CRO) at AIOS — Remote, $200k-$400k/yr + up to 0.3%",
+"url": "https://jobs.ashbyhq.com/aios/d46d7b0c-e9e6-4688-a7f3-1181e8f9c34f"
+},
+{
+"company": "AIOS (YC W20/S21)",
+"title": "Funnel Conversion (CRO) Lead at AIOS — Remote, $150k-$300k/yr (including equity)",
+"url": "https://jobs.ashbyhq.com/aios/69ac500d-76ba-4796-844e-7331825986e2"
+},
+{
+"company": "Airis Labs",
+"title": "Client Solutions Manager",
+"url": "https://www.comeet.com/jobs/airis_labs/69.00A/client-solutions-manager/76.171"
+},
+{
+"company": "Airis Labs",
+"title": "Solution Expert Manager",
+"url": "https://www.comeet.com/jobs/airis_labs/69.00A/solution-expert-manager/03.176"
+},
+{
+"company": "Airobotics",
+"title": "Configuration Controller",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/configuration-controller/05.576"
+},
+{
+"company": "Airobotics",
+"title": "Production Manager",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/production-manager/78.373"
+},
+{
+"company": "Airobotics",
+"title": "Prototyping & Flight Test Specialist",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/prototyping-flight-test-specialist/5B.B61"
+},
+{
+"company": "Airobotics",
+"title": "Sales Director",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/sales-director/D8.768"
+},
+{
+"company": "Airobotics",
+"title": "Tier 3 Integration & Support",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/tier-3-integration-support/81.667"
+},
+{
+"company": "Airobotics",
+"title": "Warehouse Worker",
+"url": "https://www.comeet.com/jobs/airobotics/AA.005/warehouse-worker/59.867"
+},
+{
+"company": "airSlate",
+"title": "PMM - Lifecycle & GTM",
+"url": "https://jobs.lever.co/airslate/7328749c-056f-439e-8d17-61ec1a846784"
+},
+{
+"company": "airSlate",
+"title": "Senior Content Specialist",
+"url": "https://jobs.lever.co/airslate/65b92dec-8594-4b9e-afb0-59d79450f1ca"
+},
+{
+"company": "Airwallex",
+"title": "Enterprise Sales Development Representative - Israel",
+"url": "https://jobs.ashbyhq.com/airwallex/73c4d180-bf75-48f3-819a-8fe832768512"
+},
+{
+"company": "Airwallex",
+"title": "Account Executive, SME & Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/126f8f83-9afc-4f4d-90ed-dc8a618d636a"
+},
+{
+"company": "Airwallex",
+"title": "Sales Development Representative, SME & Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/922b5d69-71e8-4943-ae35-3e155d5ee1a8"
+},
+{
+"company": "Airwallex",
+"title": "Account Manager, SME & Growth",
+"url": "https://jobs.ashbyhq.com/airwallex/7e7e7175-6579-4a89-8213-523a255434bb"
+},
+{
+"company": "Airwallex",
+"title": "Account Manager, Enterprise",
+"url": "https://jobs.ashbyhq.com/airwallex/2615369b-738c-4bf1-955e-70f6772c12f3"
+},
+{
+"company": "AITAN",
+"title": "Controller",
+"url": "https://www.comeet.com/jobs/aitan/FA.006/controller/E0.D61"
+},
+{
+"company": "Aitech",
+"title": "Testing Technician",
+"url": "https://www.comeet.com/jobs/aitechsystems/88.004/testing-technician/9A.471"
+},
+{
+"company": "AKA Food",
+"title": "Account Executive",
+"url": "https://www.comeet.com/jobs/aka_food/79.00D/account-executive/2C.373"
+},
+{
+"company": "Akeyless",
+"title": "Business Development Representative (BDR) – International",
+"url": "https://www.comeet.com/jobs/akeyless/27.006/business-development-representative-bdr-international/5F.07D"
+},
+{
+"company": "Aleph",
+"title": "Client Partner - Pinterest",
+"url": "https://jobs.lever.co/aleph/a1be7267-28db-4555-8a06-9b56b9fad487"
+},
+{
+"company": "Aleph",
+"title": "Client Solutions Manager",
+"url": "https://jobs.lever.co/aleph/a61d724b-7aa4-47e7-9005-d1f0364c4a57"
+},
+{
+"company": "AlgoSec",
+"title": "Legal Counsel, Israel",
+"url": "https://www.comeet.com/jobs/algosec/71.006/legal-counsel-israel/DB.47D"
+},
+{
+"company": "Alice",
+"title": "Intelligence Infrastructure Expert",
+"url": "https://www.comeet.com/jobs/activefence/D5.005/intelligence-infrastructure-expert/DB.479"
+},
+{
+"company": "Alice",
+"title": "Intelligence Operations Analyst",
+"url": "https://www.comeet.com/jobs/activefence/D5.005/intelligence-operations-analyst/97.477"
+},
+{
+"company": "AllCloud",
+"title": "G&A - Assistant Financial Controller (Maternity Cover)",
+"url": "https://www.comeet.com/jobs/allcloud/71.008/g-a-assistant-financial-controller-maternity-cover/1B.472"
+},
+{
+"company": "AllCloud",
+"title": "G&A - Junior Office & Operations Assistant",
+"url": "https://www.comeet.com/jobs/allcloud/71.008/g-a-junior-office-operations-assistant/1F.27B"
+},
+{
+"company": "AllCloud",
+"title": "G&A - Paralegal Law Student",
+"url": "https://www.comeet.com/jobs/allcloud/71.008/g-a-paralegal-law-student/D4.476"
+},
+{
+"company": "AllCloud",
+"title": "Marketing Cloud Consultant",
+"url": "https://www.comeet.com/jobs/allcloud/71.008/marketing-cloud-consultant/7A.474"
+},
+{
+"company": "AllCloud",
+"title": "Sales - Account Executive - Enterprise Sector",
+"url": "https://www.comeet.com/jobs/allcloud/71.008/sales-account-executive-enterprise-sector/E0.47A"
+},
+{
+"company": "Allot",
+"title": "VP Product Growth",
+"url": "https://www.comeet.com/jobs/allot/C4.009/vp-product-growth/C1.474"
+},
+{
+"company": "Altair Semiconductor",
+"title": "Didn't find what you were looking for?",
+"url": "https://www.comeet.com/jobs/altair-semi/88.003/didn-t-find-what-you-were-looking-for/D1.837"
+},
+{
+"company": "Altair Semiconductor",
+"title": "RFIC Analysis Engineer",
+"url": "https://www.comeet.com/jobs/altair-semi/88.003/rfic-analysis-engineer/B0.47A"
+},
+{
+"company": "Altair Semiconductor",
+"title": "Test and Product Engineer",
+"url": "https://www.comeet.com/jobs/altair-semi/88.003/test-and-product-engineer/FA.D5A"
+},
+{
+"company": "Anchor Fintech",
+"title": "We always look for great people!",
+"url": "https://www.comeet.com/jobs/anchorfintech/87.00D/we-always-look-for-great-people/4D.82E"
+},
+{
+"company": "anecdotes",
+"title": "Financial Controller",
+"url": "https://www.comeet.com/jobs/anecdotes/F9.00B/financial-controller/A4.579"
+},
+{
+"company": "anecdotes",
+"title": "R&D TL - Agents Platform",
+"url": "https://www.comeet.com/jobs/anecdotes/F9.00B/r-d-tl-agents-platform/3C.379"
+},
+{
+"company": "Anyword",
+"title": "Publisher BD - Keywee",
+"url": "https://www.comeet.com/jobs/anyword/30.00B/publisher-bd-keywee/FA.B6C"
+},
+{
+"company": "Applied Materials",
+"title": "Installation Manager - Israel",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Kiryat-GatISR/Installation-Manager---Israel_R2631360"
+},
+{
+"company": "Applied Materials",
+"title": "Facilities I&C Sustain Engineer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Facilities-I-C-Sustain-Engineer_R2624349"
+},
+{
+"company": "Applied Materials",
+"title": "Import Expert",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Import-Activity-Management_R2628110"
+},
+{
+"company": "Applied Materials",
+"title": "Motion & Control Supplier Engineer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Motion---Control-Supplier-Engineer_R2627114-1"
+},
+{
+"company": "Applied Materials",
+"title": "Planner",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Planner_R2519119"
+},
+{
+"company": "Applied Materials",
+"title": "Customer support technician Migdal Haemek",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Mig-HaemekISR/Customer-support-technician_R2519332"
+},
+{
+"company": "Applied Materials",
+"title": "Customer Support Technician - Kiryat Gat",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Kiryat-GatISR/Customer-Support-Technician---Kiryat-Gat_R2610411"
+},
+{
+"company": "Applied Materials",
+"title": "Customer Support Technician",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Mig-HaemekISR/Customer-Support-Technician_R2623767"
+},
+{
+"company": "Applied Materials",
+"title": "Manufacturing Execution & Systems Eng",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Manufacturing-Execution---Systems-Eng_R2623325"
+},
+{
+"company": "Applied Materials",
+"title": "Senior NPI Planner",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Senior-NPI-Planner_R2626110"
+},
+{
+"company": "Applied Materials",
+"title": "New Product Mfg Engineer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/New-Product-Mfg-Engineer_R2627555"
+},
+{
+"company": "Applied Materials",
+"title": "Engineering IT Portfolio Manager",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/EIT-Portfolio-Manager_R2626474-1"
+},
+{
+"company": "Applied Materials",
+"title": "1708252 Computing Project manager",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/XMLNAME-1708252-Computing-Project-manager_R2628899"
+},
+{
+"company": "Applied Materials",
+"title": "Planner",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Planner_R2624703"
+},
+{
+"company": "Applied Materials",
+"title": "System Qual Engineer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/HW-Qual-Engineer_R2630445"
+},
+{
+"company": "Applied Materials",
+"title": "Talent Acquisition Partner- 1 Year Temp",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Talent-Acquisition-Partner--1-Year-Temp_R2631900"
+},
+{
+"company": "Applied Materials",
+"title": "Technical R&D Program Manager – Data Products",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Technical-R-D-Program-Manager---Data-Products_R2623989"
+},
+{
+"company": "Applied Materials",
+"title": "Operation Manager",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Kiryat-GatISR/Operation-Manager_R2633034"
+},
+{
+"company": "Applied Materials",
+"title": "Configuration management group manager",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/PDC-Configuration-management-group-manager_R2629741"
+},
+{
+"company": "Applied Materials",
+"title": "Global Product Support (GPS) Engineer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Global-Product-Support--GPS--Engineer_R2634007"
+},
+{
+"company": "Applied Materials",
+"title": "Senior Buyer",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Senior-Buyer_R2634020"
+},
+{
+"company": "Applift",
+"title": "Account Executive",
+"url": "https://www.comeet.com/jobs/applift/39.00A/account-executive/7E.C68"
+},
+{
+"company": "Applift",
+"title": "Senior Account Executive",
+"url": "https://www.comeet.com/jobs/applift/39.00A/senior-account-executive/8E.470"
+},
+{
+"company": "Applift",
+"title": "Senior Customer Success Manager",
+"url": "https://www.comeet.com/jobs/applift/39.00A/senior-customer-success-manager/98.E6C"
+},
+{
+"company": "AppsFlyer",
+"title": "Account Executive- Russian Speaker",
+"url": "https://careers.appsflyer.com/jobs/position/8926348002?gh_jid=8926348002"
+},
+{
+"company": "AppsFlyer",
+"title": "Bookkeeper - temporary position (Herzliya)- 2904",
+"url": "https://careers.appsflyer.com/jobs/position/8813084002?gh_jid=8813084002"
+},
+{
+"company": "AppsFlyer",
+"title": "Commission Analyst",
+"url": "https://careers.appsflyer.com/jobs/position/8805502002?gh_jid=8805502002"
+},
+{
+"company": "AppsFlyer",
+"title": "Head of Pricing- Maternity Cover",
+"url": "https://careers.appsflyer.com/jobs/position/8921994002?gh_jid=8921994002"
+},
+{
+"company": "AppsFlyer",
+"title": "Sales Enablement Manager",
+"url": "https://careers.appsflyer.com/jobs/position/8773365002?gh_jid=8773365002"
+},
+{
+"company": "AppsFlyer",
+"title": "Senior FP&A Analyst",
+"url": "https://careers.appsflyer.com/jobs/position/8611963002?gh_jid=8611963002"
+},
+{
+"company": "AppsFlyer",
+"title": "Senior FP&A Business Partner",
+"url": "https://careers.appsflyer.com/jobs/position/8611961002?gh_jid=8611961002"
+},
+{
+"company": "AppsFlyer",
+"title": "Senior PR&D Program Manager",
+"url": "https://careers.appsflyer.com/jobs/position/8855377002?gh_jid=8855377002"
+},
+{
+"company": "AppsFlyer",
+"title": "Senior Pricing Specialist",
+"url": "https://careers.appsflyer.com/jobs/position/8929686002?gh_jid=8929686002"
+},
+{
+"company": "april",
+"title": "Product Manager, Growth (DIY Tax Filing)",
+"url": "https://jobs.ashbyhq.com/april/82ee39db-dbac-4930-aa85-a399ef802aba"
+},
+{
+"company": "Arago",
+"title": "Spontaneous Application",
+"url": "https://jobs.ashbyhq.com/arago/65e0b66f-60c3-4098-bc3e-fbb79a120b89"
+},
+{
+"company": "Arpeely",
+"title": "Chief Operating Officer",
+"url": "https://www.comeet.com/jobs/arpeely/57.001/chief-operating-officer/83.B60"
+},
+{
+"company": "Arpeely",
+"title": "Office Manager",
+"url": "https://www.comeet.com/jobs/arpeely/57.001/office-manager/2D.F69"
+},
+{
+"company": "Artlist",
+"title": "Account Manager",
+"url": "https://www.comeet.com/jobs/artlist/85.003/account-manager/E2.378"
+},
+{
+"company": "Artlist",
+"title": "Assistant controller",
+"url": "https://www.comeet.com/jobs/artlist/85.003/assistant-controller/73.47C"
+},
+{
+"company": "Artlist",
+"title": "Billing / Collections Specialist",
+"url": "https://www.comeet.com/jobs/artlist/85.003/billing-collections-specialist/D2.474"
+},
+{
+"company": "Artlist",
+"title": "Commercial Legal Counsel",
+"url": "https://www.comeet.com/jobs/artlist/85.003/commercial-legal-counsel/29.47C"
+},
+{
+"company": "Artlist",
+"title": "Marketing Automation Manager",
+"url": "https://www.comeet.com/jobs/artlist/85.003/marketing-automation-manager/F5.272"
+},
+{
+"company": "Artlist",
+"title": "Product Marketing Manager",
+"url": "https://www.comeet.com/jobs/artlist/85.003/product-marketing-manager/AD.F66"
+},
+{
+"company": "ASM",
+"title": "Field Service Engineer (Early Career)",
+"url": "https://www.asm.com/open-vacancies/?gh_jid=4986822101"
+},
+{
+"company": "ASM",
+"title": "Senior Engineer, Field Service",
+"url": "https://www.asm.com/open-vacancies/?gh_jid=4986821101"
+},
+{
+"company": "ASM",
+"title": "Senior Engineer II, Field Service (Engineer in Charge)",
+"url": "https://www.asm.com/open-vacancies/?gh_jid=4986824101"
+},
+{
+"company": "Astera Labs",
+"title": "Senior Emulation Engineer",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649850005"
+},
+{
+"company": "Astera Labs",
+"title": "System Validation manager",
+"url": "https://job-boards.greenhouse.io/asteralabs/jobs/4742857005"
+},
+{
+"company": "AT&T Israel",
+"title": "Group Lead",
+"url": "https://www.comeet.com/jobs/joinattil/38.00A/group-lead/4C.374"
+},
+{
+"company": "Autobrains Technologies",
+"title": "Legal Counsel, Commercial & Compliance",
+"url": "https://www.comeet.com/jobs/autobrains/57.004/legal-counsel-commercial-compliance/D8.57C"
+},
+{
+"company": "Automat-it",
+"title": "Account Executive",
+"url": "https://www.comeet.com/jobs/automatit/26.003/account-executive/1D.068"
+},
+{
+"company": "Automat-it",
+"title": "Account Manager",
+"url": "https://www.comeet.com/jobs/automatit/26.003/account-manager/41.84C"
+},
+{
+"company": "Automat-it",
+"title": "AWS GTM & Partnerships Manager",
+"url": "https://www.comeet.com/jobs/automatit/26.003/aws-gtm-partnerships-manager/AB.378"
+},
+{
+"company": "Bagira",
+"title": "Construction Project Manager",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/construction-project-manager/23.F61"
+},
+{
+"company": "Bagira",
+"title": "Integration Specialist",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/integration-specialist/EF.A22"
+},
+{
+"company": "Bagira",
+"title": "Integration Specialist - Spike",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/integration-specialist-spike/64.051"
+},
+{
+"company": "Bagira",
+"title": "Procurement Referent",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/procurement-referent/C3.843"
+},
+{
+"company": "Bagira",
+"title": "Project Manager",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/project-manager/65.85D"
+},
+{
+"company": "Bagira",
+"title": "מדריך חי\"ר",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/3B.03C"
+},
+{
+"company": "Bagira",
+"title": "מדריך חת\"ם",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/7B.B25"
+},
+{
+"company": "Bagira",
+"title": "מדריך חת\"ם נייד",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/F0.35E"
+},
+{
+"company": "Bagira",
+"title": "מדריך/ת חי\"ר נייד/ת",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/DB.B20"
+},
+{
+"company": "Bagira",
+"title": "מהנדס אחזקה",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/50.D47"
+},
+{
+"company": "Bagira",
+"title": "מנהל אתר סימולטורים ביחידות חי\"ר",
+"url": "https://www.comeet.com/jobs/bagirasystems/47.006/job/1F.D2A"
+},
+{
+"company": "Be The Bank",
+"title": "Attorney – Regulatory & Compliance",
+"url": "https://www.comeet.com/jobs/btbisrael/78.00B/attorney-regulatory-compliance/6D.274"
+},
+{
+"company": "Be The Bank",
+"title": "Client Portfolio Manager - Lending Division",
+"url": "https://www.comeet.com/jobs/btbisrael/78.00B/client-portfolio-manager-lending-division/01.443"
+},
+{
+"company": "Be The Bank",
+"title": "Client portfolios Manager for the investor department",
+"url": "https://www.comeet.com/jobs/btbisrael/78.00B/client-portfolios-manager-for-the-investor-department/C3.960"
+},
+{
+"company": "Be The Bank",
+"title": "Credit Analyst",
+"url": "https://www.comeet.com/jobs/btbisrael/78.00B/credit-analyst/B5.07B"
+},
+{
+"company": "Beach Bum",
+"title": "Game Lead - Beach Bum",
+"url": "https://jobs.ashbyhq.com/beach-bum/3ce01e1f-dd86-4a4f-91f0-83d1929c8bdb"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "HRBP",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/hrbp/17.16C"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/pmo/2A.05F"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "אדמין/ית שיווק - משרה זמנית",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/BE.479"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "איש רכש ולוגיסטיקה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/98.357"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "גזבר-מנה\"ח",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/A6.273"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "חרט / כרסם קונבנציונלי",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/F4.85D"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "חשמלאי אחזקת מכונות",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/75.956"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "טכנאי מעבדה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/3B.B6E"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "טכנאי/ת מחשבים",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/75.659"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "טכנולוג עיבוד שבבי",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/21.F50"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מבקר איכות",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/FD.65A"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מבקר איכות QC",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/qc/A4.270"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מבקר לביקורת קבלה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/14.75E"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מהנדס אנליזות",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/10.D58"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מהנדס הרכבת מנועים",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/50.550"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מהנדס מנוע",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/D5.F55"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מהנדס פלסמה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/2B.B63"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מחסנאי ממוחשב",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/DC.266"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מחסנאי/ת זמני/ת",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/37.576"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מטלורג",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/E3.650"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מכונאי אחזקה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/D2.358"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנהל פרוייקטים הנדסיים",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/FB.154"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנהל/ת אפליקציות גלובלי",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/5E.178"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנהל/ת משלוחי יבוא ויצוא",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/F7.57A"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנהלת אדמינסטרטיבית",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/7D.C64"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מנוען",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/D2.35C"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "מפעיל מכונת חריטה/כרסום",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/17.E5B"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "סטודנט/ית להנדסת מכונות",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/43.577"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "עובד ייצור",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/E2.356"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "עובד מחלקת תהליכים",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/EB.158"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "עובד משק",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/A1.369"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "קניין",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/E8.350"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "קניין לחטיבת פיתוח והנדסה",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/CC.B65"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "ראש צוות הנדסת ייצור",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/1A.B65"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "רכז/ת איכות ספקים ותפעול איכות",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/F9.37A"
+},
+{
+"company": "Bet Shemesh Engines",
+"title": "רכז/ת גיוס",
+"url": "https://www.comeet.com/jobs/betshemeshengines/1A.002/job/DD.C65"
+},
+{
+"company": "Better",
+"title": "בעל.ת רישיון סוכן פנסיוני",
+"url": "https://www.comeet.com/jobs/allbetter/F8.00E/job/BE.047"
+},
+{
+"company": "Better",
+"title": "רפרנט.ית תפעול פנסיוני",
+"url": "https://www.comeet.com/jobs/allbetter/F8.00E/job/25.C3D"
+},
+{
+"company": "Bigabid",
+"title": "Senior Account Manager",
+"url": "https://www.comeet.com/jobs/bigabid/A4.003/senior-account-manager/DD.277"
+},
+{
+"company": "Bigabid",
+"title": "Senior User Acquisition Manager",
+"url": "https://www.comeet.com/jobs/bigabid/A4.003/senior-user-acquisition-manager/1C.274"
+},
+{
+"company": "BioCatch",
+"title": "Service Operations Specialist",
+"url": "https://www.comeet.com/jobs/biocatch/03.00E/service-operations-specialist/6A.477"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Planner",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/planner/5B.A52"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Procurement Manager",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/procurement-manager/7C.65E"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Project Manager for Products",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/project-manager-for-products/C0.F51"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Project Operations Manager",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/project-operations-manager/A5.478"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Structural Engineering Analyst",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/structural-engineering-analyst/AA.47B"
+},
+{
+"company": "BIRD Aerosystems",
+"title": "Warehouse Specialist",
+"url": "https://www.comeet.com/jobs/birdaero/97.006/warehouse-specialist/AD.260"
+},
+{
+"company": "BIScience",
+"title": "Customer Success Manager",
+"url": "https://www.comeet.com/jobs/biscience/0A.00B/customer-success-manager/C1.370"
+},
+{
+"company": "BIScience",
+"title": "Marketing Manager (9-Month Maternity Leave Cover)",
+"url": "https://www.comeet.com/jobs/biscience/0A.00B/marketing-manager-9-month-maternity-leave-cover/1F.47A"
+},
+{
+"company": "Bizzabo",
+"title": "Strategic FP&A Manager",
+"url": "https://www.comeet.com/jobs/bizzabo/A5.000/strategic-fp-a-manager/95.F6D"
+},
+{
+"company": "Black Duck Software, Inc.",
+"title": "Lead Technical Success Manager",
+"url": "https://job-boards.greenhouse.io/blackduck/jobs/5476600008"
+},
+{
+"company": "BOA Ideas",
+"title": "E-commerce Manager",
+"url": "https://www.comeet.com/jobs/boaideas/EA.009/e-commerce-manager/E7.660"
+},
+{
+"company": "BOA Ideas",
+"title": "Sales Development & Account Growth Representative",
+"url": "https://www.comeet.com/jobs/boaideas/EA.009/sales-development-account-growth-representative/27.47B"
+},
+{
+"company": "Bridgewise",
+"title": "Funds & ETF Expert Analyst",
+"url": "https://www.comeet.com/jobs/bridgewise/F9.009/funds-etf-expert-analyst/44.576"
+},
+{
+"company": "Bridgewise",
+"title": "Investment Strategy Analyst",
+"url": "https://www.comeet.com/jobs/bridgewise/F9.009/investment-strategy-analyst/14.575"
+},
+{
+"company": "Bright Data",
+"title": "Bookkeeper",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/bookkeeper/38.377"
+},
+{
+"company": "Bright Data",
+"title": "FP&A",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/fp-a/A5.C6D"
+},
+{
+"company": "Bright Data",
+"title": "Partnerships Manager (Academy) - Temp",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/partnerships-manager-academy-temp/9B.477"
+},
+{
+"company": "Bringg",
+"title": "Global HR Operations Manager (C&B, HRIS, Analytics)",
+"url": "https://job-boards.greenhouse.io/bringg/jobs/8960030002"
+},
+{
+"company": "Broadcom",
+"title": "R&D Mechanic Engineer",
+"url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/ISR-Tel-Aviv-University/R-D-Mechanic-Engineer_R027879-6"
+},
+{
+"company": "Buildots",
+"title": "Assistant Controller",
+"url": "https://www.comeet.com/jobs/buildots/36.004/assistant-controller/3A.478"
+},
+{
+"company": "Buildots",
+"title": "Insurance Manager (80% Position)",
+"url": "https://www.comeet.com/jobs/buildots/36.004/insurance-manager-80-position/78.47E"
+},
+{
+"company": "Buildots",
+"title": "Knowledge & Quality Specialist",
+"url": "https://www.comeet.com/jobs/buildots/36.004/knowledge-quality-specialist/D8.57B"
+},
+{
+"company": "Buildots",
+"title": "Office Manager (Maternity leave)",
+"url": "https://www.comeet.com/jobs/buildots/36.004/office-manager-maternity-leave/E6.47B"
+},
+{
+"company": "Buildots",
+"title": "Performance Marketing Manager",
+"url": "https://www.comeet.com/jobs/buildots/36.004/performance-marketing-manager/5D.27C"
+},
+{
+"company": "Buildots",
+"title": "Project Management Team Lead",
+"url": "https://www.comeet.com/jobs/buildots/36.004/project-management-team-lead/0A.27C"
+},
+{
+"company": "Bulls Media",
+"title": "Business Unit Manager",
+"url": "https://www.comeet.com/jobs/bulls_media/F9.007/business-unit-manager/23.470"
+},
+{
+"company": "Bulls Media",
+"title": "PPC Team lead",
+"url": "https://www.comeet.com/jobs/bulls_media/F9.007/ppc-team-lead/2B.B64"
+},
+{
+"company": "BUYME",
+"title": "B2B Sales Manager",
+"url": "https://www.comeet.com/jobs/buyme/B2.008/b2b-sales-manager/CA.37B"
+},
+{
+"company": "BUYME",
+"title": "Marketing Automation Manager - B2C & B2B",
+"url": "https://www.comeet.com/jobs/buyme/B2.008/marketing-automation-manager-b2c-b2b/09.57F"
+},
+{
+"company": "Caesarstone",
+"title": "למשרות אחרות באבן קיסר",
+"url": "https://www.comeet.com/jobs/caesarstone/25.000/job/15.41E"
+},
+{
+"company": "Camtek",
+"title": "Application Development Engineer",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/application-development-engineer/18.E44"
+},
+{
+"company": "Camtek",
+"title": "Configuration Control Team Leader",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/configuration-control-team-leader/C6.370"
+},
+{
+"company": "Camtek",
+"title": "Integrator",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/integrator/C0.61C"
+},
+{
+"company": "Camtek",
+"title": "NPI Procurement Lead",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/npi-procurement-lead/97.37A"
+},
+{
+"company": "Camtek",
+"title": "Planner",
+"url": "https://www.comeet.com/jobs/camtek/F4.00D/planner/AE.C44"
+},
+{
+"company": "Cardo Systems",
+"title": "Customer Experience Manager",
+"url": "https://www.comeet.com/jobs/cardosystems/F2.003/customer-experience-manager/D7.37B"
+},
+{
+"company": "Cato Networks",
+"title": "GTM Product Marketing Manager EMEA",
+"url": "https://www.catonetworks.com/careers/careers-post/4967083101?gh_jid=4967083101"
+},
+{
+"company": "Cato Networks",
+"title": "Payroll Admin",
+"url": "https://www.catonetworks.com/careers/careers-post/4908469101?gh_jid=4908469101"
+},
+{
+"company": "Cato Networks",
+"title": "Procurement Specialist - Temporary position",
+"url": "https://www.catonetworks.com/careers/careers-post/4781098101?gh_jid=4781098101"
+},
+{
+"company": "Cato Networks",
+"title": "Senior Field Operations Manager EMEA",
+"url": "https://www.catonetworks.com/careers/careers-post/5015580101?gh_jid=5015580101"
+},
+{
+"company": "Cato Networks",
+"title": "Senior Video Creator & Producer",
+"url": "https://www.catonetworks.com/careers/careers-post/5007077101?gh_jid=5007077101"
+},
+{
+"company": "Cato Networks",
+"title": "Strategic Programs Manager",
+"url": "https://www.catonetworks.com/careers/careers-post/5042664101?gh_jid=5042664101"
+},
+{
+"company": "Cato Networks",
+"title": "Web Marketing Manager — Contract",
+"url": "https://www.catonetworks.com/careers/careers-post/5035117101?gh_jid=5035117101"
+},
+{
+"company": "Cellebrite",
+"title": "Assistant Corporate Controller",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/assistant-corporate-controller/A4.570"
+},
+{
+"company": "Cellebrite",
+"title": "Associate Account Executive",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/associate-account-executive/E0.470"
+},
+{
+"company": "Cellebrite",
+"title": "Director of Global Procurement",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/director-of-global-procurement/DE.B60"
+},
+{
+"company": "Cellebrite",
+"title": "Global Shipping Specialist",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/global-shipping-specialist/CF.478"
+},
+{
+"company": "Cellebrite",
+"title": "Global Talent Acquisition Partner, Labs",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/global-talent-acquisition-partner-labs/64.47A"
+},
+{
+"company": "Cellebrite",
+"title": "Procurement Business Partner",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/procurement-business-partner/BE.278"
+},
+{
+"company": "Cellebrite",
+"title": "Senior FP&A Analyst - Operations",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/senior-fp-a-analyst-operations/43.47E"
+},
+{
+"company": "Cellebrite",
+"title": "Senior FP&A Analyst - SaaS",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/senior-fp-a-analyst-saas/53.479"
+},
+{
+"company": "Chainalysis",
+"title": "Senior Account Executive - Israel",
+"url": "https://jobs.ashbyhq.com/chainalysis-careers/9975636b-8def-452b-be67-1ec42e6cc085"
+},
+{
+"company": "Chainalysis",
+"title": "Senior Account Executive - Israel",
+"url": "https://jobs.ashbyhq.com/chainalysis-careers/43fafef4-b5f3-495c-a8d5-07ce89a26f4e"
+},
+{
+"company": "Chainalysis",
+"title": "Senior Office Coordinator",
+"url": "https://jobs.ashbyhq.com/chainalysis-careers/681aa9eb-248a-4481-9f3c-f90c7b44b56d"
+},
+{
+"company": "Chargeflow",
+"title": "Legal Counsel",
+"url": "https://www.comeet.com/jobs/chargeflow/29.001/legal-counsel/9E.479"
+},
+{
+"company": "Checkmarx",
+"title": "GRC Manager",
+"url": "https://www.comeet.com/jobs/checkmarx/C0.008/grc-manager/46.57C"
+},
+{
+"company": "Cisco",
+"title": "Customer Experience Customer Success Technical Leader - Splunk",
+"url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Tel-Aviv-Yafo-Israel/Customer-Experience-Customer-Success-Technical-Leader_2028703"
+},
+{
+"company": "Cisco",
+"title": "Engineering Project Manager",
+"url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Engineering-Project-Manager_2022405"
+},
+{
+"company": "Clariness",
+"title": "Freelance - Medical Customer Service Representative - Israel (Hebrew)",
+"url": "https://career.clariness.com/careers/8195430?gh_jid=8195430"
+},
+{
+"company": "Claroty",
+"title": "Bookkeeper (Temporary – Maternity Leave Cover)",
+"url": "https://www.comeet.com/jobs/claroty/F2.004/bookkeeper-temporary-maternity-leave-cover/EE.471"
+},
+{
+"company": "Cloudinary",
+"title": "Head of MIS",
+"url": "https://jobs.lever.co/cloudinary/f4f6b55a-2344-423f-a207-a9119ff67f3f"
+},
+{
+"company": "Clover Security",
+"title": "Internal Brand & Experience Manager",
+"url": "https://www.comeet.com/jobs/clover_security/7A.00A/internal-brand-experience-manager/6D.370"
+},
+{
+"company": "CodeValue",
+"title": "Office Administrator",
+"url": "https://www.comeet.com/jobs/codevalue/81.009/office-administrator/78.47B"
+},
+{
+"company": "CodeValue",
+"title": "Sales Development Representative",
+"url": "https://www.comeet.com/jobs/codevalue/81.009/sales-development-representative/DA.63C"
+},
+{
+"company": "CodeValue",
+"title": "Talent Acquisition Specialist",
+"url": "https://www.comeet.com/jobs/codevalue/81.009/talent-acquisition-specialist/FB.74A"
+},
+{
+"company": "Cognyte",
+"title": "Corporate Treasurer",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/corporate-treasurer/A7.371"
+},
+{
+"company": "Cognyte",
+"title": "Finance Business Partner Team Lead",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/finance-business-partner-team-lead/72.C68"
+},
+{
+"company": "Cognyte",
+"title": "FP&A Business Partner",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/fp-a-business-partner/6D.37B"
+},
+{
+"company": "Cognyte",
+"title": "Product Expert",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/product-expert/A5.D6C"
+},
+{
+"company": "Cognyte",
+"title": "Purchasing Account Manager",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/purchasing-account-manager/D6.E6B"
+},
+{
+"company": "Cognyte",
+"title": "Senior Product Marketing Manager",
+"url": "https://www.comeet.com/jobs/cognyte/F2.009/senior-product-marketing-manager/AC.C6D"
+},
+{
+"company": "CommIT",
+"title": "Assistant Controller",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/assistant-controller/BF.167"
+},
+{
+"company": "CommIT",
+"title": "ATE Engineer",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/ate-engineer/25.46E"
+},
+{
+"company": "CommIT",
+"title": "Customer Success Manager",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/customer-success-manager/4A.579"
+},
+{
+"company": "CommIT",
+"title": "Hardware Development Team Lead",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/hardware-development-team-lead/F5.D68"
+},
+{
+"company": "CommIT",
+"title": "Junior Sales Manager",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/junior-sales-manager/14.479"
+},
+{
+"company": "CommIT",
+"title": "Network & Linux Integrator",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/network-linux-integrator/49.37B"
+},
+{
+"company": "CommIT",
+"title": "Network Integration Specialist",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/network-integration-specialist/2B.A53"
+},
+{
+"company": "CommIT",
+"title": "Network Team Lead",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/network-team-lead/45.D57"
+},
+{
+"company": "CommIT",
+"title": "Presale Engineer",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/presale-engineer/17.A63"
+},
+{
+"company": "CommIT",
+"title": "System Expert",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/system-expert/24.245"
+},
+{
+"company": "CommIT",
+"title": "מהנדס/ת מערכת",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/job/EE.C69"
+},
+{
+"company": "CommIT",
+"title": "מומחה/ית תשתיות תקשוב",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/job/D9.E51"
+},
+{
+"company": "CommIT",
+"title": "ראש צוות מעבדת שילובים",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/job/9C.372"
+},
+{
+"company": "ControlUp",
+"title": "HR Business Partner",
+"url": "https://jobs.lever.co/controlup/a1075daa-fd72-46b4-974d-8c4139e20bdf"
+},
+{
+"company": "Coralogix",
+"title": "VP Business Applications",
+"url": "https://www.comeet.com/jobs/coralogix/06.004/vp-business-applications/0C.D60"
+},
+{
+"company": "Coralogix",
+"title": "VP Operations",
+"url": "https://www.comeet.com/jobs/coralogix/06.004/vp-operations/B5.F66"
+},
+{
+"company": "CrazyLabs",
+"title": "HR Operations Strategist",
+"url": "https://www.comeet.com/jobs/crazylabs/32.00E/hr-operations-strategist/C7.473"
+},
+{
+"company": "Cross River",
+"title": "Data Reporting Lead",
+"url": "https://www.comeet.com/jobs/crossriver/C7.00F/data-reporting-lead/2D.47E"
+},
+{
+"company": "Cross River",
+"title": "Engineering Support Team Lead",
+"url": "https://www.comeet.com/jobs/crossriver/C7.00F/engineering-support-team-lead/D4.47B"
+},
+{
+"company": "Cross River",
+"title": "Would LOVE to join Cross River!!",
+"url": "https://www.comeet.com/jobs/crossriver/C7.00F/would-love-to-join-cross-river/92.F23"
+},
+{
+"company": "Crusoe",
+"title": "Service Desk",
+"url": "https://jobs.ashbyhq.com/Crusoe/6321b0c6-702d-4f61-891e-c07b9e9b591f"
+},
+{
+"company": "Cyberillium",
+"title": "Reach out!",
+"url": "https://www.comeet.com/jobs/cyberillium/58.004/reach-out/A3.A67"
+},
+{
+"company": "Cycode",
+"title": "Explore New Opportunities",
+"url": "https://www.comeet.com/jobs/cycode/A8.00D/explore-new-opportunities/99.83B"
+},
+{
+"company": "Cye",
+"title": "Deal Desk Specialist – Strategic Accounts",
+"url": "https://jobs.lever.co/CYE/3245ba1b-0412-404c-8b1e-538103bf99b6"
+},
+{
+"company": "Cye",
+"title": "Surprise Us.",
+"url": "https://jobs.lever.co/CYE/54b694d0-6181-4ee7-99d5-128eecd67b5a"
+},
+{
+"company": "Cyera",
+"title": "Brand Designer",
+"url": "https://www.comeet.com/jobs/cyera/17.008/brand-designer/E4.47D"
+},
+{
+"company": "Cyera",
+"title": "Technical Competitive Intelligence Analyst",
+"url": "https://www.comeet.com/jobs/cyera/17.008/technical-competitive-intelligence-analyst/75.279"
+},
+{
+"company": "Cyera",
+"title": "Technical Competitive Intelligence Analyst - Cyera Identity",
+"url": "https://www.comeet.com/jobs/cyera/17.008/technical-competitive-intelligence-analyst-cyera-identity/94.47E"
+},
+{
+"company": "Cymulate",
+"title": "Global Talent Acquisition Specialist",
+"url": "https://job-boards.eu.greenhouse.io/cymulate/jobs/5015410101"
+},
+{
+"company": "Cymulate",
+"title": "Marketing Designer- Maternity leave replacement",
+"url": "https://job-boards.eu.greenhouse.io/cymulate/jobs/5024516101"
+},
+{
+"company": "Cynet",
+"title": "Career at Cynet",
+"url": "https://www.comeet.com/jobs/cynet/33.00D/career-at-cynet/82.153"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Billing & Order-to-Cash (O2C) Specialist",
+"url": "https://jobs.lever.co/d-fendsolutions/9ec7fe5f-ce24-4f27-affc-9004f0140d37"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Legal & Compliance Counsel",
+"url": "https://jobs.lever.co/d-fendsolutions/3c2159b1-a9c1-4f7a-b6c2-ef3117cd264e"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Operations Finance Controller",
+"url": "https://jobs.lever.co/d-fendsolutions/7139e425-aa61-40c1-953d-6df953b055ae"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Sales Operations Specialist",
+"url": "https://jobs.lever.co/d-fendsolutions/98f7f648-e1ed-4eb0-9e3b-c25279afba21"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Senior Buyer / Strategic Sourcing Specialist (Electromechanical Commodities)",
+"url": "https://jobs.lever.co/d-fendsolutions/f952f781-68e1-44ea-bf47-6b4efe3b0723"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Senior Organizational Development (OD) Lead",
+"url": "https://jobs.lever.co/d-fendsolutions/67b5b100-6c79-4c61-a159-7fe815339187"
+},
+{
+"company": "D-Fend Solutions",
+"title": "Warehouse Manager",
+"url": "https://jobs.lever.co/d-fendsolutions/5c2062dc-1b68-44b2-b02d-cdbb0d569e33"
+},
+{
+"company": "Databricks",
+"title": "Lakebase Sales Specialist",
+"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569558002"
+},
+{
+"company": "Databricks",
+"title": "Strategic Core Account Executive",
+"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002"
+},
+{
+"company": "Datadog",
+"title": "Commercial Account Executive - Israel",
+"url": "https://careers.datadoghq.com/detail/8245889/?gh_jid=8245889"
+},
+{
+"company": "Datadog",
+"title": "Strategic Account Executive - Israel",
+"url": "https://careers.datadoghq.com/detail/7297575/?gh_jid=7297575"
+},
+{
+"company": "Datarails",
+"title": "FP&A Implementation Manager",
+"url": "https://job-boards.greenhouse.io/datarails/jobs/4272331009"
+},
+{
+"company": "DealHub",
+"title": "Business Development Representative",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/business-development-representative/06.65B"
+},
+{
+"company": "DealHub",
+"title": "Collections & Billing Specialist",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/collections-billing-specialist/34.474"
+},
+{
+"company": "DealHub",
+"title": "Customer Success Manager",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/customer-success-manager/56.070"
+},
+{
+"company": "DealHub",
+"title": "Enterprise Account Executive",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/enterprise-account-executive/A3.753"
+},
+{
+"company": "DealHub",
+"title": "Field & Partner Marketing Manager",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/field-partner-marketing-manager/C0.478"
+},
+{
+"company": "DealHub",
+"title": "Head of Brand & Narrative",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/head-of-brand-narrative/C0.47B"
+},
+{
+"company": "DealHub",
+"title": "Head of Integrated Marketing",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/head-of-integrated-marketing/C0.47A"
+},
+{
+"company": "DealHub",
+"title": "Payroll Controller Assistant",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/payroll-controller-assistant/C0.472"
+},
+{
+"company": "DealHub",
+"title": "PMO",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/pmo/7A.47C"
+},
+{
+"company": "DealHub",
+"title": "Procurement Manager (part time)",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/procurement-manager-part-time/14.571"
+},
+{
+"company": "DealHub",
+"title": "Product Marketing Manager - GTM Content",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/product-marketing-manager-gtm-content/09.E60"
+},
+{
+"company": "DealHub",
+"title": "Senior SEO & GEO Specialist",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/senior-seo-geo-specialist/B4.572"
+},
+{
+"company": "DealHub",
+"title": "Senior Talent Recruiter & HR Partner",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/senior-talent-recruiter-hr-partner/EE.479"
+},
+{
+"company": "DealHub",
+"title": "Solution Expert",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/solution-expert/B4.550"
+},
+{
+"company": "DealHub",
+"title": "VP Sales",
+"url": "https://www.comeet.com/jobs/dealhub/86.005/vp-sales/A3.27E"
+},
+{
+"company": "Deloitte",
+"title": "Administrative Assistant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/administrative-assistant/75.577"
+},
+{
+"company": "Deloitte",
+"title": "Administrative Assistant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/administrative-assistant/66.579"
+},
+{
+"company": "Deloitte",
+"title": "Administrative Assistant - Maternity Leave Cover",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/administrative-assistant-maternity-leave-cover/F3.579"
+},
+{
+"company": "Deloitte",
+"title": "Audit Associate - High Tech Sector",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-associate-high-tech-sector/06.D6B"
+},
+{
+"company": "Deloitte",
+"title": "Audit Intern - Financial Sector",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-intern-financial-sector/21.F52"
+},
+{
+"company": "Deloitte",
+"title": "Audit Intern - Haifa Office",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-intern-haifa-office/72.751"
+},
+{
+"company": "Deloitte",
+"title": "Audit intern - Jerusalem Office",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-intern-jerusalem-office/DC.65A"
+},
+{
+"company": "Deloitte",
+"title": "Audit Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-manager/6E.F5B"
+},
+{
+"company": "Deloitte",
+"title": "Audit Manager- Finance",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-manager-finance/B6.27D"
+},
+{
+"company": "Deloitte",
+"title": "Audit Senior",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-senior/2A.270"
+},
+{
+"company": "Deloitte",
+"title": "Audit Senior Staff",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-senior-staff/3A.470"
+},
+{
+"company": "Deloitte",
+"title": "Audit Staff",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-staff/A3.D61"
+},
+{
+"company": "Deloitte",
+"title": "Audit, SOX & Controls Consultant - Financial Sector",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-sox-controls-consultant-financial-sector/CF.A66"
+},
+{
+"company": "Deloitte",
+"title": "Audit, SOX & Controls Manager  - Financial Sector",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/audit-sox-controls-manager-financial-sector/3D.A6E"
+},
+{
+"company": "Deloitte",
+"title": "Auditor / CPA – Audit & Assurance",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/auditor-cpa-audit-assurance/39.471"
+},
+{
+"company": "Deloitte",
+"title": "compliance & regulatory Risk Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/compliance-regulatory-risk-consultant/1F.277"
+},
+{
+"company": "Deloitte",
+"title": "EFA Specialist",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/efa-specialist/19.474"
+},
+{
+"company": "Deloitte",
+"title": "Export Audit",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/export-audit/75.07C"
+},
+{
+"company": "Deloitte",
+"title": "Export Audit Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/export-audit-manager/1F.E6A"
+},
+{
+"company": "Deloitte",
+"title": "Export US Tax",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/export-us-tax/13.17C"
+},
+{
+"company": "Deloitte",
+"title": "Finance Transformation Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/finance-transformation-consultant/02.562"
+},
+{
+"company": "Deloitte",
+"title": "Finance Transformation Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/finance-transformation-manager/33.479"
+},
+{
+"company": "Deloitte",
+"title": "Financial Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/financial-consultant/CF.47C"
+},
+{
+"company": "Deloitte",
+"title": "Financial Consultant Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/financial-consultant-manager/C6.D65"
+},
+{
+"company": "Deloitte",
+"title": "Indirect Tax Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/indirect-tax-manager/30.D69"
+},
+{
+"company": "Deloitte",
+"title": "Indirect Tax Senior",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/indirect-tax-senior/9D.07A"
+},
+{
+"company": "Deloitte",
+"title": "Internal Audit Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/internal-audit-consultant/BE.A6F"
+},
+{
+"company": "Deloitte",
+"title": "International Tax Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/international-tax-consultant/54.36D"
+},
+{
+"company": "Deloitte",
+"title": "International Tax Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/international-tax-manager/F3.765"
+},
+{
+"company": "Deloitte",
+"title": "International Tax Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/international-tax-manager/75.07A"
+},
+{
+"company": "Deloitte",
+"title": "International& Local Tax Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/international-local-tax-manager/49.57C"
+},
+{
+"company": "Deloitte",
+"title": "Legal Counsel and Risk Manager -  Commercial & Technology",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/legal-counsel-and-risk-manager-commercial-technology/A4.273"
+},
+{
+"company": "Deloitte",
+"title": "Marketing Automation Specialist",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/marketing-automation-specialist/25.573"
+},
+{
+"company": "Deloitte",
+"title": "NetSuite Implementer",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/netsuite-implementer/2C.175"
+},
+{
+"company": "Deloitte",
+"title": "NetSuite Logistic Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/netsuite-logistic-consultant/14.570"
+},
+{
+"company": "Deloitte",
+"title": "Partner Administration",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/partner-administration/25.570"
+},
+{
+"company": "Deloitte",
+"title": "Project Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/project-manager/A3.D6F"
+},
+{
+"company": "Deloitte",
+"title": "Risk Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/risk-consultant/E2.471"
+},
+{
+"company": "Deloitte",
+"title": "SAP Group Reporting Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/sap-group-reporting-manager/E2.473"
+},
+{
+"company": "Deloitte",
+"title": "SAP S/4HANA FI Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/sap-s-4hana-fi-consultant/2A.47D"
+},
+{
+"company": "Deloitte",
+"title": "Senior Transformation Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/senior-transformation-consultant/05.F6C"
+},
+{
+"company": "Deloitte",
+"title": "SOX Consultant",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/sox-consultant/19.579"
+},
+{
+"company": "Deloitte",
+"title": "Tax Senior Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/tax-senior-manager/00.575"
+},
+{
+"company": "Deloitte",
+"title": "US Tax Manager",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/us-tax-manager/44.478"
+},
+{
+"company": "Deloitte",
+"title": "יריד תעסוקה אוניברסיטת בר אילן 27.5",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/27-5/3A.B61"
+},
+{
+"company": "Deloitte",
+"title": "כלכלן/ית | מינהלת הגמלאות, אגף החשב הכללי",
+"url": "https://www.comeet.com/jobs/deloitte/F7.00B/job/75.476"
+},
+{
+"company": "Delta Galil Industries",
+"title": "חשב.ת - דלתא מותגים",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/48.377"
+},
+{
+"company": "Delta Galil Industries",
+"title": "לא מצאת משרה רלוונטית?",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/1A.735"
+},
+{
+"company": "Delta Galil Industries",
+"title": "לא מצאת משרה רלוונטית?",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/C3.052"
+},
+{
+"company": "Delta Galil Industries",
+"title": "מנהל.ת אתר סחר – דלתא",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/54.F6E"
+},
+{
+"company": "Delta Galil Industries",
+"title": "מעצב.ת  אופנה לסטודיו אקטיב",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/15.572"
+},
+{
+"company": "Delta Galil Industries",
+"title": "מעצב.ת אופנה למחלקת ילדים",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/EB.37B"
+},
+{
+"company": "Delta Galil Industries",
+"title": "קצינ.ת בטיחות בתעבורה",
+"url": "https://www.comeet.com/jobs/deltagalil/78.000/job/61.E69"
+},
+{
+"company": "Demo Company",
+"title": "Customer success manager",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/customer-success-manager/76.234"
+},
+{
+"company": "Demo Company",
+"title": "Marketing coordinator",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/marketing-coordinator/E6.D2E"
+},
+{
+"company": "Demo Company",
+"title": "MTA2",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/mta2/23.913"
+},
+{
+"company": "Demo Company",
+"title": "New pos Hybrid",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/new-pos-hybrid/05.F51"
+},
+{
+"company": "Demo Company",
+"title": "Nokia",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/nokia/CB.648-52.408"
+},
+{
+"company": "Demo Company",
+"title": "Senior technical writer",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/senior-technical-writer/84.232"
+},
+{
+"company": "Demo Company",
+"title": "Test the map",
+"url": "https://www.comeet.com/jobs/yourcompany/80.003/test-the-map/FA.C58"
+},
+{
+"company": "Directeam",
+"title": "Assistant Controller",
+"url": "https://www.comeet.com/jobs/directeam/29.008/assistant-controller/4C.37A"
+},
+{
+"company": "Directeam",
+"title": "Head of Operations",
+"url": "https://www.comeet.com/jobs/directeam/29.008/head-of-operations/B9.D6E"
+},
+{
+"company": "Discount Bank",
+"title": "HRBP בכיר.ה",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/hrbp/56.57A"
+},
+{
+"company": "Discount Bank",
+"title": "HRBP בכיר.ה",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/hrbp/56.57A-23.402"
+},
+{
+"company": "Discount Bank",
+"title": "Linux & Infrastructure Team Lead",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/linux-infrastructure-team-lead/6A.570"
+},
+{
+"company": "Discount Bank",
+"title": "אחראי.ת ליווי כלכלי והסדרת חוב",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/90.57D"
+},
+{
+"company": "Discount Bank",
+"title": "אחראי.ת ניהול סיכונים מומחה.ית - מחלקת בקרה עסקית - 5530",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/5530/E7.571"
+},
+{
+"company": "Discount Bank",
+"title": "אנליסט.ית אשראי לאגף אשראי קמעונאי",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/FE.47E"
+},
+{
+"company": "Discount Bank",
+"title": "אנליסט.ית אשראי מומחה.ית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/6E.F67"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-51.400"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-41.402"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-41.408"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-41.409"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-31.40D"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-41.40C"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת Back Office",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/back-office/06.654-41.40D"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת בק אופיס למרכז מזומנים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/AE.74B"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת בק אופיס למרכז מזומנים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/AE.74B-33.405"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת לאגף מרכזי מומחים בחטיבת התפעול",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/54.462"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/1B.B3B"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-81.40E"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-A1.400"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-A1.401"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-A1.402"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-41.408"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-41.409"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-41.40A"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-41.40B"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-41.40C"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BE.241-91.40F"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות במרחב השרון והצפון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/7E.D3B"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות במרחב השרון והצפון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/7E.D3B-91.40F"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות במרחב השרון והצפון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/7E.D3B-A1.401"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני - פריסה ארצית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/65.544"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני - פריסה ארצית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/65.544-9A.400"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני - פריסה ארצית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/65.544-31.40D"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-51.400"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-41.402"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-41.408"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-41.40C"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-41.40D"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני לדיסקונט 360 בראשון לציון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/07.36D-41.40F"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני למוקד דיסקונט 360 בירושלים - הר חוצבים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/17.365"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות טלפוני למוקד דיסקונט 360 בקריית אתא",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/360/17.366"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאי.ת שירות לבנקאות הפרטית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/6A.042"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאים.ות לסניפי השפלה והדרום",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/1F.B30"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאים.ות לסניפי השפלה והדרום",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/1F.B30-41.40C"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאים.ות לסניפי השפלה והדרום",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/1F.B30-EC.60B"
+},
+{
+"company": "Discount Bank",
+"title": "בנקאים.ות לסניפי השפלה והדרום",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/1F.B30-51.401"
+},
+{
+"company": "Discount Bank",
+"title": "בקר.ית אשראי לחטיבת ניהול סיכונים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/AC.475"
+},
+{
+"company": "Discount Bank",
+"title": "יועץ.ת השקעו דובר.ת צרפתית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/6C.E43"
+},
+{
+"company": "Discount Bank",
+"title": "יועץ.ת השקעו דובר.ת צרפתית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/6C.E43-41.40C"
+},
+{
+"company": "Discount Bank",
+"title": "יועץ.ת השקעו דובר.ת צרפתית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/6C.E43-A1.400"
+},
+{
+"company": "Discount Bank",
+"title": "יועץ.ת השקעות לבנקאות פרטית בתל אביב",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/B4.271"
+},
+{
+"company": "Discount Bank",
+"title": "יועץ.ת משכנתאות",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/AF.34F"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת השקעות - חטיבה בנקאית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/76.57A"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת השקעות למרכזי ההשקעות של בנק דיסקונט",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/DD.74F"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת משפטי.ת בתחום ליווי עסקאות מימון",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/B6.46D"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת משפטי.ת לתחום האשראי העסקי",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/BF.074"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת משפטי.ת מומחה.ית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/09.474"
+},
+{
+"company": "Discount Bank",
+"title": "יועצ.ת משפטי.ת מומחה.ית למחלקת ייעוץ משפטי לסניפים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/F5.570"
+},
+{
+"company": "Discount Bank",
+"title": "כספר.ית",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/ED.748"
+},
+{
+"company": "Discount Bank",
+"title": "קניין.ית רכש בתחומי תפעול, שירותים וטכנולוגיה",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/DE.476"
+},
+{
+"company": "Discount Bank",
+"title": "ראש.ת צוות אנליזת אשראי וחיתום - 5108",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/5108/F5.070"
+}
+],
+"removed_jobs": []
+},
+{
+"date": "2026-11-24",
 "added": 252,
 "removed": 59,
 "added_jobs": [

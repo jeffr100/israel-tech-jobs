@@ -1,6 +1,6 @@
 {
 "generated": "2026-11-25",
-"total_jobs": 5071,
+"total_jobs": 5074,
 "companies": {
 "365scores": {
 "checked": "2026-11-25",
@@ -551,7 +551,7 @@
 "department": "abra Strategy Realization",
 "url": "https://www.comeet.com/jobs/abra/12.003/job/DA.E47",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -562,7 +562,7 @@
 "department": "abra Strategy Realization",
 "url": "https://www.comeet.com/jobs/abra/12.003/job/05.F45",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -726,7 +726,7 @@
 "department": "abra Strategy Realization",
 "url": "https://www.comeet.com/jobs/abra/12.003/job/13.A4C",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -793,7 +793,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/abra/12.003/job/A2.A4B",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
@@ -863,17 +863,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "AI Process & Systems Implementation Specialist",
-"location": "Center, Israel",
-"department": "Professional Services",
-"url": "https://www.comeet.com/jobs/abra_rnd/15.007/ai-process-systems-implementation-specialist/25.579",
-"posted": "",
-"category": "Data & AI",
-"level": "Mid-level / unspecified",
-"region": "Center (unspecified)",
-"first_seen": "2026-11-23"
-},
-{
 "title": "Air Defense Systems Engineer",
 "location": "Center, Israel",
 "department": "Professional Services",
@@ -913,7 +902,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/aws-cloud-security-infrastructure-engineer/9E.472",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Center (unspecified)",
 "first_seen": "2026-11-23"
@@ -1005,7 +994,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/cyber-implementation-specialist/D0.A64",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -1016,7 +1005,7 @@
 "department": "abra North",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/cyber-security-implementation-engineer/A7.571",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -1330,7 +1319,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/information-security-grc-specialist/53.575",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Center (unspecified)",
 "first_seen": "2026-11-23"
@@ -1341,7 +1330,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/information-security-implementer/80.57E",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
@@ -1497,7 +1486,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/network-security-engineer/80.57D",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
@@ -1776,7 +1765,7 @@
 "department": "abra North",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/security-network-administrator/A7.573",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -1787,7 +1776,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/security-operations-incident-response-analyst/80.57F",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
@@ -1879,7 +1868,7 @@
 "department": "Professional Services",
 "url": "https://www.comeet.com/jobs/abra_rnd/15.007/senior-soc-analyst/49.57E",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Center (unspecified)",
 "first_seen": "2026-11-23"
@@ -2151,7 +2140,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/adversarial-ai-research-scientist-red-team/2C.370",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2217,7 +2206,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/genai-security-researcher/8C.47A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2228,7 +2217,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/head-of-ai-safety-security-research/95.47A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2263,7 +2252,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/malware-research-mid-level/E0.E61",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2274,7 +2263,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/malware-researcher/5D.46F",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2285,7 +2274,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/principal-ai-research-cybersecurity-scientist-israel-uk/D2.470",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2362,7 +2351,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/activefence/D5.005/tech-lead-malware-and-vulnerability-research/63.47E",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -2459,7 +2448,7 @@
 "department": "חטיבת התפעול",
 "url": "https://www.comeet.com/jobs/aeronautics/72.002/job/B4.273",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-23"
@@ -3151,7 +3140,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/akeyless/27.006/cloud-security-engineer/AA.57B",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-25"
@@ -3173,7 +3162,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/akeyless/27.006/product-security-engineer/AA.570",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-25"
@@ -3623,7 +3612,7 @@
 "department": "Silicon Design",
 "url": "https://www.comeet.com/jobs/altair-semi/88.003/soc-verification-engineer/D3.B6B",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Mid-level / unspecified",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -3825,7 +3814,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/appdome/E6.005/mobile-security-researcher/64.041",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -3869,17 +3858,6 @@
 "category": "Frontend & full stack",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Forward Deployed Engineer (FDE)",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "",
-"url": "https://www.comeet.com/jobs/appsforce/09.00C/forward-deployed-engineer-fde/2F.471",
-"posted": "",
-"category": "Technical sales & solutions",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
 "first_seen": "2026-11-23"
 },
 {
@@ -3970,7 +3948,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/aquasec/91.001/senior-security-researcher/03.36A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -4186,7 +4164,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/artlist/85.003/application-security-engineer-ai-product-security/AD.27F",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -4340,7 +4318,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/audiocodes/85.004/it-security-and-network-engineer/7C.37A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -4414,7 +4392,7 @@
 "department": "Platform (IT, DevOps, Security)",
 "url": "https://www.comeet.com/jobs/autoleadstar/54.002/devsecops-engineer/F3.578",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -5816,7 +5794,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/blinkops/C7.004/senior-security-product-manager/A6.76F",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -5853,7 +5831,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/blockaid/69.00B/security-researcher/3E.C6A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -5976,7 +5954,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/bounce/E9.00C/director-of-security/66.57A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -6107,7 +6085,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/bridgewise/F9.009/senior-software-architect-application-security-cloud/0D.37B",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -6198,6 +6176,17 @@
 "level": "Mid-level / unspecified",
 "region": "Netanya",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Data Scientist (Core R&D)",
+"location": "Netanya, Israel",
+"department": "R&D & Technical",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/data-scientist-core-r-d/36.57A",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-25"
 },
 {
 "title": "FP&A",
@@ -6937,7 +6926,7 @@
 "department": "Product and Technology",
 "url": "https://www.comeet.com/jobs/cellebrite/C3.00F/android-security-researcher/FE.D18",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -6948,7 +6937,7 @@
 "department": "Product and Technology",
 "url": "https://www.comeet.com/jobs/cellebrite/C3.00F/android-vulnerability-researcher/01.37F",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7030,7 +7019,7 @@
 "department": "Product and Technology",
 "url": "https://www.comeet.com/jobs/cellebrite/C3.00F/ios-vulnerability-researcher/0B.613",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7469,7 +7458,7 @@
 "department": "Data",
 "url": "https://www.comeet.com/jobs/claroty/F2.004/security-data-analyst/EA.471",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7491,7 +7480,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/claroty/F2.004/senior-security-operations-engineer/E0.E67",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7524,7 +7513,7 @@
 "department": "Team82",
 "url": "https://www.comeet.com/jobs/claroty/F2.004/vulnerability-research-team-lead/94.A63",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7595,7 +7584,7 @@
 "department": "Support",
 "url": "https://www.comeet.com/jobs/clover_security/7A.00A/field-security-architect/E5.560",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7618,7 +7607,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/clover_security/7A.00A/security-researcher/D9.956",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -7701,7 +7690,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/codevalue/81.009/application-security-architect/E8.579",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -7812,7 +7801,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/codevalue/81.009/security-engineer/79.85D",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -8132,22 +8121,10 @@
 "department": "Offshore",
 "url": "https://www.comeet.com/jobs/comm-it/76.008/chief-information-security-officer/90.57C",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
-},
-{
-"title": "Customer Success Manager",
-"location": "Petah Tikva, Israel",
-"department": "Technologies",
-"url": "https://www.comeet.com/jobs/comm-it/76.008/customer-success-manager/4A.579",
-"posted": "",
-"category": null,
-"group": "Customer service & support",
-"level": "Lead / manager",
-"region": "Petah Tikva",
-"first_seen": "2026-11-24"
 },
 {
 "title": "DevOps Engineer",
@@ -8177,7 +8154,7 @@
 "department": "Technologies",
 "url": "https://www.comeet.com/jobs/comm-it/76.008/devops-tech-lead-cloud-security/6E.47E",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -8381,7 +8358,7 @@
 "department": "Offshore",
 "url": "https://www.comeet.com/jobs/comm-it/76.008/security-operations-engineer/37.579",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -8503,7 +8480,7 @@
 "department": "Technologies",
 "url": "https://www.comeet.com/jobs/comm-it/76.008/system-security-expert/2D.374",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
@@ -8731,7 +8708,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/ctera/A0.003/senior-application-security-lead/E4.574",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
@@ -8750,7 +8727,7 @@
 "department": "IT Information Security",
 "url": "https://www.comeet.com/jobs/crossriver/C7.00F/ai-security-engineer/53.E6A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-23"
@@ -8807,7 +8784,7 @@
 "department": "IT Information Security",
 "url": "https://www.comeet.com/jobs/crossriver/C7.00F/mid-level-security-engineer/04.560",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-23"
@@ -8840,7 +8817,7 @@
 "department": "IT Information Security",
 "url": "https://www.comeet.com/jobs/crossriver/C7.00F/senior-application-security-engineer/07.16B",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Jerusalem",
 "first_seen": "2026-11-23"
@@ -8970,7 +8947,7 @@
 "department": "Cyber Research Solutions",
 "url": "https://www.comeet.com/jobs/cyberillium/58.004/cyber-research-solutions-expert/AC.D5A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -8993,7 +8970,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/cyberillium/58.004/senior-vulnerability-researcher/B1.541",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -9201,7 +9178,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/cyera/17.008/product-manager-ai-security/FF.C63",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -9212,7 +9189,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/cyera/17.008/security-operations-engineer/93.470",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -9289,7 +9266,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/cyera/17.008/senior-full-stack-engineer-identity-oasis-security/6A.37A",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -9333,7 +9310,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/cyera/17.008/senior-product-security-engineer/8D.378",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -9756,7 +9733,7 @@
 "department": "טכנולוגיה",
 "url": "https://www.comeet.com/jobs/dbank/F8.004/head-of-cyber-security-operations-department/22.D68",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Rishon / Holon / Bat Yam",
 "first_seen": "2026-11-23"
@@ -10869,7 +10846,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -10880,7 +10857,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C-92.301",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -10891,7 +10868,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C-92.303",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-23"
@@ -10902,7 +10879,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C-E8.408",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -10913,7 +10890,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C-92.309",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -10924,7 +10901,7 @@
 "department": "Audit & Assurance",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/ai-assurance-soc-2-consultant/10.F6C-92.30A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-23"
@@ -11134,7 +11111,7 @@
 "department": "Consulting",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/cloud-security-architect/E2.474",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11157,7 +11134,7 @@
 "department": "Consulting",
 "url": "https://www.comeet.com/jobs/deloitte/F7.00B/cyber-grc-ai-consultant/63.D63",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11682,23 +11659,12 @@
 "searched": "",
 "jobs": [
 {
-"title": "Director of Marketing",
-"location": "Rehovot, Israel",
-"department": "Marketing",
-"url": "https://www.comeet.com/jobs/dotcompliance/89.00D/director-of-marketing/6E.478",
-"posted": "",
-"category": "Backend & software engineering",
-"level": "Lead / manager",
-"region": "Rehovot / Ness Ziona / Yavne",
-"first_seen": "2026-11-23"
-},
-{
 "title": "Tech Lead — AI Infra & Security",
 "location": "Rehovot, Israel",
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/dotcompliance/89.00D/tech-lead-ai-infra-security/9C.27F",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-23"
@@ -11803,7 +11769,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/qa-team-lead-cyber-ai/04.470",
 "posted": "",
-"category": "Security",
+"category": "QA & testing",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11825,7 +11791,7 @@
 "department": "Hero",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/security-researcher/37.640",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11836,7 +11802,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/security-researcher-posture/F6.476",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11891,7 +11857,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-automation-engineer-cyber-ai/14.962",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11935,7 +11901,7 @@
 "department": "Hero",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-malware-researcher/31.260",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -11946,7 +11912,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-product-manager-cybersecurity/CD.761",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12003,7 +11969,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-qa-engineer-cyber-ai/CB.D62",
 "posted": "",
-"category": "Security",
+"category": "QA & testing",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12025,7 +11991,7 @@
 "department": "Hero",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/senior-threat-intelligence-researcher/21.26D",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12091,7 +12057,7 @@
 "department": "Sphere",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/sr-threat-researcher-detection/8C.37C",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12113,7 +12079,7 @@
 "department": "Sales",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/technical-pre-sales-engineer-cyber/E4.57F",
 "posted": "",
-"category": "Security",
+"category": "Technical sales & solutions",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12136,7 +12102,7 @@
 "department": "Business",
 "url": "https://www.comeet.com/jobs/dreamgroup/99.002/threat-research-solution-team/A9.66C",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -12474,7 +12440,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-network-security-engineer/F9.C6B",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -12485,7 +12451,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/drivenets/72.006/senior-network-security-engineer/2B.273",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -13663,6 +13629,17 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Algorithm Developer - Signal Processing",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "CTO",
+"url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer-signal-processing/3A.57C",
+"posted": "",
+"category": "Algorithms & research",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Algorithm Developer – Data Intelligence",
@@ -14859,7 +14836,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/geoedge.com/82.00A/head-of-security-research/4B.37F",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -14870,7 +14847,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/geoedge.com/82.00A/senior-security-researcher-web-threats/8D.473",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -14901,7 +14878,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/gett/A0.002/application-security-lead/46.A6A",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -16045,6 +16022,18 @@
 "searched": "",
 "jobs": [
 {
+"title": "Content Creator & UGC Specialist",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Marketing",
+"url": "https://www.comeet.com/jobs/guardio/57.000/content-creator-ugc-specialist/57.578",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Creative Strategist",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Marketing",
@@ -16124,30 +16113,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Junior Content Creator & UGC Specialist",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Marketing",
-"url": "https://www.comeet.com/jobs/guardio/57.000/junior-content-creator-ugc-specialist/57.578",
-"posted": "",
-"category": null,
-"group": "Marketing & communications",
-"level": "Junior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Organic Growth Manager",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Marketing",
-"url": "https://www.comeet.com/jobs/guardio/57.000/organic-growth-manager/68.37E",
-"posted": "",
-"category": null,
-"group": "Marketing & communications",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Senior Product Designer",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Design",
@@ -16176,7 +16141,7 @@
 "department": "Product",
 "url": "https://www.comeet.com/jobs/guardio/57.000/technical-product-manager-security/FE.278",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -16716,7 +16681,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/hypernative/8A.00E/security-research-engineer/81.262",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -16902,17 +16867,6 @@
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-25"
-},
-{
-"title": "Data Infrastructure Team Lead",
-"location": "Ramat Gan, Israel",
-"department": "Software Engineering",
-"url": "https://www.comeet.com/jobs/immunai/37.009/data-infrastructure-team-lead/B2.D6E",
-"posted": "",
-"category": "Data & AI",
-"level": "Lead / manager",
-"region": "Ramat Gan / Givatayim / Bnei Brak",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Director of AI Product",
@@ -17439,7 +17393,7 @@
 "department": "Applications & Infrastructure",
 "url": "https://www.comeet.com/jobs/infinidat/D6.003/senior-devsecops-engineer/C0.E63",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -17495,7 +17449,7 @@
 "department": "System Validation & Verification",
 "url": "https://www.comeet.com/jobs/infinidat/D6.003/test-automation-and-security-team-leader/C5.57D",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -17525,7 +17479,7 @@
 "department": "CS",
 "url": "https://www.comeet.com/jobs/integritylabs/43.009/cyber-training-specialist/A2.E6F",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -17570,7 +17524,7 @@
 "department": "OpSec",
 "url": "https://www.comeet.com/jobs/integritylabs/43.009/operation-security-specialist/8A.470",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -17705,7 +17659,7 @@
 "department": "Development",
 "url": "https://www.comeet.com/jobs/ionix/08.003/security-compliance-manager/CA.47F",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -17716,7 +17670,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/ionix/08.003/security-researcher/59.66B",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -17898,7 +17852,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/isi/86.000/job/05.57B",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -17941,7 +17895,7 @@
 "department": "Operations",
 "url": "https://www.comeet.com/jobs/island/09.00A/head-of-corporate-security/3D.472",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -17974,7 +17928,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/island/09.00A/security-researcher/78.266",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -18187,7 +18141,7 @@
 "department": "Data",
 "url": "https://www.comeet.com/jobs/jazz/6A.009/data-protection-security-researcher/58.47E",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -18879,7 +18833,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/joinattil/38.00A/senior-cybersecurity-product-manager/D9.377",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -19335,6 +19289,17 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Mechanical Design Engineer- Ground Robotics Group",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Revenue (R&D)",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/mechanical-design-engineer-ground-robotics-group/4F.472",
+"posted": "",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Member of Technical Staff",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "CTO Office",
@@ -19344,6 +19309,17 @@
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "QA Automation Engineer",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Revenue (SG&A)",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/qa-automation-engineer/57.47D",
+"posted": "",
+"category": "QA & testing",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Resident",
@@ -19375,7 +19351,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/kelasys/2A.007/security-operations-engineer/7E.476",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -19902,7 +19878,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/lab42/58.001/senior-vulnerability-researcher/82.33C",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -19913,7 +19889,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/lab42/58.001/web-vulnerability-researcher/BD.235",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -20104,7 +20080,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/lemalabs/EA.001/security-researcher/E1.376",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -20220,7 +20196,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/linxsecurity/99.00C/security-researcher-cto-office/2A.57A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -20449,7 +20425,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/lumenis/A1.00C/security-network-administrator/4D.47A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -20853,7 +20829,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/majesticlabs/AA.004/ai-soc-architect/98.E59",
 "posted": "",
-"category": "Security",
+"category": "Data & AI",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -20864,7 +20840,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/majesticlabs/AA.004/ai-soc-architect-networking/3D.F6F",
 "posted": "",
-"category": "Security",
+"category": "Data & AI",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -20974,7 +20950,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/majesticlabs/AA.004/soc-management-subsystem-architect/E9.E5C-7F.505",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -21136,7 +21112,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/mdclone/66.004/senior-system-administrator-it-cloud-security/AE.473",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
@@ -22327,7 +22303,7 @@
 "department": "Cyber Security",
 "url": "https://www.comeet.com/jobs/mitiga/26.00B/principal-cloud-security-researcher/45.768",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -22658,7 +22634,7 @@
 "department": "Cyber security",
 "url": "https://www.comeet.com/jobs/mprest/38.005/information-security-and-cyber-specialist/6D.174",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
@@ -23093,7 +23069,7 @@
 "department": "",
 "url": "https://www.comeet.com/jobs/newcore/4B.00D/senior-security-researcher/AE.071",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -23697,7 +23673,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/noma_security/3A.005/senior-security-researcher/5D.A5A",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -23708,7 +23684,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/noma_security/3A.005/senior-security-vulnerability-research/7D.A59",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -23771,7 +23747,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/nextta/5A.006/principal-application-security-engineer-architect/77.474",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -23878,7 +23854,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/notraffic/1A.00F/product-security-lead/70.F67",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -24036,7 +24012,7 @@
 "department": "System & Validation",
 "url": "https://www.comeet.com/jobs/nuvoton/51.00F/soc-validation-team-leader/80.869",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Lead / manager",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -24729,7 +24705,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/oligosecurity/5A.00B/linux-security-researcher/DC.952",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -25289,7 +25265,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/ox_security/F8.006/ai-security-team-leader-backend-focus/B4.074",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -25300,7 +25276,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/ox_security/F8.006/appsec-product-manager/EA.371",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -25311,7 +25287,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/ox_security/F8.006/team-leader-agentic-pentest/1C.379",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -25885,18 +25861,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Reception & Administrative Coordinator (Maternity Leave Rep)",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "G&A",
-"url": "https://www.comeet.com/jobs/paragon/76.006/reception-administrative-coordinator-maternity-leave-rep/55.574",
-"posted": "",
-"category": null,
-"group": "Admin & office",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Regional Sales Manager",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Sales",
@@ -25959,7 +25923,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/paragon/76.006/vulnerability-researcher/DA.935",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -26207,7 +26171,7 @@
 "department": "Customer Excellence",
 "url": "https://www.comeet.com/jobs/pentera/C5.00D/ai-security-researcher/20.376",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -26240,7 +26204,7 @@
 "department": "Customer Excellence",
 "url": "https://www.comeet.com/jobs/pentera/C5.00D/penetration-tester-security-researcher/8C.C66",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -26287,7 +26251,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/pentera/C5.00D/security-research-team-lead/20.377",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -26298,7 +26262,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/pentera/C5.00D/security-researcher/09.370",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -26849,7 +26813,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/proteantecs/D5.00E/soc-ip-architect/39.57F",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -26980,17 +26944,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Product Manager",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Product Management",
-"url": "https://www.comeet.com/jobs/qodo/B8.00B/product-manager/28.E68",
-"posted": "",
-"category": "Technical product",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
 "title": "Research Engineer",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Engineering",
@@ -27000,6 +26953,17 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Senior Product Manager",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Product Management",
+"url": "https://www.comeet.com/jobs/qodo/B8.00B/senior-product-manager/28.E68",
+"posted": "",
+"category": "Technical product",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 }
 ],
 "last_ok": "2026-11-25"
@@ -27569,6 +27533,17 @@
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Junior Data Analyst",
+"location": "Netanya, Israel",
+"department": "AI",
+"url": "https://www.comeet.com/jobs/rada/73.009/junior-data-analyst/CA.37A",
+"posted": "",
+"category": "Data & AI",
+"level": "Junior",
+"region": "Netanya",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Master Data Specialist (ERP)",
@@ -28800,7 +28775,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/remedio/CA.000/senior-security-researcher/9C.16D",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -30225,7 +30200,7 @@
 "department": "CTO",
 "url": "https://www.comeet.com/jobs/silverfort/54.007/product-security-engineer/43.471",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -30269,7 +30244,7 @@
 "department": "CTO",
 "url": "https://www.comeet.com/jobs/silverfort/54.007/solutions-architect-cloud-identity-security/89.47C",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -30759,12 +30734,23 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "AI Solutions Builder",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Technology consulting",
+"url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/ai-solutions-builder/DF.470",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Application & AI Security Specialist",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "מטה",
 "url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/application-ai-security-specialist/AC.471",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -30787,7 +30773,7 @@
 "department": "Technology consulting",
 "url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/cloud-security-engineer/CB.476",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -30798,7 +30784,7 @@
 "department": "Technology consulting",
 "url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/cyber-security-engineer/E8.571",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -30893,6 +30879,18 @@
 "level": "Lead / manager",
 "region": "Haifa",
 "first_seen": "2026-11-24"
+},
+{
+"title": "IT Audit Consultant",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Corporate & IT Risk Consulting",
+"url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/it-audit-consultant/C1.C69",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Project Manager- AI Business Solutions",
@@ -31414,7 +31412,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/solaredge/71.00A/senior-network-information-security-engineer/B2.476",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -31663,6 +31661,17 @@
 "searched": "",
 "jobs": [
 {
+"title": "Data Scientist",
+"location": "Netanya, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/start.io/B2.004/data-scientist/5D.576",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-25"
+},
+{
 "title": "IT Administrator",
 "location": "Netanya, Israel",
 "department": "",
@@ -31780,7 +31789,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/sunflower/AA.009/security-operations-engineer-secops/48.475",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -31868,7 +31877,7 @@
 "department": "Security",
 "url": "https://www.comeet.com/jobs/sunbit/37.001/security-automation-engineer/48.372",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32128,7 +32137,7 @@
 "department": "Incident Response",
 "url": "https://www.comeet.com/jobs/sygnia/78.00A/incident-response-expert/CF.53A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32139,7 +32148,7 @@
 "department": "Incident Response",
 "url": "https://www.comeet.com/jobs/sygnia/78.00A/incident-response-manager/8C.27D",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32150,7 +32159,7 @@
 "department": "Incident Response",
 "url": "https://www.comeet.com/jobs/sygnia/78.00A/incident-response-team-lead/EA.370",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32172,7 +32181,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/sygnia/78.00A/senior-devsecops-engineer/EF.868",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32194,7 +32203,7 @@
 "department": "Velocity MDR",
 "url": "https://www.comeet.com/jobs/sygnia/78.00A/soc-analyst/07.F44",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32411,7 +32420,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/charm-security-senior-backend-engineer-platform/C4.479",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32422,7 +32431,7 @@
 "department": "Design",
 "url": "https://www.comeet.com/jobs/team8/61.003/charm-security-product-designer/49.37A",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32433,7 +32442,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/charm-security-senior-full-stack-software-engineer/E4.471",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32455,7 +32464,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/lumia-security-senior-software-engineer/F0.157",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32466,7 +32475,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/lumia-security-senior-software-engineer/66.37D",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32477,7 +32486,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/lumia-security-senior-software-engineer-endpoint/03.47E",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32598,7 +32607,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/stealth-cyber-startup-founding-engineer-core-team/19.571",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32609,7 +32618,7 @@
 "department": "Operations & IT",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-security-it-manager/B6.375",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32632,7 +32641,7 @@
 "department": "Product",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-cyber-stealth-startup-product-manager-sase-infrastructure/7E.F67",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32643,7 +32652,7 @@
 "department": "Product",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-cyber-stealth-startup-product-manager-ai-security/7E.F69",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32665,7 +32674,7 @@
 "department": "Product Management",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-stealth-cyber-startup-founding-product-lead/14.C61",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32676,7 +32685,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-stealth-cyber-startup-founding-vulnerability-researcher/F6.376",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32687,7 +32696,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-stealth-cyber-startup-software-developer/DF.367",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32698,7 +32707,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-stealth-cyber-startup-software-engineer/94.27F",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32743,7 +32752,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-cyber-startup-senior-software-engineer/4B.569",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32754,7 +32763,8 @@
 "department": "Marketing",
 "url": "https://www.comeet.com/jobs/team8/61.003/team8-cybersecurity-marketing-manager/94.473",
 "posted": "",
-"category": "Security",
+"category": null,
+"group": "Marketing & communications",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -32858,7 +32868,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/terrasecurity/1B.006/penetration-tester/04.864",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -33062,7 +33072,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/toka/46.00D/senior-vulnerability-researcher/12.F1B",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -33073,7 +33083,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/toka/46.00D/vulnerability-researcher/E5.46D",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -33375,7 +33385,7 @@
 "department": "Operations",
 "url": "https://www.comeet.com/jobs/upstream/E4.003/cyber-threat-intelligence-analyst/D9.37F",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -33420,7 +33430,7 @@
 "department": "Operations",
 "url": "https://www.comeet.com/jobs/upstream/E4.003/senior-soc-analyst-vehicle-api-security/45.477",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -33641,7 +33651,7 @@
 "department": "Security Operations",
 "url": "https://www.comeet.com/jobs/upwind/49.004/cloud-monitoring-engineer-student-position/63.053",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Student / intern",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -33652,7 +33662,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/upwind/49.004/cloud-security-researcher/14.078",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -33789,7 +33799,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/upwind/49.004/senior-vulnerability-researcher/26.D6E",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -33857,7 +33867,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/upwind/49.004/threat-security-researcher/C6.E69",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -34017,7 +34027,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/vega/C9.009/security-researcher-r-d/15.C6C",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -34091,7 +34101,7 @@
 "department": "Research",
 "url": "https://www.comeet.com/jobs/venasecurity/89.00B/security-research-manager/1F.27F",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -34507,7 +34517,7 @@
 "department": "Engineering",
 "url": "https://www.comeet.com/jobs/vastdata/43.001/senior-security-engineer/43.276",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -34946,7 +34956,7 @@
 "department": "IT",
 "url": "https://www.comeet.com/jobs/vpgsensors/C8.009/senior-cyber-security-engineer/88.47F",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -35070,7 +35080,7 @@
 "department": "Cyber security",
 "url": "https://www.comeet.com/jobs/weankor/C6.008/cyber-security-analyst/3A.479",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-23"
@@ -35187,7 +35197,7 @@
 "department": "CTO Office",
 "url": "https://www.comeet.com/jobs/waysecurity/2B.007/identity-security-engineer-customer-delivery-pre-sale/DF.E66",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -35261,7 +35271,7 @@
 "department": "Cyber",
 "url": "https://www.comeet.com/jobs/webz/D9.00C/cyber-threat-intelligence-analyst/DF.479",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -35814,7 +35824,7 @@
 "department": "R&D",
 "url": "https://www.comeet.com/jobs/xsightlabs/46.00C/software-security-architect/D8.E65",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-23"
@@ -36112,7 +36122,7 @@
 "department": "CTO",
 "url": "https://www.comeet.com/jobs/zenity/19.000/red-team-tech-lead/E5.57B",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -36156,7 +36166,7 @@
 "department": "Security Research",
 "url": "https://www.comeet.com/jobs/zenity/19.000/senior-security-researcher/6A.D32",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -36615,7 +36625,7 @@
 "department": "Business Technologies",
 "url": "https://www.riskified.com/careers/job-description/?gh_jid=8891146002",
 "posted": "2026-10-19",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -36777,7 +36787,7 @@
 "department": "Business Technologies",
 "url": "https://www.riskified.com/careers/job-description/?gh_jid=8805509002",
 "posted": "2026-09-17",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -36863,7 +36873,7 @@
 "department": "CTO",
 "url": "https://www.wiz.io/careers/job/4692874006/:title?gh_jid=4692874006",
 "posted": "2026-07-01",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -36964,7 +36974,7 @@
 "department": "Threat & Risk Services",
 "url": "https://www.wiz.io/careers/job/4690860006/:title?gh_jid=4690860006",
 "posted": "2026-06-30",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37065,7 +37075,7 @@
 "department": "Product Security",
 "url": "https://www.wiz.io/careers/job/4422889006/:title?gh_jid=4422889006",
 "posted": "2024-12-08",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37076,7 +37086,7 @@
 "department": "Threat & AI Research",
 "url": "https://www.wiz.io/careers/job/4681239006/:title?gh_jid=4681239006",
 "posted": "2026-05-17",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37122,7 +37132,7 @@
 "department": "Threat & AI Research",
 "url": "https://www.wiz.io/careers/job/4566780006/:title?gh_jid=4566780006",
 "posted": "2025-06-08",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37133,7 +37143,7 @@
 "department": "Threat & AI Research",
 "url": "https://www.wiz.io/careers/job/4670481006/:title?gh_jid=4670481006",
 "posted": "2026-04-20",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37144,7 +37154,7 @@
 "department": "Threat & AI Research",
 "url": "https://www.wiz.io/careers/job/4707600006/:title?gh_jid=4707600006",
 "posted": "2026-08-30",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37163,7 +37173,7 @@
 "department": "Security",
 "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=8181415003",
 "posted": "2026-11-04",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37174,7 +37184,7 @@
 "department": "Security",
 "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7886132003",
 "posted": "2026-08-18",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37196,7 +37206,7 @@
 "department": "Cyber Research",
 "url": "https://www.axonius.com/company/careers/open-jobs?gh_jid=7809799003",
 "posted": "2026-07-21",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37318,7 +37328,7 @@
 "department": "R&D",
 "url": "https://join.jfrog.com/job/?job=7996600&gh_jid=7996600",
 "posted": "2026-06-11",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37388,10 +37398,22 @@
 "department": "Security",
 "url": "https://join.jfrog.com/job/?job=8222516&gh_jid=8222516",
 "posted": "2026-09-28",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Senior Product Marketing Manager, Governance",
+"location": "Tel Aviv/ Netanya, Israel",
+"department": "Marketing",
+"url": "https://join.jfrog.com/job/?job=8416860&gh_jid=8416860",
+"posted": "2026-11-25",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Senior Talent Acquisition Partner",
@@ -37422,7 +37444,7 @@
 "department": "R&D",
 "url": "https://join.jfrog.com/job/?job=8344450&gh_jid=8344450",
 "posted": "2026-11-04",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37464,7 +37486,7 @@
 "department": "Engineering - AI Security",
 "url": "https://www.catonetworks.com/careers/careers-post/4784152101?gh_jid=4784152101",
 "posted": "2026-02-19",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37475,7 +37497,7 @@
 "department": "Engineering - AI Security",
 "url": "https://www.catonetworks.com/careers/careers-post/4702426101?gh_jid=4702426101",
 "posted": "2025-10-30",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37553,7 +37575,7 @@
 "department": "IT",
 "url": "https://www.catonetworks.com/careers/careers-post/4490328101?gh_jid=4490328101",
 "posted": "2024-12-11",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37575,7 +37597,7 @@
 "department": "Marketing",
 "url": "https://www.catonetworks.com/careers/careers-post/4897189101?gh_jid=4897189101",
 "posted": "2026-06-21",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37597,7 +37619,7 @@
 "department": "Engineering - MDR",
 "url": "https://www.catonetworks.com/careers/careers-post/4839355101?gh_jid=4839355101",
 "posted": "2026-04-20",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37654,7 +37676,7 @@
 "department": "Product",
 "url": "https://www.catonetworks.com/careers/careers-post/5000667101?gh_jid=5000667101",
 "posted": "2026-10-11",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37687,7 +37709,7 @@
 "department": "Engineering - SSE",
 "url": "https://www.catonetworks.com/careers/careers-post/4812341101?gh_jid=4812341101",
 "posted": "2026-03-18",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37710,7 +37732,7 @@
 "department": "Engineering - AI Security",
 "url": "https://www.catonetworks.com/careers/careers-post/4937879101?gh_jid=4937879101",
 "posted": "2026-08-05",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37908,7 +37930,7 @@
 "department": "20100 Prompt Product and R&D",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8196402003",
 "posted": "2026-11-18",
-"category": "Security",
+"category": "Technical product",
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -37919,7 +37941,7 @@
 "department": "20100 Prompt Product and R&D",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8205375003",
 "posted": "2026-11-22",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37952,7 +37974,7 @@
 "department": "20100 Prompt Product and R&D",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8190495003",
 "posted": "2026-11-10",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -37963,7 +37985,7 @@
 "department": "27000 Data & Analytics",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8204537003",
 "posted": "2026-11-18",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -38007,7 +38029,7 @@
 "department": "25000 Detection Engineering",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8007921003",
 "posted": "2026-09-30",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -38018,21 +38040,10 @@
 "department": "25000 Detection Engineering",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8007919003",
 "posted": "2026-09-29",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
-},
-{
-"title": "Staff Automation Engineer, Provisioning & Onboarding",
-"location": "Israel",
-"department": "12200 Technical Support",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8012058003",
-"posted": "2026-10-16",
-"category": "QA & testing",
-"level": "Senior",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
 },
 {
 "title": "Staff Data Scientist",
@@ -38084,7 +38095,7 @@
 "department": "20100 Prompt Product and R&D",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=7843276003",
 "posted": "2026-08-25",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -38095,7 +38106,7 @@
 "department": "25000 Detection Engineering",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=7996120003",
 "posted": "2026-09-23",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -38117,7 +38128,7 @@
 "department": "26000 Runtime Protection",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=8044326003",
 "posted": "2026-10-29",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -38128,7 +38139,7 @@
 "department": "25000 Detection Engineering",
 "url": "https://www.sentinelone.com/jobs/?gh_jid=7708051003",
 "posted": "2026-09-29",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -38159,7 +38170,7 @@
 "department": "Security",
 "url": "https://careers.appsflyer.com/jobs/position/8394076002?gh_jid=8394076002",
 "posted": "2026-01-28",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -38284,7 +38295,7 @@
 "department": "Security",
 "url": "https://careers.appsflyer.com/jobs/position/8622261002?gh_jid=8622261002",
 "posted": "2026-07-07",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -38859,7 +38870,7 @@
 "department": "Information Security",
 "url": "https://job-boards.greenhouse.io/gongio/jobs/4677810006",
 "posted": "2026-05-11",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -38957,7 +38968,7 @@
 "department": "IT & Security",
 "url": "https://www.payoneer.com/careers/position/8261034/?gh_jid=8261034",
 "posted": "2026-10-26",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -39116,7 +39127,7 @@
 "department": "Product Compliance",
 "url": "https://www.payoneer.com/careers/position/8382958/?gh_jid=8382958",
 "posted": "2026-11-16",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -39216,7 +39227,7 @@
 "department": "Development",
 "url": "https://jobs.ashbyhq.com/honeybook/51f60adf-2c76-40f7-a462-1f03d96911c8",
 "posted": "2026-11-05",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -39596,7 +39607,7 @@
 "department": "Security & IT",
 "url": "https://jobs.ashbyhq.com/moonactive/f3202f01-d2fb-4f29-876b-345e0c905be3",
 "posted": "2026-07-29",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -39838,7 +39849,7 @@
 "department": "Engineering",
 "url": "https://www.transmitsecurity.com/about/careers/job?gh_jid=8857693002",
 "posted": "2026-10-02",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40099,7 +40110,7 @@
 "department": "Security",
 "url": "https://job-boards.greenhouse.io/via/jobs/8875777002",
 "posted": "2026-10-07",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40428,6 +40439,17 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Staff Backend Engineer - Accounts",
+"location": "Israel",
+"department": "CTO",
+"url": "https://jobs.lever.co/cloudinary/a3d26afd-4a4f-4f74-9b54-2f7fcf7ee04b",
+"posted": "2026-11-25",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Staff Backend Engineer - Moderation",
 "location": "Israel",
 "department": "CTO",
@@ -40535,7 +40557,7 @@
 "department": "Engineering",
 "url": "https://job-boards.greenhouse.io/apiiro/jobs/7809871003",
 "posted": "2026-07-22",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40615,7 +40637,7 @@
 "department": "Finance",
 "url": "https://salt.security/job-board?gh_jid=5281314007",
 "posted": "2026-11-02",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40645,7 +40667,7 @@
 "department": "Product",
 "url": "https://bigid.com/company/careers/job-details/8908475002?gh_jid=8908475002",
 "posted": "2026-10-22",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40798,7 +40820,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2017969",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -40809,7 +40831,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2018353",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40831,7 +40853,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Security-Architect_JR2021941-1",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40864,7 +40886,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-AI-Safety-Red-Teamer_JR2018549",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -40898,7 +40920,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-Security-Architect--Networking_JR2023671",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -40909,7 +40931,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Switch-Silicon-Security-Architect_JR2025265",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41153,7 +41175,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Architect_JR2028812",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41175,7 +41197,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SoC-Clocks-Design-Automation-Engineer_JR2029866",
 "posted": "2026-11-19",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41230,7 +41252,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Architect--Cyber-Security_JR2000395",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -41286,7 +41308,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Silicon-Security-Architect_JR2005598-1",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -41539,7 +41561,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-System-Security-Architect_JR2019539",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41550,7 +41572,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clocks-RTL-Design-Engineer_JR2022321",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41705,7 +41727,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/SOC-Clock-Distribution-Engineer_JR2019203",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41815,7 +41837,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Verification-Engineer_JR2020497",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -41905,7 +41927,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SOC-Clocks-RTL-Design-Engineer_JR2022323",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -42613,7 +42635,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/SoC-Power-Architect_JR2009531-1",
 "posted": "",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -42723,7 +42745,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Hardware-Security-Architect_JR2025563",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
@@ -43294,7 +43316,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Production-Security-Specialist--ITPE_JR2022687",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -43450,7 +43472,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IT-Enterprise-Security-Engineer_JR2024000",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -43484,7 +43506,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Cybersecurity-AI-Solutions-Engineer_JR2024499-1",
 "posted": "",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -43876,7 +43898,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-ICPE-Production-Security-Software-Engineer_JR2028963-2",
 "posted": "2026-11-08",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -44044,17 +44066,6 @@
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--Network-System-Validation_JR2030080",
 "posted": "2026-11-16",
 "category": "Backend & software engineering",
-"level": "Senior",
-"region": "Yokneam / Caesarea / North",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Senior Firmware PHY Developer",
-"location": "Israel, Yokneam",
-"department": "",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-PHY-Developer_JR2029989-1",
-"posted": "2026-11-16",
-"category": "Embedded & firmware",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
@@ -44453,7 +44464,7 @@
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Developer-Relations-Manager---AI-Security_JR2016682",
 "posted": "",
-"category": "Security",
+"category": "Data & AI",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -44600,6 +44611,17 @@
 "level": "Senior",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Chip Design Engineer",
+"location": "Israel, Tel Aviv",
+"department": "",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2021923",
+"posted": "2026-11-25",
+"category": "Chip design & silicon",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-25"
 },
 {
 "title": "Physical Design Engineer",
@@ -45050,6 +45072,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Silicon Validation Engineering Manager",
+"location": "Israel Jerusalem",
+"department": "",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Jerusalem/Silicon-Validation-Engineering-Manager_JR0289545",
+"posted": "2026-11-25",
+"category": "Chip design & silicon",
+"level": "Lead / manager",
+"region": "Jerusalem",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Formal Verification Engineer",
 "location": "Israel Haifa",
 "department": "",
@@ -45066,7 +45099,7 @@
 "department": "",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Security-Hardware-Integration-Engineer_JR0285891",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -45155,7 +45188,7 @@
 "department": "",
 "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Security-Researcher-Technical-Lead_JR0286006",
 "posted": "2026-10-28",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -45368,7 +45401,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Product-Security-Lead_JR368663",
 "posted": "2026-11-18",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -45448,7 +45481,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Principal-Security-Researcher_JR360843",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -45459,7 +45492,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Senior-Offensive-AI-Security-Researcher_JR356679",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -45470,7 +45503,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Offensive-Security-Researcher_JR362697-1",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -45481,7 +45514,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Lead-AI-Automation-Developer_JR353563",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -45526,7 +45559,7 @@
 "department": "",
 "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Israel---Tel-Aviv/Offensive-Security--Red-Team_JR363149",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -46185,17 +46218,6 @@
 "level": "Lead / manager",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-24"
-},
-{
-"title": "R&D Project Manager",
-"location": "Rehovot,ISR",
-"department": "",
-"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/ETP-Project-Manager_R2626581-1",
-"posted": "2026-10-28",
-"category": "Technical product",
-"level": "Mid-level / unspecified",
-"region": "Rehovot / Ness Ziona / Yavne",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Senior Software & AI Engineer",
@@ -47001,6 +47023,18 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Integrator - AOS/AOI Systems",
+"location": "Yavne, Israel",
+"department": "",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Integrator---AOS-AOI-Systems_2643908-1",
+"posted": "2026-11-25",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-24"
+},
+{
 "title": "Regional Trade Compliance Program Manager",
 "location": "Yavne Israel",
 "department": "",
@@ -47618,7 +47652,7 @@
 "department": "",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Tel-Aviv-Israel/Cybersecurity-Engineer_R68093",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48203,7 +48237,7 @@
 "department": "Engineering",
 "url": "https://jobs.ashbyhq.com/artemis/7299c386-d1b6-41f6-85d2-75ebfe17f6a8",
 "posted": "2026-10-11",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -48318,7 +48352,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/chainalysis-careers/434a8589-184b-4e2e-bc70-0db248e1cee7",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48340,7 +48374,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/chainalysis-careers/fba29854-3f01-43de-8f50-441d213acf54",
 "posted": "2026-11-19",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48363,7 +48397,7 @@
 "department": "Corporate Functions",
 "url": "https://jobs.ashbyhq.com/chainalysis-careers/46e87d8f-0232-47bc-8c86-721e6928cbfd",
 "posted": "2026-11-25",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-25"
@@ -48696,7 +48730,7 @@
 "department": "Engineering",
 "url": "https://jobs.ashbyhq.com/glow/890cadf7-46ca-437a-88c8-7636561961d2",
 "posted": "2026-07-15",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48748,7 +48782,7 @@
 "department": "Customer Success",
 "url": "https://jobs.ashbyhq.com/HUMAN/8154cbb4-9a88-4d87-bde1-ca4c03a1f6ef",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48839,7 +48873,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0",
 "posted": "2025-07-22",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -48906,7 +48940,7 @@
 "department": "R&D | Security",
 "url": "https://jobs.ashbyhq.com/Irregular/353a3c52-ba54-496f-8fb8-ac2d8812976f",
 "posted": "2026-08-20",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -49166,7 +49200,7 @@
 "department": "Research",
 "url": "https://jobs.ashbyhq.com/oak/91880b36-60e0-4caf-8a41-cda07eae2bc7",
 "posted": "2026-07-15",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -49270,7 +49304,7 @@
 "department": "Engineering",
 "url": "https://jobs.ashbyhq.com/paxos/5a8cdbba-8898-4882-b04b-cfe6f26c407c",
 "posted": "2026-09-29",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -49387,7 +49421,7 @@
 "department": "Security",
 "url": "https://jobs.ashbyhq.com/semperis/3491def1-f0a7-4e51-83e1-8501602738e2",
 "posted": "2026-11-23",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50170,7 +50204,7 @@
 "department": "Physical Design",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703779005",
 "posted": "2026-06-07",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50181,7 +50215,7 @@
 "department": "Physical Design",
 "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749769005",
 "posted": "2026-11-01",
-"category": "Security",
+"category": "Chip design & silicon",
 "level": "Senior",
 "region": "Haifa",
 "first_seen": "2026-11-23"
@@ -50349,7 +50383,7 @@
 "department": "Information Security",
 "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/7859213",
 "posted": "2026-04-27",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50464,7 +50498,7 @@
 "department": "Engineering",
 "url": "https://cribl.io/job-detail/?gh_jid=6256099004",
 "posted": "2026-11-18",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -50517,7 +50551,7 @@
 "department": "Security",
 "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612868002",
 "posted": "2026-09-24",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -50705,7 +50739,7 @@
 "department": "Platform - Data and Compute",
 "url": "https://jobs.elastic.co/jobs?gh_jid=8355152&gh_jid=8355152",
 "posted": "2026-11-05",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -50814,7 +50848,7 @@
 "department": "Security",
 "url": "https://job-boards.eu.greenhouse.io/eleoshealth/jobs/4882330101",
 "posted": "2026-06-04",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50945,7 +50979,7 @@
 "department": "Security",
 "url": "https://www.fireblocks.com/careers/position?gh_jid=4713012006",
 "posted": "2026-09-16",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50967,7 +51001,7 @@
 "department": "Security",
 "url": "https://www.fireblocks.com/careers/position?gh_jid=4713010006",
 "posted": "2026-09-16",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -50990,7 +51024,7 @@
 "department": "Security",
 "url": "https://www.fireblocks.com/careers/position?gh_jid=4701826006",
 "posted": "2026-08-03",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51001,7 +51035,7 @@
 "department": "Security",
 "url": "https://www.fireblocks.com/careers/position?gh_jid=4655907006",
 "posted": "2026-02-23",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51104,7 +51138,7 @@
 "department": "Sec Engineering",
 "url": "https://job-boards.greenhouse.io/gitlab/jobs/8688078002",
 "posted": "2026-08-20",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -51115,7 +51149,7 @@
 "department": "Product Security",
 "url": "https://job-boards.greenhouse.io/gitlab/jobs/8731718002",
 "posted": "2026-09-05",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -51126,7 +51160,7 @@
 "department": "Sec Engineering",
 "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937275002",
 "posted": "2026-11-24",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-24"
@@ -51137,7 +51171,7 @@
 "department": "Sec Engineering",
 "url": "https://job-boards.greenhouse.io/gitlab/jobs/8693563002",
 "posted": "2026-10-09",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -51148,7 +51182,7 @@
 "department": "Sec Engineering",
 "url": "https://job-boards.greenhouse.io/gitlab/jobs/8891698002",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-23"
@@ -51257,7 +51291,7 @@
 "department": "Business Operations",
 "url": "https://job-boards.greenhouse.io/honeycombinsurance/jobs/4738817005",
 "posted": "2026-10-28",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51336,7 +51370,7 @@
 "department": "Engineering",
 "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5993040004&gh_jid=5993040004",
 "posted": "2026-05-11",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51554,7 +51588,7 @@
 "department": "Security",
 "url": "https://careers.myheritage.com/jobs/8184077?gh_jid=8184077",
 "posted": "2026-09-06",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-23"
@@ -51621,7 +51655,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=5008588101",
 "posted": "2026-10-20",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -51680,7 +51714,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=4590161101",
 "posted": "2025-06-29",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51691,7 +51725,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=4942986101",
 "posted": "2026-08-10",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51702,7 +51736,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=4826557101",
 "posted": "2026-04-01",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51713,7 +51747,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=4827753101",
 "posted": "2026-04-09",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -51724,7 +51758,7 @@
 "department": "CEO & CSO Office",
 "url": "https://careers.nebius.com/?gh_jid=4958485101",
 "posted": "2026-08-27",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -51735,7 +51769,7 @@
 "department": "Security Operations",
 "url": "https://careers.nebius.com/?gh_jid=4967584101",
 "posted": "2026-09-07",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -52031,7 +52065,7 @@
 "department": "Security",
 "url": "https://job-boards.greenhouse.io/nextinsurance66/jobs/7804185003",
 "posted": "2026-07-26",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -52278,7 +52312,7 @@
 "department": "5105 Identity Trust Serv",
 "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8904115002",
 "posted": "2026-10-28",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-23"
@@ -52389,7 +52423,7 @@
 "department": "SafeBreach Labs",
 "url": "https://job-boards.greenhouse.io/safebreach/jobs/4260248009",
 "posted": "2026-05-27",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -52633,7 +52667,7 @@
 "department": "Delivery",
 "url": "https://jobs.lever.co/CYE/eee7d9cb-13be-4faf-8ee1-50ba3837cd79",
 "posted": "2026-06-18",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -52644,7 +52678,7 @@
 "department": "Delivery",
 "url": "https://jobs.lever.co/CYE/874ab08d-922c-4fbd-8ba8-c9109fc9ac2b",
 "posted": "2026-05-26",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -52655,7 +52689,7 @@
 "department": "Delivery",
 "url": "https://jobs.lever.co/CYE/52b08507-4dff-42e5-a143-be5c07e7b92b",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
@@ -52901,7 +52935,7 @@
 "department": "Reversing",
 "url": "https://jobs.lever.co/d-fendsolutions/e34308fd-301e-4c57-bb61-739689005e8a",
 "posted": "2025-11-04",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-23"
@@ -53185,6 +53219,18 @@
 "location": "Israel",
 "department": "Finance",
 "url": "https://jobs.lever.co/jobgether/a1a2b6e8-1f06-4067-814a-6ac65bd71a23",
+"posted": "2026-11-25",
+"category": null,
+"group": "Management",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-25"
+},
+{
+"title": "Head of Product",
+"location": "Israel",
+"department": "Product",
+"url": "https://jobs.lever.co/jobgether/afacb836-02af-46b6-82dc-bafee3d84ec8",
 "posted": "2026-11-25",
 "category": null,
 "group": "Management",
@@ -54919,7 +54965,7 @@
 "department": "",
 "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/South-Netanya-Israel/Software-Engineering-Technical-Leader_2018284",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Netanya",
 "first_seen": "2026-11-24"
@@ -55362,6 +55408,28 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Senior Mechanical Designer",
+"location": "Haifa",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa/Senior-Mechanical-Designer_R4047305-1",
+"posted": "2026-11-25",
+"category": "Mechanical & manufacturing",
+"level": "Senior",
+"region": "Haifa",
+"first_seen": "2026-11-24"
+},
+{
+"title": "Algorithm Verification Engineer",
+"location": "Haifa",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa/Algorithm-Verification-Engineer_R4049440",
+"posted": "2026-11-25",
+"category": "Algorithms & research",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-25"
+},
+{
 "title": "Quality - Design Controls Manager",
 "location": "Haifa",
 "department": "",
@@ -55415,17 +55483,6 @@
 "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Staff-Machine-Learning-Engineer_R4042375-1",
 "posted": "2026-11-17",
 "category": "Data & AI",
-"level": "Senior",
-"region": "Haifa",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Senior Mechanical Designer",
-"location": "Haifa",
-"department": "",
-"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa/Senior-Mechanical-Designer_R4047305-1",
-"posted": "2026-11-12",
-"category": "Mechanical & manufacturing",
 "level": "Senior",
 "region": "Haifa",
 "first_seen": "2026-11-24"
@@ -56473,7 +56530,7 @@
 "department": "",
 "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Kefar-Sava-Central-Israel/Principal-Product-Security-Engineer_R81317-1",
 "posted": "2026-11-22",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-24"
@@ -56834,14 +56891,14 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Senior Legal Counsel - AI and Technology",
+"title": "AI and Product Legal Counsel",
 "location": "Tel Aviv",
 "department": "Product Counsel",
 "url": "https://jobs.ashbyhq.com/monday.com/db8fac75-7d90-4a2a-82af-db7cca37b0fc",
 "posted": "2026-10-13",
 "category": null,
 "group": "Legal & compliance",
-"level": "Senior",
+"level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
 },
@@ -57211,7 +57268,7 @@
 "department": "Security, Risk & Fraud",
 "url": "https://navan.com/careers/openings?gh_jid=8257467",
 "posted": "2026-10-08",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -57326,7 +57383,7 @@
 "last_ok": "2026-11-25"
 },
 "NielsenIQ": {
-"checked": "2026-11-24",
+"checked": "2026-11-25",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57334,8 +57391,8 @@
 "title": "Software Engineer (Mid) - Backend AI Engineer",
 "location": "Yokneam Illit, IL",
 "department": "",
-"url": "https://jobs.smartrecruiters.com/NielsenIQ/744000162694010",
-"posted": "2026-11-20",
+"url": "https://jobs.smartrecruiters.com/NielsenIQ/744000163645575",
+"posted": "2026-11-25",
 "category": "Data & AI",
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
@@ -57364,7 +57421,7 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-24"
+"last_ok": "2026-11-25"
 },
 "Philips": {
 "checked": "2026-11-25",
@@ -57512,17 +57569,6 @@
 "searched": "",
 "jobs": [
 {
-"title": "Principal Software Engineer - OpenShift Virtualization Windows Guests",
-"location": "Raanana",
-"department": "",
-"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raanana/Principal-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-055739-1",
-"posted": "2026-11-16",
-"category": "Backend & software engineering",
-"level": "Senior",
-"region": "Ra'anana / Kfar Saba / Hod Hasharon",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Senior AI Solutions Consultant – Red Hat Consulting",
 "location": "Raanana",
 "department": "",
@@ -57664,7 +57710,7 @@
 "department": "Research",
 "url": "https://token-security-new.webflow.io/company/careers?gh_jid=4953824101",
 "posted": "2026-09-17",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -57748,7 +57794,7 @@
 "department": "Security",
 "url": "https://jobs.ashbyhq.com/Viz.ai/c478d418-b13e-4098-b55e-648e29b85311",
 "posted": "2026-11-25",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-25"
@@ -58387,7 +58433,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/chamelio/b77f93a2-6df4-426f-b35d-f26b2398c17d",
 "posted": "2026-11-01",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -58398,7 +58444,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/chamelio/33a00ca8-5cff-4c29-b675-d9b725244ed2",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -58409,7 +58455,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/chamelio/bffcf439-e56b-4c4e-b35e-5508f3cf5a38",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -58534,7 +58580,7 @@
 "department": "R&D",
 "url": "https://connecteam.com/careers/6255153004?gh_jid=6255153004",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -58733,7 +58779,7 @@
 "department": "",
 "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Sr-MacOS-Sensor-Engineer--Data-Security--Hybrid--ISR-_R30424",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -58810,7 +58856,7 @@
 "department": "",
 "url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/ISR---Remote/Senior-Director--Global-Cyber-Detection---Response_R1318906",
 "posted": "",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Remote / hybrid",
 "first_seen": "2026-11-24"
@@ -59439,18 +59485,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Bookkeeper Specialist",
-"location": "Ashkelon, Israel",
-"department": "Finance",
-"url": "https://www.comeet.com/jobs/lsports/26.002/bookkeeper-specialist/C3.57C",
-"posted": "",
-"category": null,
-"group": "Finance & accounting",
-"level": "Mid-level / unspecified",
-"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Browser Infrastructure Architect",
 "location": "Ashkelon, Israel",
 "department": "R&D",
@@ -59533,7 +59567,7 @@
 "department": "Engineering",
 "url": "https://jobs.ashbyhq.com/mend-io/6d0e7a32-5bd8-401a-ba5a-6b102688f8c4",
 "posted": "2026-11-04",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Lead / manager",
 "region": "Ramat Gan / Givatayim / Bnei Brak",
 "first_seen": "2026-11-24"
@@ -59661,7 +59695,7 @@
 "department": "",
 "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Associate-Director--Enterprise-IT-Infrastructure-Security_REQ-10092204",
 "posted": "2026-11-18",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Junior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-24"
@@ -59672,7 +59706,7 @@
 "department": "",
 "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Assoc-Dir-DDIT-ISC-Enterprise-Security-Architecture---PAM_REQ-10092206",
 "posted": "2026-11-25",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-25"
@@ -59762,7 +59796,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Engineer-Software---Agentic-Endpoint-Security-Cortex-_JR-025132",
 "posted": "2026-11-23",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59795,7 +59829,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Product-Manager_JR-021720",
 "posted": "2026-11-22",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59806,7 +59840,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-Technical-Product-Engineer--Cortex-Agentic-Endpoint-Security-_JR-024875-1",
 "posted": "2026-11-22",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59872,7 +59906,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-AI-Researcher---Agentic-Endpoint-Security--Cortex-_JR-024535",
 "posted": "2026-11-16",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59894,7 +59928,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-MSIAM-SOC-Engineer--Unit-42-_JR-024865",
 "posted": "2026-11-16",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59916,7 +59950,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Sr-StaSenior-Software-Engineer---Identity-Security--ITDR-ff-Engineer-Software_JR-024603",
 "posted": "2026-11-16",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -59960,7 +59994,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Product-Manager--Idira--Agent-Identity-Security-_JR-024483-1",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Technical product",
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -59971,7 +60005,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Product-Manager---Idira--Agent-Identity-Security--_JR-024329",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -59982,7 +60016,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Product-Manager--Idira--Secure-IAM-_JR-024467",
 "posted": "2026-11-15",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60052,7 +60086,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--ITDR-_JR-018209-1",
 "posted": "2026-11-12",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60085,7 +60119,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Manager--Product-Management--Idira-Secure-Cloud-Access_JR-021852",
 "posted": "2026-11-11",
-"category": "Security",
+"category": "Technical product",
 "level": "Lead / manager",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60140,7 +60174,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Backend-Engineer--CORTEX---Autonomous-SOC-_JR-023369",
 "posted": "2026-11-10",
-"category": "Security",
+"category": "Security: hardware & chips",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60163,7 +60197,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Manager-Security-Research----Linux-Low-Level--Cortex-_JR-023726-1",
 "posted": "2026-11-08",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60174,7 +60208,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Senior-Staff-Security-Researcher--Idira-Labs-_JR-023903",
 "posted": "2026-11-05",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60196,7 +60230,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior--Principal-Security-Researcher---MacOS--Cortex-_JR-024396",
 "posted": "2026-11-03",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60229,7 +60263,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Engineer-Software---SaaS-Data-Security--Cortex-Cloud-_JR-023958",
 "posted": "2026-11-01",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60251,7 +60285,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Beer-Sheva/Director-Software-Engineering---Secure-Cloud-Access--Idira--B7--_JR-023899",
 "posted": "2026-10-29",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-24"
@@ -60273,7 +60307,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Beer-Sheva/Senior-Staff-Software-Engineer--Secure-Agentic-AI---Be-er-Sheva-_JR-018092",
 "posted": "2026-10-27",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
 "first_seen": "2026-11-24"
@@ -60317,7 +60351,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Product-Manager--Application-Security--Cortex-Cloud-_JR-016993",
 "posted": "",
-"category": "Security",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60418,7 +60452,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Linux-Security-Researcher--Cortex-_JR-023723-1",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60518,7 +60552,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal--Senior-Automation-Engineer--Data-Security-_JR-023147",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60573,7 +60607,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Backend-Team-Manager--AppSec--Cortex-Cloud-_JR-023106",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60628,7 +60662,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Sr-Principal-Software-Architect_JR-022341-1",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60639,7 +60673,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal---Sr-Principal-Security-Research---Data-Security-Team--Cortex-_JR-020565",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60650,7 +60684,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Staff-Angular-Frontend-Engineer---Identity-Security--Cortex-_JR-021385-1",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60751,7 +60785,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Security-Researcher--Cortex---AgentiX-_JR-021307",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60795,7 +60829,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Senior-Security-Researcher---Autonomous-EDR--Windows--Cortex-_JR-021791-1",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60806,7 +60840,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior--Principal-Engineer-Software---Data-security-and-Identity--Cortex-Cloud-_JR-014640",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60828,7 +60862,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior---Principle-Security-Research---Agent-ML-Team--Cortex-_JR-017959",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60872,7 +60906,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Petach-Tikva/Principal-Software-Engineer--Secure-Agentic-AI----Petach-Tikva---Be-er-Sheva_JR-018160",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Petah Tikva",
 "first_seen": "2026-11-24"
@@ -60883,7 +60917,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Security-Researcher---ITDR--Cortex-XDR-_JR-019263",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -60905,7 +60939,7 @@
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Principal-Security-Researcher---Windows-EDR--Cortex---XDR-_JR-019631",
 "posted": "",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -61552,7 +61586,7 @@
 "department": "Engineering",
 "url": "https://job-boards.greenhouse.io/tenableinc/jobs/5152278008",
 "posted": "2026-04-03",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -61703,6 +61737,18 @@
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Business Development Associate",
+"location": "Ramat Gan, Israel",
+"department": "Local WfW",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/8416827",
+"posted": "2026-11-25",
+"category": null,
+"group": "Sales & business development",
+"level": "Junior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-25"
 },
 {
 "title": "(GA, Bialik,Ramat Gan) מלקטים ביאליק רמת גן",
@@ -62125,18 +62171,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "מלקטים-וולט מרקט- אשדוד",
-"location": "Ashdod, Israel",
-"department": "Order Fulfillment",
-"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693642",
-"posted": "2025-03-12",
-"category": null,
-"group": "Other",
-"level": "Mid-level / unspecified",
-"region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
-"first_seen": "2026-11-24"
-},
-{
 "title": "מלקטים-וולט מרקט- באר שבע",
 "location": "Be’er Sheva, Israel",
 "department": "Order Fulfillment",
@@ -62335,7 +62369,7 @@
 "department": "R&D",
 "url": "https://jobs.ashbyhq.com/zafran-security/246ae954-d395-45ab-82c9-28b15d1fb6c4",
 "posted": "2026-08-20",
-"category": "Security",
+"category": "Security: research & offensive",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -62458,7 +62492,7 @@
 "department": "G&A",
 "url": "https://jobs.ashbyhq.com/zafran-security/b0fd1371-361d-4c53-abbd-a7325b4b4b46",
 "posted": "2026-11-19",
-"category": "Security",
+"category": "Security: network, cloud & SOC",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -62500,7 +62534,7 @@
 "department": "",
 "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/IL-Herzeliya/Technical-Product-Security-Manager_R19679",
 "posted": "",
-"category": "Security",
+"category": "Security: application & product",
 "level": "Lead / manager",
 "region": "Herzliya",
 "first_seen": "2026-11-24"

@@ -1,6 +1,175 @@
 [
 {
 "date": "2026-11-25",
+"added": 17,
+"removed": 15,
+"added_jobs": [
+{
+"company": "Bright Data",
+"title": "Data Scientist (Core R&D)",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/data-scientist-core-r-d/36.57A"
+},
+{
+"company": "Cloudinary",
+"title": "Staff Backend Engineer - Accounts",
+"url": "https://jobs.lever.co/cloudinary/a3d26afd-4a4f-4f74-9b54-2f7fcf7ee04b"
+},
+{
+"company": "DRS RADA TECHNOLOGIES",
+"title": "Junior Data Analyst",
+"url": "https://www.comeet.com/jobs/rada/73.009/junior-data-analyst/CA.37A"
+},
+{
+"company": "Exodigo",
+"title": "Algorithm Developer - Signal Processing",
+"url": "https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer-signal-processing/3A.57C"
+},
+{
+"company": "GE HealthCare",
+"title": "Algorithm Verification Engineer",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa/Algorithm-Verification-Engineer_R4049440"
+},
+{
+"company": "Guardio",
+"title": "Content Creator & UGC Specialist",
+"url": "https://www.comeet.com/jobs/guardio/57.000/content-creator-ugc-specialist/57.578"
+},
+{
+"company": "Intel",
+"title": "Silicon Validation Engineering Manager",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Jerusalem/Silicon-Validation-Engineering-Manager_JR0289545"
+},
+{
+"company": "JFrog",
+"title": "Senior Product Marketing Manager, Governance",
+"url": "https://join.jfrog.com/job/?job=8416860&gh_jid=8416860"
+},
+{
+"company": "Jobgether",
+"title": "Head of Product",
+"url": "https://jobs.lever.co/jobgether/afacb836-02af-46b6-82dc-bafee3d84ec8"
+},
+{
+"company": "Kela Technologies",
+"title": "Mechanical Design Engineer- Ground Robotics Group",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/mechanical-design-engineer-ground-robotics-group/4F.472"
+},
+{
+"company": "Kela Technologies",
+"title": "QA Automation Engineer",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/qa-automation-engineer/57.47D"
+},
+{
+"company": "KPMG",
+"title": "AI Solutions Builder",
+"url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/ai-solutions-builder/DF.470"
+},
+{
+"company": "KPMG",
+"title": "IT Audit Consultant",
+"url": "https://www.comeet.com/jobs/somekhchaikin/F3.007/it-audit-consultant/C1.C69"
+},
+{
+"company": "NVIDIA",
+"title": "Chip Design Engineer",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2021923"
+},
+{
+"company": "Qodo",
+"title": "Senior Product Manager",
+"url": "https://www.comeet.com/jobs/qodo/B8.00B/senior-product-manager/28.E68"
+},
+{
+"company": "Start.io",
+"title": "Data Scientist",
+"url": "https://www.comeet.com/jobs/start.io/B2.004/data-scientist/5D.576"
+},
+{
+"company": "Wolt",
+"title": "Business Development Associate",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/8416827"
+}
+],
+"removed_jobs": [
+{
+"company": "abra",
+"title": "AI Process & Systems Implementation Specialist",
+"url": "https://www.comeet.com/jobs/abra_rnd/15.007/ai-process-systems-implementation-specialist/25.579"
+},
+{
+"company": "Applied Materials",
+"title": "R&D Project Manager",
+"url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/ETP-Project-Manager_R2626581-1"
+},
+{
+"company": "Appsforce",
+"title": "Forward Deployed Engineer (FDE)",
+"url": "https://www.comeet.com/jobs/appsforce/09.00C/forward-deployed-engineer-fde/2F.471"
+},
+{
+"company": "CommIT",
+"title": "Customer Success Manager",
+"url": "https://www.comeet.com/jobs/comm-it/76.008/customer-success-manager/4A.579"
+},
+{
+"company": "Dot Compliance",
+"title": "Director of Marketing",
+"url": "https://www.comeet.com/jobs/dotcompliance/89.00D/director-of-marketing/6E.478"
+},
+{
+"company": "Guardio",
+"title": "Junior Content Creator & UGC Specialist",
+"url": "https://www.comeet.com/jobs/guardio/57.000/junior-content-creator-ugc-specialist/57.578"
+},
+{
+"company": "Guardio",
+"title": "Organic Growth Manager",
+"url": "https://www.comeet.com/jobs/guardio/57.000/organic-growth-manager/68.37E"
+},
+{
+"company": "Immunai",
+"title": "Data Infrastructure Team Lead",
+"url": "https://www.comeet.com/jobs/immunai/37.009/data-infrastructure-team-lead/B2.D6E"
+},
+{
+"company": "LSports",
+"title": "Bookkeeper Specialist",
+"url": "https://www.comeet.com/jobs/lsports/26.002/bookkeeper-specialist/C3.57C"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Firmware PHY Developer",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Firmware-PHY-Developer_JR2029989-1"
+},
+{
+"company": "Paragon",
+"title": "Reception & Administrative Coordinator (Maternity Leave Rep)",
+"url": "https://www.comeet.com/jobs/paragon/76.006/reception-administrative-coordinator-maternity-leave-rep/55.574"
+},
+{
+"company": "Qodo",
+"title": "Product Manager",
+"url": "https://www.comeet.com/jobs/qodo/B8.00B/product-manager/28.E68"
+},
+{
+"company": "Red Hat",
+"title": "Principal Software Engineer - OpenShift Virtualization Windows Guests",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raanana/Principal-Software-Engineer---OpenShift-Virtualization-Windows-Guests_R-055739-1"
+},
+{
+"company": "SentinelOne",
+"title": "Staff Automation Engineer, Provisioning & Onboarding",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8012058003"
+},
+{
+"company": "Wolt",
+"title": "מלקטים-וולט מרקט- אשדוד",
+"url": "https://job-boards.greenhouse.io/woltisrael/jobs/6693642"
+}
+]
+},
+{
+"date": "2026-11-25",
 "added": 61,
 "removed": 66,
 "added_jobs": [

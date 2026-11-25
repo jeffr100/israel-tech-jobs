@@ -3,11 +3,11 @@ import re
 
 # Order matters: the first match wins.
 CATEGORIES = [
-    ("Security", r"סייבר|אבטחת מידע|secur|cyber|penetration|pentest|red team|offensive|malware|threat|vulnerab|appsec|devsecops|soc analyst|\bsoc\b|incident respon|forensic|cryptograph"),
+    ("Security", r"סייבר|אבטחת מידע|secur|cyber|penetration|pentest|red team|offensive|malware|threat|vulnerab|appsec|devsecops|soc (analyst|team|engineer|operat|manager|lead|tier)|\bsoc\b(?!.{0,40}(design|rtl|clock|valid|verif|architect|physical|emir|silicon|chip|power|integration|dft))|security operations|incident respon|forensic|cryptograph"),
     ("Data & AI", r"data analyst|bi analyst|bi developer|analytics|ראי?יה ממוחשבת|נתונים|דאטה|בינה מלאכותית|למידת מכונה|\bai\b|\bml\b|machine learning|deep learning|data scien|data engineer|\bllm|nlp|computer vision|\bcv\b|genai|gen ai|mlops|ai engineer|ai research|data platform|data infra|big data|analytics engineer|\bbi\b developer|bi engineer|applied scien|research scien|data architect|prompt|inference|reinforcement|recommend|bioinformatic|computational biolog"),
     ("Algorithms & research", r"אלגוריתמ|head of research|algorithm|research engineer|researcher|optimi[sz]ation|signal processing|\bdsp\b|image processing|quant(itative)? (dev|research)|physicist.*(software|algorithm)"),
     ("DevOps, cloud & SRE", r"techops|release manager|release engineer|דבאופס|devops|\bsre\b|site reliab|platform engineer|infrastructure engineer|infra engineer|cloud engineer|cloud architect|kubernetes|finops|(?<!manufacturing )production engineer(?!.*(mechanical|manufactur))|build engineer|\bnoc\b|devex|developer experience|ci/cd|systems? engineer.*(linux|cloud)|dba|database (admin|engineer)|network engineer|network architect"),
-    ("Chip design & silicon", r"ic design|digital design|analog ic|asic|fpga|vlsi|rtl|\bdft\b|physical design|design verification|verification engineer|dv engineer|logic design|analog design|mixed.?signal|silicon|soc architect|chip|post.?silicon|pre.?silicon|layout engineer|cad engineer|\bsta\b|timing|semiconductor|process integration|yield"),
+    ("Chip design & silicon", r"\bsoc\b(?!\s*(analyst|team|operat|tier|2|1)\b)|ic design|digital design|analog ic|asic|fpga|vlsi|rtl|\bdft\b|physical design|design verification|verification engineer|dv engineer|logic design|analog design|mixed.?signal|silicon|soc architect|chip|post.?silicon|pre.?silicon|layout engineer|cad engineer|\bsta\b|timing|semiconductor|process integration|yield"),
     ("Electronics & hardware", r"מהנדס.{0,3} (חשמל|אלקטרוניקה|חומרה)|signal integrity|board design|hardware engineer|hw engineer|hardware (design|test|validation|architect)|electrical engineer|electronics? engineer|rf engineer|\brf\b|\bpcb\b|power electronics|power supply|antenna|microwave|electronics? technician|hardware technician|test technician"),
     ("QA & testing", r"בודק|בדיקות תוכנה|\bqa\b|quality assurance|test(ing)? engineer|automation engineer|sdet|\bin test\b|verification(?!.*design)|validation engineer|tester"),
     ("Embedded & firmware", r"embedded|firmware|\bbsp\b|kernel|device driver|linux driver|real.?time|\brtos\b|low.?level|c\+\+.*(embedded|firmware)|robotics software|autonomous"),
@@ -33,7 +33,47 @@ _NEVER = re.compile(r"security guard|\bguard\b|מאבטח|שמירה|שומר|ק
                     r"customer service(?! engineer)|שירות לקוחות|call center|store manager|cashier|nurse|driver|נהג", re.I)
 
 
-def category(title, department=""):
+# Security jobs, split into the kinds of people they hire.
+SECURITY_KINDS = [
+    # chips and devices: hardware engineers
+    ("Security: hardware & chips", r"hardware|\bhw\b|silicon|chip|\bsoc\b(?!\s*(2|ii|1|analyst|team|operat|tier|manager|lead)\b)|asic|fpga|\brtl\b|firmware|embedded|secure boot|root of trust|"
+                                   r"\btpm\b|side.?channel|fault injection|\bhsm\b|secure element|trusted execution|\btee\b|"
+                                   r"automotive|vehicle|\biot\b|ot security|ics security|scada|device security|post.?quantum.*hardware"),
+    # finding attacks: researchers and offensive specialists
+    ("Security: research & offensive", r"research|malware|reverse engineer|vulnerabilit|exploit|offensive|red team|penetration|pentest|"
+                                       r"threat (intel|hunt|research|detection)|forensic|\bdfir\b|cryptograph|bug bount"),
+    # building secure software: programmers
+    ("Security: application & product", r"appsec|application security|product security|software security|secure (code|coding|development|sdlc)|"
+                                        r"devsecops|code security|supply chain security|api security|"
+                                        r"(software|back.?end|front.?end|full.?stack|platform|data|ml|ai|automation|devops) (engineer|architect|team lead|tech lead)|"
+                                        r"developer|programmer|engineering manager|\bsdk\b"),
+]
+_SEC_RX = [(n, re.compile(p, re.I)) for n, p in SECURITY_KINDS]
+SECURITY_CLASSIC = "Security: network, cloud & SOC"   # SOC, incident response, cloud/network/IT security, GRC, CISOs
+# Chip and device makers: an unspecific security title there ("Security Architect") is a hardware job.
+_HW_COMPANIES = re.compile(r"nvidia|intel\b|apple|qualcomm|marvell|broadcom|\bamd\b|mobileye|nuvoton|astera|hailo|\barm\b|"
+                           r"samsung|texas instruments|analog devices|tower semi|valens|autotalks|microchip|\bnxp\b|infineon|"
+                           r"synopsys|cadence|habana|ceva|kioxia|western digital|sandisk|micron|annapurna|neuroblade|speedata|"
+                           r"nextsilicon|ceragon|drivenets|sony semi|altair semi|google silicon", re.I)
+# Titles that mention security but are really another kind of job.
+_SEC_NOT = re.compile(r"\bqa\b|quality assurance|product manager|product owner|developer relations|sales|account|"
+                      r"marketing|recruit|\bpr\b|content", re.I)
+
+
+def security_kind(title, company=""):
+    # a security operations centre, incident response or compliance job is classic security whatever it protects
+    if re.search(r"\bsoc\b.{0,3}(analyst|team|operat|tier|manager|lead|engineer)|security operations|incident respon|"
+                 r"\bgrc\b|compliance|\bsoc\s*2\b|\biso\s*27001|\bciso\b|chief information security", title, re.I):
+        return SECURITY_CLASSIC
+    for name, rx in _SEC_RX:
+        if rx.search(title):
+            return name
+    if _HW_COMPANIES.search(company or "") and not re.search(r"\bit\b|cloud|network|soc|incident|grc|compliance|corporate", title, re.I):
+        return "Security: hardware & chips"
+    return SECURITY_CLASSIC
+
+
+def category(title, department="", company=""):
     t = title or ""
     if _NEVER.search(t):
         return None
@@ -41,6 +81,14 @@ def category(title, department=""):
         return None
     for name, rx in _RX:
         if rx.search(t):
+            if name == "Security":
+                if re.search(r"product manag|product owner|product lead", t, re.I):
+                    return "Technical product"   # "Product Manager, Cyber" is a product job
+                if re.search(r"\bqa\b|quality assurance", t, re.I):
+                    return "QA & testing"
+                if _SEC_NOT.search(t):
+                    continue
+                return security_kind(t, company)
             return name
     # Fall back on the department for generic titles ("Team Lead", "Student")
     d = department or ""
@@ -48,7 +96,7 @@ def category(title, department=""):
             and re.search(r"engineer|developer|lead|student|intern|architect|scientist|analyst|manager", t, re.I) \
             and not _EXCLUDE.search(t):
         return "Backend & software engineering" if not re.search(r"data|algorithm|research|security|devops", d, re.I) else \
-            next((n for n, rx in _RX if rx.search(d)), "Backend & software engineering")
+            next(((security_kind(t, company) if n == "Security" else n) for n, rx in _RX if rx.search(d)), "Backend & software engineering")
     return None
 
 

@@ -124,7 +124,7 @@ jobs:
           rm -rf _site && mkdir -p _site/data _site/all
           for f in index.html site.config.js ads.txt; do if [ -f "$f" ]; then cp "$f" _site/; fi; done
           cp all/index.html _site/all/
-          cp data/site.json data/site-all.json data/feed.xml _site/data/
+          cp data/site.json data/site-all.json data/places.json data/feed.xml _site/data/
           touch _site/.nojekyll
       - if: ${{ vars.HOSTING != 'netlify' }}
         uses: actions/configure-pages@v5

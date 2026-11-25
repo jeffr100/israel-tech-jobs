@@ -384,7 +384,7 @@ ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
             "smartrecruiters": smartrecruiters, "workday": workday, "comeet": comeet}
 
 
-def keep(jobs):
+def keep(jobs, company=""):
     """Keep Israeli jobs and label each with its type, level and region.
 
     Technology jobs get a "category" (cs.py) and appear on the tech site; every other job gets a
@@ -393,7 +393,7 @@ def keep(jobs):
     for j in jobs:
         if IL_ONLY and not is_il(j["location"]):
             continue
-        cat = cs.category(j["title"], j.get("department", ""))
+        cat = cs.category(j["title"], j.get("department", ""), company)
         if CS_ONLY and not cat:
             continue
         j["category"] = cat
@@ -410,14 +410,14 @@ def crawl_company(c):
     if not ats or ats.get("platform") not in ADAPTERS:
         merged, err = merge_aggregator(c, None)
         if merged:
-            merged = keep(merged)
+            merged = keep(merged, c["name"])
         if merged:
             return c["name"], merged, None
         return c["name"], None, err or "no supported job board"
     try:
         jobs = ADAPTERS[ats["platform"]](ats)
         jobs, _ = merge_aggregator(c, jobs)
-        jobs = keep(jobs)
+        jobs = keep(jobs, c["name"])
         # de-duplicate on URL
         seen, uniq = set(), []
         for j in jobs:
@@ -530,6 +530,11 @@ def write_site(companies=None):
              "ats": (c.get("ats") or {}).get("platform", ""),
              "partial_total": c.get("partial_total") if c.get("partial_total") and len(jobs["companies"].get(c["name"], {}).get("jobs", [])) < c.get("partial_total", 0) else None}
             for c in companies]
+    # map coordinates for the "near a place" search, and the list of places that search offers
+    import geo
+    for c in jobs["companies"].values():
+        geo.place_jobs(c["jobs"])
+    json.dump(geo.anchors(), open(os.path.join(DATA, "places.json"), "w"), separators=(",", ":"), ensure_ascii=False)
     hist = [{k: v for k, v in c.items() if k in ("date", "added", "removed")} for c in changes]
     # site.json: technology jobs only (the tech site, digests and alerts); site-all.json: every job.
     tech = {n: {"jobs": [j for j in c["jobs"] if is_tech(j)]} for n, c in jobs["companies"].items()}

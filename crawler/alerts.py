@@ -23,7 +23,7 @@ import urllib.parse
 import urllib.request
 
 # Job types and levels as the crawler sets them (crawler/cs.py); the website uses the same order.
-FIELDS = ["Backend & software engineering", "Frontend & full stack", "Mobile", "Data & AI", "Algorithms & research", "Security", "DevOps, cloud & SRE", "QA & testing", "Embedded & firmware", "Chip design & silicon", "IT & systems", "Technical product", "Electronics & hardware", "Optics, physics & systems", "Mechanical & manufacturing", "Medtech & life sciences", "Technical sales & solutions", "Design & UX", "Other"]
+FIELDS = ["Backend & software engineering", "Frontend & full stack", "Mobile", "Data & AI", "Algorithms & research", "Security: network, cloud & SOC", "Security: application & product", "Security: hardware & chips", "Security: research & offensive", "DevOps, cloud & SRE", "QA & testing", "Embedded & firmware", "Chip design & silicon", "IT & systems", "Technical product", "Electronics & hardware", "Optics, physics & systems", "Mechanical & manufacturing", "Medtech & life sciences", "Technical sales & solutions", "Design & UX", "Other"]
 LEVELS = {"Student / intern": "Student / intern", "Junior": "Junior", "Mid-level / unspecified": "Mid-level",
           "Senior": "Senior", "Lead / manager": "Lead / manager"}
 
@@ -31,23 +31,44 @@ LEVELS = {"Student / intern": "Student / intern", "Junior": "Junior", "Mid-level
 def parse(saved):
     p = urllib.parse.parse_qs((saved or "").lstrip("#"))
     g = lambda k: (p.get(k) or [""])[0]
-    return {"q": g("q").lower().split(), "area": g("area"), "size": g("size"), "only": g("only") == "1",
+    return {"q": g("q").lower().split(), "locs": {x for x in g("area").split("|") if x}, "near": g("near"), "within": float(g("within")) if g("within").replace(".", "", 1).isdigit() else 10, "remote": g("remote") == "1", "size": g("size"), "only": g("only") == "1",
             "levels": {x for x in g("level").split("|") if x in LEVELS},
             "fields": {int(x) for x in g("field").split(",") if x.isdigit() and int(x) < len(FIELDS)}}
+
+
+UNIT, PER_KM = "km", 1.0   # the site's distance unit
+
+
+def _location_ok(f, j):
+    """Same rule as the website: in any chosen area, or within the distance of the chosen place."""
+    if not f["locs"] and not f["near"]:
+        return True
+    if f["locs"] and {j.get("region") or ""} & f["locs"]:
+        return True
+    if f["near"]:
+        import geo
+        pt = geo.anchor(f["near"])
+        if pt:
+            pts = j.get("geo") or geo.coords(j.get("location"), j.get("region"))
+            if any(geo.distance(pt, q) / PER_KM <= f["within"] for q in pts):
+                return True
+        if f["remote"] and (j.get("region") == "Remote / hybrid" or re.search(r"remote|from home|מהבית", j.get("location") or "", re.I)):
+            return True
+    return False
 
 
 def matches(f, j, company, size):
     if f["size"] and size != f["size"]: return False
     if f["levels"] and (j.get("level") or "Mid-level / unspecified") not in f["levels"]: return False
     if f["fields"]:
-        cat = {"Chip design & hardware": "Chip design & silicon"}.get(j.get("category"), j.get("category")) or "Other"
+        cat = {"Chip design & hardware": "Chip design & silicon", "Security": "Security: network, cloud & SOC"}.get(j.get("category"), j.get("category")) or "Other"
         if cat not in FIELDS: cat = "Other"
         if cat not in {FIELDS[i] for i in f["fields"]}: return False
     if f["q"]:
         hay = " ".join([j.get("title") or "", company, j.get("location") or "", j.get("department") or "",
                         j.get("category") or "", j.get("region") or ""]).lower()
         if not all(t in hay for t in f["q"]): return False
-    if f["area"] and (j.get("region") or "") != f["area"]: return False
+    if not _location_ok(f, j): return False
     if f["only"]:
         from publish import only_here
         if not only_here(j): return False
@@ -56,7 +77,8 @@ def matches(f, j, company, size):
 
 def describe(f):
     parts = [LEVELS[k] for k in LEVELS if k in f["levels"]] + [FIELDS[i] for i in sorted(f["fields"])]
-    if f["area"]: parts.append(f["area"])
+    parts += sorted(f["locs"])
+    if f["near"]: parts.append(f"within {f['within']:g} {UNIT} of {f['near']}")
     if f["q"]: parts.append("\u201c" + " ".join(f["q"]) + "\u201d")
     if f["size"]: parts.append("large companies" if f["size"] == "large" else "startups and mid-size")
     if f["only"]: parts.append("not on LinkedIn or Indeed")

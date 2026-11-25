@@ -158,6 +158,28 @@ are still searched directly, which keeps the proxy traffic small.
 
 Optional: `JOBSPY_PROXY_SITES` lists the sites sent through the proxy (default `linkedin`).
 
+## Location search
+
+Visitors can tick several areas at once (for example Herzliya and Ramat Gan / Givatayim / Bnei Brak),
+and/or pick a town in the **Near** box (English or Hebrew) with a distance (5, 10, 20 or 40 km). A job
+matches if it is in any ticked area or within the distance of the town. "Nearest first" sorts by distance.
+
+Job locations are turned into map coordinates when the site is built (`crawler/geo.py`), using
+`crawler/places_il.tsv`: every Israeli place with 500+ people from [GeoNames](https://www.geonames.org)
+(CC BY 4.0), with Hebrew and other spellings. Office parks and odd spellings (Matam, Har Hotzvim,
+"Petach Tikva") are in `IL_ALIASES` in `crawler/geo.py`; add more there.
+
+## Security jobs
+
+Security jobs are split into four groups (`SECURITY_KINDS` in `crawler/cs.py`):
+- **Security: hardware & chips**: silicon, firmware, embedded and device security (hardware engineers). An
+  unspecific title such as "Security Architect" at a chip or device maker (NVIDIA, Intel, Apple...) counts here.
+- **Security: application & product**: AppSec, product security, DevSecOps and engineers building
+  security products (programmers).
+- **Security: research & offensive**: vulnerability, malware and threat research, red team, penetration testing.
+- **Security: network, cloud & SOC**: everything else: SOC, incident response, network/cloud/IT security,
+  GRC and CISOs ("classic" security).
+
 ## Finding more companies
 
 `crawler/candidates.txt` lists companies to look for. Run **Actions > Find more companies > Run workflow**:

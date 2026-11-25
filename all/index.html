@@ -61,6 +61,22 @@ aside{position:sticky;top:14px;max-height:calc(100vh - 28px);overflow:auto;paddi
 .search input:focus{border-color:var(--hem-2);outline:none}
 .search svg{position:absolute;left:11px;top:13px;color:var(--mut)}
 select{width:100%;height:40px;border:1.5px solid var(--line);background:var(--paper);border-radius:var(--r1);padding:0 10px}
+.multi{border:1.5px solid var(--line);border-radius:var(--r1);background:var(--paper)}
+.multi summary{list-style:none;cursor:pointer;min-height:38px;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:0 10px;font-size:14px}
+.multi summary::-webkit-details-marker{display:none}
+.multi summary::after{content:"";flex:none;width:7px;height:7px;border-right:2px solid var(--mut);border-bottom:2px solid var(--mut);transform:translateY(-2px) rotate(45deg);transition:transform .15s}
+.multi[open] summary::after{transform:translateY(2px) rotate(-135deg)}
+.multi summary:focus-visible{outline:2px solid var(--hem-2);outline-offset:1px}
+.mlist{max-height:260px;overflow:auto;border-top:1px solid var(--line);padding:4px 0}
+.mopt{display:flex;align-items:center;gap:8px;padding:5px 10px;font-size:14px;cursor:pointer}
+.mopt:hover{background:var(--card)}
+.mopt input{accent-color:var(--hem);margin:0;flex:none;width:16px;height:16px}
+.mopt span:first-of-type{flex:1}
+.mopt .n{color:var(--mut);font-size:12px}
+.near{display:grid;grid-template-columns:minmax(0,1fr) 84px;gap:6px;margin-top:8px}
+.near input{width:100%;height:40px;border:1.5px solid var(--line);background:var(--paper);border-radius:var(--r1);padding:0 10px;font-size:14px}
+.near input:focus{border-color:var(--hem-2);outline:none}
+.nearhint{color:var(--eos);font-size:12.5px;margin:6px 0 0}.nearhint:empty{display:none}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
 .chip{text-align:left;border:1.5px solid var(--line);background:var(--card);border-radius:999px;padding:5px 11px;font-size:13.5px;cursor:pointer;line-height:1.3}
 .chip:hover{border-color:var(--hem-2)}
@@ -213,7 +229,13 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
       </div>
       <div class="fgroup"><h3>Seniority</h3><div class="chips" id="levels"></div></div>
       <div class="fgroup"><h3>Job type</h3><div class="chips" id="fields"></div></div>
-      <div class="fgroup"><h3>Area</h3><select id="loc" aria-label="Area"><option value="">All of Israel</option></select></div>
+      <div class="fgroup"><h3>Location</h3>
+        <details class="multi"><summary id="locsum">All of Israel</summary><div class="mlist" id="loc" role="group" aria-label="Areas"></div></details>
+        <div class="near"><input id="near" type="search" list="nearlist" placeholder="Near a city or town (English or Hebrew)" autocomplete="off" aria-label="Near a city or town"><select id="within" aria-label="Distance"><option value="5">5 km</option><option value="10">10 km</option><option value="20">20 km</option><option value="40">40 km</option></select></div>
+        <datalist id="nearlist"></datalist>
+        <p class="nearhint" id="nearhint" role="status"></p>
+        <label class="sw" id="nearremote-wrap" hidden><input type="checkbox" id="nearremote"><span>Also show remote jobs</span></label>
+      </div>
       <div class="fgroup"><h3>Company size</h3>
         <label class="sw"><input type="checkbox" data-t="large" checked><span>Large companies<small>About 1,000+ employees</small></span></label>
         <label class="sw"><input type="checkbox" data-t="small" checked><span>Startups and mid-size</span></label>
@@ -244,7 +266,7 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
     <div class="rhead">
       <h2 id="count">Loading jobs…</h2>
       <div class="r"><button class="alertbtn" id="alertbtn" type="button" hidden>Email me these jobs</button><span id="gen"></span>
-        <select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="co">Company A–Z</option><option value="title">Title A–Z</option></select></div>
+        <select id="sort" aria-label="Sort"><option value="new">Newest first</option><option value="near">Nearest first (with “Near”)</option><option value="co">Company A–Z</option><option value="title">Title A–Z</option></select></div>
     </div>
     <div class="dates" id="dates" role="group" aria-label="Posted"></div>
     <div class="notice" id="notice" hidden></div>
@@ -279,10 +301,6 @@ footer{padding:24px 0 40px;font-size:13px;color:var(--mut)}
     <div>
       <h2>Recent changes</h2>
       <ul class="changes" id="changes"></ul>
-      <details><summary>How this works</summary>
-        <p>Each company is matched to its public job board (Comeet, Greenhouse, Lever, Ashby, SmartRecruiters or Workday), and a crawler reads those boards every morning at 6:00 Israel time. Every job located in Israel is listed here; the tech site shows only the technology roles. Job types and seniority are worked out from the job title, so some jobs may be misfiled. Many Israeli employers post only on general job sites such as AllJobs or Drushim, or through staffing agencies; those jobs are not included. "Large" means about 1,000 or more employees. Dates are the employer's posting date when the job board gives one, otherwise the first day this site saw the job.</p>
-        <p>The "not on LinkedIn or Indeed" filter uses a separate check that searches those sites for each job. It turns on once that check has run (see the README).</p>
-      </details>
     </div>
   </section>
 </div>
@@ -326,18 +344,76 @@ const LORDER=LEVELS.map(l=>l.k);
 const LIGHT=new Set(['Student / intern','Junior','Mid-level / unspecified']);
 
 /* ---------- job types (set by the crawler) ---------- */
-const TECH_TYPES=["Backend & software engineering","Frontend & full stack","Mobile","Data & AI","Algorithms & research","Security","DevOps, cloud & SRE","QA & testing","Embedded & firmware","Chip design & silicon","IT & systems","Technical product","Electronics & hardware","Optics, physics & systems","Mechanical & manufacturing","Medtech & life sciences","Technical sales & solutions","Design & UX"];
+const TECH_TYPES=["Backend & software engineering","Frontend & full stack","Mobile","Data & AI","Algorithms & research","Security: network, cloud & SOC","Security: application & product","Security: hardware & chips","Security: research & offensive","DevOps, cloud & SRE","QA & testing","Embedded & firmware","Chip design & silicon","IT & systems","Technical product","Electronics & hardware","Optics, physics & systems","Mechanical & manufacturing","Medtech & life sciences","Technical sales & solutions","Design & UX"];
 // Non-technology job types (crawler/jobtypes.py), shown only on the "All jobs in Israel" page.
 const GENERAL_TYPES=["Healthcare & medical","Sales & business development","Marketing & communications","Finance & accounting","HR & recruiting","Customer service & support","Legal & compliance","Operations, logistics & supply chain","Manufacturing & production","Retail, food & hospitality","Construction & real estate","Transport & driving","Security & safety","Education & training","Admin & office","Management"];
 const FIELDS=(PAGE.all?TECH_TYPES.concat(GENERAL_TYPES):TECH_TYPES).concat(["Other"]).map(n=>({n}));
 
 // Older data may still use a retired label; anything unknown counts as "Other".
-const RENAMED={'Chip design & hardware':'Chip design & silicon'};
+const RENAMED={'Chip design & hardware':'Chip design & silicon','Security':'Security: network, cloud & SOC'};
 function fieldIndex(c){c=RENAMED[c]||c||'Other';const i=FIELDS.findIndex(f=>f.n===c);return i>=0?i:FIELDS.length-1}
+
+const LOCCFG={key:'area',sep:'|',all:'All of Israel',plural:'areas',unit:'km',per:1,radii:[5,10,20,40],def:'10',
+  name:s=>s,
+  order:cnt=>Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]),
+  remote:j=>j.region==='Remote / hybrid'||/remote|from home|מהבית/i.test(j.location||'')};
+/* ---------- location: several states/areas, and/or near a place ---------- */
+// A job matches if it is in any ticked state/area, or within the distance of the chosen place.
+let PLACES=null,placesP=null;
+const placesURL=((typeof PAGE!=='undefined'&&PAGE.data)||'data/site.json').replace(/site(-all)?\.json$/,'places.json');
+function loadPlaces(){return placesP||(placesP=fetch(placesURL).then(r=>r.json()).then(d=>PLACES=d.map(p=>({label:p[0],pt:[p[1],p[2]],low:p[0].toLowerCase(),hay:(p[0]+' '+(p[3]||'')).toLowerCase()}))).catch(()=>PLACES=[]))}
+const km=(a,b)=>{const r=Math.PI/180,dl=(b[0]-a[0])*r,dn=(b[1]-a[1])*r,h=Math.sin(dl/2)**2+Math.cos(a[0]*r)*Math.cos(b[0]*r)*Math.sin(dn/2)**2;return 12742*Math.asin(Math.sqrt(h))};
+const away=j=>S.nearPt&&j.geo&&j.geo.length?Math.min(...j.geo.map(p=>km(p,S.nearPt)))/LOCCFG.per:null;
+const fmtAway=d=>d<1?`under 1 ${LOCCFG.unit}`:`${Math.round(d)} ${LOCCFG.unit}`;
+function locOK(j){
+  if(!S.locs.size&&!S.nearPt)return true;
+  if(S.locs.size&&j.reg.some(r=>S.locs.has(r)))return true;
+  if(S.nearPt){const d=away(j);if(d!=null&&d<=+S.within)return true;if(S.nearRemote&&LOCCFG.remote(j))return true}
+  return false;
+}
+function renderLocs(cnt){
+  $('loc').innerHTML=LOCCFG.order(cnt).map(s=>`<label class="mopt"><input type="checkbox" value="${esc(s)}"${S.locs.has(s)?' checked':''}><span>${esc(LOCCFG.name(s))}</span><span class="n">${fmt(cnt[s])}</span></label>`).join('');
+  locSum();
+}
+function locSum(){
+  const n=S.locs.size,names=[...S.locs].map(LOCCFG.name);
+  $('locsum').textContent=!n?LOCCFG.all:n<=2?names.join(', '):`${names[0]} and ${n-1} more`;
+  $('nearremote-wrap').hidden=!S.nearPt;
+}
+function placeFor(v){const q=v.toLowerCase().trim();if(!q||!PLACES)return null;
+  return PLACES.find(p=>p.low===q)||PLACES.find(p=>p.low.startsWith(q))||PLACES.find(p=>p.hay.includes(q))||null}
+function suggest(){
+  const q=$('near').value.toLowerCase().trim();if(!PLACES||q.length<2){$('nearlist').innerHTML='';return}
+  const pre=[],mid=[];
+  for(const p of PLACES){if(p.low.startsWith(q))pre.push(p);else if(mid.length<12&&p.hay.includes(q))mid.push(p);if(pre.length>=12)break}
+  $('nearlist').innerHTML=pre.concat(mid).slice(0,12).map(p=>`<option value="${esc(p.label)}">`).join('');
+}
+function pickNear(){
+  const v=$('near').value.trim();
+  if(!v){S.near='';S.nearPt=null;$('nearhint').textContent='';locSum();go();return}
+  loadPlaces().then(()=>{
+    const p=placeFor(v);
+    if(!p){S.near='';S.nearPt=null;$('nearhint').textContent='No place by that name. Pick one from the list.'}
+    else{S.near=p.label;S.nearPt=p.pt;$('near').value=p.label;$('nearhint').textContent=''}
+    locSum();go();
+  });
+}
+function locHash(p){if(S.locs.size)p.set(LOCCFG.key,[...S.locs].join(LOCCFG.sep));if(S.near){p.set('near',S.near);p.set('within',S.within);if(S.nearRemote)p.set('remote','1')}}
+function readLocHash(p){
+  S.locs=new Set((p.get(LOCCFG.key)||'').split(LOCCFG.sep).filter(Boolean));
+  for(const cb of $('loc').querySelectorAll('input'))cb.checked=S.locs.has(cb.value);
+  S.within=LOCCFG.radii.includes(+p.get('within'))?p.get('within'):LOCCFG.def;$('within').value=S.within;
+  S.nearRemote=p.get('remote')==='1';$('nearremote').checked=S.nearRemote;
+  const n=p.get('near')||'';$('near').value=n;S.near='';S.nearPt=null;
+  if(n)loadPlaces().then(()=>{const pl=PLACES.find(x=>x.label===n);if(pl){S.near=n;S.nearPt=pl.pt;locSum();go()}});
+  locSum();
+}
+function clearLoc(){S.locs.clear();S.near='';S.nearPt=null;S.within=LOCCFG.def;S.nearRemote=false;$('near').value='';$('within').value=S.within;$('nearremote').checked=false;$('nearhint').textContent='';for(const cb of $('loc').querySelectorAll('input'))cb.checked=false;locSum()}
+function locSummary(){const parts=[...S.locs].map(LOCCFG.name);if(S.near)parts.push(`within ${S.within} ${LOCCFG.unit} of ${S.near}`);return parts}
 
 /* ---------- state ---------- */
 let ALL=[],COS=[],shown=60,HAS_COV=false,LATEST='',FIRST='';
-const S={q:'',loc:'',dt:'',sort:'new',levels:new Set(),fields:new Set(),onlyHere:false,tog:{large:true,small:true,board:true,aggregator:true}};
+const S={q:'',locs:new Set(),near:'',nearPt:null,within:LOCCFG.def,nearRemote:false,dt:'',sort:'new',levels:new Set(),fields:new Set(),onlyHere:false,tog:{large:true,small:true,board:true,aggregator:true}};
 const ago=d=>{const t=new Date((LATEST||new Date().toISOString().slice(0,10))+'T12:00:00Z');t.setUTCDate(t.getUTCDate()-d);return t.toISOString().slice(0,10)};
 // Posting-date windows, in days before the latest check ("Today" = posted on the day of the check).
 const DATES=[['','Any time'],['1','Today'],['3','Last 3 days'],['7','Last week'],['14','Last 2 weeks'],['30','Last month'],['90','Last 3 months'],['new','New since last check']];
@@ -374,16 +450,16 @@ function load(d){
 
   // areas, busiest first
   const cnt={};for(const j of ALL)for(const s of j.reg)cnt[s]=(cnt[s]||0)+1;
-  $('loc').innerHTML='<option value="">All of Israel</option>'+Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]).map(s=>`<option value="${esc(s)}">${esc(s)} (${fmt(cnt[s])})</option>`).join('');
+  renderLocs(cnt);
 
   const fresh=LATEST!==FIRST?ALL.filter(j=>j.first_seen===LATEST).length:0;
   const withJobs=COS.filter(c=>c.n).length;
   $('stats').innerHTML=`<span><b>${fmt(withJobs)}</b> companies hiring</span><span><b>${fmt(COS.length)}</b> companies tracked</span>`+(fresh?`<span><b>${fmt(fresh)}</b> new since the last check</span>`:'')+`<span>Last checked <b>${esc(new Date(LATEST+'T12:00').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}))}</b></span>`;
   $('gen').textContent='';
-  const ch=d.changes||[];
-  $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new, ${fmt(c.removed)} removed</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
+  const ch=(d.changes||[]).filter(c=>c.added>0);
+  $('changes').innerHTML=ch.length?ch.slice(0,12).map(c=>`<li><b>${esc(c.date)}</b>: ${fmt(c.added)} new ${c.added===1?'job':'jobs'}</li>`).join(''):'<li>The first comparison appears after the next check.</li>';
   const agg=ALL.some(j=>j.from==='aggregator');
-  $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the <a href="https://github.com/mluggy/techmap">Israeli Tech Map</a> (Open Database License), the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages. <a href="../data/feed.xml">RSS feed of new jobs</a>.`;
+  $('foot').innerHTML=`Jobs are read from each company's public job board${agg?', plus listings found on Indeed, LinkedIn and Google Jobs through a job-search API':''}. Company list built in part from the <a href="https://github.com/mluggy/techmap">Israeli Tech Map</a> (Open Database License), the LastRound AI ATS Company Directory (CC BY 4.0) and public Comeet career pages. Town locations from <a href="https://www.geonames.org">GeoNames</a> (CC BY 4.0). <a href="../data/feed.xml">RSS feed of new jobs</a>.`;
   readHash();
   // Show the job-site switches only when there is something behind them.
   const liChecked=ALL.some(j=>j.coverage&&j.coverage.linkedin!=null);   // LinkedIn was actually searched
@@ -396,18 +472,34 @@ function load(d){
 
 // A site recorded as null wasn't searched (for example LinkedIn refused the search), so it can't count as "not listed".
 function onlyHere(j){const c=j.coverage;if(!c||(c.linkedin==null&&c.indeed==null))return false;return !c.linkedin&&!c.indeed&&!c.glassdoor}
+// Within each day, take one job from each company in turn, so one big employer's batch doesn't fill the top.
+// Companies take turns in a fixed shuffled order (the same on every visit that day), not A-Z.
+function coHash(s,salt){let h=2166136261;for(const ch of salt+s){h^=ch.charCodeAt(0);h=Math.imul(h,16777619)}return h>>>0}
+function mixCompanies(r){
+  const out=[];let i=0;
+  while(i<r.length){
+    const day=dateOf(r[i])+'|'+r[i].first_seen;let k=i;while(k<r.length&&dateOf(r[k])+'|'+r[k].first_seen===day)k++;
+    const seen={};
+    const g=r.slice(i,k).map(j=>({j,n:(seen[j.co]=(seen[j.co]||0)+1),h:coHash(j.co,day)}));
+    g.sort((a,b)=>a.n-b.n||a.h-b.h);
+    for(const x of g)out.push(x.j);
+    i=k;
+  }
+  return out;
+}
 function filt(){
   const q=S.q.toLowerCase().trim().split(/\s+/).filter(Boolean);
   const r=ALL.filter(j=>S.tog[j.size]&&S.tog[j.from]
     &&(!S.levels.size||S.levels.has(j.lv))
     &&(!S.fields.size||j.fld.some(i=>S.fields.has(i)))
     &&(!q.length||q.every(t=>j.hay.includes(t)))
-    &&(!S.loc||j.reg.includes(S.loc))
+    &&locOK(j)
     &&inWindow(j,S.dt)
     &&(!S.onlyHere||!HAS_COV||onlyHere(j)));
   const s=S.sort;
   r.sort(s==='co'?(a,b)=>a.co.localeCompare(b.co)||a.title.localeCompare(b.title):s==='title'?(a,b)=>a.title.localeCompare(b.title):(a,b)=>dateOf(b).localeCompare(dateOf(a))||b.first_seen.localeCompare(a.first_seen)||a.co.localeCompare(b.co));
-  return r;
+  if(s==='near'&&S.nearPt){const d=new Map(r.map(j=>[j,away(j)]));return r.sort((a,b)=>(d.get(a)??1e9)-(d.get(b)??1e9))}
+  return s==='new'||s==='near'?mixCompanies(r):r;
 }
 function covTag(j){
   if(!j.coverage)return'';
@@ -422,7 +514,7 @@ function row(j){
   return `<article class="job"><div class="tick" style="background:${LV[j.lv].color}"></div><div>
     <h4><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h4>
     <div class="co"><button type="button" data-co="${esc(j.co)}">${esc(j.co)}</button>${j.size==='large'?' <span style="color:var(--mut);font-size:12.5px">· large company</span>':''}${j.from==='aggregator'?` <span style="color:var(--mut);font-size:12.5px">· via ${esc(j.via||'job search')}</span>`:''}</div>
-    <div class="meta"><span class="tag">${LV[j.lv].name}</span><span class="tag">${esc(FIELDS[j.fld[0]].n)}</span>${j.location?`<span class="tag loc">${esc(j.location.length>60?j.location.slice(0,57)+'…':j.location)}</span>`:''}${covTag(j)}</div>
+    <div class="meta"><span class="tag">${LV[j.lv].name}</span><span class="tag">${esc(FIELDS[j.fld[0]].n)}</span>${j.location?`<span class="tag loc">${esc(j.location.length>60?j.location.slice(0,57)+'…':j.location)}</span>`:''}${S.nearPt&&away(j)!=null&&away(j)<=2*S.within?`<span class="tag loc">${fmtAway(away(j))} away</span>`:''}${covTag(j)}</div>
   </div><div class="side">${isNew?'<div class="new">New</div>':''}<div>${esc(when)}</div></div></article>`;
 }
 function adHTML(slot,cls){return `<div class="${cls} adbox" data-ad="${slot}"></div>`}
@@ -457,9 +549,9 @@ function renderCos(){
 }
 
 /* ---------- URL hash keeps filters shareable ---------- */
-function hashStr(){const p=new URLSearchParams();if(S.q)p.set('q',S.q);if(S.loc)p.set('area',S.loc);if(S.dt)p.set('posted',S.dt);if(S.levels.size)p.set('level',[...S.levels].join('|'));if(S.fields.size)p.set('field',[...S.fields].join(','));if(S.onlyHere)p.set('only','1');if(S.tog.large!==S.tog.small)p.set('size',S.tog.large?'large':'small');return p.toString()}
+function hashStr(){const p=new URLSearchParams();if(S.q)p.set('q',S.q);locHash(p);if(S.dt)p.set('posted',S.dt);if(S.levels.size)p.set('level',[...S.levels].join('|'));if(S.fields.size)p.set('field',[...S.fields].join(','));if(S.onlyHere)p.set('only','1');if(S.tog.large!==S.tog.small)p.set('size',S.tog.large?'large':'small');return p.toString()}
 function writeHash(){const h=hashStr();history.replaceState(null,'',h?'#'+h:location.pathname+location.search)}
-function readHash(){const p=new URLSearchParams(location.hash.slice(1));S.q=p.get('q')||'';$('q').value=S.q;S.loc=p.get('area')||'';$('loc').value=S.loc;S.dt=p.get('posted')||'';S.levels=new Set((p.get('level')||'').split('|').filter(k=>LV[k]));S.fields=new Set((p.get('field')||'').split(',').filter(Boolean).map(Number));S.onlyHere=p.get('only')==='1';$('onlyhere').checked=S.onlyHere;const sz=p.get('size');if(sz==='large'||sz==='small'){S.tog.large=sz==='large';S.tog.small=sz==='small';for(const k of ['large','small'])document.querySelector(`[data-t="${k}"]`).checked=S.tog[k]}}
+function readHash(){const p=new URLSearchParams(location.hash.slice(1));S.q=p.get('q')||'';$('q').value=S.q;readLocHash(p);S.dt=p.get('posted')||'';S.levels=new Set((p.get('level')||'').split('|').filter(k=>LV[k]));S.fields=new Set((p.get('field')||'').split(',').filter(Boolean).map(Number));S.onlyHere=p.get('only')==='1';$('onlyhere').checked=S.onlyHere;const sz=p.get('size');if(sz==='large'||sz==='small'){S.tog.large=sz==='large';S.tog.small=sz==='small';for(const k of ['large','small'])document.querySelector(`[data-t="${k}"]`).checked=S.tog[k]}}
 
 /* ---------- events ---------- */
 const go=()=>{shown=60;render()};
@@ -472,9 +564,16 @@ document.addEventListener('click',e=>{
 for(const cb of document.querySelectorAll('[data-t]'))cb.addEventListener('change',()=>{S.tog[cb.dataset.t]=cb.checked;go();renderCos()});
 $('onlyhere').addEventListener('change',e=>{S.onlyHere=e.target.checked;go()});
 let t;$('q').addEventListener('input',e=>{clearTimeout(t);t=setTimeout(()=>{S.q=e.target.value;go()},150)});
-for(const k of ['loc','sort'])$(k).addEventListener('change',e=>{S[k]=e.target.value;go()});
+for(const k of ['sort'])$(k).addEventListener('change',e=>{S[k]=e.target.value;go()});
+$('loc').addEventListener('change',e=>{const v=e.target.value;e.target.checked?S.locs.add(v):S.locs.delete(v);locSum();go()});
+$('near').addEventListener('focus',()=>loadPlaces());
+$('near').addEventListener('input',()=>{const v=$('near').value;if(!v.trim()){pickNear();return}loadPlaces().then(()=>{suggest();if(PLACES.some(p=>p.label===v))pickNear()})});
+$('near').addEventListener('change',pickNear);
+$('near').addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();pickNear()}});
+$('within').addEventListener('change',e=>{S.within=e.target.value;go()});
+$('nearremote').addEventListener('change',e=>{S.nearRemote=e.target.checked;go()});
 $('more').addEventListener('click',()=>{shown+=120;render()});
-$('reset').addEventListener('click',()=>{Object.assign(S,{q:'',loc:'',dt:'',onlyHere:false});S.levels.clear();S.fields.clear();for(const k in S.tog)S.tog[k]=true;for(const cb of document.querySelectorAll('[data-t]'))cb.checked=true;$('onlyhere').checked=false;for(const k of ['q','loc'])$(k).value='';go();renderCos()});
+$('reset').addEventListener('click',()=>{Object.assign(S,{q:'',dt:'',onlyHere:false});clearLoc();S.levels.clear();S.fields.clear();for(const k in S.tog)S.tog[k]=true;for(const cb of document.querySelectorAll('[data-t]'))cb.checked=true;$('onlyhere').checked=false;$('q').value='';go();renderCos()});
 $('cq').addEventListener('input',renderCos);$('onlyjobs').addEventListener('change',renderCos);
 $('ftoggle').addEventListener('click',()=>{const b=$('fbox'),open=b.dataset.open!=='true';b.dataset.open=open;$('ftoggle').setAttribute('aria-expanded',open);$('ftoggle').textContent=open?'Hide filters':'Filters'});
 
@@ -514,7 +613,7 @@ for(const form of document.querySelectorAll('[data-sub]')){
 const AL=NL.alerts||{};
 const STOP=new URLSearchParams(location.hash.slice(1)).get('stopalert');
 function alertSummary(){const parts=[...S.levels].map(k=>LV[k].name).concat([...S.fields].map(i=>FIELDS[i].n));
-  if(S.loc)parts.push(S.loc);if(S.q.trim())parts.push('“'+S.q.trim()+'”');
+  parts.push(...locSummary());if(S.q.trim())parts.push('“'+S.q.trim()+'”');
   if(S.tog.large!==S.tog.small)parts.push(S.tog.large?'large companies':'startups and mid-size');if(S.onlyHere)parts.push('not on LinkedIn or Indeed');return parts}
 function alertPost(email,filters,freq){const fd=new FormData();fd.append('EMAIL',email);fd.append(AL.filtersField,filters);fd.append(AL.freqField,freq);fd.append('email_address_check','');fd.append('locale','en');return fetch(AL.form,{method:'POST',body:fd,mode:'no-cors'})}
 function openAlert(stop){

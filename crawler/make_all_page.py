@@ -30,14 +30,6 @@ s = s[:start] + '<h1 id="headline">All jobs in Israel</h1>' + s[end:]
 start = s.index('<p class="lede">'); end = s.index("</p>", start) + len("</p>")
 s = s[:start] + ('<p class="lede">Every opening in Israel we can read straight from company career pages, technology '
                  'and everything else: sales, finance, healthcare, operations, retail and more. Checked every morning.</p>') + s[end:]
-start = s.index('<p>Each company is matched to its public job board'); end = s.index("</p>", start) + len("</p>")
-s = s[:start] + ('<p>Each company is matched to its public job board (Comeet, Greenhouse, Lever, Ashby, SmartRecruiters or '
-                 'Workday), and a crawler reads those boards every morning at 6:00 Israel time. Every job located in Israel '
-                 'is listed here; the tech site shows only the technology roles. Job types and seniority are worked out from '
-                 'the job title, so some jobs may be misfiled. Many Israeli employers post only on general job sites such as '
-                 'AllJobs or Drushim, or through staffing agencies; those jobs are not included. "Large" means about 1,000 or '
-                 'more employees. Dates are the employer\'s posting date when the job board gives one, otherwise the first day '
-                 'this site saw the job.</p>') + s[end:]
 os.makedirs(os.path.join(ROOT, "all"), exist_ok=True)
 open(os.path.join(ROOT, "all", "index.html"), "w", encoding="utf-8").write(s)
 print("wrote all/index.html")

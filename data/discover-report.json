@@ -1,5 +1,16 @@
 {
- "added": [],
+ "added": [
+  {
+   "name": "MKS Instruments",
+   "board": {
+    "platform": "workday",
+    "host": "mksinst.wd1.myworkdayjobs.com",
+    "tenant": "mksinst",
+    "site": "MKSCareersEMEA"
+   },
+   "israel_jobs": 20
+  }
+ ],
  "no_israel_jobs": [
   {
    "name": "Amdocs",
@@ -8371,13 +8382,6 @@
    "boards": [
     {
      "board": {
-      "platform": "lever",
-      "slug": "ans"
-     },
-     "israel_jobs": 0
-    },
-    {
-     "board": {
       "platform": "smartrecruiters",
       "slug": "Ans"
      },
@@ -12161,27 +12165,6 @@
      "board": {
       "platform": "smartrecruiters",
       "slug": "IzunPharma"
-     },
-     "israel_jobs": 0
-    }
-   ]
-  },
-  {
-   "name": "MKS Instruments",
-   "boards": [
-    {
-     "board": {
-      "platform": "workday",
-      "host": "mksinst.wd1.myworkdayjobs.com",
-      "tenant": "mksinst",
-      "site": "MKSCareersAmericas"
-     },
-     "israel_jobs": 0
-    },
-    {
-     "board": {
-      "platform": "smartrecruiters",
-      "slug": "MKSInstruments"
      },
      "israel_jobs": 0
     }
@@ -84816,6 +84799,13 @@
     {
      "board": {
       "platform": "lever",
+      "slug": "hive"
+     },
+     "israel_jobs": 0
+    },
+    {
+     "board": {
+      "platform": "ashby",
       "slug": "hive"
      },
      "israel_jobs": 0

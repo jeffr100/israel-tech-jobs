@@ -1,126 +1,139 @@
-# 49 new tech jobs in Israel today
+# 62 new tech jobs in Israel today
 
 ## abra
-- [Embedded C/C++ Engineer – Information Retrieval (IR) Systems](https://www.comeet.com/jobs/abra_rnd/15.007/embedded-c-c-engineer-information-retrieval-ir-systems/CA.57D) — Center, Israel
-- [Embedded Rust Engineer (Bare-Metal Firmware)](https://www.comeet.com/jobs/abra_rnd/15.007/embedded-rust-engineer-bare-metal-firmware/EA.571) — Center, Israel
-- [Integration, Salesforce & DevOps Specialist](https://www.comeet.com/jobs/abra_rnd/15.007/integration-salesforce-devops-specialist/AD.57C) — Center, Israel
+- [Data Systems Analyst](https://www.comeet.com/jobs/abra_rnd/15.007/data-systems-analyst/6E.570) — Center, Israel
+- [Operations & Technical Support](https://www.comeet.com/jobs/abra_rnd/15.007/operations-technical-support/6C.37C) — Center, Israel
 
 ## Akeyless
-- [Cloud Security Engineer](https://www.comeet.com/jobs/akeyless/27.006/cloud-security-engineer/AA.57B) — Ramat Gan, Israel
-- [Product Security Engineer](https://www.comeet.com/jobs/akeyless/27.006/product-security-engineer/AA.570) — Ramat Gan, Israel
+- [Senior Cloud Security Engineer](https://www.comeet.com/jobs/akeyless/27.006/senior-cloud-security-engineer/AA.57B) — Ramat Gan, Israel
+- [Senior DevOps Engineer](https://www.comeet.com/jobs/akeyless/27.006/senior-devops-engineer/07.76F) — Ramat Gan, Israel
+- [Senior Product Security Engineer](https://www.comeet.com/jobs/akeyless/27.006/senior-product-security-engineer/AA.570) — Ramat Gan, Israel
+- [Senior Software Engineer](https://www.comeet.com/jobs/akeyless/27.006/senior-software-engineer/38.158) — Ramat Gan, Israel
 
-## Applied Materials
-- [Junior Systems Engineer](https://amat.wd1.myworkdayjobs.com/en-US/External/job/RehovotISR/Junior-Systems-Engineer_R2633147) — Rehovot,ISR
+## Axonius
+- [Senior Product Security Architect](https://www.axonius.com/company/careers/open-jobs?gh_jid=8217221003) — Tel Aviv, Israel
 
-## Autodesk
-- [Subject Matter Expert (SME), Architecture & AI Workflows](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Tel-Aviv-ISR/Subject-Matter-Expert--SME---Architecture---AI-Workflows_26WD102478-2) — Tel Aviv, ISR
+## Bridgewise
+- [Senior Automation Engineer - Israel](https://www.comeet.com/jobs/bridgewise/F9.009/senior-automation-engineer-israel/D2.477) — Ramat Gan, Israel
 
-## Bright Data
-- [Data Scientist (Core R&D)](https://www.comeet.com/jobs/brightdata/88.007/data-scientist-core-r-d/36.57A) — Netanya, Israel
-
-## Chainalysis
-- [Staff Threat Detection Engineer](https://jobs.ashbyhq.com/chainalysis-careers/46e87d8f-0232-47bc-8c86-721e6928cbfd) — Tel Aviv Office
+## Camtek
+- [Manual QA Engineer](https://www.comeet.com/jobs/camtek/F4.00D/manual-qa-engineer/2E.570) — Migdal HaEmek, Israel
 
 ## Cisco
-- [Software Engineer – System QA](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Software-Engineer---System-QA_2031507) — Caesarea, Israel
-- [Technical Program Manager](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Technical-Program-Manager_2032888) — Caesarea, Israel
+- [Senior C++ Software Engineer](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Caesarea-Israel/Senior-C---Software-Engineer_2023689) — Caesarea, Israel
+- [Splunk Solutions Engineer - Israel](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/South-Netanya-Israel/Splunk-Solutions-Engineer---Israel_2030848) — South Netanya, Israel
 
-## Claroty
-- [BI Team Leader](https://www.comeet.com/jobs/claroty/F2.004/bi-team-leader/37.573) — Tel Aviv, Israel
+## CommIT
+- [Senior Microsoft Infrastructure Engineer (SCCM)](https://www.comeet.com/jobs/comm-it/76.008/senior-microsoft-infrastructure-engineer-sccm/BD.573) — Kiryat Bialik, Israel
 
-## Clinch
-- [Senior DevOps Engineer](https://www.comeet.com/jobs/clinch/42.007/senior-devops-engineer/BC.57A) — Caesarea, Israel
+## DoiT
+- [Associate Forward Deployed Engineer - Delivery](https://job-boards.greenhouse.io/doitintl/jobs/8202661003) — Remote Israel
 
-## Cloudinary
-- [Staff Backend Engineer - Accounts](https://jobs.lever.co/cloudinary/a3d26afd-4a4f-4f74-9b54-2f7fcf7ee04b) — Israel
+## Dot Compliance
+- [Product Manager](https://www.comeet.com/jobs/dotcompliance/89.00D/product-manager/5E.57F) — Rehovot, Israel
 
-## Deloitte
-- [AI Engineer](https://www.comeet.com/jobs/deloitte/F7.00B/ai-engineer/05.F6E) — Tel Aviv, Israel
-
-## DRS RADA TECHNOLOGIES
-- [Junior Data Analyst](https://www.comeet.com/jobs/rada/73.009/junior-data-analyst/CA.37A) — Netanya, Israel
-
-## Enlight
-- [PMO – AI Data Center](https://www.comeet.com/jobs/enlightenergy/99.006/pmo-ai-data-center/CA.57A) — Rosh Haayin, Israel
-
-## Exodigo
-- [Algorithm Developer - Signal Processing](https://www.comeet.com/jobs/exodigo/89.005/algorithm-developer-signal-processing/3A.57C) — Tel Aviv-Yafo, Israel
-
-## G2 Risk Solutions
-- [IT Support Engineer](https://www.comeet.com/jobs/everc/C9.003/it-support-engineer/CA.572) — Tel Aviv-Yafo, Israel
+## Frame Security
+- [Motion Designer](https://www.comeet.com/jobs/framesecurity/FA.002/motion-designer/CE.077) — Tel Aviv-Yafo, Israel
 
 ## GE HealthCare
-- [Algorithm Verification Engineer](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa/Algorithm-Verification-Engineer_R4049440) — Haifa
+- [Sr Staff AI Platform Architect](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Sr-Staff-AI-Platform-Architect_R4050004-1) — Haifa HEALTHCARE HA IL 2
 
 ## Gini Apps
-- [MacOS Software Engineer](https://www.comeet.com/jobs/gini-apps/66.000/macos-software-engineer/FC.867) — Tel-Aviv, Israel
-- [Senior BackEnd Engineer](https://www.comeet.com/jobs/gini-apps/66.000/senior-backend-engineer/03.762) — Herzliya, Israel
-- [Senior Full-Stack Engineer - Temp Position \ Freelance](https://www.comeet.com/jobs/gini-apps/66.000/senior-full-stack-engineer-temp-position-freelance/96.27E) — Tel-Aviv, Israel
-
-## Helfy
-- [CRO ( Conversation rate optimization ) Manager](https://www.comeet.com/jobs/helfy/3A.008/cro-conversation-rate-optimization-manager/19.572) — Herzliya, Israel
+- [AI System Analyst](https://www.comeet.com/jobs/gini-apps/66.000/ai-system-analyst/E4.968) — Tel-Aviv, Israel
 
 ## Intel
-- [AI Algorithms & GPU Performance Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Petah-Tikva/AI-Algorithms---GPU-Performance-Engineer_JR0289412) — Israel Petah Tikva
-- [Senior AI Algorithms & GPU Performance Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Senior-AI-Algorithms---GPU-Performance-Engineer_JR0289415) — Israel Haifa
-- [Silicon Validation Engineering Manager](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Jerusalem/Silicon-Validation-Engineering-Manager_JR0289545) — Israel Jerusalem
-- [Software student for low-level code development](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Software-student-for-low-level-code-development_JR0289401) — Israel, Haifa
+- [CPU Silicon Debug Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/CPU-Silicon-Debug-Engineer_JR0289601) — Israel, Haifa
 
-## Kela Technologies
-- [Mechanical Design Engineer- Ground Robotics Group](https://www.comeet.com/jobs/kelasys/2A.007/mechanical-design-engineer-ground-robotics-group/4F.472) — Tel Aviv-Yafo, Israel
-- [QA Automation Engineer](https://www.comeet.com/jobs/kelasys/2A.007/qa-automation-engineer/57.47D) — Tel Aviv-Yafo, Israel
+## Jobgether
+- [Country manager Rwanda](https://jobs.lever.co/jobgether/52145f8a-7ad7-4091-824f-74179d9373ee) — Israel
+- [Director, GSI Alliances](https://jobs.lever.co/jobgether/c7f634cf-e653-4e62-b8b5-b6f3aa5e5190) — Israel
+- [Non-Executive Director (Cyprus)](https://jobs.lever.co/jobgether/9e248534-a051-44f4-85bb-e3be16e1dded) — Israel
+- [Operations Director](https://jobs.lever.co/jobgether/80e21cc5-87a8-4da1-b6df-bc18bcb2ab5c) — Israel
+- [Staff Product Manager, Fintech](https://jobs.lever.co/jobgether/2724cabe-2e5f-4c69-acf4-69577dc25588) — Israel
+
+## KLA
+- [Integration Engineer](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Integration-Engineer_2643893) — Yavne, Israel
+- [NPI Optical Engineer](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/NPI-Optical-Engineer_2643856-1) — Yavne, Israel
 
 ## KPMG
-- [AI Solutions Builder](https://www.comeet.com/jobs/somekhchaikin/F3.007/ai-solutions-builder/DF.470) — Tel Aviv-Yafo, Israel
+- [Partnerships & Operations Student](https://www.comeet.com/jobs/somekhchaikin/F3.007/partnerships-operations-student/4E.572) — Tel Aviv-Yafo, Israel
 
-## Lumenis
-- [Product Manager](https://www.comeet.com/jobs/lumenis/A1.00C/product-manager/75.47C) — Petah Tikva, Israel
+## LSports
+- [Backend Engineer](https://www.comeet.com/jobs/lsports/26.002/backend-engineer/2E.572) — Ashkelon, Israel
 
-## Marvell
-- [Design Verification - Intern](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Yokneam/Design-Verification---Intern_2604487) — Yokneam
+## Merck & Co. (MSD)
+- [Senior System Engineer](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---North-Central-District---Netanya/Senior-System-Engineer_R404495-1) — ISR   North Central District   Netanya
 
-## Mixtiles
-- [Director Revenue Growth, easyplant](https://www.mixtiles.com/positions/8961754002?gh_jid=8961754002) — Tel-Aviv
+## MKS Instruments
+- [Mechanical Engineer Student/סטודנט.ית להנדסה מכנית](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer-Student---_R22687) — Israel Jerusalem
+- [Mechanical Engineer/מהנדס/ת מכונות](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersEMEA/job/Israel-Jerusalem/Mechanical-Engineer---_R23487) — Israel Jerusalem
+- [Senior Software Engineer](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersEMEA/job/Israel-Rehovot/Senior-Software-Engineer_R23740) — Israel Rehovot
+- [Software Engineer student](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersEMEA/job/Israel-Jerusalem/XMLNAME-2027-Spring-Software-Engineer-Undergraduate-Intern_R20637) — Israel Jerusalem
+- [טכנאי/ת ייצור רכיבים אופטיים מדויקים/ Optical Precision Manufacturing Technician](https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersEMEA/job/Israel-Jerusalem-Optics/-------Optical-Precision-Manufacturing-Technician_R19676) — Israel Jerusalem Optics
+
+## Navina
+- [Clinical AI Manager](https://www.comeet.com/jobs/navina/E6.00C/clinical-ai-manager/B3.57F) — Ramat Gan, Israel
+
+## NextTA
+- [Principal Application Security Engineer](https://www.comeet.com/jobs/nextta/5A.006/principal-application-security-engineer/77.474) — Tel Aviv, Israel
+
+## NICE
+- [Engineering Group Lead](https://boards.eu.greenhouse.io/nice/jobs/5044085101?gh_jid=5044085101) — Israel - Raanana
+
+## Nova Ltd.
+- [Optical Experimental Physicist](https://www.comeet.com/jobs/nova/A5.007/optical-experimental-physicist/F2.B64) — Rehovot, Israel
 
 ## Novartis
-- [Assoc. Dir. DDIT ISC Enterprise Security Architecture - PAM](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Assoc-Dir-DDIT-ISC-Enterprise-Security-Architecture---PAM_REQ-10092206) — Israel
+- [Associate Director, AI Security Architecture](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Associate-Director--AI-Security-Architecture_REQ-10090930) — Israel
+- [Senior Specialist Security Architecture AI](https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Israel/Senior-Specialist-Security-Architecture-AI_REQ-10091842) — Israel
 
 ## NVIDIA
-- [Chip Design Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Chip-Design-Engineer_JR2021923) — Israel, Tel Aviv
-- [Senior AI and LLM Solutions Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-AI-and-LLM-Solutions-Software-Engineer_JR2029870) — Israel Yokneam
+- [Senior DevOps & Software Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2029070) — Israel, Yokneam
+- [Senior Security Lead, DOCA](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Security-Lead--DOCA_JR2030555) — Israel, Yokneam
+- [Senior SRE Engineer](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-SRE-Engineer_JR2029097) — Israel Tel Aviv
+- [Senior System Software Architect, AI Networking](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Software-Architect--AI-Networking_JR2029495) — Israel Yokneam
 
-## Oriient
-- [Senior Algorithm Engineer](https://www.comeet.com/jobs/oriient/EA.005/senior-algorithm-engineer/BD.576) — Tel Aviv-Yafo, Israel
+## Overwolf
+- [Forward Deployed Specialist - Kiteline](https://www.comeet.com/jobs/overwolf/B1.001/forward-deployed-specialist-kiteline/ED.579) — Ramat Gan, Israel
 
-## Parallel Wireless
-- [Integration Engineer](https://jobs.lever.co/parallelwireless/5c55c6d5-6e4e-4c4a-9be6-f32fd2ab2100) — Kfar Saba
+## Palo Alto Networks
+- [Senior Security Researcher Identity & SaaS (Cortex Cloud)](https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Security-Researcher-Identity---SaaS--Cortex-Cloud-_JR-019726) — Office - Israel - Tel Aviv
 
-## PointFive
-- [Lead Endpoint Researcher](https://jobs.ashbyhq.com/pointfive/6e1c4d79-a7c3-473d-bb25-c670dca0b3e4) — Tel Aviv
+## riverside.fm
+- [Backend Platform Engineer](https://www.comeet.com/jobs/riverside-fm/66.009/backend-platform-engineer/3E.576) — Tel Aviv-Yafo, Israel
 
-## Qodo
-- [Senior Product Manager](https://www.comeet.com/jobs/qodo/B8.00B/senior-product-manager/28.E68) — Tel Aviv-Yafo, Israel
+## Salt Security
+- [Frontend Engineer](https://salt.security/job-board?gh_jid=5309341007) — Tel Aviv
 
-## Regulus
-- [Field Integration Engineer](https://www.comeet.com/jobs/regulus/9A.00D/field-integration-engineer/1B.479) — Tirat Carmel, Israel
-- [FPGA Design Engineer](https://www.comeet.com/jobs/regulus/9A.00D/fpga-design-engineer/0A.573) — Tirat Carmel, Israel
+## Shield
+- [Senior Data Scientist](https://www.comeet.com/jobs/shieldfc/A5.00E/senior-data-scientist/59.148) — Ramat Gan, Israel
 
-## Smart-shooter
-- [Algorithms Engineer - Estimation & Navigation](https://www.comeet.com/jobs/smart-shooter/0B.00A/algorithms-engineer-estimation-navigation/E4.472) — Yagur, Israel
+## SolarEdge
+- [Junior Battery Data Analytics & Algorithm Engineer](https://www.comeet.com/jobs/solaredge/71.00A/junior-battery-data-analytics-algorithm-engineer/4E.575) — Modi'in, Israel
 
-## Spines
-- [Tech Lead](https://www.comeet.com/jobs/spines/2B.001/tech-lead/DA.571) — Herzliya, Israel
+## SuperPlay
+- [Monetization Graphic Designer](https://www.comeet.com/jobs/superplay/28.003/monetization-graphic-designer/ED.575) — Tel Aviv-Yafo, Israel
 
-## Start.io
-- [Data Scientist](https://www.comeet.com/jobs/start.io/B2.004/data-scientist/5D.576) — Netanya, Israel
+## Team8
+- [Lumia Security- AI Engineer](https://www.comeet.com/jobs/team8/61.003/lumia-security-ai-engineer/99.576) — Tel Aviv-Yafo, Israel
+- [Team8 Cyber Stealth Startup - AI Engineer](https://www.comeet.com/jobs/team8/61.003/team8-cyber-stealth-startup-ai-engineer/3E.578) — Tel Aviv-Yafo, Israel
 
-## Transmit Security
-- [Senior Full Stack Engineer](https://www.transmitsecurity.com/about/careers/job?gh_jid=8957962002) — Tel Aviv-Yafo, Gush Dan, Israel
+## Thermo Fisher Scientific
+- [Application Scientist -Chromatography and Mass Spectrometry](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Israel/Application-Scientist--Chromatography-and-Mass-Spectrometry_R-01375556) — Remote, Israel
+- [Lead Manufacturing Engineering Technician](https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rosh-Pina-Israel/Lead-Manufacturing-Engineering-Technician_R-01376387) — Rosh Pina, Israel
 
-## Viz.ai
-- [Senior DevSecOps Engineer](https://jobs.ashbyhq.com/Viz.ai/c478d418-b13e-4098-b55e-648e29b85311) — Tel Aviv, Israel
+## Via
+- [Senior Algorithms Researcher](https://job-boards.greenhouse.io/via/jobs/8963005002) — Tel Aviv
+- [Staff ML Research Scientist](https://job-boards.greenhouse.io/via/jobs/8962985002) — Tel Aviv
 
 ## Wix
-- [xEngineer - DevEx](https://jobs.smartrecruiters.com/Wix2/744000163632152) — Tel Aviv-Yafo, Tel Aviv District, IL
+- [Infra Security Architect](https://jobs.smartrecruiters.com/Wix2/744000163861429) — Tel Aviv, IL
+- [IT Engineer](https://jobs.smartrecruiters.com/Wix2/744000163823190) — Tel Aviv, IL
+- [Senior Applied Researcher - Base44](https://jobs.smartrecruiters.com/Wix2/744000163704673) — Tel Aviv, IL
+- [Solution Engineer - Base44](https://jobs.smartrecruiters.com/Wix2/744000163856678) — Tel Aviv, IL
+- [System Administrator](https://jobs.smartrecruiters.com/Wix2/744000163823249) — Tel Aviv, IL
+
+## Xsight Labs
+- [Software Security Architect IL](https://www.comeet.com/jobs/xsightlabs/46.00C/software-security-architect-il/D8.E65) — Giv'atayim, Israel
 
 Search every open job: https://jeffr100.github.io/israel-tech-jobs/

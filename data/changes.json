@@ -1,5 +1,454 @@
 [
 {
+"date": "2026-11-27",
+"added": 63,
+"removed": 25,
+"added_jobs": [
+{
+"company": "ACS Motion Control",
+"title": "Electronics Technician in Production",
+"url": "https://www.comeet.com/jobs/acs/14.000/electronics-technician-in-production/D1.B36"
+},
+{
+"company": "Altair Semiconductor",
+"title": "SW Engineer - 5G PHY-FW Group",
+"url": "https://www.comeet.com/jobs/altair-semi/88.003/sw-engineer-5g-phy-fw-group/7E.574"
+},
+{
+"company": "Arpeely",
+"title": "Senior Full-Stack Mobile Developer",
+"url": "https://www.comeet.com/jobs/arpeely/57.001/senior-full-stack-mobile-developer/8D.07C"
+},
+{
+"company": "Buildots",
+"title": "*Senior Frontend Engineer",
+"url": "https://www.comeet.com/jobs/buildots/36.004/senior-frontend-engineer/EE.649"
+},
+{
+"company": "Ceragon Networks",
+"title": "Bookkeeper",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/bookkeeper/2E.57D"
+},
+{
+"company": "Ceragon Networks",
+"title": "HW Board Design Engineer",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/hw-board-design-engineer/6E.575"
+},
+{
+"company": "Cloudinary",
+"title": "Account Manager - (Digital Accounts EMEA)",
+"url": "https://jobs.lever.co/cloudinary/b82a7907-b582-4f22-9ba0-9a2506a26e15"
+},
+{
+"company": "Discount Bank",
+"title": "מנהל.ת פרויקטים",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/CA.576"
+},
+{
+"company": "Dream",
+"title": "Global Events Manager",
+"url": "https://www.comeet.com/jobs/dreamgroup/99.002/global-events-manager/9E.577"
+},
+{
+"company": "DRIVENETS",
+"title": "VP, System Architecture",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/vp-system-architecture/7E.57D"
+},
+{
+"company": "DRS RADA TECHNOLOGIES",
+"title": "Senior Director of Business Development",
+"url": "https://www.comeet.com/jobs/rada/73.009/senior-director-of-business-development/F3.47E"
+},
+{
+"company": "Enercon Technologies Group",
+"title": "Field Application Engineer",
+"url": "https://www.comeet.com/jobs/enercon/A4.00D/field-application-engineer/95.479"
+},
+{
+"company": "G2 Risk Solutions",
+"title": "Data Analyst",
+"url": "https://www.comeet.com/jobs/everc/C9.003/data-analyst/8E.576"
+},
+{
+"company": "GE HealthCare",
+"title": "Payroll Specialist Israel",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Payroll-Specialist-Israel_R4050176-1"
+},
+{
+"company": "GE HealthCare",
+"title": "Clinical AI Scientist",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Clinical-AI-Scientist_R4050062-1"
+},
+{
+"company": "GE HealthCare",
+"title": "Documentation Engineer",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Documentation-Engineer_R4050009-1"
+},
+{
+"company": "GE HealthCare",
+"title": "Lead Service Integrator",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Lead-Service-Integrator_R4049962-1"
+},
+{
+"company": "Global-e",
+"title": "Legal Counsel",
+"url": "https://www.comeet.com/jobs/global-e/62.002/legal-counsel/6E.576"
+},
+{
+"company": "Imagry",
+"title": "Autonomous Vehicle Operator",
+"url": "https://www.comeet.com/jobs/imagry/B7.00F/autonomous-vehicle-operator/8E.57A"
+},
+{
+"company": "Immunai",
+"title": "Senior AI Researcher – Computational Pathology",
+"url": "https://www.comeet.com/jobs/immunai/37.009/senior-ai-researcher-computational-pathology/7E.572"
+},
+{
+"company": "INFINIDAT",
+"title": "Junior Software Engineer",
+"url": "https://www.comeet.com/jobs/infinidat/D6.003/junior-software-engineer/3D.173"
+},
+{
+"company": "Intel",
+"title": "SOC Functional Validation Engineer",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Jerusalem/SOC-Functional-Validation-Engineer_JR0289613"
+},
+{
+"company": "JDC",
+"title": "Finance Officer",
+"url": "https://www.comeet.com/jobs/jdc/F3.004/finance-officer/0A.579"
+},
+{
+"company": "JFrog",
+"title": "Director of Product Marketing, Governance",
+"url": "https://join.jfrog.com/job/?job=8419108&gh_jid=8419108"
+},
+{
+"company": "Jobgether",
+"title": "Engineering Productivity Engineer",
+"url": "https://jobs.lever.co/jobgether/a8715c20-8a65-471a-b0c8-5a587d603b91"
+},
+{
+"company": "Jobgether",
+"title": "Head of Marketing (Skill Games App)",
+"url": "https://jobs.lever.co/jobgether/87847f62-9e62-454e-83df-b462bcf79800"
+},
+{
+"company": "Jobgether",
+"title": "Head of Strategic Finance",
+"url": "https://jobs.lever.co/jobgether/8d2ad884-0f51-4bb8-9101-f65390e64b3c"
+},
+{
+"company": "Jobgether",
+"title": "Head of Trading Desk Platform (C++)",
+"url": "https://jobs.lever.co/jobgether/714f098e-9000-4341-85e3-dc95c88fd4a5"
+},
+{
+"company": "Jobgether",
+"title": "Marketing Science Lead",
+"url": "https://jobs.lever.co/jobgether/d560a3b1-8800-46e4-807b-07dd4d12dd6e"
+},
+{
+"company": "Jobgether",
+"title": "Revenue Operations Manager",
+"url": "https://jobs.lever.co/jobgether/7d5b4ce4-173d-4f84-b379-4bbed0eadb34"
+},
+{
+"company": "Jobgether",
+"title": "Senior Manager, Content & Brand",
+"url": "https://jobs.lever.co/jobgether/71bd73f4-6efd-4e0c-9e58-f70d7f28bc2a"
+},
+{
+"company": "Kela Technologies",
+"title": "Test & Evaluation Lead",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/test-evaluation-lead/6E.579"
+},
+{
+"company": "KLA",
+"title": "Mechanical NPI Engineer",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Mechanical-NPI-Engineer_2643975-1"
+},
+{
+"company": "KLA",
+"title": "Electrical Technician & Assembly",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Electrical-Technician---Assembly_2643878-1"
+},
+{
+"company": "KLA",
+"title": "Material Planner",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Migdal-Haemek-Israel/Material-Planner_2643733-2"
+},
+{
+"company": "LiveU",
+"title": "Business Operations Project Manager",
+"url": "https://www.comeet.com/jobs/liveu/90.00C/business-operations-project-manager/7E.57B"
+},
+{
+"company": "Medtronic",
+"title": "Senior Software Engineer - Data Engineering",
+"url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Caesarea-Haifa-Israel/Senior-Software-Engineer---Data-Engineering_R81499-1"
+},
+{
+"company": "Medtronic",
+"title": "Senior Algorithm Engineer - Computer Vision & AI",
+"url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Senior-Algorithm-Engineer---Computer-Vision---AI_R82682-1"
+},
+{
+"company": "Nebius",
+"title": "Security Compliance Coordinator",
+"url": "https://careers.nebius.com/?gh_jid=4997919101"
+},
+{
+"company": "NICE",
+"title": "Finance Applications Analyst",
+"url": "https://boards.eu.greenhouse.io/nice/jobs/5044893101?gh_jid=5044893101"
+},
+{
+"company": "NVIDIA",
+"title": "Software Engineer, Cloud Platforms",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Material Procurement Manager",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Material-Procurement-Manager_JR2030393-1"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Global Procurement Manager",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Global-Procurement-Manager_JR2030392"
+},
+{
+"company": "Palo Alto Networks",
+"title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal--Senior-Principal-Software-Engineer---Cortex-Detection-team_JR-018306"
+},
+{
+"company": "Palo Alto Networks",
+"title": "Principal/Sr. Principal Security Researcher -  LLM Agents",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Sr-Principal-Security-Researcher----LLM-Agents_JR-024363"
+},
+{
+"company": "Palo Alto Networks",
+"title": "Principal Product Analyst (Cortex)",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Product-Analyst--Cortex-XDR-_JR-019918"
+},
+{
+"company": "PAPAYA",
+"title": "UI/UX Lead",
+"url": "https://www.comeet.com/jobs/papayagaming/46.00B/ui-ux-lead/CD.578"
+},
+{
+"company": "Pazu",
+"title": "Brand Design Manager",
+"url": "https://www.comeet.com/jobs/pazu/67.001/brand-design-manager/6E.574"
+},
+{
+"company": "Philips",
+"title": "Regulatory Affairs Specialist",
+"url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/Regulatory-Affairs-Specialist_595113"
+},
+{
+"company": "Philips",
+"title": "Software Verification Engineer",
+"url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/SW-Verification-Engineer_594717-1"
+},
+{
+"company": "Red Hat",
+"title": "Cloud Consultant - Openshift",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raanana/Cloud-Consultant---Openshift_R-055393-2"
+},
+{
+"company": "riverside.fm",
+"title": "DevOps Engineer",
+"url": "https://www.comeet.com/jobs/riverside-fm/66.009/devops-engineer/9D.C5F"
+},
+{
+"company": "riverside.fm",
+"title": "Junior Software Engineer",
+"url": "https://www.comeet.com/jobs/riverside-fm/66.009/junior-software-engineer/9E.571"
+},
+{
+"company": "Rounds",
+"title": "Product Monetization Manager",
+"url": "https://www.comeet.com/jobs/rounds/59.005/product-monetization-manager/6E.577"
+},
+{
+"company": "SciPlay",
+"title": "Advanced Systems Engineer",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Advanced-Systems-Engineer_R322930"
+},
+{
+"company": "Simply",
+"title": "Head of Organic",
+"url": "https://jobs.ashbyhq.com/simply/beb71e1c-b185-4813-b76d-8b9bd3f2df89"
+},
+{
+"company": "Snowflake",
+"title": "Strategic Account Executive - Public Sector",
+"url": "https://jobs.ashbyhq.com/snowflake/19c0ae0a-ac5d-45b1-8857-724c2ab6fa7e"
+},
+{
+"company": "Snowflake",
+"title": "Account Executive - Expansion",
+"url": "https://jobs.ashbyhq.com/snowflake/b66fedf3-1202-4ff1-8830-eb92d91b8db8"
+},
+{
+"company": "SolarEdge",
+"title": "Subsidiaries Assistant Controller",
+"url": "https://www.comeet.com/jobs/solaredge/71.00A/subsidiaries-assistant-controller/8E.570"
+},
+{
+"company": "SuperPlay",
+"title": "Office Manger",
+"url": "https://www.comeet.com/jobs/superplay/28.003/office-manger/6E.578"
+},
+{
+"company": "Terra Security",
+"title": "Agentic Intelligence Scientist",
+"url": "https://www.comeet.com/jobs/terrasecurity/1B.006/agentic-intelligence-scientist/8E.57B"
+},
+{
+"company": "The Jewish Agency for Israel",
+"title": "מדריך/ה לעולים בני המנשה - מרכז קליטה נוף הגליל",
+"url": "https://www.comeet.com/jobs/jafi/C8.008/job/EC.264"
+},
+{
+"company": "Thermo Fisher Scientific",
+"title": "Operations Intern",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rosh-Pina-Israel/Operations-Intern_R-01373991"
+}
+],
+"removed_jobs": [
+{
+"company": "ACS Motion Control",
+"title": "Junior Electronics Technician in Production",
+"url": "https://www.comeet.com/jobs/acs/14.000/junior-electronics-technician-in-production/F1.37F"
+},
+{
+"company": "AI21",
+"title": "Deep Learning Team Lead",
+"url": "https://www.comeet.com/jobs/ai21/E6.001/deep-learning-team-lead/AE.475"
+},
+{
+"company": "Artlist",
+"title": "Application Security Engineer - AI & Product Security",
+"url": "https://www.comeet.com/jobs/artlist/85.003/application-security-engineer-ai-product-security/AD.27F"
+},
+{
+"company": "Bright Data",
+"title": "FP&A",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/fp-a/A5.C6D"
+},
+{
+"company": "Cato Networks",
+"title": "Senior Video Creator & Producer",
+"url": "https://www.catonetworks.com/careers/careers-post/5007077101?gh_jid=5007077101"
+},
+{
+"company": "Crowdstrike Israel R D",
+"title": "Manager, Workplaces Services",
+"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Manager--Workplaces-Services_R30048"
+},
+{
+"company": "Darrow",
+"title": "Senior AI/ML Engineer",
+"url": "https://www.comeet.com/jobs/darrow-ai/D8.000/senior-ai-ml-engineer/1A.271"
+},
+{
+"company": "Imagene AI",
+"title": "Head of R&D",
+"url": "https://www.comeet.com/jobs/imagene-ai/D7.000/head-of-r-d/1A.969"
+},
+{
+"company": "Investing",
+"title": "Head of Analytics",
+"url": "https://www.comeet.com/jobs/investing/42.002/head-of-analytics/0C.D67"
+},
+{
+"company": "Jobgether",
+"title": "Creative Program Manager",
+"url": "https://jobs.lever.co/jobgether/02093c7d-f87c-4d5e-ad6b-83989dd717fd"
+},
+{
+"company": "Jobgether",
+"title": "Growth Marketing Specialist",
+"url": "https://jobs.lever.co/jobgether/b8e2d6da-a310-4df3-a0df-bf2b7f2845b4"
+},
+{
+"company": "Jobgether",
+"title": "Showrunner - Storyby",
+"url": "https://jobs.lever.co/jobgether/49c907dd-db79-425a-9d4d-caf1e0bf86b5"
+},
+{
+"company": "Jobgether",
+"title": "Travel Advisor",
+"url": "https://jobs.lever.co/jobgether/d3bd3094-a1cf-4392-98ee-7bcf4e2b9b1f"
+},
+{
+"company": "KLA",
+"title": "Donor Inspector & ATP Operator",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Donor-Inspector---ATP-Operator_2643342-1"
+},
+{
+"company": "Lemonade",
+"title": "User Acquisition Manager",
+"url": "https://jobs.ashbyhq.com/Lemonade/0d702fd8-32aa-4d9a-ba84-bfafdc71c339"
+},
+{
+"company": "Merck & Co. (MSD)",
+"title": "Brand & Customer Product Manager",
+"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Brand---Customer-Product-Manager_R424425-1"
+},
+{
+"company": "Mind Security Inc.",
+"title": "Senior Technical Product Marketing Manager",
+"url": "https://www.comeet.com/jobs/mindsecurity/4A.00D/senior-technical-product-marketing-manager/6E.476"
+},
+{
+"company": "Nova Ltd.",
+"title": "Deep Learning Researcher",
+"url": "https://www.comeet.com/jobs/nova/A5.007/deep-learning-researcher/0C.565"
+},
+{
+"company": "Palo Alto Networks",
+"title": "Principal Engineer Software - Unified Asset Inventory(Cortex)",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software---Unified-Asset-Inventory-Cortex-_JR-023380"
+},
+{
+"company": "Palo Alto Networks",
+"title": "Senior Software Engineer - Data Pipelines (Cortex)",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Software-Engineer---Data-Pipelines--Cortex-_JR-022570"
+},
+{
+"company": "Quantum Machines",
+"title": "Logistics Coordinator",
+"url": "https://www.comeet.com/jobs/quantummachines/D6.000/logistics-coordinator/0B.47E"
+},
+{
+"company": "Taboola",
+"title": "Algorithm Engineer (RTB)",
+"url": "https://www.taboola.com/careers/job/8081260?gh_jid=8081260"
+},
+{
+"company": "Taboola",
+"title": "Senior Algorithm Engineer (RTB)",
+"url": "https://www.taboola.com/careers/job/8064004?gh_jid=8064004"
+},
+{
+"company": "Taboola",
+"title": "Senior Data Scientist",
+"url": "https://www.taboola.com/careers/job/8087797?gh_jid=8087797"
+},
+{
+"company": "Wix",
+"title": "Full stack organic growth marketer",
+"url": "https://jobs.smartrecruiters.com/Wix2/744000163407916"
+}
+]
+},
+{
 "date": "2026-11-26",
 "added": 94,
 "removed": 99,

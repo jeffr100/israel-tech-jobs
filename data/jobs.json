@@ -1,9 +1,9 @@
 {
-"generated": "2026-11-26",
-"total_jobs": 5093,
+"generated": "2026-11-27",
+"total_jobs": 5131,
 "companies": {
 "365scores": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -99,10 +99,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "44 ventures": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -154,10 +154,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "8fig": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -173,10 +173,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "A Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -214,10 +214,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Above Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -255,10 +255,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "abra Web & Mobile": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -296,10 +296,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Abra Information Technologies Ltd": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -821,10 +821,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "abra": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -1977,10 +1977,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Justt": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -1997,10 +1997,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ACS Motion Control": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2028,6 +2028,17 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Electronics Technician in Production",
+"location": "Yokneam Illit, Israel",
+"department": "Operations",
+"url": "https://www.comeet.com/jobs/acs/14.000/electronics-technician-in-production/D1.B36",
+"posted": "",
+"category": "Electronics & hardware",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
+},
+{
 "title": "EMS Subcontractor Manager",
 "location": "Yokneam Illit, Israel",
 "department": "Operations",
@@ -2037,17 +2048,6 @@
 "level": "Lead / manager",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-23"
-},
-{
-"title": "Junior Electronics Technician in Production",
-"location": "Yokneam Illit, Israel",
-"department": "Production",
-"url": "https://www.comeet.com/jobs/acs/14.000/junior-electronics-technician-in-production/F1.37F",
-"posted": "",
-"category": "Electronics & hardware",
-"level": "Junior",
-"region": "Yokneam / Caesarea / North",
-"first_seen": "2026-11-24"
 },
 {
 "title": "QC Inspector",
@@ -2130,10 +2130,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Adaptive6": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2149,10 +2149,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Alice": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2379,10 +2379,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Agora": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2434,10 +2434,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aeronautics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2656,10 +2656,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AI21": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2671,17 +2671,6 @@
 "posted": "",
 "category": "Data & AI",
 "level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Deep Learning Team Lead",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Algorithms",
-"url": "https://www.comeet.com/jobs/ai21/E6.001/deep-learning-team-lead/AE.475",
-"posted": "",
-"category": "Data & AI",
-"level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
 },
@@ -2709,10 +2698,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Airis Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2774,10 +2763,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Airobotics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -2975,10 +2964,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AITAN": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3083,10 +3072,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AKA Food": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3114,10 +3103,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Akeyless": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3189,10 +3178,10 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aitech": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3242,10 +3231,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Better": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3274,10 +3263,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AlgoSec": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3294,10 +3283,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AllCloud": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3484,10 +3473,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Allied Universal Electronic Monitoring": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3503,10 +3492,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Allot": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3523,10 +3512,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rocoto": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3553,10 +3542,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Altair Semiconductor": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3629,6 +3618,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "SW Engineer - 5G PHY-FW Group",
+"location": "Hod Hasharon, Israel",
+"department": "System Engineering",
+"url": "https://www.comeet.com/jobs/altair-semi/88.003/sw-engineer-5g-phy-fw-group/7E.574",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Test and Product Engineer",
 "location": "Hod Hasharon, Israel",
 "department": "Operations",
@@ -3641,10 +3641,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Anchor Fintech": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3694,10 +3694,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Anyword": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3714,10 +3714,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "anecdotes": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3757,10 +3757,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Applift": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3801,10 +3801,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Appdome": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3853,10 +3853,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Appsforce": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3905,10 +3905,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Arito": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3935,10 +3935,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aqua Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -3976,10 +3976,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Arpeely": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4085,6 +4085,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Senior Full-Stack Mobile Developer",
+"location": "Tel Aviv-Jaffa, Israel",
+"department": "Ace - AI Browser",
+"url": "https://www.comeet.com/jobs/arpeely/57.001/senior-full-stack-mobile-developer/8D.07C",
+"posted": "",
+"category": "Mobile",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Senior Product Manager",
 "location": "Tel Aviv-Jaffa, Israel",
 "department": "Ace - AI Browser",
@@ -4096,10 +4107,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "A.S HR Services": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4128,10 +4139,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Artlist": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4168,17 +4179,6 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
-},
-{
-"title": "Application Security Engineer - AI & Product Security",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "R&D",
-"url": "https://www.comeet.com/jobs/artlist/85.003/application-security-engineer-ai-product-security/AD.27F",
-"posted": "",
-"category": "Security: application & product",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Assistant controller",
@@ -4274,10 +4274,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Autobrains Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4316,10 +4316,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AudioCodes": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4335,10 +4335,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Automat-it": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4390,10 +4390,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fullpath": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4532,10 +4532,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Backslash Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4562,10 +4562,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bagira": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -4812,10 +4812,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bet Shemesh Engines": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5320,10 +5320,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bigabid": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5374,10 +5374,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BioCatch": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5504,10 +5504,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BIRD Aerosystems": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5705,10 +5705,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BIScience": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5759,10 +5759,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BlinkOps": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5789,17 +5789,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bizzabo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Blockaid": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5837,10 +5837,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bluewhite": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5856,10 +5856,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BOA Ideas": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5899,10 +5899,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Travelier": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5919,10 +5919,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bounce AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -5960,10 +5960,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bridgewise": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6080,10 +6080,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Be The Bank": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6136,10 +6136,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bright Data": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6178,16 +6178,15 @@
 "first_seen": "2026-11-25"
 },
 {
-"title": "FP&A",
+"title": "Data Scientist (Core R&D)",
 "location": "Netanya, Israel",
-"department": "Finance",
-"url": "https://www.comeet.com/jobs/brightdata/88.007/fp-a/A5.C6D",
+"department": "R&D & Technical",
+"url": "https://www.comeet.com/jobs/brightdata/88.007/data-scientist-core-r-d/9E.57E",
 "posted": "",
-"category": null,
-"group": "Finance & accounting",
+"category": "Data & AI",
 "level": "Mid-level / unspecified",
 "region": "Netanya",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-25"
 },
 {
 "title": "Partnerships Manager (Academy) - Temp",
@@ -6235,10 +6234,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Buildots": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6274,6 +6273,17 @@
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "*Senior Frontend Engineer",
+"location": "Tel-Aviv, Israel",
+"department": "Development",
+"url": "https://www.comeet.com/jobs/buildots/36.004/senior-frontend-engineer/EE.649",
+"posted": "",
+"category": "Frontend & full stack",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 },
 {
 "title": "*Senior Full-Stack Engineer",
@@ -6381,10 +6391,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BUYME": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6435,10 +6445,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bulls Media": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6467,10 +6477,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Caesarstone": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6487,10 +6497,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Camtek": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6775,10 +6785,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cardo Systems": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6883,10 +6893,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Compugen": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -6913,10 +6923,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cellebrite": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7094,10 +7104,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Colmex": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7146,10 +7156,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Chargeflow": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7166,10 +7176,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Checkmarx": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7208,10 +7218,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CHEQ": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7227,10 +7237,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Classiq": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7367,10 +7377,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Claroty": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7542,10 +7552,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Clinch": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7583,10 +7593,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Clover Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7669,10 +7679,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "penlink": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7700,10 +7710,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CodeValue": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7875,10 +7885,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cognyte": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -7999,10 +8009,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Commbox": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8041,10 +8051,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CommIT": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8578,10 +8588,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Coralogix": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8698,10 +8708,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CrazyLabs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8718,10 +8728,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CTERA": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8748,10 +8758,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cross River": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -8968,10 +8978,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cyberillium": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9010,10 +9020,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cycode": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9052,10 +9062,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cynet": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9072,10 +9082,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cyolo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9091,10 +9101,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "CytoReason": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9121,10 +9131,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cyera": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9427,10 +9437,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Daisy": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9457,29 +9467,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Darrow": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
-"jobs": [
-{
-"title": "Senior AI/ML Engineer",
-"location": "Tel Aviv-Jaffa, Israel",
-"department": "R&D",
-"url": "https://www.comeet.com/jobs/darrow-ai/D8.000/senior-ai-ml-engineer/1A.271",
-"posted": "",
-"category": "Data & AI",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-}
-],
-"last_ok": "2026-11-26"
+"jobs": [],
+"last_ok": "2026-11-27"
 },
 "DealHub": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -9730,10 +9728,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Discount Bank": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -10493,6 +10491,18 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "מנהל.ת פרויקטים",
+"location": "Rishon LeTsiyon, Israel",
+"department": "",
+"url": "https://www.comeet.com/jobs/dbank/F8.004/job/CA.576",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Rishon / Holon / Bat Yam",
+"first_seen": "2026-11-27"
+},
+{
 "title": "מנתח.ת מערכות AI & Data",
 "location": "Rishon LeTsiyon, Israel",
 "department": "טכנולוגיה",
@@ -10636,10 +10646,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Directeam": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -10679,10 +10689,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Delta Galil Industries": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -10771,10 +10781,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Deloitte": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -11606,10 +11616,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Draftt": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -11625,10 +11635,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Dot Compliance": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -11655,10 +11665,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Driivz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -11686,10 +11696,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Dream": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -11736,6 +11746,18 @@
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Global Events Manager",
+"location": "Tel-Aviv, Israel",
+"department": "Marketing",
+"url": "https://www.comeet.com/jobs/dreamgroup/99.002/global-events-manager/9E.577",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Lead Product Designer",
@@ -12093,10 +12115,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Dustphotonics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12112,10 +12134,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DUVE": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12143,10 +12165,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DRIVENETS": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12631,12 +12653,23 @@
 "level": "Lead / manager",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-24"
+},
+{
+"title": "VP, System Architecture",
+"location": "Raanana, Israel",
+"department": "Research & Architecture",
+"url": "https://www.comeet.com/jobs/drivenets/72.006/vp-system-architecture/7E.57D",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Earnix": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12751,10 +12784,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Easy": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12795,10 +12828,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Econergy Tech": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12874,10 +12907,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "EasySend": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12917,10 +12950,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Eitan Medical": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -12995,10 +13028,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Elementor": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13014,10 +13047,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Elsight": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13068,10 +13101,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Enercon Technologies Group": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13097,6 +13130,17 @@
 "level": "Mid-level / unspecified",
 "region": "Netanya",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Field Application Engineer",
+"location": "Netanya, Israel",
+"department": "",
+"url": "https://www.comeet.com/jobs/enercon/A4.00D/field-application-engineer/95.479",
+"posted": "",
+"category": "Technical sales & solutions",
+"level": "Mid-level / unspecified",
+"region": "Netanya",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Magnetic Engineer",
@@ -13179,10 +13223,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Enlight": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13503,10 +13547,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "esh": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13559,13 +13603,24 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "G2 Risk Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Data Analyst",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/everc/C9.003/data-analyst/8E.576",
+"posted": "",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Data Scientist – AI & Data Platforms",
 "location": "Tel Aviv-Yafo, Israel",
@@ -13589,10 +13644,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "EX.CO": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13609,10 +13664,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Exodigo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13778,10 +13833,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Factify": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13798,10 +13853,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fetcherr": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -13982,10 +14037,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Final": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14056,10 +14111,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fig Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14120,10 +14175,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Finubit": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14184,10 +14239,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fiverr": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14239,17 +14294,17 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Five Sigma": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Flexor Technology": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14276,10 +14331,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Flo-Optics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14340,10 +14395,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Foresight Automotive": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14394,10 +14449,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fluent Trade Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14483,10 +14538,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Frame Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14548,10 +14603,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ForSight Robotics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14589,10 +14644,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Freightos": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14609,10 +14664,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Friends": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14734,10 +14789,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "FrontStory": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14778,10 +14833,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Genpact": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14798,10 +14853,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "GeoEdge": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14852,10 +14907,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Gett": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -14953,10 +15008,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Gini Apps": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15205,10 +15260,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Gilat": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15225,10 +15280,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Gloat": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15277,10 +15332,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Global-e": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15340,6 +15395,18 @@
 "level": "Mid-level / unspecified",
 "region": "Petah Tikva",
 "first_seen": "2026-11-25"
+},
+{
+"title": "Legal Counsel",
+"location": "Petah-Tikva, Israel",
+"department": "Legal",
+"url": "https://www.comeet.com/jobs/global-e/62.002/legal-counsel/6E.576",
+"posted": "",
+"category": null,
+"group": "Legal & compliance",
+"level": "Mid-level / unspecified",
+"region": "Petah Tikva",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Marketing Content Writer",
@@ -15433,10 +15500,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Grain": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15464,10 +15531,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ofer Jobs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15784,10 +15851,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Grove Ventures": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15860,10 +15927,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "GrowthSpace": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -15890,10 +15957,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "groundcover": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16000,10 +16067,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Guardio": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16145,10 +16212,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Guideline": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16234,10 +16301,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Guesty": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16356,10 +16423,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Helfy": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16574,10 +16641,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Trivago": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16617,10 +16684,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "HyperGuest": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16636,10 +16703,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Hyro": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16655,10 +16722,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Hypernative": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16719,10 +16786,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ilyon": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16739,10 +16806,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Imagen": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16782,10 +16849,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Imagene AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16813,17 +16880,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Head of R&D",
-"location": "Tel-Aviv, Israel",
-"department": "Software",
-"url": "https://www.comeet.com/jobs/imagene-ai/D7.000/head-of-r-d/1A.969",
-"posted": "",
-"category": "Backend & software engineering",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
 "title": "People & Site Manager",
 "location": "Tel-Aviv, Israel",
 "department": "Business",
@@ -16836,10 +16892,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Immunai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -16900,6 +16956,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Senior AI Researcher – Computational Pathology",
+"location": "Ramat Gan, Israel",
+"department": "Deep Analytics",
+"url": "https://www.comeet.com/jobs/immunai/37.009/senior-ai-researcher-computational-pathology/7E.572",
+"posted": "",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Ramat Gan / Givatayim / Bnei Brak",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Staff Architect, Data & AI Infra",
 "location": "Ramat Gan, Israel",
 "department": "Software Engineering",
@@ -16911,13 +16978,25 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Imagry": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Autonomous Vehicle Operator",
+"location": "Haifa, Israel",
+"department": "Delivery",
+"url": "https://www.comeet.com/jobs/imagry/B7.00F/autonomous-vehicle-operator/8E.57A",
+"posted": "",
+"category": null,
+"group": "Manufacturing & production",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
 {
 "title": "EU Sales Manager",
 "location": "Haifa, Israel",
@@ -16954,10 +17033,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "inManage": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17052,10 +17131,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Infinity": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17168,10 +17247,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Incredibuild": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17244,10 +17323,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "INFINIDAT": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17351,6 +17430,17 @@
 "level": "Mid-level / unspecified",
 "region": "Herzliya",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Junior Software Engineer",
+"location": "Herzliya, Israel",
+"department": "RnD",
+"url": "https://www.comeet.com/jobs/infinidat/D6.003/junior-software-engineer/3D.173",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Junior",
+"region": "Herzliya",
+"first_seen": "2026-11-27"
 },
 {
 "title": "NPI Engineer",
@@ -17465,10 +17555,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Integrity Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17562,17 +17652,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orpak": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Investing": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17600,17 +17690,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Head of Analytics",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Data",
-"url": "https://www.comeet.com/jobs/investing/42.002/head-of-analytics/0C.D67",
-"posted": "",
-"category": "Data & AI",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
 "title": "Product Manager",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Product",
@@ -17622,10 +17701,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "IONIX": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17720,10 +17799,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "IRONSCALES": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17805,10 +17884,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ISI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -17892,10 +17971,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Island": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18032,10 +18111,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Israel Tech Guard": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18074,10 +18153,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ivix": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18127,10 +18206,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Jazz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18190,10 +18269,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "The Jewish Agency for Israel": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18315,6 +18394,18 @@
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-24"
+},
+{
+"title": "מדריך/ה לעולים בני המנשה - מרכז קליטה נוף הגליל",
+"location": "מרכז קליטה נוף הגליל, Israel",
+"department": "היחידה לעלייה וקליטה",
+"url": "https://www.comeet.com/jobs/jafi/C8.008/job/EC.264",
+"posted": "",
+"category": null,
+"group": "Education & training",
+"level": "Mid-level / unspecified",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
 },
 {
 "title": "מדריכ/ה חברתי/ת - מרכז צעירים בית ברודצקי לעולים צעירים מכל העולם",
@@ -18568,10 +18659,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "JDC": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18597,6 +18688,18 @@
 "level": "Mid-level / unspecified",
 "region": "Jerusalem",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Finance Officer",
+"location": "Jerusalem, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/jdc/F3.004/finance-officer/0A.579",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Jerusalem",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Regional Budget Coordinator",
@@ -18719,10 +18822,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Jether Energy Research": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18738,10 +18841,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AT&T Israel": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18824,10 +18927,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "JVP": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18891,10 +18994,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "K2view": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -18911,10 +19014,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Kaltura": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19111,10 +19214,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Kayhut": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19130,10 +19233,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Kela Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19442,12 +19545,24 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Test & Evaluation Lead",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Mission Ops",
+"url": "https://www.comeet.com/jobs/kelasys/2A.007/test-evaluation-lead/6E.579",
+"posted": "",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Keshet media group": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19643,10 +19758,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Kendago": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19734,10 +19849,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "KMS Lighthouse": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19776,10 +19891,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Komodor": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19795,10 +19910,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lab42": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19847,10 +19962,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Landa Corporation": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19924,10 +20039,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Kueez": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -19944,10 +20059,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Legit Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20007,10 +20122,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lema AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20060,10 +20175,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Leverate": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20080,10 +20195,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Linx Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20166,10 +20281,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Madlan": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20196,10 +20311,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "LiveU": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20214,6 +20329,18 @@
 "level": "Mid-level / unspecified",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Business Operations Project Manager",
+"location": "Kefar Sava, Israel",
+"department": "Professional Services",
+"url": "https://www.comeet.com/jobs/liveu/90.00C/business-operations-project-manager/7E.57B",
+"posted": "",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Director of Data & AI",
@@ -20261,10 +20388,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lumenis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20407,10 +20534,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lumus": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20426,10 +20553,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MAËLYS": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20457,10 +20584,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lumen": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20499,10 +20626,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lusha": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20644,10 +20771,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Magal Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20769,10 +20896,10 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Majestic Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -20953,10 +21080,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mami": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21032,10 +21159,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lime Digital": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21052,10 +21179,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MDClone": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21082,10 +21209,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MAX Security Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21150,10 +21277,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Maytronics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21404,10 +21531,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mego Afek": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21458,10 +21585,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MedOne": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21501,10 +21628,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mentee Robotics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21654,10 +21781,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Medison Pharma": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -21989,10 +22116,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mind Security Inc.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22076,18 +22203,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Senior Technical Product Marketing Manager",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Marketing",
-"url": "https://www.comeet.com/jobs/mindsecurity/4A.00D/senior-technical-product-marketing-manager/6E.476",
-"posted": "",
-"category": null,
-"group": "Marketing & communications",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Solutions Architect",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Sales",
@@ -22099,10 +22214,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Minimus": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22129,10 +22244,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mindspace": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22278,10 +22393,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mitiga": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22308,10 +22423,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Minute": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22339,10 +22454,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Modellama": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22370,10 +22485,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mize": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22447,10 +22562,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Morphisec": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22466,10 +22581,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Moonshot": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22498,10 +22613,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "morning": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22575,10 +22690,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "mPrest": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22711,10 +22826,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rylo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22752,10 +22867,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MSD Animal Health Technology Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22782,10 +22897,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nanox": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22824,10 +22939,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Native": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22866,10 +22981,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Natural Intelligence": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -22933,10 +23048,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Navina": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23032,10 +23147,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Newcore": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23085,10 +23200,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nayax": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23162,10 +23277,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Netafim": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23409,10 +23524,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NextSilicon": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23441,7 +23556,7 @@
 },
 {
 "title": "HW Architect",
-"location": "Giv'atayim, Israel",
+"location": "Givatayim, Israel",
 "department": "Hardware",
 "url": "https://www.comeet.com/jobs/nextsilicon/18.007/hw-architect/4E.033",
 "posted": "",
@@ -23507,10 +23622,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NimbleWay": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23526,10 +23641,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Noma Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23711,10 +23826,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NextTA": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23785,10 +23900,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Notch": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23816,10 +23931,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NoTraffic": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23870,10 +23985,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nominal": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23889,10 +24004,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "nSure.ai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -23908,10 +24023,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nuvoton": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24017,10 +24132,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nym Health": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24058,10 +24173,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nova Ltd.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24119,17 +24234,6 @@
 "posted": "",
 "category": null,
 "group": "Customer service & support",
-"level": "Mid-level / unspecified",
-"region": "Rehovot / Ness Ziona / Yavne",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Deep Learning Researcher",
-"location": "Rehovot, Israel",
-"department": "Research & Development",
-"url": "https://www.comeet.com/jobs/nova/A5.007/deep-learning-researcher/0C.565",
-"posted": "",
-"category": "Data & AI",
 "level": "Mid-level / unspecified",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-23"
@@ -24589,10 +24693,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Okoora": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24680,10 +24784,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Oligo Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24788,10 +24892,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "onebeat": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24808,17 +24912,17 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "OneStep": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Onyx Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24878,10 +24982,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Optibus": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -24910,10 +25014,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orbit Communication Systems": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25069,10 +25173,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orchid Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25089,10 +25193,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Oriient": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25207,10 +25311,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Overwolf": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25261,10 +25365,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "OX Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25302,10 +25406,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "OurCrowd": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25334,10 +25438,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Panorays": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25366,10 +25470,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Pango": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25500,10 +25604,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "PAPAYA": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25635,6 +25739,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "UI/UX Lead",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Art",
+"url": "https://www.comeet.com/jobs/papayagaming/46.00B/ui-ux-lead/CD.578",
+"posted": "",
+"category": "Design & UX",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
 "title": "VP Product",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Product",
@@ -25647,10 +25762,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Papaya Global": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25713,10 +25828,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Paragon": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -25938,10 +26053,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Passportcard": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26123,13 +26238,25 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Pazu": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Brand Design Manager",
+"location": "Yokneam, Israel",
+"department": "Licensing",
+"url": "https://www.comeet.com/jobs/pazu/67.001/brand-design-manager/6E.574",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Commercial Legal Counsel",
 "location": "Yokneam, Israel",
@@ -26167,10 +26294,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Pentera": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26343,10 +26470,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "PI-Cardia": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26398,10 +26525,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Personetics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26495,10 +26622,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "PlainID": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26547,10 +26674,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Port": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26646,10 +26773,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Prisma Photonics": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26698,10 +26825,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "proteanTecs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26827,10 +26954,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Qedma": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26879,10 +27006,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Protai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26921,10 +27048,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Qodo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26963,10 +27090,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Quality Score": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -26995,10 +27122,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Quicklizard": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -27038,10 +27165,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Quantum Machines": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -27156,18 +27283,6 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
-},
-{
-"title": "Logistics Coordinator",
-"location": "Tel Aviv-Yafo, Israel",
-"department": "Operation",
-"url": "https://www.comeet.com/jobs/quantummachines/D6.000/logistics-coordinator/0B.47E",
-"posted": "",
-"category": null,
-"group": "Operations, logistics & supply chain",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
 },
 {
 "title": "Mechanical Engineer - Test Station Development",
@@ -27315,10 +27430,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DRS RADA TECHNOLOGIES": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -27908,6 +28023,18 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Senior Director of Business Development",
+"location": "Netanya, Israel",
+"department": "Business Development",
+"url": "https://www.comeet.com/jobs/rada/73.009/senior-director-of-business-development/F3.47E",
+"posted": "",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Netanya",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Service Desk Specialist",
 "location": "Be'er Sheva, Israel",
 "department": "IT",
@@ -28069,10 +28196,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "RADCOM": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28088,10 +28215,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rapyd": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28178,10 +28305,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Razor Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28241,10 +28368,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Realplay": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28399,10 +28526,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Reco": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28418,10 +28545,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Reflectiz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28461,10 +28588,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "HR Team": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28493,10 +28620,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Regulus": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28739,10 +28866,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Remedio": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28813,10 +28940,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "riverside.fm": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28842,6 +28969,28 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-26"
+},
+{
+"title": "DevOps Engineer",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Engineering",
+"url": "https://www.comeet.com/jobs/riverside-fm/66.009/devops-engineer/9D.C5F",
+"posted": "",
+"category": "DevOps, cloud & SRE",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Junior Software Engineer",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "Engineering",
+"url": "https://www.comeet.com/jobs/riverside-fm/66.009/junior-software-engineer/9E.571",
+"posted": "",
+"category": "Backend & software engineering",
+"level": "Junior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Senior Marketing Designer",
@@ -28901,10 +29050,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rounds": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -28931,9 +29080,21 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Product Monetization Manager",
+"location": "Tel Aviv, Israel",
+"department": "Growth",
+"url": "https://www.comeet.com/jobs/rounds/59.005/product-monetization-manager/6E.577",
+"posted": "",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Technical Product Manager",
 "location": "Tel Aviv, Israel",
-"department": "Engineering",
+"department": "Product",
 "url": "https://www.comeet.com/jobs/rounds/59.005/technical-product-manager/64.D60",
 "posted": "",
 "category": "Technical product",
@@ -28942,10 +29103,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Samsung Research and Development Center Israel": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29105,10 +29266,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mine": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29135,10 +29296,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ScaleOps": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29486,10 +29647,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ScyllaDB": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29538,10 +29699,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sedric.ai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29579,10 +29740,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Seeking Alpha": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29611,10 +29772,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Seemplicity Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29630,10 +29791,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SENAI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29649,10 +29810,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sensi.AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29701,10 +29862,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sentra": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -29821,10 +29982,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sett": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30085,10 +30246,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Shield": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30115,10 +30276,10 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Shortical": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30134,10 +30295,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Shva": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30175,10 +30336,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Silverfort": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30283,10 +30444,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Skai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30335,10 +30496,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Smart-shooter": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30459,10 +30620,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Skapion": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30567,10 +30728,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SodaStream": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30695,10 +30856,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Solidus Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -30725,10 +30886,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "KPMG": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31162,10 +31323,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SolarEdge": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31495,6 +31656,18 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Subsidiaries Assistant Controller",
+"location": "Herzliya, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/solaredge/71.00A/subsidiaries-assistant-controller/8E.570",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Herzliya",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Technical Service Specialist - Tier 1",
 "location": "Herzliya, Israel",
 "department": "Support - IL",
@@ -31542,10 +31715,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Spines": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31644,10 +31817,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Stampli": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31685,10 +31858,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Start.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31715,10 +31888,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sunflower": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31861,10 +32034,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sunbit": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31937,10 +32110,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Supercom": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31967,10 +32140,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Surecomp": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -31986,10 +32159,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SuperPlay": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32098,6 +32271,18 @@
 "first_seen": "2026-11-26"
 },
 {
+"title": "Office Manger",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "HR",
+"url": "https://www.comeet.com/jobs/superplay/28.003/office-manger/6E.578",
+"posted": "",
+"category": null,
+"group": "Admin & office",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Product Manager",
 "location": "Tel Aviv-Yafo, Israel",
 "department": "Product",
@@ -32132,10 +32317,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sygnia": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32241,10 +32426,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SysAid Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32273,10 +32458,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TailorMed": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32315,10 +32500,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Talent.co": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32382,10 +32567,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Team8": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32835,17 +33020,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Stream Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tenengroup Ltd.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -32909,13 +33094,24 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Terra Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Agentic Intelligence Scientist",
+"location": "Tel Aviv-Yafo, Israel",
+"department": "AI",
+"url": "https://www.comeet.com/jobs/terrasecurity/1B.006/agentic-intelligence-scientist/8E.57B",
+"posted": "",
+"category": "Medtech & life sciences",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Senior Brand Designer-IL",
 "location": "Tel Aviv-Yafo, Israel",
@@ -32951,10 +33147,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tikal": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33003,10 +33199,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Thetaray": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33057,10 +33253,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Toka": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33132,10 +33328,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TopGum": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33186,10 +33382,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TriEye": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33227,10 +33423,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Travel Booster": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33282,10 +33478,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Trullion": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33301,10 +33497,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Trigo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33332,10 +33528,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tufin": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33363,10 +33559,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Truvid": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33395,10 +33591,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ultra": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33427,10 +33623,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Upstream Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33491,10 +33687,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "U.P.PRO": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33545,10 +33741,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Utila": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33608,10 +33804,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Variant": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33649,10 +33845,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Upwind Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33928,10 +34124,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "UVeye": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -33992,10 +34188,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Vectorious Medical Technologies Ltd": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34012,10 +34208,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Vega": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34121,10 +34317,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nagomi Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34151,10 +34347,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Venice": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34192,10 +34388,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "VAST Data": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34667,10 +34863,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Vetric": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34711,10 +34907,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Viber": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34778,10 +34974,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Vi": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34831,10 +35027,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Voyantis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -34872,10 +35068,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Vishay Precision Group": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35101,10 +35297,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "We Ankor": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35142,10 +35338,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Webbing": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35161,10 +35357,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Webselenese": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35205,10 +35401,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Way Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35281,10 +35477,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Webz.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35311,10 +35507,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "WeSki": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35387,10 +35583,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wiliot": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35472,10 +35668,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Faye": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35572,10 +35768,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "WSC Sports": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35603,10 +35799,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Workiz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35634,10 +35830,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Xsight Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35920,10 +36116,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "XTEND": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -35985,10 +36181,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Youappi": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36005,10 +36201,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zencity": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36024,10 +36220,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zero Networks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36110,10 +36306,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zenity": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36239,10 +36435,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zesty": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36270,10 +36466,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ZeroPort": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36314,10 +36510,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ZIM": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36465,10 +36661,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ZyG": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36567,10 +36763,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Demo Company": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36670,10 +36866,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Riskified": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -36908,10 +37104,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wiz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -37219,10 +37415,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Axonius": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -37293,10 +37489,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "JFrog": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -37357,6 +37553,17 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Director of Product Marketing, Governance",
+"location": "Tel Aviv/ Netanya, Israel",
+"department": "Marketing",
+"url": "https://join.jfrog.com/job/?job=8419108&gh_jid=8419108",
+"posted": "2026-11-26",
+"category": "Backend & software engineering",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Director of Solution Engineering, EMEA",
@@ -37532,10 +37739,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cato Networks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -37841,18 +38048,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Senior Video Creator & Producer",
-"location": "Tel Aviv District, Israel",
-"department": "Marketing",
-"url": "https://www.catonetworks.com/careers/careers-post/5007077101?gh_jid=5007077101",
-"posted": "2026-11-22",
-"category": null,
-"group": "Marketing & communications",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Software Architect",
 "location": "Tel Aviv District, Israel",
 "department": "Engineering",
@@ -37866,19 +38061,8 @@
 {
 "title": "Software Engineer",
 "location": "Tel Aviv District, Israel",
-"department": "Engineering - Networking",
-"url": "https://www.catonetworks.com/careers/careers-post/5024653101?gh_jid=5024653101",
-"posted": "2026-11-03",
-"category": "Backend & software engineering",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Software Engineer",
-"location": "Tel Aviv District, Israel",
 "department": "Engineering - SSE",
-"url": "https://www.catonetworks.com/careers/careers-post/5030362101?gh_jid=5030362101",
+"url": "https://www.catonetworks.com/careers/careers-post/5030360101?gh_jid=5030360101",
 "posted": "2026-11-10",
 "category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
@@ -37899,8 +38083,19 @@
 {
 "title": "Software Engineer",
 "location": "Tel Aviv District, Israel",
+"department": "Engineering - Networking",
+"url": "https://www.catonetworks.com/careers/careers-post/5024653101?gh_jid=5024653101",
+"posted": "2026-11-03",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
+},
+{
+"title": "Software Engineer",
+"location": "Tel Aviv District, Israel",
 "department": "Engineering - SSE",
-"url": "https://www.catonetworks.com/careers/careers-post/5030360101?gh_jid=5030360101",
+"url": "https://www.catonetworks.com/careers/careers-post/5030362101?gh_jid=5030362101",
 "posted": "2026-11-10",
 "category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
@@ -37964,10 +38159,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SentinelOne": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -38052,8 +38247,8 @@
 "title": "Senior Software Engineer in Test, Prompt",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "20100 Prompt Product and R&D",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8038687003",
-"posted": "2026-10-26",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8205414003",
+"posted": "2026-11-22",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -38063,8 +38258,8 @@
 "title": "Senior Software Engineer in Test, Prompt",
 "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
 "department": "20100 Prompt Product and R&D",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8205414003",
-"posted": "2026-11-22",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8038687003",
+"posted": "2026-10-26",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -38096,8 +38291,8 @@
 "title": "Staff Data Scientist",
 "location": "Israel",
 "department": "25000 Detection Engineering",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8038775003",
-"posted": "2026-10-28",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8206876003",
+"posted": "2026-11-18",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
@@ -38107,8 +38302,8 @@
 "title": "Staff Data Scientist",
 "location": "Israel",
 "department": "25000 Detection Engineering",
-"url": "https://www.sentinelone.com/jobs/?gh_jid=8206876003",
-"posted": "2026-11-18",
+"url": "https://www.sentinelone.com/jobs/?gh_jid=8038775003",
+"posted": "2026-10-28",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Israel (other / unspecified)",
@@ -38181,10 +38376,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AppsFlyer": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -38473,24 +38668,13 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Taboola": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
-{
-"title": "Algorithm Engineer (RTB)",
-"location": "Tel Aviv, Israel",
-"department": "Products and AI R&D",
-"url": "https://www.taboola.com/careers/job/8081260?gh_jid=8081260",
-"posted": "2026-07-23",
-"category": "Algorithms & research",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
 {
 "title": "Bid Ops Optimization Engineer (Maternity Leave Cover)",
 "location": "Tel Aviv, Israel",
@@ -38525,23 +38709,12 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Senior Algorithm Engineer (RTB)",
+"title": "Senior Product Manager",
 "location": "Tel Aviv, Israel",
-"department": "Products and AI R&D",
-"url": "https://www.taboola.com/careers/job/8064004?gh_jid=8064004",
-"posted": "2026-07-15",
-"category": "Algorithms & research",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Senior Data Scientist",
-"location": "Tel Aviv, Israel",
-"department": "Products and AI R&D",
-"url": "https://www.taboola.com/careers/job/8087797?gh_jid=8087797",
-"posted": "2026-07-26",
-"category": "Data & AI",
+"department": "Advertiser Product Management",
+"url": "https://www.taboola.com/careers/job/8278521?gh_jid=8278521",
+"posted": "2026-10-19",
+"category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -38552,17 +38725,6 @@
 "department": "Advertiser Product Management",
 "url": "https://www.taboola.com/careers/job/8273430?gh_jid=8273430",
 "posted": "2026-10-14",
-"category": "Technical product",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
-},
-{
-"title": "Senior Product Manager",
-"location": "Tel Aviv, Israel",
-"department": "Advertiser Product Management",
-"url": "https://www.taboola.com/careers/job/8278521?gh_jid=8278521",
-"posted": "2026-10-19",
 "category": "Technical product",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -38580,10 +38742,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Similarweb": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -38804,10 +38966,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Gong": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -38935,10 +39097,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Payoneer": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39182,10 +39344,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "HoneyBook": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39213,10 +39375,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lemonade": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39390,18 +39552,6 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "User Acquisition Manager",
-"location": "TLV",
-"department": "Growth",
-"url": "https://jobs.ashbyhq.com/Lemonade/0d702fd8-32aa-4d9a-ba84-bfafdc71c339",
-"posted": "2026-09-06",
-"category": null,
-"group": "Marketing & communications",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Director of Business Technology & AI Ops",
 "location": "TLV",
 "department": "Global Operations",
@@ -39447,10 +39597,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Moon Active": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39639,10 +39789,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Yotpo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39716,10 +39866,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Forter": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39794,10 +39944,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Transmit Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39879,10 +40029,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orca Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39932,10 +40082,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NICE": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -39961,6 +40111,18 @@
 "level": "Lead / manager",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-26"
+},
+{
+"title": "Finance Applications Analyst",
+"location": "Israel - Raanana",
+"department": "Corp Services - Corporate Finance",
+"url": "https://boards.eu.greenhouse.io/nice/jobs/5044893101?gh_jid=5044893101",
+"posted": "2026-11-26",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-27"
 },
 {
 "title": "FP&A Analyst",
@@ -40055,10 +40217,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Via": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40219,10 +40381,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Redis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40249,10 +40411,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "WalkMe": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40357,10 +40519,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Augury": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40376,13 +40538,25 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cloudinary": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Account Manager - (Digital Accounts EMEA)",
+"location": "Israel",
+"department": "Go-To-Market (GTM)",
+"url": "https://jobs.lever.co/cloudinary/b82a7907-b582-4f22-9ba0-9a2506a26e15",
+"posted": "2026-11-26",
+"category": null,
+"group": "Sales & business development",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Customer Success Manager, Enterprise Accounts",
 "location": "Israel",
@@ -40441,10 +40615,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Optimove": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40460,10 +40634,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nanit": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40502,10 +40676,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Apiiro": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40554,17 +40728,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Torq": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cymulate": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40592,10 +40766,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Salt Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40623,10 +40797,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BigID": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40664,10 +40838,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mixtiles": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -40787,10 +40961,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NVIDIA": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -41416,6 +41590,17 @@
 "first_seen": "2026-11-23"
 },
 {
+"title": "Software Engineer, Cloud Platforms",
+"location": "Israel Yokneam",
+"department": "",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Software-Engineer--Cloud-Platforms_JR2025037",
+"posted": "2026-11-27",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Engineering Manager, Network System Validation",
 "location": "Israel Yokneam",
 "department": "",
@@ -41431,7 +41616,7 @@
 "location": "Israel Yokneam",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-Engineer--DOCA-SDK_JR2025266",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
@@ -42051,7 +42236,7 @@
 "location": "Israel Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--BlueField-platform_JR2024932",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -42669,7 +42854,7 @@
 "location": "Israel Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer---Networking-Platforms--Diagnostics-Tools-and-Performance_JR2015633",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -42758,7 +42943,7 @@
 "location": "Israel, Raanana",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-SONiC-Software-Engineer---Python_JR2014087",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
@@ -43800,7 +43985,7 @@
 "location": "Israel, Yokneam",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Director--Software-Engineering---Nvlink-and-Infinband_JR2028590",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Backend & software engineering",
 "level": "Lead / manager",
 "region": "Yokneam / Caesarea / North",
@@ -43811,7 +43996,7 @@
 "location": "Israel, Yokneam",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Opto-Mechanical-Engineer_JR2028293",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Mechanical & manufacturing",
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
@@ -43822,7 +44007,7 @@
 "location": "Israel, Yokneam",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-IC-Packaging-Process-Engineer_JR2028291",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Mechanical & manufacturing",
 "level": "Senior",
 "region": "Yokneam / Caesarea / North",
@@ -44084,6 +44269,30 @@
 "first_seen": "2026-11-26"
 },
 {
+"title": "Senior Material Procurement Manager",
+"location": "Israel, Yokneam",
+"department": "",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Material-Procurement-Manager_JR2030393-1",
+"posted": "2026-11-26",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Lead / manager",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Senior Global Procurement Manager",
+"location": "Israel, Yokneam",
+"department": "",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Global-Procurement-Manager_JR2030392",
+"posted": "2026-11-26",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Lead / manager",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Senior Formal Verification Engineer",
 "location": "Israel, Yokneam",
 "department": "",
@@ -44177,7 +44386,7 @@
 "location": "Israel, Raanana",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Software-Design-Engineer---SONiC-Group_JR2005323",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
@@ -44243,7 +44452,7 @@
 "location": "Israel, Raanana",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Engineer---SONiC-Design-Group_JR2008620",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Chip design & silicon",
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
@@ -44806,7 +45015,7 @@
 "location": "Israel, Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure---Developer-Experience_JR2028822",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -44817,7 +45026,7 @@
 "location": "Israel, Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--AI-Infrastructure_JR2028811",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Data & AI",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -44828,7 +45037,7 @@
 "location": "Israel, Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer--DOCA-HBN_JR2028676",
-"posted": "2026-10-28",
+"posted": "2026-11-27",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -44839,7 +45048,7 @@
 "location": "Israel, Tel Aviv",
 "department": "",
 "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Systems-Software-Engineer_JR2028775",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Backend & software engineering",
 "level": "Senior",
 "region": "Tel Aviv",
@@ -45033,13 +45242,24 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Intel": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Formal Verification Engineer",
+"location": "Israel Haifa",
+"department": "",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Formal-Verification-Engineer_JR0287702",
+"posted": "",
+"category": "Chip design & silicon",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-23"
+},
 {
 "title": "Senior System Validation and Integration Engineer",
 "location": "Israel Jerusalem",
@@ -45061,17 +45281,6 @@
 "level": "Lead / manager",
 "region": "Jerusalem",
 "first_seen": "2026-11-25"
-},
-{
-"title": "Formal Verification Engineer",
-"location": "Israel Haifa",
-"department": "",
-"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Haifa/Formal-Verification-Engineer_JR0287702",
-"posted": "",
-"category": "Chip design & silicon",
-"level": "Mid-level / unspecified",
-"region": "Haifa",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Security Hardware Integration Engineer",
@@ -45182,6 +45391,17 @@
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-26"
+},
+{
+"title": "SOC Functional Validation Engineer",
+"location": "Israel, Jerusalem",
+"department": "",
+"url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Israel-Jerusalem/SOC-Functional-Validation-Engineer_JR0289613",
+"posted": "2026-11-27",
+"category": "Chip design & silicon",
+"level": "Mid-level / unspecified",
+"region": "Jerusalem",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Practical Engineering Student -  Kiryat Gat",
@@ -45346,10 +45566,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Salesforce": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -45523,10 +45743,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "PayPal": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -45553,10 +45773,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Marvell": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -45643,7 +45863,7 @@
 "location": "IL - Petah Tikva",
 "department": "",
 "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/IL---Petah-Tikva/Design-Verification--Intern_2604486",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Chip design & silicon",
 "level": "Student / intern",
 "region": "Petah Tikva",
@@ -45695,10 +45915,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Applied Materials": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -46582,10 +46802,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "KLA": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -46843,17 +47063,6 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "System Integrator, Laser-Based Platforms",
-"location": "Yavne, Israel",
-"department": "",
-"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/System-Integrator--Laser-Based-Platforms_2643272",
-"posted": "2026-11-04",
-"category": "Optics, physics & systems",
-"level": "Mid-level / unspecified",
-"region": "Rehovot / Ness Ziona / Yavne",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Service supply chain planner",
 "location": "Yavne, Israel",
 "department": "",
@@ -46861,18 +47070,6 @@
 "posted": "2026-11-08",
 "category": null,
 "group": "Operations, logistics & supply chain",
-"level": "Mid-level / unspecified",
-"region": "Rehovot / Ness Ziona / Yavne",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Donor Inspector & ATP Operator",
-"location": "Yavne, Israel",
-"department": "",
-"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Donor-Inspector---ATP-Operator_2643342-1",
-"posted": "2026-11-10",
-"category": null,
-"group": "Manufacturing & production",
 "level": "Mid-level / unspecified",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-24"
@@ -46990,6 +47187,29 @@
 "level": "Mid-level / unspecified",
 "region": "Rehovot / Ness Ziona / Yavne",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Mechanical NPI Engineer",
+"location": "Yavne, Israel",
+"department": "",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Mechanical-NPI-Engineer_2643975-1",
+"posted": "2026-11-26",
+"category": "Mechanical & manufacturing",
+"level": "Mid-level / unspecified",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Electrical Technician & Assembly",
+"location": "Yavne, Israel",
+"department": "",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Yavne-Israel/Electrical-Technician---Assembly_2643878-1",
+"posted": "2026-11-26",
+"category": null,
+"group": "Marketing & communications",
+"level": "Mid-level / unspecified",
+"region": "Rehovot / Ness Ziona / Yavne",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Regional Trade Compliance Program Manager",
@@ -47572,12 +47792,24 @@
 "level": "Mid-level / unspecified",
 "region": "Yokneam / Caesarea / North",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Material Planner",
+"location": "Migdal Ha'emek, Israel",
+"department": "",
+"url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Migdal-Haemek-Israel/Material-Planner_2643733-2",
+"posted": "2026-11-26",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Mid-level / unspecified",
+"region": "Yokneam / Caesarea / North",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Motorola Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -47638,12 +47870,12 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Android App Developer",
+"title": "SW Developer",
 "location": "Tel Aviv, Israel (ZIL87)",
 "department": "",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Tel-Aviv-Israel-ZIL87/Android-App-Developer_R66324",
-"posted": "2026-11-19",
-"category": "Mobile",
+"posted": "2026-11-26",
+"category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
@@ -47660,11 +47892,11 @@
 "first_seen": "2026-11-23"
 },
 {
-"title": "Hardware Engineer",
+"title": "RF Engineer",
 "location": "Tel Aviv, Israel (ZIL87)",
 "department": "",
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Tel-Aviv-Israel-ZIL87/Hardware-Engineer_R66591",
-"posted": "",
+"posted": "2026-11-27",
 "category": "Electronics & hardware",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
@@ -47750,10 +47982,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Broadcom": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -47814,10 +48046,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "1Password": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -47888,10 +48120,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AIOS (YC W20/S21)": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -47932,10 +48164,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Airwallex": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48000,10 +48232,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "april": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48053,10 +48285,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aquant": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48072,10 +48304,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Arago": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48181,10 +48413,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Artemis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48211,10 +48443,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Beach Bum": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48231,10 +48463,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Camunda": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48261,10 +48493,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Chainalysis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48360,10 +48592,10 @@
 "first_seen": "2026-11-25"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Chalk": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48379,10 +48611,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Crusoe": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48432,10 +48664,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DuckDuckGo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48473,10 +48705,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Finout": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48514,10 +48746,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fundamental": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48599,10 +48831,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fundwell": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48619,10 +48851,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Glow": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48704,10 +48936,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "HUMAN": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48745,10 +48977,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Hypercore Inc.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48765,10 +48997,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "imper.ai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48784,10 +49016,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "irregular": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48927,10 +49159,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ledge": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -48957,10 +49189,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "LILT (Production)": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49048,10 +49280,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Menlo Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49068,10 +49300,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nexxen": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49134,10 +49366,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Oak": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49176,10 +49408,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Omnea": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49208,10 +49440,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "OurRitual": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49249,10 +49481,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Paxos": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49268,10 +49500,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "PointFive": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49355,10 +49587,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Semperis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49431,10 +49663,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Shapes": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49508,10 +49740,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Singular": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49527,10 +49759,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Snappy": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49546,10 +49778,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Snowflake": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49575,12 +49807,36 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Strategic Account Executive - Public Sector",
+"location": "IL-Tel Aviv-MSO",
+"department": "Sales",
+"url": "https://jobs.ashbyhq.com/snowflake/19c0ae0a-ac5d-45b1-8857-724c2ab6fa7e",
+"posted": "2026-11-26",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Account Executive - Expansion",
+"location": "IL-Tel Aviv-MSO",
+"department": "Sales",
+"url": "https://jobs.ashbyhq.com/snowflake/b66fedf3-1202-4ff1-8830-eb92d91b8db8",
+"posted": "2026-11-26",
+"category": null,
+"group": "Sales & business development",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Spacial AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49596,10 +49852,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Stigg": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49626,10 +49882,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sweep": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49657,10 +49913,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TriEdge Investments": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49676,10 +49932,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Unit": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49695,10 +49951,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Voodoo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49715,10 +49971,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zip": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49734,10 +49990,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "accessiBe": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49765,10 +50021,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aligned": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49806,10 +50062,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ASM": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -49850,10 +50106,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Astera Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50267,10 +50523,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "At-Bay": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50297,10 +50553,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AutoDS": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50316,10 +50572,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BeyondTrust": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50346,10 +50602,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Black Duck Software, Inc.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50366,17 +50622,17 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BrainPOP": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Clariness": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50393,10 +50649,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Comet": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50412,10 +50668,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Credible": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50431,10 +50687,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cribl": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50450,10 +50706,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Databricks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50515,10 +50771,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Datadog": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50558,10 +50814,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DoiT": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50601,10 +50857,10 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DRW": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50653,10 +50909,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Duda": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50683,10 +50939,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Elastic": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50702,10 +50958,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Eleos Health": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50811,10 +51067,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "eScribers": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50831,10 +51087,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Faropoint": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50851,10 +51107,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "FeverUp": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50881,10 +51137,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Figma": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -50923,10 +51179,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fireblocks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51010,10 +51266,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "First Connect Insurance": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51040,17 +51296,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "GenScript/ProBio": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "GitLab": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51132,10 +51388,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Grafana Labs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51151,10 +51407,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Guardz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51170,10 +51426,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Hello Heart": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51222,10 +51478,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Honeycomb Insurance": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51252,10 +51508,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "instacart": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51282,10 +51538,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Invisible Agency": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51301,10 +51557,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "jamf": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51320,10 +51576,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "K Health": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51350,10 +51606,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Metropolis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51370,10 +51626,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "mongodb": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51447,12 +51703,23 @@
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Senior Solutions Architect",
+"location": "Tel Aviv",
+"department": "Solutions Architecture, Growth EMEA",
+"url": "https://www.mongodb.com/careers/job/?gh_jid=8419294",
+"posted": "2026-11-27",
+"category": "Technical sales & solutions",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "myheritage": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51538,10 +51805,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nebius": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -51695,6 +51962,17 @@
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-23"
+},
+{
+"title": "Security Compliance Coordinator",
+"location": "Tel Aviv, Israel",
+"department": "Security GRC",
+"url": "https://careers.nebius.com/?gh_jid=4997919101",
+"posted": "2026-10-08",
+"category": "Security: network, cloud & SOC",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Security Engineering Lead",
@@ -51963,10 +52241,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Next Insurance": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52027,10 +52305,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nift": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52057,17 +52335,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "obligo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "okta": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52094,10 +52372,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "pagayais": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52191,10 +52469,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Pendo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52232,10 +52510,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ping Identity": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52284,10 +52562,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Pontera": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52303,10 +52581,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "QuantHealth": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52335,10 +52613,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rubrik Job Board": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52354,10 +52632,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "safebreach": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52373,10 +52651,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sayari": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52392,10 +52670,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Scopely": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52412,10 +52690,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Soho House & Co.": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52492,10 +52770,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "airSlate": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52535,10 +52813,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Aleph": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52567,10 +52845,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ControlUp": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -52598,15 +52876,15 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cye": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
 {
-"title": "Communications Project Manager",
+"title": "Communications Project Manager - Maternity Leave Replacement",
 "location": "Herzliya, Israel",
 "department": "Marketing",
 "url": "https://jobs.lever.co/CYE/89a45913-8214-4647-9210-04f243901401",
@@ -52697,10 +52975,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "D-Fend Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53009,10 +53287,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Houzz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53050,10 +53328,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "IDT": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53069,10 +53347,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Jobgether": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53123,18 +53401,6 @@
 "first_seen": "2026-11-26"
 },
 {
-"title": "Creative Program Manager",
-"location": "Israel",
-"department": "Project Management",
-"url": "https://jobs.lever.co/jobgether/02093c7d-f87c-4d5e-ad6b-83989dd717fd",
-"posted": "2026-11-19",
-"category": null,
-"group": "Other",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Data Analyst, Identification Accuracy",
 "location": "Israel",
 "department": "Analyst",
@@ -53157,16 +53423,15 @@
 "first_seen": "2026-11-26"
 },
 {
-"title": "Growth Marketing Specialist",
+"title": "Engineering Productivity Engineer",
 "location": "Israel",
-"department": "Marketing",
-"url": "https://jobs.lever.co/jobgether/b8e2d6da-a310-4df3-a0df-bf2b7f2845b4",
-"posted": "2026-11-19",
-"category": null,
-"group": "Marketing & communications",
+"department": "IT",
+"url": "https://jobs.lever.co/jobgether/a8715c20-8a65-471a-b0c8-5a587d603b91",
+"posted": "2026-11-27",
+"category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
 "region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
+"first_seen": "2026-11-27"
 },
 {
 "title": "Head of Customer Support",
@@ -53179,6 +53444,18 @@
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-26"
+},
+{
+"title": "Head of Marketing (Skill Games App)",
+"location": "Israel",
+"department": "Marketing",
+"url": "https://jobs.lever.co/jobgether/87847f62-9e62-454e-83df-b462bcf79800",
+"posted": "2026-11-27",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Head of Partnerships - EMEA & APAC",
@@ -53241,6 +53518,30 @@
 "first_seen": "2026-11-25"
 },
 {
+"title": "Head of Strategic Finance",
+"location": "Israel",
+"department": "Finance",
+"url": "https://jobs.lever.co/jobgether/8d2ad884-0f51-4bb8-9101-f65390e64b3c",
+"posted": "2026-11-27",
+"category": null,
+"group": "Finance & accounting",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Head of Trading Desk Platform (C++)",
+"location": "Israel",
+"department": "IT",
+"url": "https://jobs.lever.co/jobgether/714f098e-9000-4341-85e3-dc95c88fd4a5",
+"posted": "2026-11-27",
+"category": null,
+"group": "Management",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Human Resources Director | Head Office",
 "location": "Israel",
 "department": "Human Resources",
@@ -53251,6 +53552,18 @@
 "level": "Lead / manager",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-25"
+},
+{
+"title": "Marketing Science Lead",
+"location": "Israel",
+"department": "Marketing",
+"url": "https://jobs.lever.co/jobgether/d560a3b1-8800-46e4-807b-07dd4d12dd6e",
+"posted": "2026-11-27",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Non-Executive Director (Cyprus)",
@@ -53297,6 +53610,18 @@
 "level": "Mid-level / unspecified",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-25"
+},
+{
+"title": "Revenue Operations Manager",
+"location": "Israel",
+"department": "Finance",
+"url": "https://jobs.lever.co/jobgether/7d5b4ce4-173d-4f84-b379-4bbed0eadb34",
+"posted": "2026-11-27",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Senior Accounts Receivable Specialist",
@@ -53381,6 +53706,18 @@
 "first_seen": "2026-11-25"
 },
 {
+"title": "Senior Manager, Content & Brand",
+"location": "Israel",
+"department": "Marketing",
+"url": "https://jobs.lever.co/jobgether/71bd73f4-6efd-4e0c-9e58-f70d7f28bc2a",
+"posted": "2026-11-27",
+"category": null,
+"group": "Marketing & communications",
+"level": "Lead / manager",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Senior Software Engineer, Bot Detection (Client-Side & Signals)",
 "location": "Israel",
 "department": "IT",
@@ -53388,18 +53725,6 @@
 "posted": "2026-11-24",
 "category": "Backend & software engineering",
 "level": "Senior",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Showrunner - Storyby",
-"location": "Israel",
-"department": "Marketing",
-"url": "https://jobs.lever.co/jobgether/49c907dd-db79-425a-9d4d-caf1e0bf86b5",
-"posted": "2026-11-19",
-"category": null,
-"group": "Marketing & communications",
-"level": "Mid-level / unspecified",
 "region": "Israel (other / unspecified)",
 "first_seen": "2026-11-24"
 },
@@ -53415,18 +53740,6 @@
 "first_seen": "2026-11-26"
 },
 {
-"title": "Travel Advisor",
-"location": "Israel",
-"department": "Support",
-"url": "https://jobs.lever.co/jobgether/d3bd3094-a1cf-4392-98ee-7bcf4e2b9b1f",
-"posted": "2026-11-19",
-"category": null,
-"group": "Transport & driving",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
-{
 "title": "VP / Head of E-commerce & Marketing – Paid Advisor",
 "location": "Israel",
 "department": "Marketing",
@@ -53439,10 +53752,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lendbuzz": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53469,17 +53782,17 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Lever Implementation Training Environment": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Logz.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53507,10 +53820,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mythic": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53526,10 +53839,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Oktopost": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53556,10 +53869,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Parallel Wireless": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53800,10 +54113,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "RWS TrainAI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53831,10 +54144,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Terrific": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53851,10 +54164,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tonkean": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53870,10 +54183,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TowardJobs": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -53914,10 +54227,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TSMG": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54003,10 +54316,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Welo Global": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54069,10 +54382,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wing Assistant": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54089,10 +54402,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Z1 Tech": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54109,10 +54422,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wix": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54193,17 +54506,6 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
-},
-{
-"title": "Full stack organic growth marketer",
-"location": "Tel Aviv, IL",
-"department": "",
-"url": "https://jobs.smartrecruiters.com/Wix2/744000163407916",
-"posted": "2026-11-24",
-"category": "Frontend & full stack",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-23"
 },
 {
 "title": "Product Manager - Base44",
@@ -54570,10 +54872,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Armis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54600,10 +54902,10 @@
 "first_seen": "2026-11-23"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Autodesk": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54630,10 +54932,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bluevine": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54671,10 +54973,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bringg": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54691,10 +54993,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cadence": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -54732,10 +55034,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Cisco": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -55303,10 +55605,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Datarails": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -55356,13 +55658,60 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "GE HealthCare": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Payroll Specialist Israel",
+"location": "Haifa HEALTHCARE HA IL 2",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Payroll-Specialist-Israel_R4050176-1",
+"posted": "2026-11-26",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Clinical AI Scientist",
+"location": "Haifa HEALTHCARE HA IL 2",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Clinical-AI-Scientist_R4050062-1",
+"posted": "2026-11-26",
+"category": "Data & AI",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Documentation Engineer",
+"location": "Haifa HEALTHCARE HA IL 2",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Documentation-Engineer_R4050009-1",
+"posted": "2026-11-26",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Lead Service Integrator",
+"location": "Haifa HEALTHCARE HA IL 2",
+"department": "",
+"url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Lead-Service-Integrator_R4049962-1",
+"posted": "2026-11-26",
+"category": null,
+"group": "Other",
+"level": "Lead / manager",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Sr Staff AI Platform Architect",
 "location": "Haifa HEALTHCARE HA IL 2",
@@ -55727,10 +56076,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "HP": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -55857,7 +56206,7 @@
 "location": "Ness Ziona, Center District, Israel",
 "department": "",
 "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Ness-Ziona-Center-District-Israel/Product-Marketing-Manager_3165153-1",
-"posted": "2026-10-27",
+"posted": "",
 "category": null,
 "group": "Marketing & communications",
 "level": "Lead / manager",
@@ -55911,10 +56260,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Johnson & Johnson (Biosense Webster)": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -56222,10 +56571,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mastercard": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -56241,10 +56590,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Medtronic": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -56324,6 +56673,17 @@
 "level": "Senior",
 "region": "Haifa",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Senior Software Engineer - Data Engineering",
+"location": "Caesarea, Haifa, Israel",
+"department": "",
+"url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Caesarea-Haifa-Israel/Senior-Software-Engineer---Data-Engineering_R81499-1",
+"posted": "2026-11-26",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Haifa",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Quality Program Engineer",
@@ -56480,12 +56840,23 @@
 "level": "Senior",
 "region": "Ra'anana / Kfar Saba / Hod Hasharon",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Senior Algorithm Engineer - Computer Vision & AI",
+"location": "Herzliya, Tel Aviv, Israel",
+"department": "",
+"url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Senior-Algorithm-Engineer---Computer-Vision---AI_R82682-1",
+"posted": "2026-11-26",
+"category": "Data & AI",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Micron": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -56535,10 +56906,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "monday.com": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -56573,17 +56944,6 @@
 "posted": "2026-09-14",
 "category": null,
 "group": "Admin & office",
-"level": "Mid-level / unspecified",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Software Engineer (Harmony)",
-"location": "Tel Aviv",
-"department": "Harmony",
-"url": "https://jobs.ashbyhq.com/monday.com/87b62362-41f4-4db6-8578-f5b8ac8a2a64",
-"posted": "2026-11-15",
-"category": "Backend & software engineering",
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
@@ -57096,12 +57456,23 @@
 "level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Software Engineer (Harmony)",
+"location": "Tel Aviv",
+"department": "Harmony",
+"url": "https://jobs.ashbyhq.com/monday.com/87b62362-41f4-4db6-8578-f5b8ac8a2a64",
+"posted": "2026-11-15",
+"category": "Backend & software engineering",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Navan": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57209,10 +57580,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ness Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57229,10 +57600,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Nielsen": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57270,7 +57641,7 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "NielsenIQ": {
 "checked": "2026-11-25",
@@ -57314,7 +57685,7 @@
 "last_ok": "2026-11-25"
 },
 "Philips": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57408,12 +57779,34 @@
 "level": "Mid-level / unspecified",
 "region": "Haifa",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Regulatory Affairs Specialist",
+"location": "Haifa",
+"department": "",
+"url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/Regulatory-Affairs-Specialist_595113",
+"posted": "2026-11-26",
+"category": "Medtech & life sciences",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Software Verification Engineer",
+"location": "Haifa",
+"department": "",
+"url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Haifa/SW-Verification-Engineer_594717-1",
+"posted": "2026-11-26",
+"category": "Chip design & silicon",
+"level": "Mid-level / unspecified",
+"region": "Haifa",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Placer.ai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57451,13 +57844,25 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Red Hat": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Cloud Consultant - Openshift",
+"location": "Raanana",
+"department": "",
+"url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Raanana/Cloud-Consultant---Openshift_R-055393-2",
+"posted": "2026-11-27",
+"category": null,
+"group": "Other",
+"level": "Mid-level / unspecified",
+"region": "Ra'anana / Kfar Saba / Hod Hasharon",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Senior AI Solutions Consultant – Red Hat Consulting",
 "location": "Raanana",
@@ -57481,10 +57886,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sisense": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57501,10 +57906,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Sweet Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57532,13 +57937,25 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Thermo Fisher Scientific": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Operations Intern",
+"location": "Rosh Pina, Israel",
+"department": "",
+"url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Rosh-Pina-Israel/Operations-Intern_R-01373991",
+"posted": "2026-11-26",
+"category": null,
+"group": "Operations, logistics & supply chain",
+"level": "Student / intern",
+"region": "Israel (other / unspecified)",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Application Scientist -Chromatography and Mass Spectrometry",
 "location": "Remote, Israel",
@@ -57645,10 +58062,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Token Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57664,10 +58081,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Verifone": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57696,10 +58113,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Viz.ai": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57770,10 +58187,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zscaler": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57800,10 +58217,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "3Dsellers": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57820,10 +58237,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Abbott": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57921,17 +58338,17 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Accenture": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Alta": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -57994,10 +58411,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "AstraZeneca": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58026,17 +58443,17 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Avery Dennison": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BlueGreen Water Technologies": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58077,10 +58494,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bond Sports": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58107,10 +58524,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "BrandShield": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58139,10 +58556,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Bulwarx": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58183,10 +58600,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Canditech": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58224,10 +58641,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Ceragon Networks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58241,6 +58658,18 @@
 "level": "Lead / manager",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Bookkeeper",
+"location": "Rosh Ha'ayin, Israel",
+"department": "Finance",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/bookkeeper/2E.57D",
+"posted": "",
+"category": null,
+"group": "Finance & accounting",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Controller",
@@ -58265,6 +58694,17 @@
 "level": "Mid-level / unspecified",
 "region": "Airport City / Or Yehuda / Lod / Modi'in",
 "first_seen": "2026-11-24"
+},
+{
+"title": "HW Board Design Engineer",
+"location": "Rosh Ha'ayin, Israel",
+"department": "R&D",
+"url": "https://www.comeet.com/jobs/Ceragon/D3.003/hw-board-design-engineer/6E.575",
+"posted": "",
+"category": "Electronics & hardware",
+"level": "Mid-level / unspecified",
+"region": "Airport City / Or Yehuda / Lod / Modi'in",
+"first_seen": "2026-11-27"
 },
 {
 "title": "Letter of Credit  assistant- Part Time",
@@ -58323,10 +58763,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Chamelio": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58433,10 +58873,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Coinbase Israel": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58452,10 +58892,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Como": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58482,10 +58922,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Connecteam": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58681,10 +59121,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Crowdstrike Israel R D": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58766,24 +59206,12 @@
 "level": "Mid-level / unspecified",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
-},
-{
-"title": "Manager, Workplaces Services",
-"location": "Israel - Tel Aviv",
-"department": "",
-"url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Israel---Tel-Aviv/Manager--Workplaces-Services_R30048",
-"posted": "",
-"category": null,
-"group": "Other",
-"level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Danaher": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58811,17 +59239,17 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DavidShield": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "DoubleVerify": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58848,10 +59276,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Electreon": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58879,10 +59307,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Empathy": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58943,10 +59371,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "F5 Networks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -58963,10 +59391,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Fairtility": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59027,10 +59455,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "FirstPoint Mobile Guard": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59047,25 +59475,13 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Flex": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
-{
-"title": "Program Administrator",
-"location": "Israel, Migdal Ha-Emek",
-"department": "",
-"url": "https://flextronics.wd1.myworkdayjobs.com/en-US/Careers/job/Israel-Migdal-Ha-Emek/Program-Administrator_WD232332",
-"posted": "2026-11-23",
-"category": null,
-"group": "Admin & office",
-"level": "Mid-level / unspecified",
-"region": "Israel (other / unspecified)",
-"first_seen": "2026-11-24"
-},
 {
 "title": "FP&A",
 "location": "Israel, Migdal Ha-Emek",
@@ -59193,10 +59609,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Genesys": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59212,10 +59628,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Guidde": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59266,10 +59682,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "INCRMNTAL": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59319,10 +59735,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Jifiti": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59339,10 +59755,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Jiga": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59359,10 +59775,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Loora": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59403,10 +59819,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "LSports": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59490,10 +59906,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mend.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59545,24 +59961,13 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Merck & Co. (MSD)": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
-{
-"title": "Brand & Customer Product Manager",
-"location": "ISR - Central District of Israel - Hod Hasharon",
-"department": "",
-"url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Brand---Customer-Product-Manager_R424425-1",
-"posted": "2026-11-24",
-"category": "Technical product",
-"level": "Mid-level / unspecified",
-"region": "Ra'anana / Kfar Saba / Hod Hasharon",
-"first_seen": "2026-11-24"
-},
 {
 "title": "Vaccines & Infectious Diseases Market Access Lead",
 "location": "ISR - Central District of Israel - Hod Hasharon",
@@ -59610,10 +60015,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Mobbo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59629,10 +60034,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Novartis": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59693,10 +60098,10 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orca AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -59723,20 +60128,54 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Orpak Systems": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Palo Alto Networks": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
+{
+"title": "Principal/ Senior Principal Software Engineer- Data Pipelines (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal--Senior-Principal-Software-Engineer---Cortex-Detection-team_JR-018306",
+"posted": "2026-11-26",
+"category": "Backend & software engineering",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Principal/Sr. Principal Security Researcher -  LLM Agents",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Sr-Principal-Security-Researcher----LLM-Agents_JR-024363",
+"posted": "2026-11-26",
+"category": "Security: research & offensive",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
+"title": "Principal Product Analyst (Cortex)",
+"location": "Office - Israel - Tel Aviv",
+"department": "",
+"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Product-Analyst--Cortex-XDR-_JR-019918",
+"posted": "2026-11-26",
+"category": null,
+"group": "Other",
+"level": "Senior",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
 {
 "title": "Sr Staff Engineer Software (Secrets Rotation Service - Idira)",
 "location": "Office - Israel - Petach Tikva",
@@ -60283,22 +60722,11 @@
 "first_seen": "2026-11-24"
 },
 {
-"title": "Principal Engineer Software - Unified Asset Inventory(Cortex)",
-"location": "Office - Israel - Tel Aviv",
-"department": "",
-"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Principal-Engineer-Software---Unified-Asset-Inventory-Cortex-_JR-023380",
-"posted": "2026-10-28",
-"category": "Backend & software engineering",
-"level": "Senior",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
 "title": "Senior Staff Software Engineer (Secure Agentic AI - Be'er Sheva)",
 "location": "Office - Israel - Be'er Sheva",
 "department": "",
 "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Beer-Sheva/Senior-Staff-Software-Engineer--Secure-Agentic-AI---Be-er-Sheva-_JR-018092",
-"posted": "2026-10-27",
+"posted": "",
 "category": "Security: application & product",
 "level": "Senior",
 "region": "South (Be'er Sheva / Kiryat Gat / Ashdod)",
@@ -60480,17 +60908,6 @@
 "category": null,
 "group": "Marketing & communications",
 "level": "Lead / manager",
-"region": "Tel Aviv",
-"first_seen": "2026-11-24"
-},
-{
-"title": "Senior Software Engineer - Data Pipelines (Cortex)",
-"location": "Office - Israel - Tel Aviv",
-"department": "",
-"url": "https://paloaltonetworks.wd5.myworkdayjobs.com/en-US/panwexternalcareers/job/Office---Israel---Tel-Aviv/Senior-Software-Engineer---Data-Pipelines--Cortex-_JR-022570",
-"posted": "",
-"category": "Backend & software engineering",
-"level": "Senior",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
 },
@@ -60946,10 +61363,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Paradox": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -60998,10 +61415,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Qmarkets": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61029,10 +61446,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rapydo": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61059,10 +61476,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Resident Home": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61144,10 +61561,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Rise": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61230,10 +61647,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Roche": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61250,10 +61667,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Roundforest": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61270,10 +61687,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SailPoint": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61289,10 +61706,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SciPlay": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61376,19 +61793,30 @@
 "level": "Lead / manager",
 "region": "Tel Aviv",
 "first_seen": "2026-11-24"
+},
+{
+"title": "Advanced Systems Engineer",
+"location": "ISRAEL-Tel Aviv-2A Jabotinsky",
+"department": "",
+"url": "https://lnw.wd5.myworkdayjobs.com/en-US/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Advanced-Systems-Engineer_R322930",
+"posted": "2026-11-27",
+"category": "Optics, physics & systems",
+"level": "Mid-level / unspecified",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "SeatPick": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Simply": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61438,6 +61866,18 @@
 "first_seen": "2026-11-24"
 },
 {
+"title": "Head of Organic",
+"location": "Tel Aviv-Yafo",
+"department": "Marketing",
+"url": "https://jobs.ashbyhq.com/simply/beb71e1c-b185-4813-b76d-8b9bd3f2df89",
+"posted": "2026-11-26",
+"category": null,
+"group": "Management",
+"level": "Lead / manager",
+"region": "Tel Aviv",
+"first_seen": "2026-11-27"
+},
+{
 "title": "Senior Data Engineer",
 "location": "Tel Aviv-Yafo",
 "department": "Data",
@@ -61460,10 +61900,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Slauth.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61480,10 +61920,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Spotlock": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61499,10 +61939,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "TA9": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61518,10 +61958,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tenable": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61582,10 +62022,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Tomorrow.io": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61601,10 +62041,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wand AI": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61620,10 +62060,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Waterfall Security Solutions": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -61676,10 +62116,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Wolt": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -62260,10 +62700,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "WorldQuant": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -62302,10 +62742,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "Zafran Security": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -62455,10 +62895,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "ZOLL Medical": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -62553,10 +62993,10 @@
 "first_seen": "2026-11-24"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 },
 "MKS Instruments": {
-"checked": "2026-11-26",
+"checked": "2026-11-27",
 "error": null,
 "searched": "",
 "jobs": [
@@ -62832,7 +63272,7 @@
 "first_seen": "2026-11-26"
 }
 ],
-"last_ok": "2026-11-26"
+"last_ok": "2026-11-27"
 }
 }
 }

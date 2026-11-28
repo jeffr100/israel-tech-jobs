@@ -1,5 +1,69 @@
 [
 {
+"date": "2026-11-28",
+"added": 4,
+"removed": 7,
+"added_jobs": [
+{
+"company": "NVIDIA",
+"title": "Principal Data Analytics and Machine Learning Engineer",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Principal-Data-Analytics-and-Machine-Learning-Engineer_JR2029286"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Infrastructure ME Test Board Manager",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Infrastructure-ME-Test-Board-Manager_JR2030145"
+},
+{
+"company": "NVIDIA",
+"title": "Senior Business Solution Architect - PLM",
+"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Business-Solution-Architect---PLM_JR2030222-1"
+},
+{
+"company": "Wix",
+"title": "Social Media Specialist AI, Tech & Brand – Student",
+"url": "https://jobs.smartrecruiters.com/Wix2/744000164124159"
+}
+],
+"removed_jobs": [
+{
+"company": "Cellebrite",
+"title": "Global Talent Acquisition Partner, Labs",
+"url": "https://www.comeet.com/jobs/cellebrite/C3.00F/global-talent-acquisition-partner-labs/64.47A"
+},
+{
+"company": "DuckDuckGo",
+"title": "Senior Web Compatibility Engineer",
+"url": "https://jobs.ashbyhq.com/duck-duck-go/d02d7598-141b-4a84-bdf6-46677da89b08"
+},
+{
+"company": "Fundamental",
+"title": "MLOps Team Lead",
+"url": "https://jobs.ashbyhq.com/fundamental/48f0baea-855c-49a1-b442-5869cd125398"
+},
+{
+"company": "Jobgether",
+"title": "Business Development Manager – Gaming / iGaming Outsourcing",
+"url": "https://jobs.lever.co/jobgether/6668ae7c-624f-4d36-9514-f01e2863bd6b"
+},
+{
+"company": "Jobgether",
+"title": "Senior Accounts Receivable Specialist",
+"url": "https://jobs.lever.co/jobgether/513afa9c-50a9-413a-9a7c-c80580f5057e"
+},
+{
+"company": "Jobgether",
+"title": "Senior AI Engineer (Internal Tools & Agents)",
+"url": "https://jobs.lever.co/jobgether/8e2ab99e-a635-4d87-b99b-d4ef76606ce6"
+},
+{
+"company": "SuperPlay",
+"title": "Office Manger",
+"url": "https://www.comeet.com/jobs/superplay/28.003/office-manger/6E.578"
+}
+]
+},
+{
 "date": "2026-11-27",
 "added": 63,
 "removed": 25,
